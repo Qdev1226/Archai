@@ -1,0 +1,207 @@
+/* Body background on everything but Elementor / WooCommerce */
+body:not(.woocommerce-page):not(.elementor-page) {
+	background-color:var(--business-chat-background-elements);
+}
+
+/*nav */
+
+body:not(.woocommerce-page):not(.elementor-page) .top-nav-wrapper,
+body:not(.woocommerce-page):not(.elementor-page) .super-menu {
+	background-color:var(--business-chat-background);
+	border-bottom:0px solid #fff;
+}
+
+body:not(.woocommerce-page):not(.elementor-page) #smobile-menu .top-nav-wrapper{
+	background-color:var(--business-chat-background);
+}
+
+/* Box: Blog */
+body:not(.woocommerce-page) .all-blog-articles article {
+	background-color:var(--business-chat-background);
+}
+body:not(.woocommerce-page) .all-blog-articles article .content-wrapper {
+	padding:var(--boxed-padding-large);
+}
+body:not(.woocommerce-page) .all-blog-articles article.sticky:not(.has-post-thumbnail) .content-wrapper {
+	padding-top:var(--boxed-padding-medium);
+}
+body:not(.woocommerce-page):not(.elementor-page) .all-blog-articles .blogpost-is-sticky-icon:not(.blogpost-is-sticky-icon-has-featured-image) {
+	margin-top:var(--boxed-padding-large);
+	margin-left:var(--boxed-padding-large);
+}
+body:not(.woocommerce-page) article.blogposts-list {
+    margin-bottom: 20px;
+}
+body:not(.woocommerce-page) .all-blog-articles .read-story {
+	margin-top:40px;
+}
+
+body:not(.woocommerce-page) .add-blog-to-sidebar .all-blog-articles .blogposts-list {
+	border-radius: var(--business-chat-element-border-radius);
+}
+
+/* Box: Sidebar */
+body:not(.woocommerce-page):not(.elementor-page) #secondary.blog-sidebar-wrapper {
+	padding:var(--boxed-padding-large);
+	background-color:var(--business-chat-background);
+	border-radius: var(--business-chat-element-border-radius);
+}
+body:not(.woocommerce-page):not(.elementor-page) #secondary.blog-sidebar-wrapper .widget_search {
+	background:rgba(0,0,0,0);
+	padding:0px;
+}
+body:not(.woocommerce-page):not(.elementor-page) #secondary.blog-sidebar-wrapper .widget_search input[type="search"] {
+	background-color:var(--business-chat-light-2);
+}
+
+/* Box: Page & Posts */
+
+body:not(.woocommerce-page):not(.elementor-page).single .site-main .posts-entry,
+body:not(.woocommerce-page):not(.elementor-page).page .site-main .posts-entry {
+	padding:var(--boxed-padding-large);
+	background-color:var(--business-chat-background);
+	border-radius: var(--business-chat-element-border-radius);
+}
+
+body:not(.woocommerce-page):not(.elementor-page).single .featured-thumbnail-cropped,
+body:not(.woocommerce-page):not(.elementor-page).page .featured-thumbnail-cropped {
+	background-color:var(--business-chat-background);
+	padding-bottom:0px;
+	margin-bottom:0px;
+}
+
+body:not(.woocommerce-page):not(.elementor-page) #primary .about-the-author {
+	background-color:var(--business-chat-background);	
+	border-radius: var(--business-chat-element-border-radius);
+	padding:var(--boxed-padding-large);	
+}
+body:not(.woocommerce-page):not(.elementor-page).single .comment-respond,
+body:not(.woocommerce-page):not(.elementor-page).page .comment-respond {
+	padding:var(--boxed-padding-large);	
+}
+body:not(.woocommerce-page):not(.elementor-page) .related-posts {
+	background-color:var(--business-chat-background);	
+	border-radius: var(--business-chat-element-border-radius);
+	padding:var(--boxed-padding-large);	
+}
+
+body:not(.woocommerce-page):not(.elementor-page).single .related-posts .posts-entry,
+body:not(.woocommerce-page):not(.elementor-page).page .related-posts .posts-entry {
+	padding:0px !important;
+}
+
+body:not(.woocommerce-page):not(.elementor-page).single #comments.comments-area .comments-title,
+body:not(.woocommerce-page):not(.elementor-page).page #comments.comments-area .comments-title {
+	margin:0px;
+	background-color:var(--business-chat-background);	
+	padding:var(--boxed-padding-large);	
+	padding-bottom:var(--boxed-padding-small);	
+}
+body:not(.woocommerce-page):not(.elementor-page).single #comments.comments-area .comment-list,
+body:not(.woocommerce-page):not(.elementor-page).page #comments.comments-area .comment-list {
+	margin:0px;
+	background-color:var(--business-chat-background);	
+	padding:var(--boxed-padding-large);	
+	padding-top:var(--boxed-padding-small);	
+	margin-bottom:50px;
+}
+body:not(.woocommerce-page):not(.elementor-page) .comments-area {
+    border-radius:var(--business-chat-element-border-radius);
+    overflow:hidden;
+}
+body:not(.woocommerce-page):not(.elementor-page) #comments.comments-area .comment-list {
+    border-radius: 0px 0px var(--business-chat-element-border-radius) var(--business-chat-element-border-radius);
+}
+.comments-area ol.comment-list > li:last-child {
+    margin-bottom: 0px;
+    padding-bottom:0px;
+}
+
+
+/*
+/*  1200px and down
+*/
+@media screen and (max-width: 1200px) {
+
+	body:not(.woocommerce-page):not(.elementor-page).single #comments.comments-area .comment-list,
+	body:not(.woocommerce-page):not(.elementor-page).page #comments.comments-area .comment-list {
+		padding:var(--boxed-padding-medium);	
+		padding-top:var(--boxed-padding-small);	
+	}
+
+
+	body:not(.woocommerce-page):not(.elementor-page).single #comments.comments-area .comments-title,
+	body:not(.woocommerce-page):not(.elementor-page).page #comments.comments-area .comments-title {
+		padding:var(--boxed-padding-medium);	
+		padding-bottom:var(--boxed-padding-small);	
+	}
+
+	body:not(.woocommerce-page) .all-blog-articles article .content-wrapper,
+	body:not(.woocommerce-page):not(.elementor-page).single .site-main .posts-entry,
+	body:not(.woocommerce-page):not(.elementor-page).page .site-main .posts-entry,
+	body:not(.woocommerce-page):not(.elementor-page) #primary .about-the-author,
+	body:not(.woocommerce-page):not(.elementor-page).single .related-posts,
+	body:not(.woocommerce-page):not(.elementor-page).page .related-posts,
+	body:not(.woocommerce-page):not(.elementor-page) .comment-respond,
+	body:not(.woocommerce-page):not(.elementor-page).single .comment-respond,
+	body:not(.woocommerce-page):not(.elementor-page).page .comment-respond  {
+		padding:var(--boxed-padding-medium);
+	}
+	body:not(.woocommerce-page) .all-blog-articles article.sticky .content-wrapper {
+		padding-top:var(--boxed-padding-small);
+	}
+
+	body:not(.woocommerce-page):not(.elementor-page) .blogpost-is-sticky-icon:not(.blogpost-is-sticky-icon-has-featured-image) {
+		margin-top:var(--boxed-padding-medium);
+		margin-left:var(--boxed-padding-medium);
+	}
+	body:not(.woocommerce-page):not(.elementor-page) #secondary.blog-sidebar-wrapper {
+		padding:var(--boxed-padding-medium);
+	}
+}
+
+/*
+/*  600px and down
+*/
+
+@media screen and (max-width: 600px) {
+
+	body:not(.woocommerce-page) .all-blog-articles article .content-wrapper,
+	body:not(.woocommerce-page):not(.elementor-page).single .site-main .posts-entry,
+	body:not(.woocommerce-page):not(.elementor-page).page .site-main .posts-entry,
+	body:not(.woocommerce-page):not(.elementor-page) #primary .about-the-author,
+	body:not(.woocommerce-page):not(.elementor-page).single .related-posts,
+	body:not(.woocommerce-page):not(.elementor-page).page .related-posts,
+	body:not(.woocommerce-page):not(.elementor-page) .comment-respond,
+	body:not(.woocommerce-page):not(.elementor-page).single .comment-respond,
+	body:not(.woocommerce-page):not(.elementor-page).page .comment-respond  {
+		padding:var(--boxed-padding-small);
+	}
+
+	body:not(.woocommerce-page):not(.elementor-page).single #comments.comments-area .comments-title,
+	body:not(.woocommerce-page):not(.elementor-page).page #comments.comments-area .comments-title {
+		padding:var(--boxed-padding-small);	
+		padding-bottom:var(--boxed-padding-small);	
+	}
+
+	body:not(.woocommerce-page):not(.elementor-page).single #comments.comments-area .comment-list,
+	body:not(.woocommerce-page):not(.elementor-page).page #comments.comments-area .comment-list {
+		padding:var(--boxed-padding-small);	
+		padding-top:var(--boxed-padding-small);	
+	}
+
+	body:not(.woocommerce-page) .all-blog-articles article .content-wrapper {
+		padding:var(--boxed-padding-small);
+	}
+	body:not(.woocommerce-page) .all-blog-articles article.sticky .content-wrapper {
+		padding-top:var(--boxed-padding-small);
+	}
+
+	body:not(.woocommerce-page):not(.elementor-page) .blogpost-is-sticky-icon:not(.blogpost-is-sticky-icon-has-featured-image) {
+		margin-top:var(--boxed-padding-small);
+		margin-left:var(--boxed-padding-small);
+	}
+	body:not(.woocommerce-page):not(.elementor-page) #secondary.blog-sidebar-wrapper {
+		padding:var(--boxed-padding-small);
+	}
+}

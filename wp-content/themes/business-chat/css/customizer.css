@@ -1,0 +1,21 @@
+.superbthemes-customizer-refocus-button-wrapper {
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.superbthemes-customizer-refocus-button-wrapper p {
+    margin: 0;
+}
+
+/* WPTT Radio Image Control */
+.customize-control-radio-image label svg {
+    fill: #d2d2d1;
+    stroke: #d2d2d1;
+}
+
+.customize-control-radio-image .ui-checkboxradio-checked svg {
+    fill: #1ca81c;
+    stroke: #1ca81c;
+}
+/**/

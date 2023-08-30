@@ -1,0 +1,224 @@
+.spt-theme-settings-wrapper {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack:justify;
+	    -ms-flex-pack:justify;
+	        justify-content:space-between;
+max-width: 1340px;
+    margin: 20px auto 20px;
+}
+.spt-theme-settings-wrapper * {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.spt-theme-settings-wrapper-sidebar {
+	width: 100%;
+	max-width: 300px;
+}
+.spt-theme-settings-wrapper-sidebar-item {
+	background: #fff;
+	margin-bottom: 20px;
+}
+.spt-theme-settings-wrapper-sidebar-item-purple {
+	background: #faf9fd;
+}
+
+.spt-theme-settings-wrapper-sidebar-item-header {
+	padding: 20px;
+	font-weight: bold;
+	font-size: 14px;
+	border-bottom: 1px solid #eee;
+}
+.spt-theme-settings-wrapper-sidebar-item-content {
+	padding: 20px;
+}
+.spt-theme-settings-wrapper-sidebar-item-content p {
+	margin: 0 0 20px;
+}
+.spt-theme-settings-wrapper-sidebar-item-content ul {
+	margin: 0;
+}
+.spt-theme-settings-wrapper-sidebar-item-content ul li {
+	margin: 0 0 20px;
+}
+.spt-theme-settings-wrapper-sidebar-item-content ul li:last-of-type {
+	margin-bottom: 0px;
+}
+.spt-theme-settings-wrapper-sidebar-item-content ul li .dashicons {
+	text-decoration: none;
+	margin-right: 10px;
+}
+.spt-theme-settings-wrapper-main-content {
+	max-width:calc(100% - 320px);
+	width: 100%;
+	background: #fff;
+	position: relative; 
+}
+
+.spt-theme-settings-tab .spt-theme-settings-label {
+	padding: 0;
+	display: inline-block;
+	margin-left: -1px; 
+	font-size: 14px;
+	position: relative;
+	font-weight: bold;
+}
+.spt-theme-settings-content-item.spt-theme-settings-content-item-unavailable .spt-theme-settings-content-item-header{
+	text-decoration: none;
+	color: #3c434a;
+}
+.spt-theme-settings-content-item.spt-theme-settings-content-item-unavailable .spt-theme-settings-content-item-header span:first-of-type{
+opacity: 0.5;
+	}
+
+.spt-theme-settings-content-item.spt-theme-settings-content-item-unavailable .spt-theme-settings-content-item-header span:last-of-type {
+    font-size: 11px;
+    background: #6448e7;
+    color: #fff;
+    padding: 3px 10px;
+    margin-left: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: -3px;
+    opacity: 0.6;
+}
+.spt-theme-settings-content-item.spt-theme-settings-content-item-unavailable .spt-theme-settings-content-item-header {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: start;
+	    -ms-flex-align: start;
+	        align-items: flex-start;
+	-webkit-box-pack: justify;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.spt-theme-settings-content-item.spt-theme-settings-content-item-unavailable {
+	text-decoration: none;
+	background: #fff;
+	border: 1px solid #eee;
+}
+
+.spt-theme-settings-content-item.spt-theme-settings-content-item-unavailable .spt-theme-settings-content-item-content {
+	text-decoration: underline;
+	opacity: 0.5;
+}
+
+.spt-theme-settings-tab label[for=tab-1]{
+	/*
+	left: 20px;
+	top: 20px;
+*/
+	padding: 20px;
+}
+
+.spt-theme-settings-tab label[for=tab-2]{
+	left: 160px;
+	top: 20px;
+}
+
+.spt-theme-settings-tab label[for=tab-3]{
+	left: 317px;
+	top: 20px;
+}
+
+/*
+[type=radio]:checked ~ .spt-theme-settings-label {
+	color:#6448e7;
+}
+*/
+.spt-theme-settings-tab [type=radio] {
+	display: none;   
+}
+
+.spt-theme-settings-content {
+	border-top: 1px solid #eee;
+	background: white;
+	padding: 20px;
+	display: inline-block;
+	width: 100%;
+	position: relative;
+}
+[type=radio]:checked ~ .spt-theme-settings-label {
+	background: white;
+}
+/*
+[type=radio] ~ .spt-theme-settings-label ~ .spt-theme-settings-content {
+	display: none;
+}
+[type=radio]:checked ~ .spt-theme-settings-label ~ .spt-theme-settings-content {
+	display: block;
+}
+*/
+.spt-theme-settings-content-item {
+	display: inline-block;
+	padding: 20px;
+	background: #f5f5f7;
+	max-width: 32%;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.spt-theme-settings-content-item-header {
+	font-weight: bold;
+	margin-bottom: 27px;
+	font-size: 13px;
+}
+
+
+.spt-theme-settings-content-getting-started-wrapper {
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+
+@media only screen and (max-width: 1400px) {
+.spt-theme-settings-content-item {
+	max-width: 48%;
+	width: 100%;
+}
+}
+
+@media only screen and (max-width: 1024px) {
+	.spt-theme-settings-wrapper {
+		-ms-flex-wrap: wrap;
+		    flex-wrap: wrap;
+	}
+	.spt-theme-settings-wrapper-main-content {
+		max-width: 100%;
+	}
+	.spt-theme-settings-wrapper-sidebar {
+		width: 100%;
+		max-width: 100%;
+		margin-top: 30px;
+	}
+}
+
+@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1400px) {
+.spt-theme-settings-content-item {
+	max-width: 100%;
+	width: 100%;
+}
+}
+}
+
+@media only screen and (max-width: 600px) {
+
+	.spt-theme-settings-tab label[for=tab-2] {
+		left: 20px;
+		top: 55px;
+	}
+	.spt-theme-settings-tab label[for=tab-3] {
+		left: 20px;
+		top: 90px;
+	}
+}
