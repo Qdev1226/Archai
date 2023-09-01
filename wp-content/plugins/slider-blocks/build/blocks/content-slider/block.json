@@ -1,0 +1,38 @@
+{
+  "apiVersion": 2,
+  "name": "gutsliders/content-slider",
+  "version": "0.1.0",
+  "title": "Content Slider",
+  "category": "gutsliders",
+  "description": "Show custom content in sliding mode.",
+  "supports": {
+    "html": false,
+    "anchor": true,
+    "align": [
+      "wide",
+      "full"
+    ]
+  },
+  "example": {
+    "attributes": {
+      "slides": [
+        {
+          "title": "Slide 1",
+          "description": "Slide 1 description"
+        },
+        {
+          "title": "Slide 2",
+          "description": "Slide 2 description"
+        },
+        {
+          "title": "Slide 3",
+          "description": "Slide 3 description"
+        }
+      ]
+    }
+  },
+  "textdomain": "gutsliders",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

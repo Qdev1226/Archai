@@ -1,0 +1,136 @@
+/* @override http://wptp3.local.com/wp-content/plugins/wptouch-pro/admin/css/wptouch-menu.css?ver=4.0b4 */
+
+.menu-item  .menu-item-settings {
+	z-index: inherit;
+}
+
+.menu-item-settings::after {
+    content: ' ';
+    display: block;
+    clear: both;
+}
+
+.pending .wptouch-menu-icon {
+	display: none;
+}
+
+#icon-picker {
+	display: none;
+	overflow: hidden;
+}
+
+#icon-packs {
+	width: 500px;
+	height: 350px;
+	overflow-y: scroll;
+	padding: 10px;
+	margin: -1px;
+}
+
+#icon-packs li {
+	display: inline-block;
+	margin: 5px;
+}
+
+#icon-packs img {
+	width: 32px;
+	height: 32px;
+	cursor: pointer;
+}
+
+.wptouch-menu-icon a.button.change_icon {
+	cursor: pointer;
+	margin-left: 10px;
+	vertical-align: bottom;
+	position: relative;
+	bottom: 8px;
+}
+
+.wptouch-menu-icon a.remove_icon {
+	cursor: pointer;
+	position: relative;
+	bottom: 12px;
+	margin-left: 10px;
+	font-size: 11px;
+}
+
+.wptouch-menu-icon img.icon-preview {
+	margin-top: 10px;
+}
+
+/* @group Popovers */
+
+.wptouch-popover {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1999;
+	display: none;
+	padding: 1px;
+	background-color: #ffffff;
+	-webkit-background-clip: padding-box;
+	      background-clip: padding-box;
+	border: 1px solid rgba(124,124,124,0.2);
+	border-radius: 6px;
+	-webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+.wptouch-popover.bottom {
+	margin-top: 10px;
+}
+
+#menu-to-edit h3.popover-title {
+	margin: 0;
+	padding: 8px 14px;
+	font-size: 14px;
+	background-color: #f7f7f7;
+	border-bottom: 1px solid #ebebeb;
+	border-radius: 5px 5px 0 0;
+}
+.wptouch-popover .popover-content {
+	margin: 0;
+	padding: 0;
+}
+
+.wptouch-popover > .wptouch-arrow,
+.wptouch-popover > .wptouch-arrow:after {
+	position: absolute;
+	display: block;
+	width: 0;
+	height: 0;
+	border-color: transparent;
+	border-style: solid;
+}
+
+.wptouch-popover > .wptouch-arrow {
+	border-width: 11px;
+}
+
+.wptouch-popover > .wptouch-arrow:after {
+	content: ' ';
+	border-width: 10px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.wptouch-popover.bottom > .wptouch-arrow {
+    top: -11px;
+    left: 50%;
+    margin-left: -11px;
+    border-top-width: 0;
+    border-bottom-color: #999;
+    border-bottom-color: rgba(0,0,0,.25);
+}
+
+.wptouch-popover.bottom > .wptouch-arrow:after {
+    top: 1px;
+    margin-left: -10px;
+    content: " ";
+    border-top-width: 0;
+    border-bottom-color: #fff;
+}
+
+/* @end */
+

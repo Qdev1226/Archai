@@ -1,0 +1,17 @@
+{
+	"name": "gutsliders/slider-blocks",
+	"description": "a custom gutenberg slider blocks plugin",
+	"license": "GPL",
+	"autoload": {
+		"psr-4": {
+			"GutSliders\\": "includes/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Zakaria Binsaifullah",
+			"email": "zbinsaifullah@gmail.com"
+		}
+	],
+	"require": {}
+}

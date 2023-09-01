@@ -1,0 +1,39 @@
+== Installation ==
+
+Installing WPtouch 4 is just like any other WordPress plugin, with the addition of a couple extra steps to activate your upgrade & support license.
+
+= WPtouch 4 Installation Requirements: =
+
+- WordPress 4.0 or later (self-hosted installations only)
+- Administrative access in the WordPress admin
+- Filesystem access
+- PHP 5.4.39 or later
+- MySQL 5 or later
+- WPtouch 1.x - 2.x are not compatible and must be deactivated
+- WPtouch 3.5 or higher is compatible with WPtouch 4, and will be upgraded
+
+= Uploading the Plugin =
+
+You can upload the plugin 1 of 2 ways, via FTP/SFTP/SSH upload or through the WordPress administration panel.
+
+It is strongly recommended for security, installation speed and reliability that you use the WordPress admin to upload WPtouch 4.
+
+= Uploading via the WordPress admin panel: =
+
+1. Visit Plugins->Add New in the admin.
+2. Click 'Upload Plugin' next to the page title at the top of the page.
+3. Select the location of your wptouch-pro.zip in the file uploader input.
+4. Click Upload, and the plugin will be uploaded and installed for you quickly and easily.
+5. You will now be asked if you want to activate the plugin, choose yes.
+
+= Uploading via FTP or SSH =
+
+It is assumed for the purposes of this document that if you choose to upload WPtouch 4 via FTP or SSH that you know how to do so, and are comfortable with the process of configuring permissions, etc.
+
+= Directory and Directory Name =
+
+WPtouch 4 must be installed in a directory called ONLY wptouch-pro in the main WordPress /plugins directory.
+
+= Activate Your License =
+
+Follow the admin wizard to license WPtouch Pro 4. You'll need your account email address and product licence key to activate WPtouch Pro 4 and continue setup.

@@ -1,0 +1,211 @@
+/* WPtouch Admin Styles for RTL languages */
+
+/* @group Global */
+
+ul#adminmenu a.wp-has-current-submenu:after, ul#adminmenu>li.current>a.current:after {
+	display: none;
+}
+
+h2.logo-title {
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	max-width: 950px;
+	line-height: 40px;
+	position: relative;
+}
+
+h2.logo-title img {
+	height: 40px;
+	width: auto;
+	float: right;
+	margin-left: 10px;
+	margin-right: auto;
+}
+
+/* Force Lato */
+
+#wptouch-settings-form * {
+	font-family: 'Lato', 'Open Sans', sans-serif !important;	
+}
+
+#wptouch-settings-content {
+	padding: 45px;
+	margin-left: auto;
+	margin-right: 300px;
+	background-color: #fff;
+	border-right: 1px solid #e7eaed;
+	border-left: none;
+}
+
+.tooltip-arrow {
+	display: none;
+}
+
+/* @end */
+
+/* @group Left Tab Menu */
+
+#wptouch-admin-menu {
+	float: right;
+}
+
+#wptouch-admin-menu h2 {
+	margin-left: auto;
+	margin-right: 25px;
+}
+
+#wptouch-admin-menu ul li:after {
+	position: absolute;
+	bottom: 0;
+	height: 1px;
+	border-bottom: 1px solid #e7eaed;
+	width: 255px;
+	left: 0;
+	right: auto;
+}
+
+#wptouch-admin-menu ul li a:before {
+	margin-right: auto;
+	margin-left: 10px;
+	position: relative;
+	top: -1px;
+	font: 20px/20px 'fontello';
+	padding: 1px;
+	float: right;
+}
+
+#wptouch-admin-menu ul li a:after {
+	content: '\e817';
+	left: 15px;
+	right: auto;
+}
+
+#wptouch-admin-menu a.active:after {
+	border-left: 1px solid #fff;
+	left: -1px;
+	right: auto;
+}
+
+/* @end */
+
+/* @group Sections */
+
+
+.wptouch-section {
+	padding-right: 0;
+	padding-left: auto;
+}
+
+/* @end */
+
+/* @group Checkbox Toggles */
+
+.checkbox-wrap {
+	padding-left: 60px;
+	padding-right: 0;
+}
+
+input.checkbox + label {
+	right: auto;
+	left: 0;
+}
+
+input.checkbox + label:after {
+	top: 2px;
+	right: 2px;
+	left: auto;
+	bottom: 2px;
+	width: 16px;
+	background-color: #fff;
+	border-radius: 20px;
+	transition: margin 0.2s, background 0.2s;
+}
+
+
+input.checkbox:checked + label:after {
+	margin-right: 24px;
+	margin-left: auto;
+	background-color: #fff;
+}
+
+input.checkbox:disabled + label:after {
+	margin-right: 0px;
+	margin-left: auto;
+}
+
+/* @end */
+
+
+/* @group License & Support */
+
+[class*="wptouch-admin-license"] #wptouch-settings-content .wptouch-account table {
+	direction: ltr;
+}
+
+[class*="wptouch-admin-license"] #wptouch-settings-content .wptouch-installation table {
+	direction: rtl;	
+}
+
+.wptouch-support td img {
+	width: 150px;
+	padding: 0;
+	margin-left: 25px;
+}
+
+
+/* @end */
+
+/* @group Themes & Extensions */
+
+#wptouch-settings-content ul.cloud-browser .image-wrapper {
+	margin-right: auto;
+	left: 0;
+}
+
+.inner-section .image-wrapper {
+	left: 0;
+}
+
+
+
+/* @end */
+
+/* @group Updates Available */
+
+#section-updates-available button.update-all {
+	left: 0;
+	right: auto;
+}
+
+#section-updates-available .cloud-update-issue {
+	margin-left: auto;
+	margin-right: -45px;
+}
+
+#section-updates-available div img {
+	float: right;
+	margin-right: auto;
+	margin-left: 12px;
+}
+
+#section-updates-available div span.version {
+	display: inline-block;
+	color: #abb3bd;
+	margin-left: auto;
+	margin-right: 5px;
+}
+
+#section-updates-available .update-version {
+	float: left;
+}
+
+.ajax-install a.button {
+	float: left;
+}
+
+/* @end */
+
+.setting-list, .setting-text, .setting-custom-latest-posts {
+	text-align: left;
+}
