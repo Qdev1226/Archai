@@ -1,0 +1,108 @@
+/* hebrew */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(http://localhost/archai/wp-content/fonts/heebo/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sd0mg7UiCXC5VkK8.woff) format('woff');
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* latin */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(http://localhost/archai/wp-content/fonts/heebo/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmg7UiCXC5V.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(http://localhost/archai/wp-content/fonts/heebo/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSysd0mg7UiCXC5VkK8.woff) format('woff');
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* latin */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(http://localhost/archai/wp-content/fonts/heebo/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSysdUmg7UiCXC5V.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(http://localhost/archai/wp-content/fonts/heebo/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysd0mg7UiCXC5VkK8.woff) format('woff');
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* latin */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(http://localhost/archai/wp-content/fonts/heebo/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmg7UiCXC5V.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(http://localhost/archai/wp-content/fonts/heebo/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysd0mg7UiCXC5VkK8.woff) format('woff');
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* latin */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(http://localhost/archai/wp-content/fonts/heebo/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmg7UiCXC5V.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(http://localhost/archai/wp-content/fonts/heebo/NGSpv5_NC0k9P_v6ZUCbLRAHxK1Euyysd0mg7UiCXC5VkK8.woff) format('woff');
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* latin */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(http://localhost/archai/wp-content/fonts/heebo/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmg7UiCXC5V.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(http://localhost/archai/wp-content/fonts/heebo/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyusd0mg7UiCXC5VkK8.woff) format('woff');
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* latin */
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(http://localhost/archai/wp-content/fonts/heebo/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyusdUmg7UiCXC5V.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}

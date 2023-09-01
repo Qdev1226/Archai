@@ -1,0 +1,18 @@
+#customize-controls .control-section-marketingly .accordion-section-title:hover,
+#customize-controls .control-section-marketingly .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-marketingly .accordion-section-title .button {
+	margin-top: -4px;
+	margin-left: 8px;
+	background: #00BC87;
+	color: #fff;
+	border-color: #00BC87;
+	font-weight: 600;
+}
+
+.rtl .control-section-marketingly .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}

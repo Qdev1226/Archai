@@ -1,0 +1,28 @@
+:root {
+	--ffthemes-blocks: #7C62A3;
+  }
+  
+.block-editor-block-icon svg.ffthemes-blocks-icon {
+	fill: var( --ffthemes-blocks );
+}
+
+.editor-block-list-item-ffthemes-blocks-header-social .dashicon,
+.editor-block-list-item-ffthemes-blocks-header-search .dashicon {
+	color: var( --ffthemes-blocks );
+}
+
+.flexiverse-icons-richtext {
+	border: 1px solid #8c8f94;
+	min-height: 30px;
+	padding-left: 8px;
+	padding-right: 8px;
+	font-size: 16px;
+	line-height: 1.5;
+}
+.swiper-wrapper {
+	min-height: 100px;
+  }
+
+  .components-color-palette__custom-color {
+	height: auto;
+}

@@ -1,0 +1,362 @@
+# Copyright (C) {2022} Firefly Themes
+msgid ""
+msgstr ""
+"Project-Id-Version: JetBlack FSE 1.0.0\n"
+"Report-Msgid-Bugs-To: https://fireflythemes.com/support/\n"
+"POT-Creation-Date: 2022-09-26 07:07:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Firefly Themes <info@fireflythemes.com>\n"
+"Language-Team: Firefly Themes <info@fireflythemes.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: patterns/404.php:10
+msgid "0"
+msgstr ""
+
+#: patterns/404.php:10
+msgid "4"
+msgstr ""
+
+#: functions.php:39
+msgid "Primary Navigation"
+msgstr ""
+
+#: inc/about-admin/templates/admin-plugin-notice.php:10
+msgid "Howdy, Welcome to"
+msgstr ""
+
+#: inc/about-admin/templates/admin-plugin-notice.php:10
+msgid "JetBlack FSE!"
+msgstr ""
+
+#: inc/about-admin/templates/admin-plugin-notice.php:11
+msgid ""
+"Do you know you can get more features in JetBlack FSE? Upgrade to Jetblack "
+"FSE Pro!!!"
+msgstr ""
+
+#: inc/about-admin/templates/admin-plugin-notice.php:12
+msgid "JetBlack FSE Pro Details"
+msgstr ""
+
+#: inc/about-admin/templates/admin-plugin-notice.php:13
+msgid "Learn more about JetBlack FSE Pro Theme"
+msgstr ""
+
+#: inc/about-admin/templates/theme-info.php:18
+msgid "Multipurpose WordPress Full Site Editing Theme"
+msgstr ""
+
+#: inc/about-admin/templates/theme-info.php:31
+#: inc/about-admin/templates/theme-info.php:239
+msgid "Documentation"
+msgstr ""
+
+#: inc/about-admin/templates/theme-info.php:35
+#: inc/about-admin/templates/theme-info.php:243
+msgid "Get Support"
+msgstr ""
+
+#: inc/about-admin/templates/theme-info.php:47
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/about-admin/theme-info.php:6
+msgid "JetBlack FSE Theme"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "JetBlack FSE"
+msgstr ""
+
+#: patterns/404.php:14
+msgid "PhotoThis page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/default-footer.php:14 patterns/default-footer.php:31
+#: patterns/main-banner.php:33
+msgid "About Us"
+msgstr ""
+
+#: patterns/default-footer.php:19
+msgid ""
+"There are many variations of passages of Lorem Ipsum available, but the "
+"majority have suffered alteration in some form, by injected humour"
+msgstr ""
+
+#: patterns/default-footer.php:26
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/default-footer.php:31 patterns/what-we-do.php:11
+msgid "Services"
+msgstr ""
+
+#: patterns/default-footer.php:31
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/default-footer.php:31
+msgid "FAQ"
+msgstr ""
+
+#: patterns/default-footer.php:31
+msgid "Our Vision"
+msgstr ""
+
+#: patterns/default-footer.php:38
+msgid "Quick Contact"
+msgstr ""
+
+#: patterns/default-footer.php:53 patterns/default-header.php:21
+msgid "+123 456 789"
+msgstr ""
+
+#: patterns/default-footer.php:68 patterns/default-header.php:35
+msgid "support@example.com"
+msgstr ""
+
+#: patterns/default-footer.php:82
+msgid "Sumter, SC 29150"
+msgstr ""
+
+#: patterns/default-footer.php:96
+msgid "9 AM  - 5 PM"
+msgstr ""
+
+#: patterns/default-footer.php:105
+msgid "Gallery"
+msgstr ""
+
+#: patterns/default-footer.php:143
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/default-footer.php:143
+msgid "Firefly Themes"
+msgstr ""
+
+#: patterns/default-footer.php:143
+msgid "and"
+msgstr ""
+
+#: patterns/default-footer.php:143
+msgid "WordPress"
+msgstr ""
+
+#: patterns/default-header.php:49
+msgid "Sumter,SC 29150"
+msgstr ""
+
+#: patterns/default-header.php:83 patterns/main-banner.php:29
+msgid "Get A Quote"
+msgstr ""
+
+#: patterns/hero-content.php:12
+msgid "About the Agency"
+msgstr ""
+
+#: patterns/hero-content.php:16
+msgid "Welcome to Web Agency"
+msgstr ""
+
+#: patterns/hero-content.php:20
+msgid ""
+"Collection of textile samples lay spread out on the table Samsa was a "
+"travelling salesman and above it there hung a picture that he had recently "
+"cut out of an illustrated magazine and housed in a nice, gilded frame."
+msgstr ""
+
+#: patterns/hero-content.php:24
+msgid "How to imaprove your business"
+msgstr ""
+
+#: patterns/hero-content.php:24
+msgid "Business is the best plan in the world"
+msgstr ""
+
+#: patterns/hero-content.php:24
+msgid "How to start your own Business"
+msgstr ""
+
+#: patterns/hero-content.php:29 patterns/services.php:48
+#: patterns/services.php:72 patterns/services.php:96 patterns/what-we-do.php:45
+#: patterns/what-we-do.php:71 patterns/what-we-do.php:97
+#: patterns/what-we-do.php:125 patterns/what-we-do.php:151
+#: patterns/what-we-do.php:177
+msgid "Know More"
+msgstr ""
+
+#: patterns/latest-news.php:12
+msgid "From Our Blog"
+msgstr ""
+
+#: patterns/latest-news.php:16
+msgid "Recent News"
+msgstr ""
+
+#: patterns/latest-news.php:43
+msgid "Explore More"
+msgstr ""
+
+#: patterns/main-banner.php:12
+msgid "Take Your"
+msgstr ""
+
+#: patterns/main-banner.php:16
+msgid "Business To Next Level"
+msgstr ""
+
+#: patterns/main-banner.php:20
+msgid "We design an elegant set of WordPress Themes & Plugins "
+msgstr ""
+
+#: patterns/main-banner.php:24
+msgid "to help you create the website you always wanted!"
+msgstr ""
+
+#: patterns/recent-work.php:11
+msgid "Portfolio"
+msgstr ""
+
+#: patterns/recent-work.php:15
+msgid "Recent Works"
+msgstr ""
+
+#: patterns/recent-work.php:30 patterns/recent-work.php:62
+msgid "Advertising Technology"
+msgstr ""
+
+#: patterns/recent-work.php:40 patterns/recent-work.php:72
+msgid "Sales Analysis"
+msgstr ""
+
+#: patterns/recent-work.php:50 patterns/recent-work.php:82
+msgid "Security Services"
+msgstr ""
+
+#: patterns/services.php:14
+msgid "Our Services"
+msgstr ""
+
+#: patterns/services.php:18
+msgid "Consulting Cases"
+msgstr ""
+
+#: patterns/services.php:39
+msgid "Financial Consulting"
+msgstr ""
+
+#: patterns/services.php:43 patterns/services.php:67 patterns/services.php:91
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt "
+"pulvinar neque, in scelerisque velit auctor ut. Aliquam nec volutpat"
+msgstr ""
+
+#: patterns/services.php:63
+msgid "Investment Planning"
+msgstr ""
+
+#: patterns/services.php:87
+msgid "Relationship Buildup"
+msgstr ""
+
+#: patterns/sidebar.php:19
+msgid "Recent Categories"
+msgstr ""
+
+#: patterns/sidebar.php:37
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/sidebar.php:55
+msgid "Post Archive"
+msgstr ""
+
+#: patterns/sidebar.php:75
+msgid "Catogery Tags"
+msgstr ""
+
+#: patterns/sidebar.php:93
+msgid "Connect With Us"
+msgstr ""
+
+#: patterns/what-we-do.php:15
+msgid "What We Do?"
+msgstr ""
+
+#: patterns/what-we-do.php:36
+msgid "Creative Solutions"
+msgstr ""
+
+#: patterns/what-we-do.php:40 patterns/what-we-do.php:66
+#: patterns/what-we-do.php:92 patterns/what-we-do.php:120
+#: patterns/what-we-do.php:146 patterns/what-we-do.php:172
+msgid ""
+"We design an elegant set of WordPress Themes & Plugins to help you create "
+"the website you always wanted!"
+msgstr ""
+
+#: patterns/what-we-do.php:62
+msgid "Finanancial Strategy"
+msgstr ""
+
+#: patterns/what-we-do.php:88
+msgid "Marketing Strategy"
+msgstr ""
+
+#: patterns/what-we-do.php:116
+msgid "Keyword Research"
+msgstr ""
+
+#: patterns/what-we-do.php:142
+msgid "Web Development"
+msgstr ""
+
+#: patterns/what-we-do.php:168
+msgid "Restructuring"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://fireflythemes.com/themes/jetblack-fse"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"JetBlack FSE is free Block based theme for full site editing. It is first "
+"full site editing theme by FireFly Themes. This theme is packed with ready "
+"to use blog pattern, you will just have to drag and drop pattern to desired "
+"area. There are also various template parts and templates available in "
+"theme. JetBlack FSE is multipurpose dark theme, with different customizable "
+"patterns you can build a modern website in few clicks. The theme is "
+"suitable for any kind of business and is very flexible. JetBlack FSE has "
+"clean design with updated secure codes. There are 3 Template parts, 9 "
+"Templates12 different block patterns. Some of block patterns are, 404 Error "
+"Page, Archive Title, Default Footer, Default Header, Hero Content, Latest "
+"News, Main Banner, Post Title, Recent Works, Services, Sidebar and What We "
+"Do. All the block patterns, templates and template parts are highly "
+"customizable and beautifully adapts all screen sizes. Do download JetBlack "
+"FSE today and explore word of Full site editing."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ffthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://fireflythemes.org/"
+msgstr ""

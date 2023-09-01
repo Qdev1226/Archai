@@ -1,0 +1,188 @@
+.jetblack-fse-admin-notice-wrapper {
+    padding: 20px;
+}
+.jetblack-fse-admin-notice-wrapper h2 {
+    margin-top: 0;
+}
+.jetblack-fse-admin-notice-wrapper p {
+    font-size: 14px;
+}
+.jetblack-fse-admin-notice-wrapper .jetblack-fse-admin-notice-primary-button {
+    color: #fff;
+    font-weight: normal;
+    text-decoration: none;
+    margin-top: 5px;
+    display: inline-block;
+    border-radius: 4px;
+    background: #8931cd;
+    padding: 10px 25px;
+    margin-right: 20px;
+}
+.jetblack-fse-admin-notice-wrapper .button {
+    font-weight: normal;
+    text-decoration: none;
+    margin-top: 5px;
+    display: inline-block;
+    border-radius: 4px;
+    padding: 4px 10px;
+    margin-right: 20px;
+}
+.jetblack-fse-card-header-button-group.footer-buttons {
+    margin-top: 80px;
+}
+.jetblack-fse--about-page--wrapper {
+    max-width: 1400px;
+    margin: 40px auto;
+    padding: 40px;
+}
+.jetblack-fse--about-page--wrapper .jetblack-fse-header-left > .fs-notice {
+    display: none !important;
+}
+.jetblack-fse--about-page--wrapper .jetblack-fse-admin-card-header {
+    display: grid;
+    grid-gap: 30px;
+    grid-template-columns: auto auto;
+    grid-template-rows: 1fr;
+    max-width: 100%;
+    background: #5a62ffee;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 50px;
+    border-radius: 4px;
+    margin: 0 0 30px 0;
+}
+.jetblack-fse--about-page--wrapper .jetblack-fse-admin-card-header h2 {
+    margin: 0;
+    color: #fff;
+    font-size: 3rem;
+    line-height: 1.2;
+}
+.jetblack-fse--about-page--wrapper .jetblack-fse-admin-card-header p {
+    color: #fff;
+}
+.jetblack-fse--about-page--wrapper .jetblack-fse-header-right {
+    justify-self: flex-end;
+}
+#jetblack-fse-admin-about-page p, #jetblack-fse-admin-about-page {
+    font-size: 17px;
+    line-height: 1.7;
+    margin: 0 0 15px;
+}
+.jetblack-fse-admin-button {
+    padding: 10px 30px;
+    text-decoration: inherit;
+    background: #ffc107;
+    color: #000;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 1.75;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: none;
+    border-radius:5px;
+}
+.jetblack-fse-admin-button.premium-button {
+    background: #ffffffee;
+    margin-left: 5px;
+    color: #000;
+}
+.jetblack-fse-admin-button.pro-button {
+    background-color: #34b03b;
+    color: #fff;
+}
+.jetblack-fse-admin-button.pro-button:hover {
+    background-color: #135e96;
+}
+.jetblack-fse-admin-button:hover {
+    background-color: #34b03b;
+    color: #fff;
+}
+.jetblack-fse-about-side {
+    display: grid;
+    grid-gap: 30px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    margin: 30px 0;
+}
+.jetblack-fse-about-side .jetblack-fse-admin-card {
+    padding: 50px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    color: #fff;
+    box-shadow: 0 0 48px #0000000d;
+    text-align: center;
+}
+.jetblack-fse-about-side .jetblack-fse-admin-card h3 {
+    font-size: 2rem;
+    line-height: 1.5;
+    margin: 0 0 15px 0;
+    color: #fff;
+}
+.jetblack-fse-about-side .jetblack-fse-admin-card .jetblack-fse-admin-button {
+    margin-top: 5px;
+    display: inline-block;
+}
+.jetblack-fse-about-side .jetblack-fse-admin-card p, .jetblack-fse-about-side .jetblack-fse-admin-card h4 {
+    font-size: 17px;
+    line-height: 1.7;
+    margin: 0 0 15px;
+}
+.jetblack-fse-card-header-button-group {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+}
+.jetblack-fse-compare-table-subtitle {
+    font-size: 16px;
+}
+.jetblack-fse-compare-table-subtitle a {
+    text-decoration: none;
+}
+.jetblack-fse-compare-table-subtitle a i {
+    font-size: 15px;
+    line-height: 1.7;
+}
+.about-compair-table {
+    background-color: #fff;
+    box-shadow: 0 0 33px #0000001a;
+}
+.about-compair-table h3 {
+    padding: 30px;
+    background: #def0ff;
+    text-align: center;
+}
+.jetblack-fse-compare-table table {
+    border: none;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-top: 2em;
+    width: 100%;
+    color: #000;
+    background-color: #fff;
+}
+.jetblack-fse-compare-table table th {
+    border-bottom: 1px solid #e5e4e4;
+    padding: 15px;
+    color: #000;
+}
+.jetblack-fse-compare-table table td {
+    padding: 1em;
+    text-align: center;
+}
+.jetblack-fse-compare-table table td i {
+    font-size: 21px;
+    border-radius: 100%;
+    padding: 5px;
+    color: #d72b2b;
+}
+.jetblack-fse-compare-table table td i.dashicons.dashicons-yes {
+    text-align: center;
+    color: #4caf50;
+}
+.jetblack-fse-compare-table table tr:nth-child(2n) td {
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+}

@@ -1,0 +1,12 @@
+{
+	"name": "image-gallery-block/image-gallery-block",
+	"title": "Image Gallery",
+	"category": "widgets",
+	"description": "Impress your audience with beautiful image gallery with lightbox.",
+	"textdomain": "image-gallery-block",
+	"keywords": ["images", "photos", "gallery"],
+	"supports": {
+		"align": true
+	},
+	"editorScript": "file:./dist/index.js"
+}

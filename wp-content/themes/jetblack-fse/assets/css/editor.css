@@ -1,0 +1,12 @@
+:root {
+    --jetblack-pro: #8B8000;
+  }
+  
+.block-editor-block-icon svg.jetblack-icon {
+    fill: var( --jetblack-pro );
+}
+
+.editor-block-list-item-jetblack-pro-header-social .dashicon,
+.editor-block-list-item-jetblack-pro-header-search .dashicon {
+    color: var( --jetblack-pro );
+}

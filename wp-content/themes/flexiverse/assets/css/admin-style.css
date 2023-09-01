@@ -1,0 +1,188 @@
+.flexiverse-admin-notice-wrapper {
+    padding: 20px;
+}
+.flexiverse-admin-notice-wrapper h2 {
+    margin-top: 0;
+}
+.flexiverse-admin-notice-wrapper p {
+    font-size: 14px;
+}
+.flexiverse-admin-notice-wrapper .flexiverse-admin-notice-primary-button {
+    color: #fff;
+    font-weight: normal;
+    text-decoration: none;
+    margin-top: 5px;
+    display: inline-block;
+    border-radius: 4px;
+    background: #8931cd;
+    padding: 10px 25px;
+    margin-right: 20px;
+}
+.flexiverse-admin-notice-wrapper .button {
+    font-weight: normal;
+    text-decoration: none;
+    margin-top: 5px;
+    display: inline-block;
+    border-radius: 4px;
+    padding: 4px 10px;
+    margin-right: 20px;
+}
+.flexiverse-card-header-button-group.footer-buttons {
+    margin-top: 80px;
+}
+.flexiverse--about-page--wrapper {
+    max-width: 1400px;
+    margin: 40px auto;
+    padding: 40px;
+}
+.flexiverse--about-page--wrapper .flexiverse-header-left > .fs-notice {
+    display: none !important;
+}
+.flexiverse--about-page--wrapper .flexiverse-admin-card-header {
+    display: grid;
+    grid-gap: 30px;
+    grid-template-columns: auto auto;
+    grid-template-rows: 1fr;
+    max-width: 100%;
+    background: #5a62ffee;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 50px;
+    border-radius: 4px;
+    margin: 0 0 30px 0;
+}
+.flexiverse--about-page--wrapper .flexiverse-admin-card-header h2 {
+    margin: 0;
+    color: #fff;
+    font-size: 3rem;
+    line-height: 1.2;
+}
+.flexiverse--about-page--wrapper .flexiverse-admin-card-header p {
+    color: #fff;
+}
+.flexiverse--about-page--wrapper .flexiverse-header-right {
+    justify-self: flex-end;
+}
+#flexiverse-admin-about-page p, #flexiverse-admin-about-page {
+    font-size: 17px;
+    line-height: 1.7;
+    margin: 0 0 15px;
+}
+.flexiverse-admin-button {
+    padding: 10px 30px;
+    text-decoration: inherit;
+    background: #ffc107;
+    color: #000;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 1.75;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: none;
+    border-radius:5px;
+}
+.flexiverse-admin-button.premium-button {
+    background: #ffffffee;
+    margin-left: 5px;
+    color: #000;
+}
+.flexiverse-admin-button.pro-button {
+    background-color: #34b03b;
+    color: #fff;
+}
+.flexiverse-admin-button.pro-button:hover {
+    background-color: #135e96;
+}
+.flexiverse-admin-button:hover {
+    background-color: #34b03b;
+    color: #fff;
+}
+.flexiverse-about-side {
+    display: grid;
+    grid-gap: 30px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    margin: 30px 0;
+}
+.flexiverse-about-side .flexiverse-admin-card {
+    padding: 50px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    color: #fff;
+    box-shadow: 0 0 48px #0000000d;
+    text-align: center;
+}
+.flexiverse-about-side .flexiverse-admin-card h3 {
+    font-size: 2rem;
+    line-height: 1.5;
+    margin: 0 0 15px 0;
+    color: #fff;
+}
+.flexiverse-about-side .flexiverse-admin-card .flexiverse-admin-button {
+    margin-top: 5px;
+    display: inline-block;
+}
+.flexiverse-about-side .flexiverse-admin-card p, .flexiverse-about-side .flexiverse-admin-card h4 {
+    font-size: 17px;
+    line-height: 1.7;
+    margin: 0 0 15px;
+}
+.flexiverse-card-header-button-group {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+}
+.flexiverse-compare-table-subtitle {
+    font-size: 16px;
+}
+.flexiverse-compare-table-subtitle a {
+    text-decoration: none;
+}
+.flexiverse-compare-table-subtitle a i {
+    font-size: 15px;
+    line-height: 1.7;
+}
+.about-compare-table {
+    background-color: #fff;
+    box-shadow: 0 0 33px #0000001a;
+}
+.about-compare-table h3 {
+    padding: 30px;
+    background: #def0ff;
+    text-align: center;
+}
+.flexiverse-compare-table table {
+    border: none;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-top: 2em;
+    width: 100%;
+    color: #000;
+    background-color: #fff;
+}
+.flexiverse-compare-table table th {
+    border-bottom: 1px solid #e5e4e4;
+    padding: 15px;
+    color: #000;
+}
+.flexiverse-compare-table table td {
+    padding: 1em;
+    text-align: center;
+}
+.flexiverse-compare-table table td i {
+    font-size: 21px;
+    border-radius: 100%;
+    padding: 5px;
+    color: #d72b2b;
+}
+.flexiverse-compare-table table td i.dashicons.dashicons-yes {
+    text-align: center;
+    color: #4caf50;
+}
+.flexiverse-compare-table table tr:nth-child(2n) td {
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+}

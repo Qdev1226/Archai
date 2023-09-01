@@ -1,0 +1,355 @@
+# Copyright (C) {2023} Firefly Themes
+msgid ""
+msgstr ""
+"Project-Id-Version: FlexiVerse 1.0.1\n"
+"Report-Msgid-Bugs-To: https://fireflythemes.com/support/\n"
+"POT-Creation-Date: 2023-08-16 07:17:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Firefly Themes <info@fireflythemes.com>\n"
+"Language-Team: Firefly Themes <info@fireflythemes.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: patterns/404.php:10
+msgid "0"
+msgstr ""
+
+#: patterns/404.php:10
+msgid "4"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "FlexiVerse"
+msgstr ""
+
+#: patterns/404.php:14
+msgid "PhotoThis page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/cases.php:11
+msgid "Portfolio"
+msgstr ""
+
+#: patterns/cases.php:15
+msgid "Recent Works"
+msgstr ""
+
+#: patterns/cases.php:36 patterns/cases.php:86
+msgid "Advertising Technology"
+msgstr ""
+
+#: patterns/cases.php:52 patterns/cases.php:102
+msgid "Sales Analysis"
+msgstr ""
+
+#: patterns/cases.php:68 patterns/cases.php:118
+msgid "Security Services"
+msgstr ""
+
+#: patterns/contact-info.php:11
+msgid "About Company"
+msgstr ""
+
+#: patterns/contact-info.php:15 patterns/footer.php:56
+msgid "Quick Contact"
+msgstr ""
+
+#: patterns/contact-info.php:32 patterns/contact-info.php:98
+msgid "Main Office"
+msgstr ""
+
+#: patterns/contact-info.php:47 patterns/contact-info.php:113
+#: patterns/footer.php:71 patterns/header.php:33
+msgid "+123 456 789"
+msgstr ""
+
+#: patterns/contact-info.php:61 patterns/footer.php:85 patterns/header.php:43
+msgid "support@example.com"
+msgstr ""
+
+#: patterns/contact-info.php:75 patterns/contact-info.php:141
+#: patterns/footer.php:99
+msgid "Sumter, SC 29150"
+msgstr ""
+
+#: patterns/contact-info.php:89 patterns/contact-info.php:155
+#: patterns/footer.php:113
+msgid "9 AM  - 5 PM"
+msgstr ""
+
+#: patterns/contact-info.php:166
+msgid "Insert Contact Form Block"
+msgstr ""
+
+#: patterns/cta.php:12
+msgid "With Respect To Each Customer"
+msgstr ""
+
+#: patterns/cta.php:16
+msgid "We Appreciate Clients"
+msgstr ""
+
+#: patterns/cta.php:20
+msgid "And Their Business"
+msgstr ""
+
+#: patterns/cta.php:25
+msgid "Become A Client"
+msgstr ""
+
+#: patterns/footer.php:14 patterns/footer.php:32 patterns/hero-content.php:13
+#: patterns/main-banner.php:37
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid ""
+"There are many variations of passages of Lorem Ipsum available, but the "
+"majority have suffered alteration in some form, by injected humour"
+msgstr ""
+
+#: patterns/footer.php:26
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer.php:36 patterns/services.php:12
+msgid "Services"
+msgstr ""
+
+#: patterns/footer.php:40
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer.php:44
+msgid "FAQ"
+msgstr ""
+
+#: patterns/footer.php:48
+msgid "Our Vision"
+msgstr ""
+
+#: patterns/footer.php:122
+msgid "Gallery"
+msgstr ""
+
+#: patterns/footer.php:170
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer.php:170
+msgid "https://fireflythemes.com"
+msgstr ""
+
+#: patterns/footer.php:170
+msgid "Firefly Themes"
+msgstr ""
+
+#: patterns/footer.php:170
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:170
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:170
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header.php:53
+msgid "Sumter,SC 29150"
+msgstr ""
+
+#: patterns/header.php:69 patterns/main-banner.php:20
+msgid "For Every Business"
+msgstr ""
+
+#: patterns/header.php:79
+msgid "Get A Quote"
+msgstr ""
+
+#: patterns/hero-content.php:17
+msgid "Welcome To Our Consulting Agency"
+msgstr ""
+
+#: patterns/hero-content.php:21
+msgid ""
+"We solve business problems,take a consultative approach to every client "
+"engagement, and find actionable solutions that will help your organization "
+"achieve the best business outcomes"
+msgstr ""
+
+#: patterns/hero-content.php:25
+msgid ""
+"We solve business problems,take a consultative approach to every client "
+"engagement, and find actionable solutions that will help your organization "
+"achieve the best business outcomes."
+msgstr ""
+
+#: patterns/hero-content.php:31
+msgid "About More"
+msgstr ""
+
+#: patterns/hero-content.php:41
+msgid "+123 4567 23"
+msgstr ""
+
+#: patterns/latest-news.php:12
+msgid "From Our Blog"
+msgstr ""
+
+#: patterns/latest-news.php:16
+msgid "Recent News"
+msgstr ""
+
+#: patterns/latest-news.php:43
+msgid "Explore More"
+msgstr ""
+
+#: patterns/main-banner.php:12
+msgid "We Make a Difference"
+msgstr ""
+
+#: patterns/main-banner.php:16
+msgid "Consulting Agency"
+msgstr ""
+
+#: patterns/main-banner.php:24 patterns/services.php:42
+#: patterns/services.php:66 patterns/services.php:90 patterns/services.php:116
+#: patterns/services.php:140 patterns/services.php:164
+msgid "We design an elegant set of WordPress Themes &amp; Plugins"
+msgstr ""
+
+#: patterns/main-banner.php:28
+msgid "that help you create the website you always wanted!"
+msgstr ""
+
+#: patterns/main-banner.php:33
+msgid "Get Started"
+msgstr ""
+
+#: patterns/services.php:16
+msgid "What We Do?"
+msgstr ""
+
+#: patterns/services.php:38
+msgid "Creative Solutions"
+msgstr ""
+
+#: patterns/services.php:46 patterns/services.php:70 patterns/services.php:94
+#: patterns/services.php:120 patterns/services.php:144
+#: patterns/services.php:168
+msgid "Know More"
+msgstr ""
+
+#: patterns/services.php:62
+msgid "Financial Strategy"
+msgstr ""
+
+#: patterns/services.php:86
+msgid "Marketing Strategy"
+msgstr ""
+
+#: patterns/services.php:112
+msgid "Keyword Research"
+msgstr ""
+
+#: patterns/services.php:136
+msgid "Web Development"
+msgstr ""
+
+#: patterns/services.php:160
+msgid "Restructuring"
+msgstr ""
+
+#: patterns/sidebar.php:19
+msgid "Recent Categories"
+msgstr ""
+
+#: patterns/sidebar.php:37
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/sidebar.php:55
+msgid "Post Archive"
+msgstr ""
+
+#: patterns/sidebar.php:75
+msgid "Catogery Tags"
+msgstr ""
+
+#: patterns/sidebar.php:93
+msgid "Connect With Us"
+msgstr ""
+
+#: patterns/wwd.php:11
+msgid "What We Do"
+msgstr ""
+
+#: patterns/wwd.php:15
+msgid "Top Consulting Agency"
+msgstr ""
+
+#: patterns/wwd.php:37
+msgid "Good Approach"
+msgstr ""
+
+#: patterns/wwd.php:53
+msgid "Great Ideas"
+msgstr ""
+
+#: patterns/wwd.php:69
+msgid "Save Money"
+msgstr ""
+
+#: patterns/wwd.php:85
+msgid "Customization"
+msgstr ""
+
+#: patterns/wwd.php:101
+msgid "Detailed Report"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://fireflythemes.com/themes/flexiverse"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"FlexiVerse - the ultimate WordPress theme powered with full site editing "
+"that offers unparalleled flexibility and versatility! Elevate your website "
+"to new heights with its user-friendly design and a plethora of customizable "
+"patterns. With FlexiVerse, you can effortlessly create a stunning and "
+"unique online presence. Showcase your content in style with 16 easy to use "
+"customizable patterns, and choose from a wide range of color schemes to "
+"match your brand identity. This responsive and mobile-friendly theme "
+"ensures a seamless experience for your visitors across all devices. Whether "
+"they're on a desktop, tablet, or smartphone, your website will look "
+"impeccable. Stay ahead of the curve with regular updates and dedicated "
+"support from our team. Unlock the true potential of your website with "
+"FlexiVerse. Download now and embark on a journey of creativity and success! "
+"Visit https://fireflythemes.com/support for support, "
+"https://fireflythemes.com/documentation/flexiverse for theme documentation "
+"and https://demo.fireflythemes.com/flexiverse for demo."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ffthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://fireflythemes.com/"
+msgstr ""

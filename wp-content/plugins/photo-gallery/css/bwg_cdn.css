@@ -1,0 +1,227 @@
+/*
+cdn page css
+ */
+.bwg-wp-container * {
+    font-family: Open Sans, sans-serif !important;
+}
+.bwg-wp-container {
+    display: flex;
+    justify-content: center;
+}
+.bwg-wp-container p {
+    margin: 0;
+}
+.bwg-container-with-border {
+    position: relative;
+    border-radius: 6px;
+    border: 1px solid #323A4533;
+    background-color: #fff;
+    padding: 25px 20px;
+    color: #323A45;
+    margin-top: 16px;
+    width: 714px;
+    box-sizing: border-box;
+}
+.bwg-container-with-border.bwg-cloudflare-enabled {
+    position: relative;
+}
+.bwg-cloudflare-active {
+    position: absolute;
+    background: #22B3390D 0% 0% no-repeat padding-box;
+    border: 1px solid #22B33919;
+    border-radius: 6px;
+    padding: 7px 9px;
+    top: 25px;
+    right: 20px;
+}
+.bwg-cloudflare-active-text {
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 600;
+    padding-right: 8px;
+    border-right: 1px solid #22B33919;
+}
+.bwg-cloudflare-active-icon {
+    width: 20px;
+    height: 20px;
+    padding-right: 28px;
+    position: relative;
+}
+.bwg-cloudflare-active-icon:before {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    content: '';
+    left: 8px;
+    background: url("../images/icons/check_solid.svg") center no-repeat;
+}
+.bwg-page-main-title {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: bold;
+    margin-bottom: 2px;
+    padding-left: 40px;
+    position: relative;
+}
+
+.bwg-page-main-title:before {
+    position: absolute;
+    content: '';
+    width: 32px;
+    height: 15px;
+    background: url(../images/icons/cloudflare_icon.svg) no-repeat;
+    left: 0;
+    top: 3px;
+}
+
+.bwg-page-main-desc {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.bwg-page-main-desc a {
+    text-decoration: underline;
+    color: #2160B5;
+    cursor: pointer;
+    font-weight: 600;
+}
+.bwg-page-main-desc a:hover {
+    opacity: 0.7;
+}
+
+.bwg-button-container-right {
+    display: flex;
+    justify-content: end;
+}
+.bwg-green-button {
+    margin-top: 30px;
+    width: 260px;
+    height: 40px;
+    background-color: #22B339;
+    border-radius: 6px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.bwg-green-button:hover {
+    opacity: 0.7;
+    color: #fff;
+}
+
+.bwg-cdn-tools {
+    margin-top: 23px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.bwg-main-text {
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.bwg-cdn-tools .bwg-main-text {
+    display: flex;
+    align-items: center;
+    padding-right: 10px;
+}
+
+.bwg-cdn-tools .bwg-main-text:not(:last-child) {
+    border-right: 1px solid #E4E4E4;
+}
+
+.bwg-main-text:not(.bwg-cdn-not-applied) b {
+    font-size: 18px;
+    line-height: 24px;
+    margin-right: 4px;
+}
+.bwg-main-text img {
+    margin-left: 10px;
+}
+.bwg-cdn-benefits-main-container {
+    margin-top: 15px;
+}
+.bwg-cdn-benefits-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    gap: 10px;
+    margin-bottom: 25px;
+}
+.bwg-cdn-benefits-head-title {
+    white-space: nowrap;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: bold;
+}
+.bwg-cdn-style-line {
+    width: 100%;
+    border: 1px solid #E4E4E4;
+}
+.bwg-cdn-benefits {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-top: 25px;
+    flex-wrap: wrap;
+}
+.bwg-cdn-each-benefit {
+    background: #F9F9F9 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    padding: 16px;
+    width: 49%;
+    box-sizing: border-box;
+    position: relative;
+}
+.bwg-cdn-each-benefit:after {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    content: '';
+    right: 8px;
+    top: 8px;
+    background: url("../images/icons/check_solid.svg") center no-repeat;
+}
+.bwg-each-benefit-title {
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.bwg-cdn-not-applied {
+    width: 100%;
+    background-color: #F8C3321A;
+    padding: 9px 16px 9px 38px;
+    margin-top: 20px;
+    background-size: 14px;
+    background-image: url(../images/icons/info.svg);
+    background-repeat: no-repeat;
+    background-position: 16px 11px;
+    box-sizing: border-box;
+}
+
+.bwg-cdn-not-applied a {
+    cursor: pointer;
+    color: #2160B5;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.bwg-cdn-not-applied a:hover {
+    opacity: 0.7;
+}
+
+@media screen and (max-width: 600px) {
+    .bwg-cdn-tools {
+        flex-direction: column;
+    }
+    .bwg-cdn-each-benefit {
+        width: 100%;
+    }
+}
