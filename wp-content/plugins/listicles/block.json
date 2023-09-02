@@ -1,0 +1,23 @@
+{
+	"apiVersion": 2,
+	"name": "lez-library/listicles",
+	"title": "Listicles",
+	"category": "layout",
+	"icon": "excerpt-view",
+	"description": "A block to generate Listicles.",
+	"keywords": [ "list", "listicle", "listicles" ],
+	"attributes": {
+		"items": {
+			"type": "number",
+			"default": 2
+		},
+		"reversed": {
+			"type": "boolean",
+			"default": false
+		}
+	},
+	"textdomain": "listicles",
+	"editorScript": "file:./src/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}

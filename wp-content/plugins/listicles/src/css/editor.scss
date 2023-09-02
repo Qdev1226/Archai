@@ -1,0 +1,55 @@
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+
+.listicle {
+    margin: 4px;
+    counter-reset: listicle-counter;
+    & dt:before {
+      content: counter(listicle-counter);
+      counter-increment: listicle-counter;
+      font-family: 'Oswald', sans-serif;
+      font-size: 2rem;
+      font-weight: 600;
+      margin-right: 6px;
+    }
+    &.reversed  dt:before {
+      counter-increment: listicle-counter -1;
+    }
+    dt {
+      font-family: 'Oswald', sans-serif;
+      font-size: 2rem;
+      font-weight: 400;
+      margin-bottom: 1rem;
+
+      &:first-child {
+        margin-top: 0;
+      }
+    }
+    dd {
+        margin: 0 2rem 0 2rem;
+    }
+    .listicles-buttons {
+        text-align: center;
+        padding-top: 6px;
+    }
+
+    div.listicles-innerblocks {
+        margin: 4px 0;
+        padding: 4px;
+        border: 1px solid #d3d3d3;
+    }
+    div.editor-inner-blocks {
+        margin: 1rem;
+    }
+    .block-list-appender__toggle.block-editor-button-block-appender {
+        display: none;
+    }
+    .listitem-button-container {
+        display: inline-block;
+        text-align: right;
+    }
+}

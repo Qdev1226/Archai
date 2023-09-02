@@ -1,0 +1,28 @@
+= 1.0.8 =
+* Previous bug actually due to [https://github.com/Yoast/wordpress-seo/pull/15617](Yoast SEO) so adjusting for that.
+
+= 1.0.7 =
+* Deprecation compatibility fix.
+* Currently allowing ALL formats for RichText (in the title field) until [https://github.com/WordPress/gutenberg/issues/23660](#23660) is fixed.
+
+= 1.0.6 =
+* WP 5.4 compatibility
+
+= 1.0.5 =
+* WP 5.4 compatibility
+
+= 1.0.4 =
+* CSS fix.
+
+= 1.0.3 =
+* WP 5.3 compatibility.
+
+= 1.0.2 =
+* WP 5.2 compatibility
+
+= 1.0.1 =
+* Adding CSS front styling
+* Correcting category
+
+= 1.0.0 =
+* Initial release

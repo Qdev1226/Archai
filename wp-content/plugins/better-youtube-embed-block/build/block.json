@@ -1,0 +1,32 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "boldblocks/youtube-block",
+  "title": "Better Youtube Video Block",
+  "category": "media",
+  "description": "Embed Youtube video without slowing down your site.",
+  "keywords": [
+    "youtube",
+    "video",
+    "embed",
+    "insert"
+  ],
+  "attributes": {
+    "url": {
+      "type": "string"
+    },
+    "caption": {
+      "type": "string",
+      "source": "html",
+      "selector": "figcaption"
+    }
+  },
+  "supports": {
+    "align": true
+  },
+  "textdomain": "better-youtube-embed-block",
+  "editorScript": "file:./index.js",
+  "viewScript": "file:./frontend.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

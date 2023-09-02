@@ -1,0 +1,111 @@
+.ytp_front_shortcode input {
+  cursor: pointer;
+}
+.ytp_front_shortcode {
+  position: relative;
+  display: inline-block;
+  margin: 0 auto;
+}
+.ytp_front_shortcode input {
+  text-align: center;
+  border: none;
+  outline: none;
+  background-color: #1e8cbe;
+  color: #fff;
+  padding: 4px 10px;
+  border-radius: 3px;
+}
+.ytp_front_shortcode .htooltip {
+  visibility: hidden;
+  width: 140px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  bottom: 150%;
+  left: 50%;
+  margin-left: -75px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.ytp_front_shortcode .htooltip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.ytp_front_shortcode:hover .htooltip {
+  visibility: visible;
+  opacity: 1;
+}
+.ytp_playlist_shortcode {
+  margin-top: 30px;
+  border: 5px solid #4527a4;
+  overflow: hidden;
+}
+.ytp_playlist_shortcode .shortcode-heading {
+  background: #4527a4;
+  padding: 15px;
+  overflow: hidden;
+  color: #ffffff;
+}
+.ytp_playlist_shortcode .shortcode-heading .icon {
+  float: left;
+  overflow: hidden;
+  width: 50%;
+}
+.ytp_playlist_shortcode .shortcode-heading .text {
+  float: right;
+  overflow: hidden;
+  text-align: right;
+}
+.ytp_playlist_shortcode .shortcode-heading .text a {
+  color: #ffffff;
+  display: block;
+  text-decoration: none;
+}
+.ytp_playlist_shortcode .shortcode-left {
+  width: 50%;
+  float: left;
+  overflow: hidden;
+  padding: 20px 0 30px;
+  text-align: center;
+  background: #ffffff;
+  border-right: 5px solid #4527a4;
+  box-sizing: border-box;
+}
+.ytp_playlist_shortcode .shortcode-right {
+  width: 50%;
+  float: left;
+  overflow: hidden;
+  padding: 20px 0 30px;
+  text-align: center;
+  background: #ffffff;
+}
+.ytp_playlist_shortcode .shortcode {
+  padding: 8px 15px;
+  background: #eae6f9;
+  display: inline-block;
+  user-select: all;
+  font-size: 16px;
+}
+.howto_wrap {
+  background: #fff;
+  padding: 50px;
+  text-align: center;
+}
+.howto_wrap a {
+  padding: 10px 20px;
+  background: #4527a4;
+  color: #fff;
+  text-decoration: none;
+}

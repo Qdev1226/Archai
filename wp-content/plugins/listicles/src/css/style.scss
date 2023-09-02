@@ -1,0 +1,37 @@
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+hr.wp-block-separator {
+  counter-reset: listicle-counter;
+}
+
+.listicle {
+    margin: 4px;
+    counter-reset: listicle-counter;
+    & dt:before {
+      content: counter(listicle-counter);
+      counter-increment: listicle-counter;
+      margin-right: 6px;
+    }
+    &.reversed  dt:before {
+      counter-increment: listicle-counter -1;
+    }
+}
+
+.listicle .listicles-buttons button {
+    float: left;
+    margin: 8px;
+}
+
+.listicle .listicles-buttons {
+    clear: both;
+    content: '';
+    display: table;
+}
+
+.listicle .block-editor-block-list__insertion-point-inserter {
+    display: none;
+}
