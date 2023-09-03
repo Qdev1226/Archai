@@ -1,0 +1,153 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "gutena/form-field",
+  "version": "1.0.0",
+  "title": "Form Field",
+  "parent": [
+    "gutena/forms"
+  ],
+  "category": "gutena",
+  "icon": "feedback",
+  "description": "Form field",
+  "attributes": {
+    "nameAttr": {
+      "type": "string",
+      "default": "input_1"
+    },
+    "fieldName": {
+      "type": "string",
+      "default": "Name"
+    },
+    "fieldClasses": {
+      "type": "string",
+      "default": ""
+    },
+    "fieldType": {
+      "type": "string",
+      "default": "text"
+    },
+    "isRequired": {
+      "type": "boolean",
+      "default": false
+    },
+    "placeholder": {
+      "type": "string",
+      "default": ""
+    },
+    "defaultValue": {
+      "type": "string",
+      "default": ""
+    },
+    "autocomplete": {
+      "type": "boolean",
+      "default": false
+    },
+    "autoCapitalize": {
+      "type": "boolean",
+      "default": false
+    },
+    "textAreaRows": {
+      "type": "number",
+      "default": 5
+    },
+    "maxlength": {
+      "type": "number",
+      "default": ""
+    },
+    "minMaxStep": {
+      "type": "object",
+      "default": {}
+    },
+    "preFix": {
+      "type": "string",
+      "default": ""
+    },
+    "sufFix": {
+      "type": "string",
+      "default": ""
+    },
+    "selectOptions": {
+      "type": "array",
+      "default": [
+        "Big",
+        "Medium",
+        "Small"
+      ]
+    },
+    "optionsColumns": {
+      "type": "number",
+      "default": 1
+    },
+    "optionsInline": {
+      "type": "boolean",
+      "default": false
+    },
+    "multiSelect": {
+      "type": "boolean",
+      "default": false
+    },
+    "errorRequiredMsg": {
+      "type": "string",
+      "default": "Field is required"
+    },
+    "errorInvalidInputMsg": {
+      "type": "string",
+      "default": "Input is not valid"
+    },
+    "description": {
+      "type": "string",
+      "default": ""
+    },
+    "fieldStyle": {
+      "type": "string",
+      "default": ""
+    },
+    "settings": {
+      "type": "object",
+      "default": {}
+    }
+  },
+  "usesContext": [
+    "gutena-forms/formID"
+  ],
+  "supports": {
+    "__experimentalSettings": true,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "color": {
+      "background": true,
+      "text": true
+    },
+    "__experimentalBorder": {
+      "color": true,
+      "radius": true,
+      "style": true,
+      "width": true,
+      "__experimentalDefaultControls": {
+        "color": true,
+        "radius": true,
+        "style": true,
+        "width": true
+      }
+    },
+    "spacing": {
+      "margin": true,
+      "padding": true,
+      "blockGap": {
+        "__experimentalDefault": "2em",
+        "sides": [
+          "horizontal",
+          "vertical"
+        ]
+      }
+    },
+    "html": false
+  },
+  "textdomain": "gutena-forms",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

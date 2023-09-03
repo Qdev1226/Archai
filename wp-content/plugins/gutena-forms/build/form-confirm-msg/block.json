@@ -1,0 +1,40 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "gutena/form-confirm-msg",
+  "version": "1.0.0",
+  "title": "Confirmation Message",
+  "parent": [
+    "gutena/forms"
+  ],
+  "category": "gutena",
+  "icon": "feedback",
+  "description": "Form Confirmation Message. It will show after form submission.",
+  "attributes": {
+    "description": {
+      "type": "string",
+      "default": ""
+    },
+    "settings": {
+      "type": "object",
+      "default": {}
+    }
+  },
+  "supports": {
+    "__experimentalSettings": true,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "spacing": {
+      "margin": true,
+      "padding": true
+    },
+    "html": false,
+    "__experimentalLayout": true
+  },
+  "textdomain": "gutena-forms",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

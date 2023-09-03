@@ -1,0 +1,40 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "gutena/form-error-msg",
+  "version": "1.0.0",
+  "title": "Error Message",
+  "parent": [
+    "gutena/forms"
+  ],
+  "category": "gutena",
+  "icon": "feedback",
+  "description": "Form Error Message. It will show after form submission.",
+  "attributes": {
+    "description": {
+      "type": "string",
+      "default": ""
+    },
+    "settings": {
+      "type": "object",
+      "default": {}
+    }
+  },
+  "supports": {
+    "__experimentalSettings": true,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "html": false,
+    "spacing": {
+      "margin": true,
+      "padding": true
+    },
+    "__experimentalLayout": true
+  },
+  "textdomain": "gutena-forms",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

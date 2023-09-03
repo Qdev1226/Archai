@@ -1,0 +1,296 @@
+# Copyright (C) 2022 SearchWP, LLC
+# This file is distributed under the same license as the SearchWP Live Ajax Search plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: SearchWP Live Ajax Search 1.6.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/searchwp-live-ajax-search\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-27T14:46:15+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: searchwp-live-ajax-search\n"
+
+#. Plugin Name of the plugin
+msgid "SearchWP Live Ajax Search"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://searchwp.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Enhance your search forms with live search, powered by SearchWP (if installed)"
+msgstr ""
+
+#. Author of the plugin
+msgid "SearchWP, LLC"
+msgstr ""
+
+#: includes/class-form.php:226
+msgid "No valid SearchWP Live Search configuration found!"
+msgstr ""
+
+#: includes/class-form.php:227
+msgid "When autocomplete results are available use up and down arrows to review and enter to go to the desired page. Touch device users, explore by touch or with swipe gestures."
+msgstr ""
+
+#: includes/class-form.php:310
+msgid "Continue typing"
+msgstr ""
+
+#: includes/class-menu.php:51
+#: includes/class-menu.php:83
+msgid "Live Search"
+msgstr ""
+
+#: includes/class-menu.php:66
+msgid "SearchWP"
+msgstr ""
+
+#: includes/class-menu.php:91
+#: includes/class-menu.php:92
+msgid "Upgrade to Pro"
+msgstr ""
+
+#. translators: %1$s - SearchWP.com URL, %2$s - SearchWP.com URL.
+#: includes/class-plugin.php:145
+msgid "<strong>SearchWP Live Ajax Search</strong><br><a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">Personalize your search results</a> and discover what your visitors are searching for at the same time with <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">SearchWP Pro!</a>"
+msgstr ""
+
+#: includes/class-plugin.php:214
+msgid "Upgrade to SearchWP Pro"
+msgstr ""
+
+#: includes/class-plugin.php:215
+msgid "Get SearchWP Pro"
+msgstr ""
+
+#: includes/class-plugin.php:227
+msgid "Go to SearchWP Settings page"
+msgstr ""
+
+#: includes/class-plugin.php:228
+#: includes/class-settings.php:79
+#: includes/class-settings.php:343
+msgid "Settings"
+msgstr ""
+
+#: includes/class-plugin.php:244
+msgid "Read the documentation"
+msgstr ""
+
+#: includes/class-plugin.php:245
+msgid "Docs"
+msgstr ""
+
+#: includes/class-settings-api.php:84
+msgid "Settings were successfully saved."
+msgstr ""
+
+#: includes/class-settings-api.php:165
+msgid "General"
+msgstr ""
+
+#: includes/class-settings-api.php:171
+msgid "Enable Live Search"
+msgstr ""
+
+#: includes/class-settings-api.php:172
+msgid "Check this option to automatically enhance your search forms with Live Ajax Search."
+msgstr ""
+
+#: includes/class-settings-api.php:179
+msgid "Results"
+msgstr ""
+
+#: includes/class-settings-api.php:185
+msgid "Include Styling"
+msgstr ""
+
+#: includes/class-settings-api.php:186
+msgid "Determines which CSS files to load and use for the site. \"Positioning and visual styling\" is recommended, unless you are experienced with CSS or instructed by support to change settings."
+msgstr ""
+
+#: includes/class-settings-api.php:190
+msgid "Positioning and visual styling"
+msgstr ""
+
+#: includes/class-settings-api.php:191
+msgid "Positioning styling only"
+msgstr ""
+
+#: includes/class-settings-api.php:192
+msgid "No styling"
+msgstr ""
+
+#: includes/class-settings-api.php:197
+msgid "Positioning"
+msgstr ""
+
+#: includes/class-settings-api.php:198
+msgid "Selects where to position the results pane relative to the search form."
+msgstr ""
+
+#: includes/class-settings-api.php:202
+msgid "Below the search form"
+msgstr ""
+
+#: includes/class-settings-api.php:203
+msgid "Above the search form"
+msgstr ""
+
+#: includes/class-settings-api.php:208
+msgid "Auto Width"
+msgstr ""
+
+#: includes/class-settings-api.php:209
+msgid "Check this option to align the results pane width with the search form width."
+msgstr ""
+
+#: includes/class-settings.php:164
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class-settings.php:383
+msgid "Get SearchWP Pro and Unlock all the Powerful Features"
+msgstr ""
+
+#: includes/class-settings.php:384
+msgid "Thank you for being a loyal SearchWP Live Ajax Search user. Upgrade to SearchWP Pro to unlock all the powerful features and experience why SearchWP is the best WordPress search plugin."
+msgstr ""
+
+#. translators: %s - star icons.
+#: includes/class-settings.php:389
+msgid "We know that you will truly love SearchWP Pro. It’s used on over 30,000 smart WordPress websites and is consistently rated 5-stars (%s) by our customers."
+msgstr ""
+
+#: includes/class-settings.php:401
+msgid "Pro Features:"
+msgstr ""
+
+#: includes/class-settings.php:404
+msgid "Search all custom field data"
+msgstr ""
+
+#: includes/class-settings.php:405
+msgid "Make ecommerce metadata discoverable in search results"
+msgstr ""
+
+#: includes/class-settings.php:406
+msgid "Search PDF, .doc, .txt and other static documents"
+msgstr ""
+
+#: includes/class-settings.php:407
+msgid "Search custom database tables and other custom content"
+msgstr ""
+
+#: includes/class-settings.php:408
+msgid "Make your media library (images, videos, etc.) searchable"
+msgstr ""
+
+#: includes/class-settings.php:411
+msgid "Search categories, tags and even custom taxonomies"
+msgstr ""
+
+#: includes/class-settings.php:412
+msgid "Easy integration with all WordPress themes and page builders"
+msgstr ""
+
+#: includes/class-settings.php:413
+msgid "Advanced search metrics and insights on visitor activity"
+msgstr ""
+
+#: includes/class-settings.php:414
+msgid "Multiple custom search engines for different types of content"
+msgstr ""
+
+#: includes/class-settings.php:415
+msgid "WooCommerce & Easy Digital Downloads support"
+msgstr ""
+
+#: includes/class-settings.php:418
+#: includes/class-settings.php:522
+msgid "Get SearchWP Pro Today"
+msgstr ""
+
+#: includes/class-settings.php:418
+msgid "Get SearchWP Pro Today and Unlock all the Powerful Features"
+msgstr ""
+
+#: includes/class-settings.php:422
+#: includes/class-settings.php:526
+msgid "<strong>Bonus:</strong> SearchWP Live Ajax Search users get <span class=\"green\">50% off the regular price</span>, automatically applied at checkout!"
+msgstr ""
+
+#. translators: $1$s - SearchWP plugin name; $2$s - WP.org review link; $3$s - WP.org review link.
+#: includes/class-settings.php:458
+msgid "Please rate %1$s <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%3$s\" target=\"_blank\" rel=\"noopener\">WordPress.org</a> to help us spread the word. Thank you from the SearchWP team!"
+msgstr ""
+
+#: includes/class-settings.php:509
+msgid "Did You Know?"
+msgstr ""
+
+#: includes/class-settings.php:513
+msgid "By default, WordPress doesn’t make all your content searchable. <strong><em>That’s frustrating</em></strong>, because it leaves your visitors unable to find what they are looking for!"
+msgstr ""
+
+#: includes/class-settings.php:521
+msgid "With SearchWP Pro, you can overcome this obstacle and deliver the best, most relevant search results based on all your content, such as custom fields, ecommerce data, categories, PDF documents, rich media and more!"
+msgstr ""
+
+#: includes/class-widget.php:26
+#: includes/class-widget.php:27
+msgid "SearchWP Live Search"
+msgstr ""
+
+#: includes/class-widget.php:46
+#: includes/class-widget.php:249
+msgid "Search for..."
+msgstr ""
+
+#: includes/class-widget.php:68
+msgid "Search for:"
+msgstr ""
+
+#: includes/class-widget.php:72
+#: includes/class-widget.php:175
+msgid "Search"
+msgstr ""
+
+#: includes/class-widget.php:134
+msgid "Default"
+msgstr ""
+
+#: includes/class-widget.php:179
+msgid "Title:"
+msgstr ""
+
+#: includes/class-widget.php:204
+msgid "SearchWP Engine:"
+msgstr ""
+
+#: includes/class-widget.php:230
+msgid "Configuration:"
+msgstr ""
+
+#: includes/class-widget.php:255
+msgid "Advanced"
+msgstr ""
+
+#: includes/class-widget.php:258
+msgid "Placeholder:"
+msgstr ""
+
+#: includes/class-widget.php:262
+msgid "Destination fallback URL (optional):"
+msgstr ""
+
+#: templates/search-results.php:38
+msgid "No results found."
+msgstr ""

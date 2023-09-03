@@ -1,0 +1,1201 @@
+$gfp_body_color: #50575E;
+$gfp_border_color:#E5E7EB;
+$gfp_heading_color: #2C3338;
+$gfp_primary_color: #0EA489;
+$gfp_secondary_color: #EEF8F6;
+$gfp_wp_primary_color: #2271b1;
+$gfp_red_color: #E83737;
+$gfp_orange_color: #E35D3F;
+$gfp_white_color: #fff;
+$gfp_input_border: 1px solid rgba(0,0,0,.1);
+
+*{scroll-behavior: smooth;}
+
+.toplevel_page_gutena-forms{
+	#wpcontent{
+		padding-left: 0;
+	}
+	
+	.notice{
+		display: none !important;
+	}
+
+	.gutena-forms-dashboard {
+        .title-with-icon, .table-view-list.entry th.manage-column.column-status {
+            display: flex;
+            gap: 6px;
+            align-items: baseline;
+        }
+         
+		.gf-btn {
+			border-radius: 5px;
+			text-decoration: none;
+			text-shadow: none;
+			padding: 8px 15px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			gap: 6px;
+		}
+		.gf-pro-btn {
+			background: #E35D3F;
+			border-color: #E35D3F;
+			color: #fff;
+			font-weight: 600;
+		}
+		.gf-heading{
+			color:$gfp_heading_color;
+			font-weight: 500;
+			margin: 0.5rem 0;
+		}
+		
+		> .gf-header{
+            box-sizing: border-box;
+			position: relative;
+			padding: 0rem 0.8rem;
+			display: flex;
+            flex-wrap: wrap;
+			align-items: center;
+			background-color:#ffffff;
+			justify-content: space-between;
+			box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.06), 0px 1px 3px rgba(0, 0, 0, 0.1);
+			.gf-logo-title {
+				.select-change-url{
+					margin-left: 1rem;
+				}
+				display: flex;
+				gap: 0.6rem;
+				align-items: center;
+			}
+		}
+		.gf-body {
+			padding: 1.25rem;
+		}
+		/*Flex with space in between*/
+		.gf-list-flex-space-bw{
+			display: flex;
+			justify-content: space-between;
+            align-items: center;
+		}
+
+        .wp-list-table tbody tr{
+            &:hover{
+                box-shadow: inset 1px 0 0 rgb(255 255 255 / 20%), inset -1px 0 0 rgb(255 255 255 / 20%), 0 0 4px 0 rgb(95 99 104 / 20%), 0 0 6px 2px rgb(95 99 104 / 20%);
+                position: relative;
+                z-index: 2;
+                cursor: pointer;
+            }
+
+            td {
+                vertical-align:middle;
+            }
+        }
+	
+		.entries {
+			.wp-list-table {
+				tbody tr{
+					background-color: #f6f7f7;
+					//box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.06), 0px 1px 3px rgba(0, 0, 0, 0.1);
+					&.unread {
+						background-color: #ffffff;
+						td {
+							color:$gfp_heading_color;
+						}
+					}
+	
+					td {
+						color:$gfp_body_color;
+					}
+
+                    .check-column, .column-status , .column-entry_action {
+                        &:hover{
+                            position: relative;
+                            z-index: 9;
+                        }
+
+                        svg:hover{
+                            box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1);
+                        }
+                    }
+     
+                    .check-column input:hover, .column-status:hover .status-title-icon-wrapper{
+                        border-color: $gfp_wp_primary_color;
+                        box-shadow: 0 0 0 1px $gfp_wp_primary_color;
+                        outline: 1px solid transparent;
+                    }
+
+                    a:hover{
+                        text-decoration-line: underline;
+                        text-underline-offset: 2px;
+                    }
+                    
+				}
+			}
+		}
+	}
+
+    /* gfp dasboard basic*/
+    .gutena-forms-dashboard {
+        &.gf-basic{
+            .gutena-forms-modal-btn{
+                text-decoration-line: none;
+                .no-panel-section .title{
+                    display: flex;
+                    gap: 0.5rem;
+                    align-items: baseline;
+                }
+            }
+    
+            .components-panel__body-title .components-button {
+                align-items: baseline;
+                .gf-lock-svg{
+                    margin-left: 0.5rem;
+                }
+            }
+    
+            .gfp-settings-section, .notes-section .components-button{
+                opacity: 0.5;
+            }
+        }
+
+        .tablenav{
+            margin-top: 0;
+        }
+
+        /*button*/
+        .gf-btn-group{
+            display: flex;
+            gap: 1rem;
+        }
+
+        /*Button*/
+        .gf-introduction-page, .gf-btn-group {
+            .components-button{
+                border-radius: 5px;
+                font-size: 16px;
+                font-weight: 600;
+                padding: 0.7rem 1.3rem;
+    
+                &.gf-primary-btn{
+                    background-color: $gfp_primary_color;
+                }
+    
+                &.gf-dark-btn{
+                    background-color: $gfp_heading_color;
+                }                
+            }
+        }
+        
+
+        /* Introduction page*/
+        .gf-introduction-page{
+            
+            .gf-container{
+                max-width: 1150px;
+                margin: auto;
+                padding: clamp(5.5rem, 5.5rem + ((1vw - 0.48rem) * 3.846), 7.5rem) 1rem;
+            }
+            /*Flex*/
+            .gf-flex{
+                display: flex;
+                gap: 2rem;
+                flex-wrap: wrap;
+                justify-content: center;
+                &.equal-length > div {
+                    -ms-flex: 1; /* IE 10 */
+                    flex: 1;
+                }
+            }
+
+            /*title*/
+            .gf-title{
+                font-size: 2rem;
+                line-height: 1.3;
+                font-weight: 600;
+                color: $gfp_heading_color;
+                margin: 1.5rem 0;
+            }
+
+            /*description*/
+            .gf-description{
+                font-size: 15px;
+                line-height: 1.6;
+                font-weight: 400;
+                color: $gfp_body_color;
+            }
+
+            
+
+            /*Welcome section*/
+            .gutena-forms-welcome-section{
+                background-color: $gfp_white_color;
+                .gf-right-section{
+                    max-width: 432px;
+                }
+
+                .gf-btn-group{
+                    margin-top: 1.5rem;
+                }
+            }
+
+            /*Features section*/
+            .gutena-forms-features-section{
+                background-color: $gfp_secondary_color;
+                text-align: center;
+                .gf-flex{
+                    gap: 1.7rem;
+                }
+                .gf-title{
+                    margin: 0 0 3.5rem 0;
+                }
+
+                .gf-feature-card{
+                    border-radius: 10px;
+                    background: $gfp_white_color;
+                    box-shadow: 0px 25px 60px 0px rgba(0, 0, 0, 0.10);
+                    padding: 44px 32px 45px 32px;
+                    box-sizing: border-box;
+                    position: relative;
+                    width: 350px;
+                    height: 290px;
+                    .gf-pro-tag{
+                        position: absolute;
+                        top: 10px;
+                        right: 10px;
+                        padding: 2px 7px;
+                        font-size: 11px;
+                        font-weight: 400;
+                        border-radius: 50px;
+                        background-color: $gfp_orange_color;
+                        color: $gfp_white_color;
+                    }
+
+                    .gf-title{
+                        font-size: 18px;
+                        margin: 28px 0 10px 0;
+                    }
+                    .gf-description{
+                        font-size: 16px;
+                        font-weight: 400;
+                    }
+                }
+            }
+
+            /*Fields section*/
+            .gutena-forms-fields-section{
+                background-color: #015D61;
+                text-align: center;
+                .gf-flex{
+                    gap: 1.7rem;
+                }
+                h2.gf-title{
+                    color: $gfp_white_color
+                }
+
+                .gf-title{
+                    margin: 0 0 3.5rem 0;
+                }
+
+                .gf-feature-card{
+                    border-radius: 10px;
+                    background: $gfp_white_color;
+                    box-shadow: 0px 6px 40px 10px rgba(33, 37, 71, 0.08);
+                    padding: 35px 15px;
+                    box-sizing: border-box;
+                    position: relative;
+                    width: 150px;
+                    height: 150px;
+                    .gf-pro-tag{
+                        position: absolute;
+                        top: 10px;
+                        right: 10px;
+                        padding: 2px 7px;
+                        font-size: 11px;
+                        font-weight: 400;
+                        border-radius: 50px;
+                        background-color: $gfp_orange_color;
+                        color: $gfp_white_color;
+                    }
+
+                    .gf-title{
+                        font-size: 1rem;
+                        margin-top: 0.8rem;
+                        line-height: 1.5;
+                    }
+                }
+            }
+
+            /*Pricing section*/
+            .gutena-forms-pricing-section{
+                background-color: $gfp_secondary_color;
+                text-align: center;
+                color: $gfp_heading_color;
+
+                h3.gf-description{
+                    font-size: 17px;
+                    color: $gfp_heading_color;
+                    margin: 0 0 3.5rem 0;
+                }
+
+                .gf-flex{
+                    gap: 1.7rem;
+                }
+
+                .gf-feature-card{
+                    border-radius: 10px;
+                    background: $gfp_white_color;
+                    box-shadow: 0px 5px 20px 0px rgba(33, 37, 71, 0.10);
+                    padding: 25px 30px 25px 30px;
+                    box-sizing: border-box;
+                    position: relative;
+                    width: 279px;
+                    height: 455px;
+                    
+                    .gf-title{
+                        font-size: 16px;
+                        margin: 0;
+                        color: $gfp_primary_color;
+                    }
+
+                    .gf-pricing{
+                        display: flex;
+                        gap: 0.5rem;
+                        justify-content: center;
+                        align-items: baseline;
+                        .gf-price{
+                            font-size: 44px;
+                            font-weight: 600;
+                            margin: 0.5rem 0 0.8rem 0;
+                        }
+                        .gf-bill-frequency{
+                            font-size: 14px;
+                        }
+                    }
+                    
+
+                    .gf-description{
+                        font-size: 14px;
+                        font-weight: 600;
+                        line-height: 1.5;
+                        color: $gfp_heading_color;
+                        padding: 3px 15px;
+                        border-radius: 100px;
+                        background: #FFE1AB;
+                    }
+
+                    .gf-features-list{
+                        padding: 0.3rem 0 0.2rem 0;
+
+                        li{
+                            display: flex;
+                            font-size: 14px;
+                            padding: 0.7rem 0;
+                            border-bottom: 1px solid rgba(44, 51, 56, 0.1);
+                            &:last-child{
+                                border-bottom: none;
+                            }
+
+                            .gf-icon{
+                                padding: 3px 8px 0 0;
+                            }
+                            
+                        }
+                        
+                    }
+
+                    .gf-primary-btn{
+                        justify-content: center;
+                        width: 100%;
+                    }
+                }
+            }
+
+            /* FAQ section */
+            .gutena-forms-faq-section{
+                background-color: $gfp_secondary_color;
+                text-align: center;
+                color: $gfp_heading_color;
+                .gf-container{
+                    max-width: 900px;
+                    padding-top: 0;
+                }
+
+                .gf-title{
+                    margin: 0 0 3.5rem 0;
+                }
+
+                .gf-accordions{
+                    display: flex;
+                    flex-direction: column;
+                    gap: 1.25rem;
+
+                    .gf-accordions-panel{
+                        border-radius: 5px;
+                        border: 1px solid #E0E8E6;
+                        padding: 1.5rem;
+                        background-color: $gfp_white_color;
+
+                    }
+
+                    .gf-title-icon{
+                        display: flex;
+                        justify-content: space-between;
+                        cursor: pointer;
+                        .gf-title{
+                            font-size: 16px;
+                            margin: 0;
+                        }
+                        transition: 0.4s;
+                    }
+
+                    .gf-description{
+                        text-align: left;
+                        max-width: 756px;
+                        max-height: 0;
+                        overflow: hidden;
+                        transition: max-height 0.2s ease-out;
+                        p{
+                            font-size: 1rem;
+                            padding-top: 0.2rem;
+                            color: $gfp_body_color;
+                        }
+                    }
+                }
+
+                .gf-contact-sales{
+                    font-size: 1rem;
+                    color: $gfp_heading_color;
+                    line-height: 1.6;
+                    padding-top: 60px;
+                    a{
+                        font-size: 17px;
+                        font-weight: 600;
+                        color: $gfp_heading_color;
+                    }
+                }
+            }
+        }
+
+        /*Knowledge base page */
+        #gfp-page-doc{
+            background: $gfp_secondary_color;
+            padding: 2rem 0;
+            .gutena-forms-knowledge-base {
+                margin: auto;
+                max-width: 900px;
+                background: $gfp_white_color;
+                padding: 2.5rem 2.875rem;
+    
+                .gutena-title {
+                    font-size: 1.8rem;
+                    font-weight: 600;
+                    margin-bottom: 2rem;
+                }
+
+                .gutena-docs {
+                    margin-bottom: 30px;
+                    padding-bottom: 30px;
+                    border-bottom: 1px solid rgba(33, 34, 47, .1);
+    
+                    .gutena-topics {
+                        .gutena-topic {
+                            margin-bottom: 1rem;
+                            &::marker {
+                                color: $gfp_heading_color;
+                                font-weight: 600;
+                                font-size: 1rem;
+                                line-height: 1.6;
+                            }
+                            a {
+                                color: $gfp_heading_color;
+                                font-weight: 600;
+                                font-size: 1rem;
+                                line-height: 1.6;
+                                text-decoration-line: none;
+                            }
+                        }
+                    }
+                }
+    
+                .gutena-support {
+                    margin-bottom: 35px;
+                    padding-bottom: 35px;
+                    border-bottom: 1px solid rgba(33, 34, 47, .1);
+    
+                    .gutena-buttons {
+                        display: flex;
+                        gap: 21px;
+                        
+                        a:visited {
+                            color: $gfp_white_color;
+                        }
+                    }
+                    
+                    .gutena-details {
+                        max-width: 321px;
+                        .gutena-title {
+                            margin-bottom: 1rem;
+                        }
+                        .gutena-description {
+                            padding-bottom: 2rem;
+                            margin: 0;
+                            font-size: 17px;
+                            line-height: 1.8;
+                            color: $gfp_body_color;
+                        }
+                    }
+                }
+    
+                .gutena-changelog {
+                    white-space: pre;
+    
+                    .gutena-details {
+                        .gutena-title {
+                            margin-bottom: 30px;
+                        }
+    
+                        .gutena-description 
+                        {
+                            font-size: 15px;
+                            color: $gfp_body_color;
+                            line-height: 1.6;
+                            .version {
+                                display: block;
+                                color:$gfp_heading_color;
+                                font-weight: 600;
+                                font-size: 18px;
+                                padding-top: 25px;
+                                border-top: 1px solid rgba(33, 34, 47, .1);
+        
+                                &:first-of-type {
+                                    padding: 0;
+                                    border: 0;
+                                }
+                            }
+                        }
+                        
+                    }
+                }
+
+                .gf-btn-group .components-button{
+                    padding: 1.5rem 1.2rem;
+                }
+            }
+        }
+        
+    }
+
+	.gutena-forms-modal {
+		display: none; 
+		position: fixed; 
+		z-index: 999999;
+		padding-top: 100px; 
+		left: 0;
+		top: 0;
+		width: 100%; 
+		height: 100%; 
+		overflow: auto; 
+		background-color: rgb(0,0,0); 
+		background-color: rgba(0,0,0,0.4);
+		.gf-close-btn{
+			color: $gfp_heading_color;
+			float: right;
+			font-size: 28px;
+			font-weight: bold;
+			position: relative;
+			top: 0;
+			right: 0;
+			&:hover, &:focus {
+			  color: #000;
+			  text-decoration: none;
+			  cursor: pointer;
+			}
+		}
+
+		.gutena-forms-modal-content{
+			background-color: #fefefe;
+			position: relative;
+			margin: auto;
+			padding: 20px;
+			border: 1px solid #888;
+			width: 58%;
+			height: 75%;
+			.gf-header {
+				.gf-title{
+					font-size: 1.125rem;
+					line-height: 1.3;
+					font-weight: 600;
+				}
+				.gf-action {
+					display: none;
+					.gf-action-btn {
+						color: #1F7CBC;
+						font-size: 14px;
+						line-height: 1.2;
+						display: flex;
+						padding: 2px 1px 2px 7px;
+						border: 1px solid #1F7CBC;
+						border-radius: 5px;
+						&::after{
+							content: " ";
+							width: 1.25rem;
+							padding-left: 5px;
+							padding-right: 1px;
+							background: #fff url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%2220%22%20height%3D%2220%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M5%206l5%205%205-5%202%201-7%207-7-7%202-1z%22%20fill%3D%22%23555%22%2F%3E%3C%2Fsvg%3E') no-repeat right 5px top 55%;
+							background-size: 16px 16px;
+							vertical-align: middle;
+						}
+					}
+					
+					.gf-action-content{
+						position: absolute;
+						right: 50px;
+						margin-top: 10px;
+					}
+				}
+			}
+			.gf-body{
+				padding: 2rem 0;
+				max-height: 60vh;
+    			overflow-y: auto;
+			}
+			.gf-row {
+				display: flex;
+				padding: 0.5rem 1rem 0.5rem 0;
+				margin: 0;
+				gap:1.5rem;
+				color: $gfp_body_color;
+				.gf-field-label{
+					color: $gfp_heading_color;
+					display: flex;
+					justify-content: space-between;
+					min-width: 5rem;
+				}
+				
+			}
+		}
+		
+	}
+
+    .gf-small-modal{
+        .gutena-forms-modal-content{
+            width: 337px;
+            height: 163px;
+            background-color: #1D2327;
+            color:#fff;
+            padding: 20px;
+            box-sizing: border-box;
+
+            .gf-header {
+				.gf-title{
+					font-size: 15px;
+					line-height: 1.6;
+					font-weight: 600;
+				}
+			}
+
+            .gf-close-icon {
+                color: #ffffff;
+                float: right;
+                font-size: 25px;
+                font-weight: 400;
+                position: relative;
+                top: -25px;
+                right: -5px;
+            }
+
+            .gf-body{
+                padding: 0;
+                .gf-description{
+                    font-size: 14px;
+                    font-weight: 500;
+                    line-height: 1.3;
+                    max-width: 270px;
+                    color: #888;
+                }
+                .gf-action-btns{
+                    display: flex;
+                    gap: 0.5rem;
+                    margin-top: 2rem;
+                }
+
+                .gf-pro-btn{
+                    max-width: 220px;
+                }
+                .gf-pro-btn, .gf-entry-delete-btn, .gf-btn.gf-close-btn{
+                    font-size: 15px;
+                    line-height: 1.2;
+                    padding: 6px 12px;
+                }
+
+                .gf-btn.gf-close-btn{
+                    background: #ffffff;
+                    max-width: 50px;
+                    color: #000000;
+                }
+
+                .gf-entry-delete-btn{
+                    background: #E83737;
+                    max-width: 50px;
+                    color: #ffffff;
+                }
+
+                
+            }
+        }
+    }
+
+}
+
+/*gfp start*/
+.toplevel_page_gutena-forms{
+    .gfp-notice{
+        display: block;
+        margin: 1.25rem 0;
+    }
+    #wpfooter{
+        display: none;
+    }
+    #wpbody-content{
+        padding: 0;
+    }
+    
+    .gutena-forms-dashboard {
+        font-size: 14px;
+        line-height: 1.6;
+        .gf-header {
+            /*Logo*/
+            a{
+                line-height: 1;
+            }
+
+            /*Navigation*/
+            .gfp-dashboard-navigation {
+                ul {
+                    list-style: none;
+                    display: flex;
+                    margin: 0;
+                    padding-left: 0.8rem;
+                    li{
+                        padding: 1rem 0rem;
+                        border-left: 1px solid $gfp_border_color;
+                        margin-bottom: 0;
+                        &.active{
+                            color: $gfp_primary_color;
+                            border-bottom: 2px solid $gfp_primary_color;
+                        }
+
+                        a {
+                            padding: 1rem 1.5rem;
+                            font-size: 15px;
+                            line-height: 1.3;
+                            font-weight: 600;
+                            text-decoration-line: none ;
+                            outline: none;
+                            color:$gfp_heading_color;
+                            -webkit-tap-highlight-color: transparent;
+                            &:focus{
+                                outline: none !important;
+                                box-shadow: none;
+                            }
+                        }
+                       
+                    }
+                }
+            }
+        }
+        /*breadcrumb*/
+        #gfp-page-breadcrumb{
+            display: flex;
+            gap: 0.5rem;
+            align-items: center;
+            padding: 1.2rem 0.8rem;
+            border-bottom: 1px solid rgba(44, 51, 56, 0.1);
+            font-size: 14px;
+            font-weight: 600;
+            a {
+                text-decoration: none;
+            }
+        }
+
+        .widefat .check-column {
+            width: 7em;
+        }
+
+        .title, .components-panel__body-toggle.components-button{
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 1.3;
+            margin-top: 0;
+        }
+
+        /*Entries table top navigation and filter */
+        .entries-filter-wrapper{
+            display: flex;
+            justify-content: space-between;
+            .gfp-entries-table-filter {
+                display: flex;
+                gap: 0.8rem;
+                align-items: center;
+            }
+        }
+
+        .table_list_id_checkbox{
+            display: flex;
+            gap: 1.1875rem;
+            align-items: center;
+            .starred-form-entry{
+                cursor: pointer;
+                .star, .unstar {
+                    display: none;
+                }
+                &.star .star, &.unstar .unstar {
+                    display: inline-block;
+                }
+            } 
+
+            
+        }
+
+        .gfp-entries-status{
+            position: relative;
+            .status-title-icon-wrapper{
+                cursor: pointer;
+                display: flex;
+                justify-content: space-between;
+                border: 1px solid #50575E;
+                border-radius: 5px;
+                width: 120px;
+                max-width: 120px;
+                .status-title{
+                    color: $gfp_heading_color;
+                    padding: 4px 5px;
+                }
+                .status-change-icon {
+                    width: 1.25rem;
+                    padding-left: 5px;
+                    padding-right: 1px;
+                    background: $gfp_white_color url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%2220%22%20height%3D%2220%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M5%206l5%205%205-5%202%201-7%207-7-7%202-1z%22%20fill%3D%22%23555%22%2F%3E%3C%2Fsvg%3E') no-repeat right 5px top 55%;
+                    background-size: 16px 16px;
+                    vertical-align: middle;
+                    border-top-right-radius: 5px;
+                    border-bottom-right-radius: 5px;
+                }
+            }
+
+            ul.gfp-dropdown-content {
+                list-style-type: none;
+                margin: 0;
+                padding: 10px 5px;
+                width: 100px;
+                border: 1px solid;
+                position: absolute;
+                z-index: 9;
+                background: $gfp_white_color;
+
+                li{
+                    cursor: pointer;
+                    &:hover{
+                        background-color: #f6f7f7;
+                    }
+                }
+            }
+
+        }
+
+        /*Count entries, next and previous entry*/
+        .entries-navigation{
+            display: flex;
+            gap: 14px;
+            padding: 1rem 0 2rem 0;
+            .entries-count{
+                font-weight: 600;
+                font-size: 18px;
+                line-height: 1.3;
+                color:$gfp_heading_color;
+            }
+
+            a{
+                text-decoration: none;
+                height: 24px;
+                &:hover svg{
+                    stroke:$gfp_primary_color;
+                }
+            }
+        }
+
+        .gfp-entry-page{
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-grow: 1;
+            overflow: auto;
+            overscroll-behavior-y: none;
+            
+            .left-section{
+                width: 75%;
+            }
+            .right-section{
+                width: 25%;
+                border-left: 1px solid #e0e0e0;
+            }
+            .left-section, .right-section{ 
+                background-color: $gfp_white_color;
+                display: flex;
+                flex-direction: column;
+                flex-grow: 1;
+                height: 87vh;
+                overflow: auto;
+                // display: flex;
+                // flex-direction: column;
+                // gap: 1.8rem;
+            }
+            .gfp-section{
+                background-color: #fefefe;
+                padding: 1.5rem;
+                margin: 0;
+            }
+            .no-panel-section{
+                padding: 1.4rem;
+            }
+            .view-section{
+                .gfp-row{
+                    display: flex;
+                    padding: 0.5rem 1rem 0.5rem 0;
+                    margin: 0;
+                    gap:2rem;
+                    color: $gfp_body_color;
+                    .gfp-field-label{
+                        color: $gfp_heading_color;
+                        display: flex;
+                        justify-content: space-between;
+                        min-width: 8rem;
+                    }
+                }
+            }
+
+            .details-section, .related-section {
+                .title {
+                    margin: 0;
+                }
+                ul {
+                    display: flex;
+                    flex-direction: column;
+                    gap: 0.8rem;
+                    
+                    li {
+                        display: flex;
+                        gap: 0.7rem;
+                        line-height: 1.3;
+                        
+                        .icon{
+                            padding-top: 3px;
+                        }
+                        .label {
+                            color:$gfp_body_color;
+                            white-space: nowrap;
+                        }
+                        .description{
+                            color:$gfp_heading_color;
+                            font-weight: 500;
+                        }
+                    }
+                }
+                
+            }
+
+            .related-section {
+                color:$gfp_body_color;
+                .details{
+                    max-height: 200px;
+                    overflow-y: auto;
+                }
+            }
+
+            .notes-section {
+                border-top: 1px solid #CDCDCD;
+                .add-notes-form{
+                    padding: 1.5rem 0;
+                }
+                .add-notes-form-action-btns{
+                    display: flex;
+                    gap: 0.5rem;
+                }
+                .gfp-entries-notes {
+                    display: flex;
+                    flex-direction: column;
+                    max-height: 500px;
+                    overflow-y: auto;
+                    padding-top: 1.25rem;
+                    gap: 1.25rem;
+                    .gfp-notice-box {
+                        background: #F5FBFE;
+                        border: 1px solid #DFECF7;
+                        border-radius: 5px;
+                        padding: 1.25rem;
+                        width: fit-content;
+                        .author-name{
+                            color:$gfp_primary_color;
+                        }
+
+                        .notice-content{
+                            padding: 0.8rem 0;
+                        }
+
+                        .notice-action{
+                            display: flex;
+                            .notice-delete{
+                                cursor: pointer;
+                                color: $gfp_red_color;
+                            }
+                        }
+                    }
+                }
+            }
+
+            .tags-section {
+                .components-form-token-field__label {
+                    display: none;
+                }
+            }
+
+        }
+
+        /*Setting page*/
+        .gfp-settings-page {
+            margin-bottom: 1.5rem;
+            padding-right: 1.25rem;
+            padding-left: 1.25rem;
+            .gfp-tab-panel {
+                .components-tab-panel__tabs-item{
+                    height: 5rem;
+                    font-size: 15px;
+                    &.active-tab, &:hover{
+                        color:$gfp_primary_color;
+                    }
+                }
+                .components-tab-panel__tab-content{
+                    background-color: $gfp_white_color;
+                    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.06), 0px 1px 3px rgba(0, 0, 0, 0.1);
+                    padding: 2rem;
+                    box-sizing: border-box;
+                    height: 70vh;
+                    overflow-y: auto;
+                    overflow-x: hidden;
+                    .title {
+                        font-size: 1.25rem;
+                        line-height: 1.2;
+                        color: $gfp_heading_color;
+                        font-weight: 600;
+                        margin-top: 0;
+                        margin-bottom: 1rem;
+                    }
+                    .description{
+                        color: $gfp_body_color;
+                        margin-bottom: 1.5rem;
+                    }
+
+                    .gfp-settings-section{
+                        width: 35%;
+                        .status-tool-panel{
+                            border: 0;
+                            grid-template-columns: 1fr;
+                            padding-left: 0;
+                        }
+                        .tag-list{
+                            display: flex;
+                            flex-direction: column;
+                            gap:1.25rem;
+                            padding-bottom: 1rem;
+                            .delete-btn{
+                                padding: 14px 15px;
+                            }
+                        }
+                    }
+
+                    .action-row{
+                        &.unread, &.read {
+                            .components-base-control__field .components-text-control__input {
+                                border-right: $gfp_input_border;
+                            }
+                            .block-editor-tools-panel-color-gradient-settings__item .block-editor-panel-color-gradient-settings__dropdown{
+                                padding-right: 19px;
+                            }
+                        }
+                        border: $gfp_input_border;
+                        .block-editor-tools-panel-color-gradient-settings__item{
+                            border: none;
+                            border-right: $gfp_input_border;
+                           
+                            .block-editor-panel-color-gradient-settings__dropdown{
+                                padding-right: 25px;
+                            }
+                            
+                        }
+                        .components-base-control{
+                            width: 100%;
+                        }
+                        .components-base-control__field {
+                            margin: 0;
+                            .components-text-control__input{
+                                min-height: 40px;
+                                font-size: 14px;
+                                line-height: 1.4;
+                                border: none;
+                            }
+                        }
+                        .delete-btn{
+                            border-left:$gfp_input_border;
+                            padding-right: 15px;
+                            padding-left: 15px;
+                            height: 100%;
+                            font-size: 14px;
+                            line-height: 1.4;
+                        }
+                    }
+
+                    .add-save-row{
+                        max-width: 500px;
+                        padding-top: 1.5rem;
+                        display: flex;
+                        flex-direction: column;
+                        gap: 1.5rem;
+                        .components-button{
+                            border-radius: 5px;
+                        }
+                        .save-btn{
+                            width: 125px;
+                            height: 40px;
+                            font-size: 15px;
+                            justify-content: center;
+                        }
+
+                        
+                    }
+                    
+                    /*User Access Tab*/
+                    .user-acess{
+                        margin-top: 2rem;
+                        padding-bottom: 1rem;
+                        display: flex;
+                        flex-direction: column;
+                        gap: 1rem;
+                        max-height: 250px;
+                        max-width: 250px;
+                        overflow-y: auto;
+                        .username-role-row{
+                            padding-bottom: 0.5rem;
+                            .username {
+                                font-weight: 500;
+                            }
+                            .description {
+                                font-weight: 400;
+                            }
+                        }
+                    }
+                }
+            }
+            
+        }
+    }
+}

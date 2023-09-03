@@ -1,0 +1,206 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "gutena/forms",
+  "version": "1.0.0",
+  "title": "Form",
+  "category": "gutena",
+  "icon": "feedback",
+  "description": "Light-weight forms inside the block editor",
+  "keywords": [
+    "form",
+    "block",
+    "contact form",
+    "form block",
+    "forms"
+  ],
+  "attributes": {
+    "formID": {
+      "type": "string",
+      "default": ""
+    },
+    "formName": {
+      "type": "string",
+      "default": "Contact Form"
+    },
+    "formClasses": {
+      "type": "string",
+      "default": ""
+    },
+    "showLabel": {
+      "type": "boolean",
+      "default": true
+    },
+    "showLabelHorizontally": {
+      "type": "boolean",
+      "default": false
+    },
+    "inputLabelGap": {
+      "type": "string",
+      "default": "10px"
+    },
+    "inputBgColor": {
+      "type": "string",
+      "default": "transparent"
+    },
+    "inputBorderWidth": {
+      "type": "string",
+      "default": "1px"
+    },
+    "inputBorderRadius": {
+      "type": "string",
+      "default": "0px"
+    },
+    "inputBorderColor": {
+      "type": "string",
+      "default": ""
+    },
+    "inputFocusBorderColor": {
+      "type": "string",
+      "default": ""
+    },
+    "inputBottomBorderOnly": {
+      "type": "boolean",
+      "default": false
+    },
+    "labelTypography": {
+      "type": "object",
+      "default": {
+        "fontSize": "1rem",
+        "lineHeight": "",
+        "fontWeight": "400"
+      }
+    },
+    "labelColor": {
+      "type": "string",
+      "default": ""
+    },
+    "placeholderTypography": {
+      "type": "object",
+      "default": {
+        "fontSize": "13px",
+        "lineHeight": "",
+        "fontWeight": "400"
+      }
+    },
+    "placeholderColor": {
+      "type": "string",
+      "default": "#808080"
+    },
+    "afterSubmitAction": {
+      "type": "string",
+      "default": "message"
+    },
+    "afterSubmitHide": {
+      "type": "boolean",
+      "default": false
+    },
+    "redirectUrl": {
+      "type": "string",
+      "default": ""
+    },
+    "adminEmails": {
+      "type": "string",
+      "default": ""
+    },
+    "replyToName": {
+      "type": "string",
+      "default": ""
+    },
+    "replyToEmail": {
+      "type": "string",
+      "default": ""
+    },
+    "adminEmailSubject": {
+      "type": "string",
+      "default": ""
+    },
+    "emailNotifyAdmin": {
+      "type": "boolean",
+      "default": true
+    },
+    "emailNotifyUser": {
+      "type": "boolean",
+      "default": false
+    },
+    "userEmailSubject": {
+      "type": "string",
+      "default": ""
+    },
+    "userEmailTemplate": {
+      "type": "string",
+      "default": ""
+    },
+    "adminEmailTemplate": {
+      "type": "string",
+      "default": ""
+    },
+    "messages": {
+      "type": "object",
+      "default": {
+        "requiredField": "",
+        "incorrectEmail": ""
+      }
+    },
+    "description": {
+      "type": "string",
+      "default": ""
+    },
+    "settings": {
+      "type": "object",
+      "default": {}
+    },
+    "formStyle": {
+      "type": "string",
+      "default": ""
+    },
+    "recaptcha": {
+      "type": "object",
+      "default": {
+        "enable": false,
+        "type": "v3",
+        "site_key": "",
+        "secret_key": "",
+        "thresholdScore": "0.50"
+      }
+    }
+  },
+  "providesContext": {
+    "gutena-forms/formID": "formID"
+  },
+  "supports": {
+    "__experimentalSettings": true,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "color": {
+      "background": true,
+      "text": true
+    },
+    "__experimentalBorder": {
+      "color": true,
+      "radius": true,
+      "style": true,
+      "width": true,
+      "__experimentalDefaultControls": {
+        "color": true,
+        "radius": true,
+        "style": true,
+        "width": true
+      }
+    },
+    "spacing": {
+      "margin": true,
+      "padding": true,
+      "blockGap": true
+    },
+    "html": false,
+    "__experimentalLayout": true
+  },
+  "textdomain": "gutena-forms",
+  "editorScript": "file:./index.js",
+  "script": "file:./script.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}
