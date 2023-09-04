@@ -1,0 +1,1 @@
+<div class="ec_admin_settings_input ec_admin_settings_third_party_section ec_admin_settings_<?php if( get_option('ec_option_payment_third_party') == "custom_thirdparty" ){ ?>show<?php }else{?>hide<?php }?>" id="custom_thirdparty"></div>

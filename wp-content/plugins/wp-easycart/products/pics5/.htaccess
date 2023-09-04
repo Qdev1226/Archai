@@ -1,0 +1,8 @@
+# BEGIN ImageResizing
+<ifmodule mod_rewrite.c>
+RewriteEngine on
+
+RewriteRule ^(.*)(thumb_)([0-9]+)_([0-9]+)_(.*)$ images.php?max_width=$3&max_height=$4&imgfile=$5
+
+</ifmodule>
+# END ImageResizing

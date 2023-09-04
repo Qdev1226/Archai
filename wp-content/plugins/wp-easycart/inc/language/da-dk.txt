@@ -1,0 +1,3290 @@
+{
+    "label": "DK Danish",
+    "options": {
+        "sort_bar": {
+            "label": "Product Page Sort Menu",
+            "options": {
+                "sort_by_price_low": {
+                    "title": "Product Page Sort Box Item 1",
+                    "value": "Pris lav-høj"
+                },
+                "sort_by_price_high": {
+                    "title": "Product Page Sort Box Item 2",
+                    "value": "Pris høj-lav"
+                },
+                "sort_by_title_a": {
+                    "title": "Product Page Sort Box Item 3",
+                    "value": "Navn A_Z"
+                },
+                "sort_by_title_z": {
+                    "title": "Product Page Sort Box Item 4",
+                    "value": "Navn Z_A"
+                },
+                "sort_by_newest": {
+                    "title": "Product Page Sort Box Item 5",
+                    "value": "Nyeste"
+                },
+                "sort_by_rating": {
+                    "title": "Product Page Sort Box Item 6",
+                    "value": "Bedste bedømmelse"
+                },
+                "sort_by_most_viewed": {
+                    "title": "Product Page Sort Box Item 7",
+                    "value": "Mest set"
+                },
+                "sort_default": {
+                    "title": "Product Page Sort Box Default",
+                    "value": "Standard sortering"
+                },
+				"sort_by_oldest":{
+					"title":"Product Page Sort Box Item 8",
+					"value":"Ældste"
+				}
+            }
+        },
+        "product_page": {
+            "label": "Product Page",
+            "options": {
+                "product_quick_view": {
+                    "title": "Product Quick View Label",
+                    "value": "Quickview"
+                },
+                "product_design_now": {
+                    "title": "Product Design Now Label",
+                    "value": "DESIGN NU"
+                },
+                "product_no_results": {
+                    "title": "Product Page No Results",
+                    "value": "Ingen resultater fundet"
+                },
+                "product_items_per_page": {
+                    "title": "Product Page Items per Page",
+                    "value": "Varer per linie:"
+                },
+                "product_paging_page": {
+                    "title": "Product Page Page in Page a of b",
+                    "value": "Side"
+                },
+                "product_paging_of": {
+                    "title": "Product Page of in Page a of b",
+                    "value": "af"
+                },
+                "product_showing": {
+                    "title": "Product Page Num Results Showing",
+                    "value": "Viser"
+                },
+                "product_all": {
+                    "title": "Product Page Num Results all",
+                    "value": "alle"
+                },
+                "product_results": {
+                    "title": "Product Page Num Results",
+                    "value": "resultater"
+                },
+                "product_view_cart": {
+                    "title": "Product Page View Cart",
+                    "value": "Se kurven"
+                },
+                "product_product_added_note": {
+                    "title": "Product Page Added to Cart Note",
+                    "value": "Varen er lagt i din kurv"
+                },
+                "product_product_view_per_page": {
+                    "title": "Product Page View in Per Page",
+                    "value": "Vis"
+                },
+                "product_page_restricted_line_1": {
+                    "title": "Restricted Product Line 1",
+                    "value": "FRI TILGANG ER IKKE TILLADT FOR DENNE BUTIK"
+                },
+                "product_page_restricted_line_2": {
+                    "title": "Restricted Product Line 2 Prior to Link",
+                    "value": "Log ind eller opret en konto"
+                },
+                "product_page_restricted_link_text": {
+                    "title": "Restricted Product Link Text",
+                    "value": "klik her"
+                },
+                "product_page_restricted_line_3": {
+                    "title": "Restricted Product Line 2 Post Link",
+                    "value": ". Din konto skal muligvis bekræftes, inden du får adgang til butikken."
+                },
+                "product_page_start_trial_1": {
+                    "title": "Start Your Trial Text Part 1",
+                    "value": "Start dine"
+                },
+                "product_page_start_trial_2": {
+                    "title": "Start Your Trial Text Part 2",
+                    "value": "dages prøve i dag!"
+                },
+                "product_inc_vat_text": {
+                    "title": "Including VAT Text",
+                    "value": "inkl MOMS"
+                },
+                "product_excluding_vat_text": {
+                    "title": "Excluding VAT Text",
+                    "value": "ekskl MOMS"
+                },
+                "product_page_notify_unsubscribe_success": {
+                    "title": "Product Notify Unsubscribe Success",
+                    "value": "Du modtager nu ikke længere notifikationer"
+                },
+                "product_page_login_for_price": {
+                    "title": "Product Login for Pricing",
+                    "value": "Login for at se priser"
+                },
+                "product_page_login_for_price_no_access": {
+                    "title": "Product Login for Pricing No Access",
+                    "value": "Priser er ikke tilgængelige"
+                },
+				"product_page_clear_filters":{
+					"title":"Clear Filters",
+					"value":"Ryd filtre"
+				},
+				"product_page_filters":{
+					"title":"Filters",
+					"value":"Filtre"
+				}
+            }
+        },
+        "quick_view": {
+            "label": "Quick View Panel",
+            "options": {
+                "quick_view_gift_card_message": {
+                    "title": "Gift Card Message Title",
+                    "value": "SÆRLIG MEDDELELSE"
+                },
+                "quick_view_gift_card_to_name": {
+                    "title": "Gift Card To Name Title",
+                    "value": "TIL"
+                },
+                "quick_view_gift_card_from_name": {
+                    "title": "Gift Card From Name Title",
+                    "value": "FRA"
+                },
+                "quick_view_quantity": {
+                    "title": "Quantity Title",
+                    "value": "ANTAL"
+                },
+                "quick_view_remaining": {
+                    "title": "label in x items remaining",
+                    "value": "resterende"
+                },
+                "quick_view_add_to_cart": {
+                    "title": "Add to Cart Button",
+                    "value": "LÆG I KURVEN"
+                },
+                "quick_view_select_options": {
+                    "title": "Product details missing options error text",
+                    "value": "Træf alle valg for dette produkt."
+                },
+                "quick_view_view_full_details": {
+                    "title": "Link Text View Full Product Details",
+                    "value": "Vis produkt detaljer"
+                }
+            }
+        },
+        "product_details": {
+            "label": "Product Details Page",
+            "options": {
+                "product_details_donation_label": {
+                    "title": "Your Donation Label",
+                    "value": "Din donation: "
+                },
+                "product_details_minimum_donation": {
+                    "title": "Your Donation Minimum Label",
+                    "value": "mindste gave:"
+                },
+                "product_details_gift_card_message": {
+                    "title": "Store Gift Card Message",
+                    "value": "Medsend en meddelelse"
+                },
+                "product_details_gift_card_to_name": {
+                    "title": "Gift Card To Name Title",
+                    "value": "TIL"
+                },
+                "product_details_gift_card_from_name": {
+                    "title": "Gift Card From Name Title",
+                    "value": "FRA"
+                },
+                "product_details_quantity": {
+                    "title": "Quantity Label",
+                    "value": "Antal"
+                },
+                "product_details_remaining": {
+                    "title": "x remaining",
+                    "value": "resterende"
+                },
+                "product_details_x_of_y": {
+                    "title": "page text divider",
+                    "value": "af"
+                },
+                "product_details_model_number": {
+                    "title": "model number text",
+                    "value": "model nummer"
+                },
+                "product_details_reduced_price": {
+                    "title": "reduced price text",
+                    "value": "REDUCERET PRIS - DU SPARER"
+                },
+                "product_details_description": {
+                    "title": "Description Title",
+                    "value": "Beskrivelse"
+                },
+                "product_details_customer_reviews": {
+                    "title": "Customer Reviews Title",
+                    "value": "Kunde anmeldelser"
+                },
+                "product_details_specifications": {
+                    "title": "Specifications Title",
+                    "value": "Specifikationer"
+                },
+                "product_details_customer_rating": {
+                    "title": "Customer Rating",
+                    "value": "Kunde vurdering "
+                },
+                "product_details_review_based_on": {
+                    "title": "Review Based ON",
+                    "value": "baseret på "
+                },
+                "product_details_review": {
+                    "title": "Review",
+                    "value": "anmeldelse"
+                },
+                "product_details_review_no_reviews": {
+                    "title": "Product Details, Customer Reviews, No Reviews",
+                    "value": "Der er endnu ingen anmeldelser, send din i boksen."
+                },
+                "product_details_add_to_cart": {
+                    "title": "Add to Cart button text",
+                    "value": "LÆG I KURVEN"
+                },
+                "product_details_added_to_cart": {
+                    "title": "Checkout Now button text",
+                    "value": "GÅ TIL KASSEN"
+                },
+                "product_details_select_options": {
+                    "title": "Select Options Button",
+                    "value": "Vælg"
+                },
+                "product_details_out_of_stock": {
+                    "title": "Out of Stock Text",
+                    "value": "UDSOLGT"
+                },
+                "product_details_sign_up_now": {
+                    "title": "Sign Up Now Text",
+                    "value": "REGISTRER DIG NU"
+                },
+                "product_details_inquiry_title": {
+                    "title": "Inquiry Title",
+                    "value": "Send forespørgsel"
+                },
+                "product_details_inquiry_error": {
+                    "title": "Inquiry Error Text",
+                    "value": "Udfyld venligst alle felter"
+                },
+                "product_details_inquiry_name": {
+                    "title": "Inquiry Name",
+                    "value": "*Dit navn:"
+                },
+                "product_details_inquiry_email": {
+                    "title": "Inquiry Email",
+                    "value": "*Din email:"
+                },
+                "product_details_inquiry_message": {
+                    "title": "Inquire Button Text",
+                    "value": "*Din meddelelse:"
+                },
+                "product_details_inquire": {
+                    "title": "Inquire Button Text",
+                    "value": "SEND FORESPØRGSEL"
+                },
+                "product_details_inquiry_send_copy": {
+                    "title": "Inquiry - Send Copy",
+                    "value": "Send mig en kopi"
+                },
+                "product_details_inquiry_thank_you": {
+                    "title": "Inquiry Thank You Note",
+                    "value": "Tak for din produkt forespørgsel. Vi svarer dig hurtigst muligt."
+                },
+                "product_details_minimum_quantity_text1": {
+                    "title": "Min Purchase Amount Text Part 1",
+                    "value": "Mindste køb på"
+                },
+                "product_details_minimum_quantity_text2": {
+                    "title": "Min Purchase Amount Text Part 2",
+                    "value": "er nødvendigt"
+                },
+                "product_details_maximum_quantity_text1": {
+                    "title": "Max Purchase Amount Text Part 1",
+                    "value": "Højeste tilladte salg er"
+                },
+                "product_details_maximum_quantity_text2": {
+                    "title": "Max Purchase Amount Text Part 2",
+                    "value": "."
+                },
+                "product_details_handling_fee_notice1": {
+                    "title": "One Time Handling Fee Part 1",
+                    "value": "*Et engangs gebyr på"
+                },
+                "product_details_handling_fee_notice2": {
+                    "title": "One Time Handling Fee Part 2",
+                    "value": "vil blive lagt til dine forsendelsesomkostninger."
+                },
+                "product_details_handling_fee_each_notice1": {
+                    "title": "Handling Fee Each Part 1",
+                    "value": "*Et gebyr på"
+                },
+                "product_details_handling_fee_each_notice2": {
+                    "title": "Handling Fee Each Part 2",
+                    "value": "per vare vil blive lagt til dine forsendelsesomkostninger ved betaling."
+                },
+                "product_details_signup_fee_notice1": {
+                    "title": "One Time Sign-up Fee Part 1",
+                    "value": "*Et engangs gebyr på"
+                },
+                "product_details_signup_fee_notice2": {
+                    "title": "One Time Sign-up Fee Part 2",
+                    "value": "vil blive lagt til din første betaling."
+                },
+                "product_details_home_link": {
+                    "title": "Home Breadcrumbs Link",
+                    "value": "Hjem"
+                },
+                "product_details_store_link": {
+                    "title": "Store Breadcrumbs Link",
+                    "value": "Butik"
+                },
+                "product_details_reviews_text": {
+                    "title": "Store Reviews Count",
+                    "value": "Anmeldelser"
+                },
+                "product_details_gift_card_recipient_name": {
+                    "title": "Store Gift Card To Name",
+                    "value": "Modtagers navn"
+                },
+                "product_details_gift_card_recipient_email": {
+                    "title": "Store Gift Card To Email",
+                    "value": "Modtagers email"
+                },
+                "product_details_gift_card_sender_name": {
+                    "title": "Store Gift Card Sender's Name",
+                    "value": "Afsenders navn"
+                },
+                "product_details_donation_amount": {
+                    "title": "Store Donation Amount",
+                    "value": "Gave beløb"
+                },
+                "product_details_loading_options": {
+                    "title": "Store Loading Options",
+                    "value": "Henter mulige valg"
+                },
+                "product_details_missing_option": {
+                    "title": "Store Missing Option",
+                    "value": "Manglende valg:"
+                },
+                "product_details_maximum_quantity": {
+                    "title": "Store Maximum Quantity Exceeded",
+                    "value": "Højeste antal overskredet"
+                },
+                "product_details_one_time_addition1": {
+                    "title": "Store One Time Addition 1",
+                    "value": "Et engangs gebyr på"
+                },
+                "product_details_one_time_addition2": {
+                    "title": "Store One Time Addition 2",
+                    "value": "vil blive lagt til din ordre."
+                },
+                "product_details_left_in_stock": {
+                    "title": "Store Left in Stock",
+                    "value": "På lager"
+                },
+				"product_details_search":{
+					"title":"Store Search",
+					"value":"Søg efter produkter..."
+				},
+                "product_details_categories": {
+                    "title": "Store Categories",
+                    "value": "Kategorier:"
+                },
+                "product_details_manufacturer": {
+                    "title": "Store Manufacturer",
+                    "value": "Leverandør:"
+                },
+                "product_details_related_products": {
+                    "title": "Store Related Products",
+                    "value": "Relaterede produkter"
+                },
+                "product_details_tier_buy": {
+                    "title": "Tiered Pricing buy x at y",
+                    "value": "Køb"
+                },
+                "product_details_tier_buy_at": {
+                    "title": "Tiered Pricing buy x at y",
+                    "value": "for"
+                },
+                "product_details_tier_or_more": {
+                    "title": "Tiered Pricing buy x or more",
+                    "value": "eller flere"
+                },
+                "product_details_tier_each": {
+                    "title": "Tiered Pricing buy x at y each",
+                    "value": "per stk."
+                },
+                "product_details_gift_card_error": {
+                    "title": "Gift Card Option Error Text",
+                    "value": "manglende gavekort valg"
+                },
+                "product_details_donation_error": {
+                    "title": "Donation Amount Error Text",
+                    "value": "Ugyldig gavebeløb angivet. Angiv venligst et beløb på mindst"
+                },
+                "product_details_your_price": {
+                    "title": "Your Price:",
+                    "value": "Din pris:"
+                },
+                "product_details_backorder_until": {
+                    "title": "Backorder UNTIL date, until",
+                    "value": "indtil"
+                },
+                "product_details_backordered": {
+                    "title": "BACKORDERED until date",
+                    "value": "I restordre"
+                },
+                "product_details_some_backordered": {
+                    "title": "Some BACKORDERED",
+                    "value": "Nogle varer er i restordre, kun"
+                },
+                "product_details_some_backordered_remaining": {
+                    "title": "Some BACKORDERED remaining",
+                    "value": "resterede."
+                },
+                "product_details_backordered_message": {
+                    "title": "Backordered message in cart",
+                    "value": "Nogle varer i din kurv er for øjeblikket udsolgt og i restordre."
+                },
+                "product_details_vat_included": {
+                    "title": "Including VAT",
+                    "value": "Inklusiv"
+                },
+                "product_details_vat_excluded": {
+                    "title": "Excluding VAT",
+                    "value": "Eksklusiv"
+                },
+                "product_details_backorder_button": {
+                    "title": "Backorder Button",
+                    "value": "BESTIL RESTORDRE NU"
+                },
+                "product_details_reviews_for_text": {
+                    "title": "Reviews for",
+                    "value": "Anmeldelse for"
+                },
+                "product_details_as_low_as": {
+                    "title": "As low as",
+                    "value": "Så lav som"
+                },
+                "product_details_subscription_day": {
+                    "title": "Subscription Day Label",
+                    "value": "dag"
+                },
+                "product_details_subscription_week": {
+                    "title": "Subscription Week Label",
+                    "value": "uge"
+                },
+                "product_details_subscription_month": {
+                    "title": "Subscription Month Label Short",
+                    "value": "mo"
+                },
+                "product_details_subscription_month_full": {
+                    "title": "Subscription Month Label Full",
+                    "value": "måneder"
+                },
+                "product_details_subscription_duration_divider": {
+                    "title": "Subscription duration limit dividing word",
+                    "value": "for"
+                },
+                "product_details_subscription_year": {
+                    "title": "Subscription Year Label",
+                    "value": "år"
+                },
+                "product_details_notify_subscribe_success": {
+                    "title": "Stock Notification Subscribe Success",
+                    "value": "Du modtager nu lager notifikationer om dette produkt!"
+                },
+                "product_details_notify_subscribe_title": {
+                    "title": "Stock Notification Subscribe Title",
+                    "value": "Send mail, når produktet bliver tilgængeligt"
+                },
+                "product_details_notify_subscribe_email_placeholder": {
+                    "title": "Stock Notification Subscribe Email Placeholder",
+                    "value": "din@email.dk"
+                },
+                "product_details_notify_subscribe_button_title": {
+                    "title": "Stock Notification Subscribe Button Title",
+                    "value": "Abonner nu"
+                },
+				"product_details_starting_at":{
+					"title":"Starting At Price",
+					"value":"Starter ved"
+				}
+            }
+        },
+        "customer_review": {
+            "label": "Customer Review Panel",
+            "options": {
+                "customer_review_title": {
+                    "title": "Product Details Rating Box Title",
+                    "value": "Skriv en anmeldelse"
+                },
+                "customer_review_choose_rating": {
+                    "title": "Product Details Rating Box Choose Rating",
+                    "value": "vælg en vurdering"
+                },
+                "customer_review_enter_title": {
+                    "title": "Product Details Rating Box Choose Title",
+                    "value": "Skriv en titel på din anmeldelse"
+                },
+                "customer_review_enter_description": {
+                    "title": "Product Details Rating Box Choose Description",
+                    "value": "Skriv anmeldelsen"
+                },
+                "customer_review_select_option": {
+                    "title": "Product Details Default Select Option Text",
+                    "value": "Vælg"
+                },
+                "customer_review_close_button": {
+                    "title": "Product Details Rating Box Close Button",
+                    "value": "Luk"
+                },
+                "customer_review_submit_button": {
+                    "title": "Product Details Rating Box Submit Button",
+                    "value": "Send anmeldelse"
+                },
+                "product_details_write_a_review": {
+                    "title": "Product Details Write a Review Button",
+                    "value": "Skriv en anmeldelse"
+                },
+                "product_details_add_a_review_for": {
+                    "title": "Store Add a Review",
+                    "value": "Tilføj en anmeldelse for"
+                },
+                "product_details_your_review_title": {
+                    "title": "Store Review title",
+                    "value": "Din anmeldelses titel"
+                },
+                "product_details_your_review_rating": {
+                    "title": "Store Review Rating",
+                    "value": "Din vurdering"
+                },
+                "product_details_your_review_message": {
+                    "title": "Store Review Message",
+                    "value": "Din anmeldelse"
+                },
+                "product_details_your_review_submit": {
+                    "title": "Store Review Submit",
+                    "value": "SEND"
+                },
+                "product_details_review_submitted_button": {
+                    "title": "Product Details Review Submitted Button",
+                    "value": "ANMELDELSE SENDT"
+                },
+                "product_details_submitting_review": {
+                    "title": "Store Submitting Review",
+                    "value": "sender din anmeldelse, vent venligst"
+                },
+                "product_details_review_submitted": {
+                    "title": "Store Review Submitted",
+                    "value": "Din anmeldelse er nu indsendt"
+                },
+                "product_details_review_log_in_first": {
+                    "title": "Log in to Review",
+                    "value": "Login eller opret en konto for at sende en anmeldelse af dette produkt."
+                },
+                "product_details_review_anonymous_reviewer": {
+                    "title": "Anonymous Reviewer Name",
+                    "value": "Anonym"
+                },
+                "review_error": {
+                    "title": "Store Review Error Missing Data",
+                    "value": "Du skal udfylde titel, vurderlig og meddelelse i din anmeldelse."
+                }
+            }
+        },
+        "cart": {
+            "label": "Cart",
+            "options": {
+                "cart_title": {
+                    "title": "Checkout Cart Title",
+                    "value": "INDKØBSKURV"
+                },
+                "cart_checkout_details_title": {
+                    "title": "Checkout Details Title",
+                    "value": "KØBSDETALJER"
+                },
+                "cart_submit_payment_title": {
+                    "title": "Submit Payment Title",
+                    "value": "BETAL"
+                },
+                "your_cart_title": {
+                    "title": "Your Cart Title",
+                    "value": "DIN KURV"
+                },
+                "cart_empty_cart": {
+                    "title": "Checkout, Empty Cart Message",
+                    "value": "Din kurv er tom."
+                },
+                "cart_checkout": {
+                    "title": "Checkout Page, Checkout Button",
+                    "value": "Kasse"
+                },
+                "cart_continue_shopping": {
+                    "title": "Checkout Page, Continue Shopping Link",
+                    "value": "Fortsæt i butik"
+                },
+                "cart_header_column1": {
+                    "title": "Cart Header, Column 1",
+                    "value": "Vare"
+                },
+                "cart_header_column2": {
+                    "title": "Cart Header, Column 2",
+                    "value": "Detaljer"
+                },
+                "cart_header_column3": {
+                    "title": "Cart Header, Column 3",
+                    "value": "Pris"
+                },
+                "cart_header_column4": {
+                    "title": "Cart Header, Column 4",
+                    "value": "Antal"
+                },
+                "cart_header_column5": {
+                    "title": "Cart Header, Column 5",
+                    "value": "Ialt"
+                },
+                "cart_header_column6": {
+                    "title": "Cart Header, Column 6",
+                    "value": "handlinger"
+                },
+                "cart_item_vat_text": {
+                    "title": "Cart Item, Included Vat",
+                    "value": "Inkl. MOMS"
+                },
+                "cart_item_update_button": {
+                    "title": "Cart Item, Update Button",
+                    "value": "OPDATER"
+                },
+                "cart_item_remove_button": {
+                    "title": "Cart Item, Remove Button",
+                    "value": "FJERN"
+                },
+                "cart_item_adjustment": {
+                    "title": "Cart Item, Adjustment per Item",
+                    "value": "per vare"
+                },
+                "cart_item_new_price_option": {
+                    "title": "Cart Item, Price Override Text",
+                    "value": "varepris"
+                },
+                "cart_menu_icon_label": {
+                    "title": "Cart in Menu, Item",
+                    "value": "Vare"
+                },
+                "cart_menu_icon_label_plural": {
+                    "title": "Cart in Menu, Items",
+                    "value": "Varer"
+                },
+                "deconetwork_edit": {
+                    "title": "Deconetwork, Edit Design",
+                    "value": "Edit Design"
+                },
+                "cart_order_adjustment": {
+                    "title": "Cart Item, Adjustment per Order",
+                    "value": "per ordre"
+                },
+                "cart_return_to_store": {
+                    "title": "Empty Cart, Return to store",
+                    "value": "TILBAGE TIL BUTIKKEN"
+                },
+                "cartitem_max_error": {
+                    "title": "Max Quantity Exceeded Error",
+                    "value": "Det maksimale antal er overskredet"
+                },
+                "cartitem_min_error": {
+                    "title": "Min Quantity Required Error",
+                    "value": "Antal er mindre end det minimale krævede"
+                },
+                "cart_please_wait": {
+                    "title": "Cart Please Wait",
+                    "value": "Vent venligst"
+                },
+                "cart_item_adjustment_per_character": {
+                    "title": "Cart Per Character Adjustment",
+                    "value": "Per tegn"
+                },
+                "cart_minimum_purchase_amount1": {
+                    "title": "A Minimum Order Amount of",
+                    "value": "Et minimumsbeløb på"
+                },
+                "cart_minimum_purchase_amount2": {
+                    "title": "Min Required Text 2",
+                    "value": "kræves"
+                },
+				"cartitem_location_error":{
+					"title":"Cart Item Shipping Location not Allowed",
+					"value":"Denne vare kan ikke sendes til din nuværende leveringsadresse."
+				}
+            }
+        },
+        "cart_form_notices": {
+            "label": "Cart - Form Error Notices",
+            "options": {
+                "cart_notice_is_required": {
+                    "title": "Cart, Notice, Is Required Field",
+                    "value": "skal udfyldes"
+                },
+                "cart_notice_item_must_match": {
+                    "title": "Cart, Notice, Items Must Match",
+                    "value": "skal passe"
+                },
+                "cart_notice_billing_first_name": {
+                    "title": "Cart, Notice, Billing, First Name",
+                    "value": "Fakturerings formavn"
+                },
+                "cart_notice_billing_last_name": {
+                    "title": "Cart, Notice, Billing, Last Name",
+                    "value": "Fakturerings efternavn"
+                },
+                "cart_notice_billing_address": {
+                    "title": "Cart, Notice, Billing, Address",
+                    "value": "Fakturerings adresse"
+                },
+                "cart_notice_billing_city": {
+                    "title": "Cart, Notice, Billing, City",
+                    "value": "Fakturerings by"
+                },
+                "cart_notice_billing_state": {
+                    "title": "Cart, Notice, Billing, State",
+                    "value": "Fakturerings region"
+                },
+                "cart_notice_billing_zip_code": {
+                    "title": "Cart, Notice, Billing, Zip Code",
+                    "value": "Fakturerings postnummer"
+                },
+                "cart_notice_billing_country": {
+                    "title": "Cart, Notice, Billing, Country",
+                    "value": "Fakturerings land"
+                },
+                "cart_notice_billing_phone": {
+                    "title": "Cart, Notice, Billing, Phone",
+                    "value": "Fakturerings telefonnr"
+                },
+                "cart_notice_shipping_first_name": {
+                    "title": "Cart, Notice, Shipping, First Name",
+                    "value": "Forsendelse fornavn"
+                },
+                "cart_notice_shipping_last_name": {
+                    "title": "Cart, Notice, Shipping, Last Name",
+                    "value": "Forsendelse efternavn"
+                },
+                "cart_notice_shipping_address": {
+                    "title": "Cart, Notice, Shipping, Address",
+                    "value": "Forsendelse adresse"
+                },
+                "cart_notice_shipping_city": {
+                    "title": "Cart, Notice, Shipping, City",
+                    "value": "Forsendelse by"
+                },
+                "cart_notice_shipping_state": {
+                    "title": "Cart, Notice, Shipping, State",
+                    "value": "Forsendelse region"
+                },
+                "cart_notice_shipping_zip_code": {
+                    "title": "Cart, Notice, Shipping, Zip Code",
+                    "value": "Forsendelse postnummer"
+                },
+                "cart_notice_shipping_country": {
+                    "title": "Cart, Notice, Shipping, Country",
+                    "value": "Forsendelse land"
+                },
+                "cart_notice_shipping_phone": {
+                    "title": "Cart, Notice, Shipping, Phone",
+                    "value": "Forsendelse telefonnr"
+                },
+                "cart_notice_contact_first_name": {
+                    "title": "Cart, Notice, Contact First Name",
+                    "value": "Kontakt fornavn"
+                },
+                "cart_notice_contact_last_name": {
+                    "title": "Cart, Notice, Contact Last Name",
+                    "value": "Kontakt efternavn"
+                },
+                "cart_notice_email": {
+                    "title": "Cart, Notice, Email",
+                    "value": "Email"
+                },
+                "cart_notice_retype_email": {
+                    "title": "Cart, Notice, Retype Email",
+                    "value": "Gentast Email"
+                },
+                "cart_notice_emails_match": {
+                    "title": "Cart, Notice, Emails Match",
+                    "value": "Emails"
+                },
+                "cart_notice_password": {
+                    "title": "Cart, Notice, Password",
+                    "value": "Password"
+                },
+                "cart_notice_retype_password": {
+                    "title": "Cart, Notice, Retype Password",
+                    "value": "Gentast Password"
+                },
+                "cart_notice_passwords_match": {
+                    "title": "Cart, Notice, Passwords Match",
+                    "value": "Passwords"
+                },
+                "cart_notice_length_error": {
+                    "title": "Cart, Notice, Password Format",
+                    "value": "Angiv venligst et password på mindst 6 tegn"
+                },
+                "cart_notice_payment_card_type": {
+                    "title": "Cart, Notice, Card Type",
+                    "value": "Kreditkort type"
+                },
+                "cart_notice_payment_card_holder_name": {
+                    "title": "Cart, Notice, Card Holder Required",
+                    "value": "Kreditkort navn"
+                },
+                "cart_notice_payment_card_number": {
+                    "title": "Cart, Notice, Card Number Required",
+                    "value": "Kreditkort nummer"
+                },
+                "cart_notice_payment_card_number_error": {
+                    "title": "Cart, Notice, Card Number Required",
+                    "value": "Kreditkort nummeret er ugyldigt"
+                },
+                "cart_notice_payment_card_exp_month": {
+                    "title": "Cart, Notice, EXP Month Required",
+                    "value": "Udløbsmåned"
+                },
+                "cart_notice_payment_card_exp_year": {
+                    "title": "Cart, Notice, EXP Year Required",
+                    "value": "Udløbsår"
+                },
+                "cart_notice_payment_card_code": {
+                    "title": "Cart, Notice, Security Code Required",
+                    "value": "Sikkerhedskode"
+                },
+                "cart_notice_please_enter_your": {
+                    "title": "Cart, Notice, Please Enter Your",
+                    "value": "Indtast venligst din"
+                },
+                "cart_notice_please_select_your": {
+                    "title": "Cart, Notice, Please Select Your",
+                    "value": "Vælg venligst din"
+                },
+                "cart_notice_please_enter_valid": {
+                    "title": "Cart, Notice, Please Enter Valid",
+                    "value": "Indtast venligst en gyldig"
+                },
+                "cart_notice_emails_do_not_match": {
+                    "title": "Cart, Notice, Email Do Not Match",
+                    "value": "Dine email adresser er ikke ens"
+                },
+                "cart_notice_passwords_do_not_match": {
+                    "title": "Cart, Notice, Passwords Do Not Match",
+                    "value": "Dine passwords er ikke ens"
+                },
+                "cart_notice_checkout_details_errors": {
+                    "title": "Cart, Notice, Checkout Details Errors",
+                    "value": "Ret venligst fejlene i dine købsdetaljer"
+                },
+                "cart_notice_payment_accept_terms": {
+                    "title": "Cart, Notice, Please Accept Terms",
+                    "value": "Accepter venligst handelsbetingelserne"
+                },
+                "cart_notice_payment_correct_errors": {
+                    "title": "Cart, Notice, Payment Correct Errors",
+                    "value": "Ret venligst fejlene i informationerne ovenfor"
+                },
+				"cart_notice_shipping_not_alllowed":{
+					"title":"Cart, Notice, No Shipping Address Allowed",
+					"value":"Der er varer i din indkøbskurv, som kun sendes til en gyldig faktureringsadresse. Vær sikker på, at din faktureringsadresse kan modtage dit køb."
+				}
+            }
+        },
+        "cart_process": {
+            "label": "Cart - Progress Bar",
+            "options": {
+                "cart_process_cart_link": {
+                    "title": "Cart, Progress, Cart",
+                    "value": "Kurv"
+                },
+                "cart_process_shipping_link": {
+                    "title": "Cart, Progress, Address",
+                    "value": "Adresse"
+                },
+                "cart_process_review_link": {
+                    "title": "Cart, Progress, Cart",
+                    "value": "Godkend og betal"
+                },
+                "cart_process_complete_link": {
+                    "title": "Cart, Progress, Complete",
+                    "value": "Fuldført"
+                }
+            }
+        },
+        "cart_coupons": {
+            "label": "Cart - Enter Coupons and Gift Cards",
+            "options": {
+                "cart_coupon_title": {
+                    "title": "Cart, Coupon Title",
+                    "value": "Rabatkode"
+                },
+                "cart_gift_card_title": {
+                    "title": "Cart, Gift Card Title",
+                    "value": "Gavekort"
+                },
+                "cart_coupon_sub_title": {
+                    "title": "Cart, Coupons Sub-Title",
+                    "value": "Indløs rebat kode eller gavekort ved at indtaste den nedenfor."
+                },
+                "cart_redeem_gift_card": {
+                    "title": "Cart, Redeem Gift Card Button",
+                    "value": "Indløs gavekort"
+                },
+                "cart_apply_coupon": {
+                    "title": "Cart, Apply Coupon Button",
+                    "value": "Anvend rabatkode"
+                },
+                "cart_invalid_coupon": {
+                    "title": "Cart, Invalid Coupon",
+                    "value": "Ikke en gyldig rebat kode"
+                },
+                "cart_not_applicable_coupon": {
+                    "title": "Cart, Not Applicable Coupon",
+                    "value": "Rabat koden kan ikke anvendes på dette produkt"
+                },
+                "cart_max_exceeded_coupon": {
+                    "title": "Cart, Max Coupon Use Exceeded",
+                    "value": "Det maksimale antal anvendelser er overskredet"
+                },
+                "cart_invalid_giftcard": {
+                    "title": "Cart, Invalid Gift Card",
+                    "value": "Ikke et gyldigt gavekort nummer"
+                },
+                "cart_enter_coupon": {
+                    "title": "Cart, Enter Coupon Hint",
+                    "value": "Indtast rabat kode"
+                },
+                "cart_enter_gift_code": {
+                    "title": "Cart, Enter Gift Card Hint",
+                    "value": "Indtast gavekort"
+                },
+                "cart_coupon_expired": {
+                    "title": "Cart, Coupon Code Expired",
+                    "value": "Rabat koden er udløbet"
+                },
+                "coupon_not_applicable": {
+                    "title": "Cart, Coupon Code Not Applicable",
+                    "value": "Rabatkoden gælder ikke for varerne i din kurv"
+                },
+				"cart_simple_apply":{
+					"title":"Cart, Apply",
+					"value":"ansøge"
+				}
+            }
+        },
+        "cart_estimate_shipping": {
+            "label": "Cart - Estimate Shipping",
+            "options": {
+                "cart_estimate_shipping_title": {
+                    "title": "Cart, Estimate Shipping Title",
+                    "value": "Anslå forsendelsesomkostninger"
+                },
+                "cart_estimate_shipping_sub_title": {
+                    "title": "Cart, Estimate Shipping Sub Title",
+                    "value": "Indtast venligst dit postnummer for at anslå forsendelsesomkostningerne."
+                },
+                "cart_estimate_shipping_input_country_label": {
+                    "title": "Cart, Estimate Shipping, Input Label Country",
+                    "value": "Land:"
+                },
+                "cart_estimate_shipping_select_one": {
+                    "title": "Cart, Estimate Shipping, Select one for country box",
+                    "value": "Vælg en"
+                },
+                "cart_estimate_shipping_input_label": {
+                    "title": "Cart, Estimate Shipping, Input Label Zip Code",
+                    "value": "Postnummer:"
+                },
+                "cart_estimate_shipping_button": {
+                    "title": "Cart, Estimate Shipping Button",
+                    "value": "Anslå forsendelsesomkostninger"
+                },
+                "cart_estimate_shipping_standard": {
+                    "title": "Cart, Standard Shipping Label",
+                    "value": "Standard forsendelse"
+                },
+                "cart_estimate_shipping_free": {
+                    "title": "Cart, Free Shipping Label",
+                    "value": "Gratis afhentning"
+                },
+                "cart_estimate_shipping_express": {
+                    "title": "Cart, Express Shipping Label",
+                    "value": "Ekspres forsendelse"
+                },
+                "cart_estimate_shipping_error": {
+                    "title": "Cart, Mismatch Postal Code Error",
+                    "value": "Dit postnummer passer ikke med butikkens hjemland. Forsendlsesomkostninger vil blive fastsat, når du har indtastet dine købsinformationer"
+                },
+                "cart_estimate_shipping_hint": {
+                    "title": "Cart, Estimate Shipping Hint",
+                    "value": "Indtast postnummer"
+                },
+                "delivery_in": {
+                    "title": "Cart, Live Shipping Delivery In (Days)",
+                    "value": "levering om"
+                },
+                "delivery_days": {
+                    "title": "Cart, Live Shipping (Delivery In) Days",
+                    "value": "dage"
+                }
+            }
+        },
+        "cart_totals": {
+            "label": "Cart - Cart Totals",
+            "options": {
+                "cart_totals_title": {
+                    "title": "Cart, Cart Totals Title",
+                    "value": "Kurv ialt"
+                },
+                "cart_totals_subtotal": {
+                    "title": "Cart, Cart Totals, Subtotal",
+                    "value": "Kurv subtotal"
+                },
+                "cart_totals_tip": {
+                    "title": "Cart, Cart Totals, Tip",
+                    "value": "Drikkepenge"
+                },
+                "cart_totals_tip_custom": {
+                    "title": "Cart, Cart Totals, Custom Tip Amount",
+                    "value": "Brugerdefineret beløb"
+                },
+                "cart_totals_apply_tip_custom": {
+                    "title": "Cart, Cart Totals, Apply Custom Tip",
+                    "value": "Anvend drikkepenge"
+                },
+                "cart_totals_shipping": {
+                    "title": "Cart, Cart Totals, Shipping",
+                    "value": "Shipping"
+                },
+                "cart_totals_tax": {
+                    "title": "Cart, Cart Totals, Tax",
+                    "value": "Skat"
+                },
+                "cart_totals_discounts": {
+                    "title": "Cart, Cart Totals, Discounts",
+                    "value": "Rabat"
+                },
+                "cart_totals_vat": {
+                    "title": "Cart, Cart Totals, VAT",
+                    "value": "MOMS"
+                },
+                "cart_totals_duty": {
+                    "title": "Cart, Cart Totals, Duty",
+                    "value": "Told"
+                },
+                "cart_totals_grand_total": {
+                    "title": "Cart, Cart Totals, Grand Total",
+                    "value": "Ialt"
+                },
+                "cart_totals_label": {
+                    "title": "Cart Totals Label",
+                    "value": "Kurv ialt"
+                }
+            }
+        },
+        "cart_login": {
+            "label": "Cart - Cart Login",
+            "options": {
+                "cart_login_title": {
+                    "title": "Cart, Login Title",
+                    "value": "Eksisterende kunde"
+                },
+                "cart_login_sub_title": {
+                    "title": "Cart, Login Sub Title",
+                    "value": "Venligst login for at anvende en eksisterende konto."
+                },
+                "cart_login_email_label": {
+                    "title": "Cart, Login, Email Label",
+                    "value": "Email adresse"
+                },
+                "cart_login_password_label": {
+                    "title": "Cart, Login, Password Label",
+                    "value": "Password"
+                },
+                "cart_login_button": {
+                    "title": "Cart, Login Button",
+                    "value": "LOGIN"
+                },
+                "cart_login_forgot_password_link": {
+                    "title": "Cart, Login, Forgot Password Link",
+                    "value": "Har du glemt dit Password?"
+                },
+                "cart_login_account_information_title": {
+                    "title": "Cart, Login Complete Title",
+                    "value": "Konto information"
+                },
+                "cart_login_account_information_text": {
+                    "title": "Cart, Login Complete Text",
+                    "value": "Du handler som  "
+                },
+                "cart_login_account_a_guest_text": {
+                    "title": "Cart, Login Complete, a guest",
+                    "value": "en gæst"
+                },
+                "cart_login_account_information_text2": {
+                    "title": "Cart, Login Complete Text Part 2",
+                    "value": " for at handle med en anden konto."
+                },
+                "cart_login_account_information_logout_link": {
+                    "title": "Cart, Login Complete, Logout Link",
+                    "value": "Klik her"
+                },
+				"cart_login_already_have_account":{
+					"title":"Cart, Login Have Account",
+					"value":"har du allerede en bruger?"
+				},
+				"cart_new_customer_title":{
+					"title":"Cart, New Customer Title",
+					"value":"kunde information"
+				},
+				"cart_new_customer_return_link":{
+					"title":"Cart, New Customer Return Link",
+					"value":"Vend tilbage for at oprette en ny konto?"
+				},
+				"cart_subscription_addresss_continue":{
+					"title":"Cart, New Customer Return Link",
+					"value":"Gem og fortsæt"
+				},
+				"cart_login_already_have_account2":{
+					"title":"Cart, Login Have Account Question",
+					"value":"har du allerede en bruger?"
+				},
+				"cart_login_already_have_account_login":{
+					"title":"Cart, Login Button Have Account",
+					"value":"Log på"
+				},
+				"cart_subscription_already_purchased":{
+					"title":"Cart, Subscription Already Purchased Message",
+					"value":"Du har allerede købt denne vare. Besøg din konto for at gennemgå dine aktive abonnementer."
+				}
+            }
+        },
+        "cart_guest_checkout": {
+            "label": "Cart - Guest Checkout",
+            "options": {
+                "cart_guest_title": {
+                    "title": "Cart, Login, Guest Checkout Title",
+                    "value": "Køb uden konto"
+                },
+                "cart_guest_sub_title": {
+                    "title": "Cart, Login, Guest Checkout Sub Title",
+                    "value": "Ikke oprettet? Handl med en eksisterende konto."
+                },
+                "cart_guest_message": {
+                    "title": "Cart, Login, Guest Checkout Message",
+                    "value": "Ikke oprettet? fortsæt som gæst.<br/>Du får mulighed for at oprette en konto senere."
+                },
+                "cart_guest_button": {
+                    "title": "Cart, Login, Guest Checkout Button",
+                    "value": "FORTSÆT TIL KASSEN"
+                }
+            }
+        },
+        "cart_subscription_guest_checkout": {
+            "label": "Cart - Subscription No Account Checkout",
+            "options": {
+                "cart_subscription_guest_title": {
+                    "title": "Cart, Login, Subscription No Account Title",
+                    "value": "Create Account on Checkout"
+                },
+                "cart_subscription_guest_sub_title": {
+                    "title": "Cart, Login, Subscription No Account Sub Title",
+                    "value": "Not registered? Checkout without an existing account."
+                },
+                "cart_subscription_guest_message": {
+                    "title": "Cart, Login, Subscription No Account Message",
+                    "value": "No account? No problem.<br/>You will have an opportunity to create an account later."
+                },
+                "cart_subscription_guest_button": {
+                    "title": "Cart, Login, Guest Checkout Button",
+                    "value": "CONTINUE TO CHECKOUT"
+                }
+            }
+        },
+		"cart_address_information":{
+			"label":"Cart - Address Information",
+			"options":{
+				"cart_state_ca":{
+					"title":"Cart, State (Canada)",
+					"value":"Province"
+				},
+				"cart_zip_ca":{
+					"title":"Cart, Zip (Canada)",
+					"value":"Postal code"
+				},
+				"cart_zip_gb":{
+					"title":"Cart, Zip (UK)",
+					"value":"Postcode"
+				},
+				"cart_address_nl":{
+					"title":"Cart, Address (Netherlands)",
+					"value":"Street and house number"
+				},
+				"cart_zip_nl":{
+					"title":"Cart, Zip (Netherlands)",
+					"value":"Postal code"
+				},
+				"cart_zip_ar":{
+					"title":"Cart, Zip (Argentina)",
+					"value":"Postal code"
+				},
+				"cart_state_ar":{
+					"title":"Cart, State (Argentina)",
+					"value":"Province"
+				}
+			}
+		},
+        "cart_billing_information": {
+            "label": "Cart - Billing Information",
+            "options": {
+                "cart_billing_information_title": {
+                    "title": "Cart, Billing Information Title",
+                    "value": "Fakturerings Information"
+                },
+                "cart_billing_information_first_name": {
+                    "title": "Cart, Billing, First Name Label",
+                    "value": "Fornavn"
+                },
+                "cart_billing_information_last_name": {
+                    "title": "Cart, Billing, Last Name Label",
+                    "value": "Efternavn"
+                },
+                "cart_billing_information_address": {
+                    "title": "Cart, Billing, Address Label",
+                    "value": "Adresse"
+                },
+                "cart_billing_information_address2": {
+                    "title": "Cart, Billing, Address 2 Label",
+                    "value": "Adresse 2"
+                },
+                "cart_billing_information_city": {
+                    "title": "Cart, Billing, City Label",
+                    "value": "By"
+                },
+                "cart_billing_information_state": {
+                    "title": "Cart, Billing, State Label",
+                    "value": "Region"
+                },
+                "cart_billing_information_select_state": {
+                    "title": "Cart, Billing, Default No State Selected",
+                    "value": "Vælg en region"
+                },
+                "cart_billing_information_select_province": {
+                    "title": "Cart, Billing, Default No Province Selected",
+                    "value": "Vælg en kommune"
+                },
+                "cart_billing_information_select_county": {
+                    "title": "Cart, Billing, Default No County Selected",
+                    "value": "Vælg en kommune"
+                },
+                "cart_billing_information_select_other": {
+                    "title": "Cart, Billing, Default None Selected",
+                    "value": "Vælg"
+                },
+                "cart_billing_information_country": {
+                    "title": "Cart, Billing, Country Label",
+                    "value": "Land"
+                },
+                "cart_billing_information_select_country": {
+                    "title": "Cart, Billing, Country Menu, Default None Selected",
+                    "value": "Vælg et land"
+                },
+                "cart_billing_information_zip": {
+                    "title": "Cart, Billing, Zip Label",
+                    "value": "Postnummer"
+                },
+                "cart_billing_information_phone": {
+                    "title": "Cart, Billing, Phone Label",
+                    "value": "Telefonnr"
+                },
+                "cart_billing_information_ship_to_this": {
+                    "title": "Cart, Billing, Use Billing Radio",
+                    "value": "Send til denne adresse"
+                },
+                "cart_billing_information_ship_to_different": {
+                    "title": "Cart, Billing, Use Shipping Radio",
+                    "value": "SEND TIL EN ANDEN ADRESSE"
+                },
+                "cart_billing_information_company_name": {
+                    "title": "Cart, Billing, Company Name Label",
+                    "value": "Firmanavn"
+                },
+                "cart_billing_information_vat_registration_number": {
+                    "title": "Cart, Billing, VAT Registration Number Label",
+                    "value": "CVR nummer"
+                }
+            }
+        },
+        "cart_shipping_information": {
+            "label": "Cart - Shipping Information",
+            "options": {
+                "cart_shipping_information_title": {
+                    "title": "Cart, Shipping Information Title",
+                    "value": "Forsendelses information"
+                },
+                "cart_shipping_information_first_name": {
+                    "title": "Cart, Shipping, First Name Label",
+                    "value": "Fornavn"
+                },
+                "cart_shipping_information_last_name": {
+                    "title": "Cart, Shipping, Last Name Label",
+                    "value": "Efternavn"
+                },
+                "cart_shipping_information_address": {
+                    "title": "Cart, Shipping, Address Label",
+                    "value": "Adresse"
+                },
+                "cart_shipping_information_address2": {
+                    "title": "Cart, Shipping, Address 2 Label",
+                    "value": "Adresse 2"
+                },
+                "cart_shipping_information_city": {
+                    "title": "Cart, Shipping, City Label",
+                    "value": "By"
+                },
+                "cart_shipping_information_state": {
+                    "title": "Cart, Shipping, State Label",
+                    "value": "Region"
+                },
+                "cart_shipping_information_select_state": {
+                    "title": "Cart, Shipping, Default No State Selected",
+                    "value": "Vælg en region"
+                },
+                "cart_shipping_information_select_province": {
+                    "title": "Cart, Shipping, Default No Province Selected",
+                    "value": "Vælg en landsdel"
+                },
+                "cart_shipping_information_select_county": {
+                    "title": "Cart, Shipping, Default No County Selected",
+                    "value": "Vælg en kommune"
+                },
+                "cart_shipping_information_select_other": {
+                    "title": "Cart, Shipping, Default None Selected",
+                    "value": "Vælg"
+                },
+                "cart_shipping_information_country": {
+                    "title": "Cart, Shipping, Country Label",
+                    "value": "Land"
+                },
+                "cart_shipping_information_select_country": {
+                    "title": "Cart, Shipping, Country Menu, Default None Selected",
+                    "value": "Vælg et land"
+                },
+                "cart_shipping_information_zip": {
+                    "title": "Cart, Shipping, Zip Label",
+                    "value": "Postnummer"
+                },
+                "cart_shipping_information_phone": {
+                    "title": "Cart, Shipping, Phone Label",
+                    "value": "Telefonnr"
+                },
+                "cart_shipping_information_company_name": {
+                    "title": "Cart, Shipping, Company Name Label",
+                    "value": "Firmanavn"
+                }
+            }
+        },
+        "cart_contact_information": {
+            "label": "Cart - Contact Information",
+            "options": {
+                "cart_contact_information_title": {
+                    "title": "Cart, Contact Information Title",
+                    "value": "Kontakt information"
+                },
+                "cart_contact_information_first_name": {
+                    "title": "Cart, Contact Information, First Name Label",
+                    "value": "Fornavn"
+                },
+                "cart_contact_information_last_name": {
+                    "title": "Cart, Contact Information, Last Name Label",
+                    "value": "Efternavn"
+                },
+                "cart_contact_information_email": {
+                    "title": "Cart, Contact Information, Email Label",
+                    "value": "Email"
+                },
+                "cart_contact_information_retype_email": {
+                    "title": "Cart, Contact Information, Retype Email Label",
+                    "value": "Gentast Email"
+                },
+                "cart_contact_information_create_account": {
+                    "title": "Cart, Contact Information, Create Account Label",
+                    "value": "Opret konto"
+                },
+                "cart_contact_information_password": {
+                    "title": "Cart, Contact Information, Password Label",
+                    "value": "Password"
+                },
+                "cart_contact_information_retype_password": {
+                    "title": "Cart, Contact Information, Retype Password Label",
+                    "value": "Gentast Password"
+                },
+                "cart_contact_information_subscribe": {
+                    "title": "Cart, Contact Information, Subscribe Label",
+                    "value": "Ønsker du at modtage email nyheder fra os ?"
+                },
+                "cart_contact_information_continue_button": {
+                    "title": "Cart, Contact Information, Continue Button",
+                    "value": "FORTSÆT"
+                },
+                "cart_contact_information_continue_payment": {
+                    "title": "Cart, Contact Information, Continue to Payment",
+                    "value": "FORTSÆT TIL BETALING"
+                },
+                "cart_contact_information_continue_shipping": {
+                    "title": "Cart, Contact Information, Continue to Shipping",
+                    "value": "FORTSÆT TIL FORSENDELSE"
+                },
+				"cart_contact_information_email_other":{
+					"title":"Cart, Additional Email, Title",
+					"value":"Yderligere kvitterings-e-mail"
+				},
+				"cart_contact_information_email_other_label":{
+					"title":"Cart, Additional Email, Label",
+					"value":"Indtast en ekstra e-mail (valgfrit)"
+				}
+            }
+        },
+        "cart_shipping_method": {
+            "label": "Cart - Shipping Method",
+            "options": {
+                "cart_shipping_method_title": {
+                    "title": "Cart, Shipping Method, Title",
+                    "value": "Forsendelse"
+                },
+                "cart_shipping_method_continue_button": {
+                    "title": "Cart, Shipping Method Continue Button",
+                    "value": "FORTSÆT"
+                },
+                "cart_shipping_method_please_select_one": {
+                    "title": "Cart, Shipping please select one",
+                    "value": "Vælg venligst forsendelse"
+                },
+                "cart_shipping_update_shipping": {
+                    "title": "Cart, Update Shipping",
+                    "value": "Opdater forsendelse"
+                },
+                "cart_shipping_no_rates_available": {
+                    "title": "Cart, No Shipping Rates Available",
+                    "value": "Der er ingen tilgængelig forsendelse i dit område. Kontakt os venligst for at fuldføre din ordre."
+                }
+            }
+        },
+        "cart_address_review": {
+            "label": "Cart - Address Review",
+            "options": {
+                "cart_address_review_title": {
+                    "title": "Cart, Address Information Title",
+                    "value": "Adresse information"
+                },
+                "cart_address_review_billing_title": {
+                    "title": "Cart, Address Review, Billing Title",
+                    "value": "Fakturerings adresse"
+                },
+                "cart_address_review_shipping_title": {
+                    "title": "Cart, Address Review, Shipping Title",
+                    "value": "Forsendelses adresse"
+                },
+                "cart_address_review_edit_link": {
+                    "title": "Cart, Address Review, Edit Link",
+                    "value": "Ret adresse eller forsendelsesvalg"
+                },
+                "cart_address_review_edit_link2": {
+                    "title": "Cart, Address Review, Edit Link",
+                    "value": "Ret adresse"
+                }
+            }
+        },
+        "cart_payment_information": {
+            "label": "Cart - Payment Information",
+            "options": {
+                "cart_payment_information_title": {
+                    "title": "Cart, Payment Information Title",
+                    "value": "Betalings information"
+                },
+                "cart_payment_information_manual_payment": {
+                    "title": "Cart, Payment Information, Manual Payment Label",
+                    "value": "Bankoverførsel"
+                },
+                "cart_payment_information_affirm": {
+                    "title": "Cart, Payment Information, Affirm Payment Label",
+                    "value": "Månedlige afdrag"
+                },
+                "cart_payment_information_third_party": {
+                    "title": "Cart, Payment Information, Third Party Payment Label",
+                    "value": "Betal med"
+                },
+                "cart_payment_information_third_party_first": {
+                    "title": "Cart, Payment Information, Third Party Text, Part 1",
+                    "value": "Du videredirigeres til"
+                },
+                "cart_payment_information_third_party_second": {
+                    "title": "Cart, Payment Information, Third Party Text, Part 2",
+                    "value": "for at fuldføre din betaling, når du klikker på AFGIV ORDRE."
+                },
+                "cart_payment_information_apple_pay": {
+                    "title": "Cart, Payment Information, Mobile Payment Label",
+                    "value": "Betal med MobilePay"
+                },
+                "cart_payment_card_type_credit_card": {
+                    "title": "Cart, Payment Information, Default Card Type Label",
+                    "value": "Kreditkort"
+                },
+                "cart_payment_information_credit_card": {
+                    "title": "Cart, Payment Information, Credit Card Payment Label",
+                    "value": "Betal med kreditkort"
+                },
+				"cart_payment_information_amazon":{
+					"title":"Cart, Payment Information, Amazon Payment Label",
+					"value":"Betal med Amazon"
+				},
+                "cart_payment_information_payment_method": {
+                    "title": "Cart, Payment Information, Payment Method Label",
+                    "value": "Betalingsmetode"
+                },
+                "cart_payment_information_card_holder_name": {
+                    "title": "Cart, Payment Information, Card Holder Label",
+                    "value": "Kortholders navn"
+                },
+                "cart_payment_information_card_number": {
+                    "title": "Cart, Payment Information, Card Number Label",
+                    "value": "Kort nummer"
+                },
+                "cart_payment_information_expiration_date": {
+                    "title": "Cart, Payment Information, Expiration Date Label",
+                    "value": "Udløbsdato"
+                },
+                "cart_payment_information_security_code": {
+                    "title": "Cart, Payment Information, Security Code Label",
+                    "value": "Sikkerhedskode"
+                },
+                "cart_payment_information_checkout_text": {
+                    "title": "Cart, Payment Information, Checkout Text",
+                    "value": "Når du afgiver din ordre, accepterer du vores [terms]handelsbetingelser[/terms] og [privacy]privatlivsbetingelser[/privacy]."
+                },
+                "cart_payment_information_review_checkout_text": {
+                    "title": "Cart, Payment Information, Review Checkout Text",
+                    "value": "Før du sender og lukker din ordre, får du mulighed for at gennemse og bekræfte totalbeløbet. Klik på kontroller ordre knappen, når du er klar til at kontrollere, bekræfte og afgive din ordre"
+                },
+                "cart_payment_information_review_order_button": {
+                    "title": "Cart, Payment Information, Review Order Button",
+                    "value": "KONTROLLER ORDRE"
+                },
+                "cart_payment_information_submit_order_button": {
+                    "title": "Cart, Payment Information, Submit Order Button",
+                    "value": "AFGIV ORDRE"
+                },
+                "cart_payment_information_cancel_order_button": {
+                    "title": "Cart, Payment Information, Edit Order Button",
+                    "value": "RET ORDRE"
+                },
+                "cart_payment_information_order_notes_title": {
+                    "title": "Cart, Payment Information, Customer Notes Title",
+                    "value": "ORDRE NOTER"
+                },
+                "cart_payment_information_order_notes_message": {
+                    "title": "Cart, Payment Information, Customer Notes Message",
+                    "value": "Hvis du har nogle særlige ønsker, kan du angive dem her"
+                },
+                "cart_payment_information_review_title": {
+                    "title": "Cart, Review Cart Title",
+                    "value": "KONTROLLER DIN KURV"
+                },
+                "cart_payment_information_edit_cart_link": {
+                    "title": "Cart, edit cart items link",
+                    "value": "ret varer i kurven"
+                },
+                "cart_payment_information_edit_billing_link": {
+                    "title": "Cart, edit billing link",
+                    "value": "ret Fakturerings adresse"
+                },
+                "cart_payment_information_edit_shipping_link": {
+                    "title": "Cart, edit shipping link",
+                    "value": "ret forsendelses adresse"
+                },
+                "cart_payment_information_edit_shipping_method_link": {
+                    "title": "Cart, edit shipping link",
+                    "value": "ret forsendelses metode"
+                },
+                "cart_payment_review_totals_title": {
+                    "title": "Cart, Review Total Title",
+                    "value": "KONTROLLER DIN KURV"
+                },
+                "cart_payment_review_agree": {
+                    "title": "Cart, Review Agree Text",
+                    "value": "Jeg accepterer vilkår og bestemmelser for købet."
+                },
+                "cart_change_payment_method": {
+                    "title": "Cart, Change Payment Method",
+                    "value": "ret betalings form"
+                },
+				"cart_payment_information_paypal_final_note":{
+					"title":"Cart, Review and Submit PayPal Note",
+					"value":"Din ordre er endnu ikke fuldført! Gennemgå og indsend din ordre herunder for at afslutte din betaling."
+				},
+				"cart_please_wait":{
+					"title":"Cart, Processing, please wait",
+					"value":"Din betaling behandles, luk venligst ikke vinduet."
+				},
+				"login_please_wait":{
+					"title":"Cart, Login Processing, please wait",
+					"value":"Vi logger dig ind, vent venligst."
+				},
+				"address_please_wait":{
+					"title":"Cart, Address Processing, please wait",
+					"value":"Vi gemmer dine adresseoplysninger og opdaterer dine indkøbskurv, bare et øjeblik tak."
+				},
+				"create_account_please_wait":{
+					"title":"Cart, Create Account Processing, please wait",
+					"value":"Vi opretter din konto, vent venligst."
+				},
+				"shipping_methods_please_wait":{
+					"title":"Cart, Shipping Methods Processing, please wait",
+					"value":"Vi gemmer dit forsendelsesvalg og opdaterer dine indkøbskurv. Vent venligst."
+				},
+				"payment_processed":{
+					"title":"Cart, Payment Processed Note",
+					"value":"Din betaling er blevet behandlet, og du kan se din ordre nu."
+				},
+				"payment_processed_view":{
+					"title":"Cart, Payment Processed View",
+					"value":"Se ordre"
+				}
+            }
+        },
+        "cart_success": {
+            "label": "Order Receipt",
+            "options": {
+                "cart_payment_receipt_order_details_link": {
+                    "title": "Email Receipt, Link to Account",
+                    "value": "Vis ordre detaljer"
+                },
+                "cart_payment_receipt_subscription_details_link": {
+                    "title": "Email Receipt, Link to Subscription",
+                    "value": "Vis abonnement betingelser"
+                },
+                "cart_payment_receipt_title": {
+                    "title": "Email Receipt Title",
+                    "value": "Ordre bekræftelse- ordre nummer"
+                },
+                "cart_payment_complete_line_1": {
+                    "title": "Cart, Payment Complete, Line 1",
+                    "value": "Kære:"
+                },
+                "cart_payment_complete_line_2": {
+                    "title": "Cart, Payment Complete, Line 2",
+                    "value": "Tak for din bestilling! Dit reference nummer er:"
+                },
+                "cart_payment_complete_line_3": {
+                    "title": "Cart, Payment Complete, Line 3",
+                    "value": "Du kan se din ordre nedenfor. Du kan kontrollere status og se alle detaljer ved at besøge vores hjemmeside og logge ind til din konto."
+                },
+                "cart_payment_complete_line_4": {
+                    "title": "Cart, Payment Complete, Line 4",
+                    "value": "Du kan gemme dette mail som en kvittering for din ordre."
+                },
+                "cart_payment_complete_line_5": {
+                    "title": "Cart, Payment Complete, Line 5",
+                    "value": "Klik her for at se indholdet af dit medlemskab"
+                },
+                "cart_payment_complete_click_here": {
+                    "title": "Cart, Payment Complete, Click Here",
+                    "value": "Klik her"
+                },
+                "cart_payment_complete_to_view_order": {
+                    "title": "Cart, Payment Complete, To View Order",
+                    "value": "for at se din ordre"
+                },
+                "cart_payment_complete_billing_label": {
+                    "title": "Cart, Payment Complete, Billing Label",
+                    "value": "Fakturerings adresse"
+                },
+                "cart_payment_complete_shipping_label": {
+                    "title": "Cart, Payment Complete, Shipping Label",
+                    "value": "Forsendelses adresse"
+                },
+                "cart_payment_complete_details_header_1": {
+                    "title": "Cart, Payment Complete, Header 1",
+                    "value": "Vare"
+                },
+                "cart_payment_complete_details_header_2": {
+                    "title": "Cart, Payment Complete, Header 2",
+                    "value": "Antal"
+                },
+                "cart_payment_complete_details_header_3": {
+                    "title": "Cart, Payment Complete, Header 3",
+                    "value": "Pris"
+                },
+                "cart_payment_complete_details_header_4": {
+                    "title": "Cart, Payment Complete, Header 4",
+                    "value": "Ext Pris"
+                },
+                "cart_payment_complete_order_totals_subtotal": {
+                    "title": "Cart, Payment Complete, Subtotal",
+                    "value": "Subtotal"
+                },
+                "cart_payment_complete_order_totals_shipping": {
+                    "title": "Cart, Payment Complete, Shipping",
+                    "value": "Forsendelse"
+                },
+                "cart_payment_complete_order_totals_tax": {
+                    "title": "Cart, Payment Complete, Tax",
+                    "value": "Skat"
+                },
+                "cart_payment_complete_order_totals_discount": {
+                    "title": "Cart, Payment Complete, Discount",
+                    "value": "Rabat"
+                },
+                "cart_payment_complete_order_totals_vat": {
+                    "title": "Cart, Payment Complete, VAT",
+                    "value": "MOMS"
+                },
+                "cart_payment_complete_order_totals_duty": {
+                    "title": "Cart, Payment Complete, Duty",
+                    "value": "Told"
+                },
+                "cart_payment_complete_order_totals_grand_total": {
+                    "title": "Cart, Payment Complete, Order Total",
+                    "value": "Ordre ialt"
+                },
+                "cart_payment_complete_bottom_line_1": {
+                    "title": "Cart, Payment Complete, Bottom Line 1",
+                    "value": "Kontroller venligst din ordre og lad os straks vide, hvis der er bekymringer eller fejl. Vi værdsætter dit køb og håber, at du får glæde af det."
+                },
+                "cart_payment_complete_bottom_line_2": {
+                    "title": "Cart, Payment Complete, Bottom Line 2",
+                    "value": "Mange tak!"
+                },
+                "cart_success_thank_you_title": {
+                    "title": "Cart, Payment Complete, Thank You Title",
+                    "value": "Tak for din ordre"
+                },
+                "cart_success_order_number_is": {
+                    "title": "Cart, Payment Complete, Your Order Number",
+                    "value": "Ordre nummerer er:"
+                },
+                "cart_success_will_receive_email": {
+                    "title": "Cart, Payment Complete, Will receive email",
+                    "value": "Du modtager lige straks en email bekræftelse til"
+                },
+                "cart_success_print_receipt_text": {
+                    "title": "Cart, Payment Complete, Print Receipt Link Text",
+                    "value": "Print kvittering"
+                },
+                "cart_success_save_order_text": {
+                    "title": "Cart, Payment Complete, Save Your Info",
+                    "value": "Gem dine data til næste gang"
+                },
+                "cart_success_create_password": {
+                    "title": "Cart, Payment Complete, Create Password",
+                    "value": "Opret Password:"
+                },
+                "cart_success_verify_password": {
+                    "title": "Cart, Payment Complete, Verify Password",
+                    "value": "Bekræft Password:"
+                },
+                "cart_success_password_hint": {
+                    "title": "Cart, Payment Complete, Password Hint",
+                    "value": "(6-12 tegn)"
+                },
+                "cart_success_create_account": {
+                    "title": "Cart, Payment Complete, Create Account",
+                    "value": "Opret konto"
+                },
+                "cart_giftcard_receipt_title": {
+                    "title": "Cart, Gift Card Email Subject",
+                    "value": "Gift Card Delivery"
+                },
+                "cart_giftcard_receipt_header": {
+                    "title": "Cart, Gift Card Header",
+                    "value": "Your Gift Card"
+                },
+                "cart_giftcard_receipt_to": {
+                    "title": "Cart, Gift Card To",
+                    "value": "To"
+                },
+                "cart_giftcard_receipt_from": {
+                    "title": "Cart, Gift Card From",
+                    "value": "From"
+                },
+                "cart_giftcard_receipt_id": {
+                    "title": "Cart, Gift Card ID Label",
+                    "value": "Your Gift Card ID"
+                },
+                "cart_giftcard_receipt_amount": {
+                    "title": "Cart, Gift Card Amount",
+                    "value": "Gift Card Total"
+                },
+                "cart_giftcard_receipt_message": {
+                    "title": "Cart, Gift Card Message",
+                    "value": "You can redeem your gift card during checkout at"
+                },
+                "cart_downloads_available": {
+                    "title": "Cart Success, Downloads Available",
+                    "value": "Your order includes downloads and are available in your account."
+                },
+                "cart_downloads_unavailable": {
+                    "title": "Cart Success, Downloads Unavailable",
+                    "value": "Your order includes downloads, but your payment has not yet been approved. Once payment has been approved your downloads will be available in your account."
+                },
+                "cart_downloads_click_to_go": {
+                    "title": "Cart Success, Downloads Click to go Text",
+                    "value": "Click to go there now."
+                },
+                "cart_success_view_downloads": {
+                    "title": "Cart Success, View Downloads",
+                    "value": "View Downloads"
+                },
+                "cart_invoice_line_1": {
+                    "title": "Cart Invoice, Payment Note",
+                    "value": "Nedenfor er din Fakturerings, følg venligst linket nedenfor for at gennemføre betaling."
+                },
+                "cart_invoice_pay_online": {
+                    "title": "Cart Invoice, Pay Online",
+                    "value": "for at betale online"
+                },
+                "cart_invoice_items_label": {
+                    "title": "Cart Invoice, Invoice Header",
+                    "value": "Fakturerings LINIER"
+                },
+				"cart_giftcards_unavailable":{
+					"title":"Cart Success, Gift Cards Unavailable",
+					"value":"Din ordre inkluderer et gavekort, men din betaling er endnu ikke godkendt. Når betalingen er godkendt, vil dit gavekort være tilgængeligt på din konto."
+				},
+				"cart_text_notification_title":{
+					"title":"Order Success, Text Notification Service Title",
+					"value":"Bestil opdateringer"
+				},
+				"cart_text_notification_description":{
+					"title":"Order Success, Text Notification Service Description Info",
+					"value":"Abonner nedenfor for at få ordreopdateringer direkte til din telefon via sms."
+				},
+				"cart_text_notification_placeholder":{
+					"title":"Order Success, Text Notification Service Input Placeholder",
+					"value":"xxx-xxx-xxxx"
+				},
+				"cart_text_notification_success":{
+					"title":"Order Success, Text Notification Success Message",
+					"value":"Du abonnerer nu på ordremeddelelser!"
+				},
+				"cart_text_notification_error":{
+					"title":"Order Success, Text Notification Error Message",
+					"value":"Dit telefonnummer er ugyldigt. Ret venligst og send igen."
+				},
+				"cart_text_notification_button":{
+					"title":"Order Success, Text Notification Service Button",
+					"value":"Få forsendelsesopdateringer via sms"
+				}
+            }
+        },
+        "subscription_trial": {
+            "label": "Subscription Trial Email",
+            "options": {
+                "trial_message_1": {
+                    "title": "Subscription Trial Part 1",
+                    "value": "Thank you for signing up! Your"
+                },
+                "trial_message_2": {
+                    "title": "Subscription Trial Part 2",
+                    "value": "day free trial of"
+                },
+                "trial_message_3": {
+                    "title": "Subscription Trial Part 3",
+                    "value": "has now started! If you have any questions or concerns during your trial, please contact us, we are happy to help."
+                },
+                "trial_message_4": {
+                    "title": "Subscription Trial Part 4",
+                    "value": "We hope you stick with us, but if you decide this isn't for you, you may cancel at any time prior to the end of your trial to prevent being charged. To cancel, log into your account, click manage subscriptions, view your subscription, and cancel on the details page."
+                },
+                "trial_message_link": {
+                    "title": "View Subscription Information",
+                    "value": "View Subscription Information"
+                },
+                "subscription_trial_email_title": {
+                    "title": "Subscription Trial Email Title",
+                    "value": "Your Trial Has Started"
+                },
+                "trial_ending_message_1": {
+                    "title": "Subscription Trial Ending Part 1",
+                    "value": "Your"
+                },
+                "trial_ending_message_2": {
+                    "title": "Subscription Trial Part 2",
+                    "value": "day free trial of"
+                },
+                "trial_ending_message_3": {
+                    "title": "Subscription Trial Part 3",
+                    "value": "is ending in only 3 days! If you have any questions or concerns, please contact us! We are happy to help."
+                },
+                "trial_ending_message_4": {
+                    "title": "Subscription Trial Part 4",
+                    "value": "We hope you stick with us, but if you decide this isn't for you, you may cancel at any time prior to the end of your trial to prevent being charged. To cancel, log into your account, click manage subscriptions, view your subscription, and cancel on the details page."
+                },
+                "trial_ending_message_link": {
+                    "title": "View Subscription Information",
+                    "value": "View Subscription Information"
+                },
+                "subscription_trial_ending_email_title": {
+                    "title": "Subscription Trial Email Title",
+                    "value": "Your Trial is Ending in 3 Days"
+                }
+            }
+        },
+        "subscription_ended": {
+            "label": "Subscription Ended Email",
+            "options": {
+                "ended_message_1": {
+                    "title": "Subscription Ended Part 1",
+                    "value": "Your subscription with us has either ended, been cancelled, or expired due to too many failed payments."
+                },
+                "ended_message_2": {
+                    "title": "Subscription Ended Part 2",
+                    "value": "We are sorry to see you go and hope you return. If this subscription was cancelled by accident, you may click the link below to purchase a new subscription."
+                },
+                "ended_details": {
+                    "title": "Subscription Ended Details",
+                    "value": "The following subscription has ended:"
+                },
+                "emded_message_link": {
+                    "title": "Start a New Subscription",
+                    "value": "Start a New Subscription"
+                },
+                "subscription_ended_email_title": {
+                    "title": "Subscription Ended Email Title",
+                    "value": "Your Subscription Has Ended"
+                }
+            }
+        },
+        "account_login": {
+            "label": "Account - Login",
+            "options": {
+                "account_login_title": {
+                    "title": "Account, Login Title",
+                    "value": "Tilbagevendende kunde"
+                },
+                "account_login_sub_title": {
+                    "title": "Account, Login Sub Title",
+                    "value": "Log på for benytte din eksisterende konto."
+                },
+                "account_login_email_label": {
+                    "title": "Account, Login, Email Label",
+                    "value": "Email adresse"
+                },
+                "account_login_password_label": {
+                    "title": "Account, Login, Password Label",
+                    "value": "Password"
+                },
+                "account_login_button": {
+                    "title": "Account, Login Button",
+                    "value": "LOG PÅ"
+                },
+                "account_login_forgot_password_link": {
+                    "title": "Account, Login, Forgot Password Link",
+                    "value": "Har du glemt dit password?"
+                },
+                "account_login_account_information_title": {
+                    "title": "Account, Login Complete Title",
+                    "value": "Konto information"
+                },
+                "account_login_account_information_text": {
+                    "title": "Account, Login Complete Text",
+                    "value": "You are currently checking out as Demo User. To checkout with a different account,"
+                },
+                "account_login_account_information_logout_link": {
+                    "title": "Account, Login Complete, Logout Link",
+                    "value": "klik her"
+                },
+                "account_new_user_title": {
+                    "title": "Account, Login, New User Title",
+                    "value": "Ny bruger"
+                },
+                "account_new_user_sub_title": {
+                    "title": "Account, Login, New User Sub Title",
+                    "value": "Ikke registreret? Klik på knappen nedenfor"
+                },
+                "account_new_user_message": {
+                    "title": "Account, Login, New User Message",
+                    "value": "Ingen konto? Opret en konto for at få det fulde udbytte af denne hjemmeside."
+                },
+                "account_new_user_button": {
+                    "title": "Account, Login, New User Button",
+                    "value": "OPRET KONTO"
+                }
+            }
+        },
+        "account_forgot_password": {
+            "label": "Account - Forgot Password",
+            "options": {
+                "account_forgot_password_title": {
+                    "title": "Account, Retrieve Password Title",
+                    "value": "Forny dit password"
+                },
+                "account_forgot_password_email_label": {
+                    "title": "Account, Retrieve Password Email Label",
+                    "value": "Email"
+                },
+                "account_forgot_password_button": {
+                    "title": "Account, Retrieve Password Button",
+                    "value": "FORNY DIT PASSWORD"
+                }
+            }
+        },
+        "account_validation_email": {
+            "label": "Account - Validation Email",
+            "options": {
+                "account_validation_email_message": {
+                    "title": "Account, Short Validate Email Message",
+                    "value": "Klik på linket neddenfor for at bekræfte din konto og email adresse."
+                },
+                "account_validation_email_title": {
+                    "title": "Account, Activate Your Account Title",
+                    "value": "Aktiver venligst din konto"
+                },
+                "account_validation_email_link": {
+                    "title": "Account, Activate Your Account Link",
+                    "value": "Klik her for at aktivere"
+                }
+            }
+        },
+        "account_register": {
+            "label": "Account - Register",
+            "options": {
+                "account_register_title": {
+                    "title": "Account, Register Title",
+                    "value": "Opret en konto"
+                },
+                "account_register_first_name": {
+                    "title": "Account, Register, First Name Label",
+                    "value": "Fornavn"
+                },
+                "account_register_last_name": {
+                    "title": "Account, Register, Last Name Label",
+                    "value": "Efternavn"
+                },
+                "account_register_email": {
+                    "title": "Account, Register, Email Label",
+                    "value": "Email adresse"
+                },
+                "account_register_password": {
+                    "title": "Account, Register, Password Label",
+                    "value": "Password"
+                },
+                "account_register_retype_password": {
+                    "title": "Account, Register, Re-type Password Label",
+                    "value": "Gentast Password"
+                },
+                "account_register_subscribe": {
+                    "title": "Account, Register, Subscribe Text",
+                    "value": "Ønsker du at modtage nyhedsmail fra os ?"
+                },
+                "account_register_agree_terms": {
+                    "title": "Account, Register, Agree Terms Text",
+                    "value": "Accepterer du vilkår og betingelser for denne hjemmeside og vores data politik ?"
+                },
+                "account_register_button": {
+                    "title": "Account, Register Button",
+                    "value": "OPRET KONTO"
+                },
+                "account_billing_information_user_notes": {
+                    "title": "Account, Billing, User Notes",
+                    "value": "Ekstra information om din konto oprettelse"
+                },
+                "account_register_email_title": {
+                    "title": "Account, Register Email Title",
+                    "value": "Ny PsykoterapeutTræf registrering"
+                },
+                "account_register_email_message": {
+                    "title": "Account, Register Email Message",
+                    "value": "Ny konto oprettetmed email adresse:"
+                }
+            }
+        },
+        "account_navigation": {
+            "label": "Account - Navigation",
+            "options": {
+                "account_navigation_title": {
+                    "title": "Account, Navigation Title",
+                    "value": "Konto aavigation"
+                },
+                "account_navigation_basic_inforamtion": {
+                    "title": "Account, Navigation, Basic Information Link",
+                    "value": "basis information"
+                },
+                "account_navigation_orders": {
+                    "title": "Account, Navigation, View Orders Link",
+                    "value": "vis ordrer"
+                },
+                "account_navigation_password": {
+                    "title": "Account, Navigation, Change Password Link",
+                    "value": "skift password"
+                },
+                "account_navigation_subscriptions": {
+                    "title": "Account, Navigation, Subscriptions Link",
+                    "value": "ændre abonnementer"
+                },
+                "account_navigation_payment_methods": {
+                    "title": "Account, Navigation, Payments Link",
+                    "value": "ændre betalingsformer"
+                },
+                "account_navigation_sign_out": {
+                    "title": "Account, Navigation, Sign Out Link",
+                    "value": "Log ud"
+                },
+                "account_navigation_dashboard": {
+                    "title": "Account, Navigation, Dashboard Link",
+                    "value": "konto dashboard"
+                },
+                "account_navigation_billing_information": {
+                    "title": "Account, Navigation, Billing Link",
+                    "value": "fakturerings information"
+                },
+                "account_navigation_shipping_information": {
+                    "title": "Account, Navigation, Shipping Link",
+                    "value": "forsendelses information"
+                }
+            }
+        },
+        "account_dashboard": {
+            "label": "Account - Dashboard",
+            "options": {
+                "account_dashboard_recent_orders_title": {
+                    "title": "Account, Dashboard, Recent Orders Title",
+                    "value": "Nylige ordrer"
+                },
+                "account_dashboard_recent_orders_none": {
+                    "title": "Account, Dashboard, Recent Order, No Orders",
+                    "value": "Der er ingen ordrer afgivet"
+                },
+                "account_dashboard_all_orders_linke": {
+                    "title": "Account, Dashboard, All Orders Link",
+                    "value": "VIS ALLE ORDRER"
+                },
+                "account_dashboard_order_placed": {
+                    "title": "Account, Dashboard, Order Placed Label",
+                    "value": "ORDRE AFGIVET"
+                },
+                "account_dashboard_order_total": {
+                    "title": "Account, Dashboard, Total Label",
+                    "value": "IALT"
+                },
+                "account_dashboard_order_ship_to": {
+                    "title": "Account, Dashboard, Ship To Label",
+                    "value": "SEND TIL"
+                },
+                "account_dashboard_order_order_label": {
+                    "title": "Account, Dashboard, Order Label",
+                    "value": "ORDRE"
+                },
+                "account_dashboard_order_view_details": {
+                    "title": "Account, Dashboard, View Details Link",
+                    "value": "Vis detailer"
+                },
+                "account_dashboard_order_buy_item_again": {
+                    "title": "Account, Dashboard, Buy Item Again",
+                    "value": "Køb vare igen"
+                },
+                "account_dashboard_preference_title": {
+                    "title": "Account, Dashboard, Preference Title",
+                    "value": "Konto præferencer"
+                },
+                "account_dashboard_email_title": {
+                    "title": "Account, Dashboard, Email Title",
+                    "value": "Din primary email"
+                },
+                "account_dashboard_email_edit_link": {
+                    "title": "Account, Dashboard, Email Edit Link",
+                    "value": "ret"
+                },
+                "account_dashboard_email_note": {
+                    "title": "Account, Dashboard, Email Note",
+                    "value": "(denne benyttes til log in)"
+                },
+                "account_dashboard_billing_title": {
+                    "title": "Account, Dashboard, Billing Title",
+                    "value": "Fakturerings adresse"
+                },
+                "account_dashboard_billing_link": {
+                    "title": "Account, Dashboard, Billing Edit Link",
+                    "value": "ret Fakturerings adresse"
+                },
+                "account_dashboard_shipping_title": {
+                    "title": "Account, Dashboard, Shipping Title",
+                    "value": "Forsendelses adresse"
+                },
+                "account_dashboard_shipping_link": {
+                    "title": "Account, Dashboard, Shipping Edit Link",
+                    "value": "Ret forsendelses adresse"
+                }
+            }
+        },
+        "account_personal_information": {
+            "label": "Account - Edit Personal Information",
+            "options": {
+                "account_personal_information_title": {
+                    "title": "Account, Personal Information Title",
+                    "value": "Personlig information"
+                },
+                "account_personal_information_sub_title": {
+                    "title": "Account, Personal Information Sub Title",
+                    "value": "bemærk: Ændringer af din konto infomation inkl. forsendelses information vil kun påvirke ny ordrer. Allerede afgivne ordrer sendes til forsendelsesadressen anvendt ved købet."
+                },
+                "account_personal_information_first_name": {
+                    "title": "Account, Personal Information, First Name Label",
+                    "value": "Fornavn"
+                },
+                "account_personal_information_last_name": {
+                    "title": "Account, Personal Information, Last Name Label",
+                    "value": "Efternavn"
+                },
+                "account_personal_information_email": {
+                    "title": "Account, Personal Information, Email Label",
+                    "value": "Email adresse"
+                },
+                "account_personal_information_subscribe": {
+                    "title": "Account, Personal Information, Subscribe Label",
+                    "value": "Ønsker du at modtage vores nyhedsbrev ?"
+                },
+                "account_personal_information_update_button": {
+                    "title": "Account, Personal Information, Update Button",
+                    "value": "RET"
+                },
+                "account_personal_information_cancel_link": {
+                    "title": "Account, Personal Information, Cancel Link",
+                    "value": "FORTRYD"
+                },
+				"account_personal_information_email_other":{
+					"title":"Account, Personal Information, Additional Email Label",
+					"value":"Yderligere e-mail-adresse"
+				}
+            }
+        },
+        "account_password": {
+            "label": "Account - Edit Password",
+            "options": {
+                "account_password_title": {
+                    "title": "Account, Password Title",
+                    "value": "Ret dit password"
+                },
+                "account_password_sub_title": {
+                    "title": "Account, Password Sub Title",
+                    "value": "bemærk: Når du har rettet dit password, skal du anvende det ny password, hver gang du logger ind her."
+                },
+                "account_password_current_password": {
+                    "title": "Account, Password, Current Password Label",
+                    "value": "Nuværende password"
+                },
+                "account_password_new_password": {
+                    "title": "Account, Password, New Password Label",
+                    "value": "Nyt password"
+                },
+                "account_password_retype_new_password": {
+                    "title": "Account, Password, Retype New Password Label",
+                    "value": "Gentast nyt password"
+                },
+                "account_password_update_button": {
+                    "title": "Account, Password, Update Button",
+                    "value": "OPDATER"
+                },
+                "account_password_cancel_button": {
+                    "title": "Account, Password, Cancel Link",
+                    "value": "FORTRYD"
+                }
+            }
+        },
+        "account_billing_information": {
+            "label": "Account - Edit Billing Information",
+            "options": {
+                "account_billing_information_title": {
+                    "title": "Account, Billing Information Title",
+                    "value": "Fakturerings information"
+                },
+                "account_billing_information_first_name": {
+                    "title": "Account, Billing Information, First Name Label",
+                    "value": "Fornavn"
+                },
+                "account_billing_information_last_name": {
+                    "title": "Account, Billing Information, Last Name Label",
+                    "value": "Efternavn"
+                },
+                "account_billing_information_address": {
+                    "title": "Account, Billing Information, Address Label",
+                    "value": "Adresse"
+                },
+                "account_billing_information_address2": {
+                    "title": "Account, Billing Information, Address 2 Label",
+                    "value": "Adresse 2"
+                },
+                "account_billing_information_city": {
+                    "title": "Account, Billing Information, City Label",
+                    "value": "By"
+                },
+                "account_billing_information_state": {
+                    "title": "Account, Billing Information, State Label",
+                    "value": "Region"
+                },
+                "account_billing_information_default_no_state": {
+                    "title": "Account, Billing Information, No State Label",
+                    "value": "Vælg en region"
+                },
+                "account_billing_information_zip": {
+                    "title": "Account, Billing Information, Zip Label",
+                    "value": "Postnummer"
+                },
+                "account_billing_information_country": {
+                    "title": "Account, Billing Information, Country Label",
+                    "value": "Land"
+                },
+                "account_billing_information_default_no_country": {
+                    "title": "Account, Billing Information, No Country Label",
+                    "value": "Vælg et land"
+                },
+                "account_billing_information_phone": {
+                    "title": "Account, Billing Information, Phone Label",
+                    "value": "Telefonnr"
+                },
+                "account_billing_information_update_button": {
+                    "title": "Account, Billing Information, Update Button",
+                    "value": "OPDATER"
+                },
+                "account_billing_information_cancel": {
+                    "title": "Account, Billing Information, Cancel Link",
+                    "value": "FORTRYD"
+                }
+            }
+        },
+        "account_shipping_information": {
+            "label": "Account - Edit Shipping Information",
+            "options": {
+                "account_shipping_information_title": {
+                    "title": "Account, Shipping Information Title",
+                    "value": "Forsendelses information"
+                },
+                "account_shipping_information_first_name": {
+                    "title": "Account, Shipping Information, First Name Label",
+                    "value": "Fornavn"
+                },
+                "account_shipping_information_last_name": {
+                    "title": "Account, Shipping Information, Last Name Label",
+                    "value": "Efternavn"
+                },
+                "account_shipping_information_address": {
+                    "title": "Account, Shipping Information, Address Label",
+                    "value": "Adresse"
+                },
+                "account_shipping_information_address2": {
+                    "title": "Account, Shipping Information, Address 2 Label",
+                    "value": "Adresse 2"
+                },
+                "account_shipping_information_city": {
+                    "title": "Account, Shipping Information, City Label",
+                    "value": "By"
+                },
+                "account_shipping_information_state": {
+                    "title": "Account, Shipping Information, State Label",
+                    "value": "Region"
+                },
+                "account_shipping_information_default_no_state": {
+                    "title": "Account, Shipping Information, No State Label",
+                    "value": "Vælg en region"
+                },
+                "account_shipping_information_zip": {
+                    "title": "Account, Shipping Information, Zip Label",
+                    "value": "Postnummer"
+                },
+                "account_shipping_information_country": {
+                    "title": "Account, Shipping Information, Country Label",
+                    "value": "Land"
+                },
+                "account_shipping_information_default_no_country": {
+                    "title": "Account, Shipping Information, No Country Label",
+                    "value": "Vælg et land"
+                },
+                "account_shipping_information_phone": {
+                    "title": "Account, Shipping Information, Phone Label",
+                    "value": "Telefonnr"
+                },
+                "account_shipping_information_update_button": {
+                    "title": "Account, Shipping Information, Update Button",
+                    "value": "OPDATER"
+                },
+                "account_shipping_information_cancel": {
+                    "title": "Account, Shipping Information, Cancel Link",
+                    "value": "FORTRYD"
+                }
+            }
+        },
+        "account_orders": {
+            "label": "Account - Orders",
+            "options": {
+                "account_orders_title": {
+                    "title": "Account, Orders Title",
+                    "value": "Din ordre historik"
+                },
+                "account_orders_header_1": {
+                    "title": "Account, Orders, Header 1",
+                    "value": "ID"
+                },
+                "account_orders_header_2": {
+                    "title": "Account, Orders, Header 2",
+                    "value": "Dato"
+                },
+                "account_orders_header_3": {
+                    "title": "Account, Orders, Header 3",
+                    "value": "ialt"
+                },
+                "account_orders_header_4": {
+                    "title": "Account, Orders, Header 4",
+                    "value": "Status"
+                },
+                "account_orders_view_order_button": {
+                    "title": "Account, Orders, View Order Button",
+                    "value": "VIS ORDRE"
+                }
+            }
+        },
+        "account_forgot_password_email": {
+            "label": "Account - Forgot Password Recovery Email",
+            "options": {
+                "account_forgot_password_email_title": {
+                    "title": "Account, Password Recovery Email, Email Title",
+                    "value": "Dit ny password"
+                },
+                "account_forgot_password_email_dear": {
+                    "title": "Account, Password Recovery Email, Dear User",
+                    "value": "Kære"
+                },
+                "account_forgot_password_email_your_new_password": {
+                    "title": "Account, Password Recovery Email, Your New Password",
+                    "value": "Dit ny password er:"
+                },
+                "account_forgot_password_email_change_password": {
+                    "title": "Account, Password Recovery Email, Change Password Text",
+                    "value": "Vær venlig at logge ind til din konto og ændre dit password til noget, du kan huske."
+                },
+                "account_forgot_password_email_thank_you": {
+                    "title": "Account, Password Recovery Email, Thank You Text",
+                    "value": "Mange tak!"
+                }
+            }
+        },
+        "account_order_details": {
+            "label": "Account - Order Details",
+            "options": {
+                "account_orders_details_order_info_title": {
+                    "title": "Account, Orders Details, Order Information Title",
+                    "value": "Ordre information"
+                },
+                "account_orders_details_your_order_title": {
+                    "title": "Account, Orders Details, Your Order Title",
+                    "value": "Din ortdre"
+                },
+                "account_orders_details_order_number": {
+                    "title": "Account, Orders Details, Order Number Label",
+                    "value": "Ordre number:"
+                },
+                "account_orders_details_order_date": {
+                    "title": "Account, Orders Details, Order Date Label",
+                    "value": "Ordre Dato:"
+                },
+                "account_orders_details_order_status": {
+                    "title": "Account, Orders Details, Order Status Label",
+                    "value": "Order status:"
+                },
+                "account_orders_details_order_tracking": {
+                    "title": "Account, Orders Details, Order Tracking Label",
+                    "value": "Sporings number:"
+                },
+                "account_orders_details_shipping_method": {
+                    "title": "Account, Orders Details, Shipping Method Label",
+                    "value": "Forsendelses metode:"
+                },
+                "account_orders_details_coupon_code": {
+                    "title": "Account, Orders Details, Coupon Code Label",
+                    "value": "Kupon kode:"
+                },
+                "account_orders_details_gift_card": {
+                    "title": "Account, Orders Details, Gift Card Label",
+                    "value": "Gavekort:"
+                },
+                "account_orders_details_view_subscription": {
+                    "title": "Account, Orders Details, View Subscription",
+                    "value": "Vis abonnement detaljer"
+                },
+                "account_orders_details_billing_label": {
+                    "title": "Account, Orders Details, Billing Label",
+                    "value": "Fakturerings adresse"
+                },
+                "account_orders_details_shipping_label": {
+                    "title": "Account, Orders Details, Shipping Label",
+                    "value": "Forsendelses adresse"
+                },
+                "account_orders_details_payment_method": {
+                    "title": "Account, Orders Details, Payment Method",
+                    "value": "Betalings metode:"
+                },
+                "account_order_details_payment_method_manual": {
+                    "title": "Account, Order Details, Payment Method, Manual Bill Label",
+                    "value": "Bank overførsel"
+                },
+                "account_orders_details_subtotal": {
+                    "title": "Account, Orders Details, Subtotal",
+                    "value": "Subtotal:"
+                },
+                "account_orders_details_tax_total": {
+                    "title": "Account, Orders Details, Tax Total",
+                    "value": "Skat ialt:"
+                },
+                "account_orders_details_shipping_total": {
+                    "title": "Account, Orders Details, Shipping Total",
+                    "value": "Forsendelse ialt:"
+                },
+                "account_orders_details_discount_total": {
+                    "title": "Account, Orders Details, Discount Total",
+                    "value": "Rabat ialt:"
+                },
+                "account_orders_details_duty_total": {
+                    "title": "Account, Orders Details, Duty Total",
+                    "value": "Told ialt:"
+                },
+                "account_orders_details_vat_total": {
+                    "title": "Account, Orders Details, VAT Total",
+                    "value": "MOMS ialt:"
+                },
+                "account_orders_details_refund_total": {
+                    "title": "Account, Orders Details, Refund Total",
+                    "value": "Refunderet beløb:"
+                },
+                "account_orders_details_refund_total_short": {
+                    "title": "Account, Orders Details, Refund Total Short",
+                    "value": "Refusion ialt"
+                },
+                "account_orders_details_grand_total": {
+                    "title": "Account, Orders Details, Grand Total",
+                    "value": "Ordre ialt:"
+                },
+                "account_orders_details_header_1": {
+                    "title": "Account, Orders Details, Header 1",
+                    "value": "Vare"
+                },
+                "account_orders_details_header_2": {
+                    "title": "Account, Orders Details, Header 2",
+                    "value": "Valg"
+                },
+                "account_orders_details_header_3": {
+                    "title": "Account, Orders Details, Header 3",
+                    "value": "Pris"
+                },
+                "account_orders_details_header_4": {
+                    "title": "Account, Orders Details, Header 4",
+                    "value": "Antal"
+                },
+                "account_orders_details_header_5": {
+                    "title": "Account, Orders Details, Header 5",
+                    "value": "Ialt"
+                },
+                "account_orders_details_gift_message": {
+                    "title": "Account, Orders Details, Gift Card Message",
+                    "value": "meddelelse: "
+                },
+                "account_orders_details_gift_from": {
+                    "title": "Account, Orders Details, Gift Card From",
+                    "value": "fra: "
+                },
+                "account_orders_details_gift_to": {
+                    "title": "Account, Orders Details, Gift Card To",
+                    "value": "til: "
+                },
+                "account_orders_details_gift_card_id": {
+                    "title": "Account, Orders Details, Gift Card ID",
+                    "value": "Gavekort kode: "
+                },
+                "account_orders_details_print_online": {
+                    "title": "Account, Orders Details, Print Online Link",
+                    "value": "Udskriv online"
+                },
+                "account_orders_details_download": {
+                    "title": "Account, Orders Details, Download",
+                    "value": "Download"
+                },
+                "account_orders_details_downloads_used": {
+                    "title": "Account, Orders Details, Downloads Used",
+                    "value": "Downloads brugt"
+                },
+                "account_orders_details_downloads_expire_time": {
+                    "title": "Account, Orders Details, Download Expiration",
+                    "value": "Download udløber den:"
+                },
+                "account_orders_details_your_codes": {
+                    "title": "Account, Orders Details, Your Codes",
+                    "value": "Din kode(r):"
+                },
+                "complete_payment": {
+                    "title": "Account, Orders Details, Complete Payment",
+                    "value": "Komplet ordre betaling"
+                },
+                "order_status_status_not_found": {
+                    "title": "Account, Orders Status, Status Not Found",
+                    "value": "Status ikke fundet"
+                },
+                "order_status_order_shipped": {
+                    "title": "Account, Orders Status, Order Shipped",
+                    "value": "Ordre afsendt"
+                },
+                "order_status_order_confirmed": {
+                    "title": "Account, Orders Status, Order Confirmed",
+                    "value": "Ordre bekræftet"
+                },
+                "order_status_order_on_hold": {
+                    "title": "Account, Orders Status, Order on Hold",
+                    "value": "Ordre tilbageholdes"
+                },
+                "order_status_order_started": {
+                    "title": "Account, Orders Status, Order Started",
+                    "value": "Ordre påbegyndt"
+                },
+                "order_status_card_approved": {
+                    "title": "Account, Orders Status, Card Approved",
+                    "value": "Kort accepteret"
+                },
+                "order_status_card_denied": {
+                    "title": "Account, Orders Status, Card Denied",
+                    "value": "Kort afvist"
+                },
+                "order_status_third_party_pending": {
+                    "title": "Account, Orders Status, Third Party Pending",
+                    "value": "Afventer trediepart"
+                },
+                "order_status_third_party_error": {
+                    "title": "Account, Orders Status, Third Party Error",
+                    "value": "Trediepart fejl"
+                },
+                "order_status_third_party_approved": {
+                    "title": "Account, Orders Status, Third Party Approved",
+                    "value": "Trediepart har accepteret"
+                },
+                "order_status_ready_for_pickup": {
+                    "title": "Account, Orders Status, Ready for Pickup",
+                    "value": "Klar til afhentning"
+                },
+                "order_status_pending_approval": {
+                    "title": "Account, Orders Status, Pending Approval",
+                    "value": "Afventer godkendelse"
+                },
+                "order_status_direct_deposit_pending": {
+                    "title": "Account, Orders Status, Direct Deposit Pending",
+                    "value": "Afventer bankoverførsel"
+                },
+                "order_status_direct_deposit_received": {
+                    "title": "Account, Orders Status, Direct Deposit Received",
+                    "value": "Bankoverførsel modtaget"
+                },
+                "order_status_refunded_order": {
+                    "title": "Account, Orders Status, Refunded Order",
+                    "value": "Ordre refunderet"
+                },
+                "order_status_partial_refund": {
+                    "title": "Account, Orders Status, Partial Refund",
+                    "value": "Delvis refunderet"
+                },
+                "order_status_order_picked_up": {
+                    "title": "Account, Orders Status, Order Picked UP",
+                    "value": "Ordre afhentet"
+                },
+                "no_order_found": {
+                    "title": "Account, No Order Found",
+                    "value": "Ordren blev ikke fundet eller tilhørr ikke den konto, du anvender"
+                },
+                "return_to_dashboard": {
+                    "title": "Account, Return to Dashboard",
+                    "value": "Tilbage til konto oversigt"
+                },
+				"account_orders_details_email":{
+					"title":"Account, Orders Details, Order Email Label",
+					"value":"E-mail:"
+				},
+				"account_orders_details_email_other":{
+					"title":"Account, Orders Details, Order Additional Email Label",
+					"value":"Yderligere e-mail:"
+				}
+            }
+        },
+        "account_subscriptions": {
+            "label": "Account - Subscriptions",
+            "options": {
+                "account_subscriptions_title": {
+                    "title": "Account, Subscriptions Title",
+                    "value": "Dine aktive abonnementer"
+                },
+                "account_canceled_subscriptions_title": {
+                    "title": "Account, Canceled Subscriptions Title",
+                    "value": "Dine opsagte abonnementer"
+                },
+                "account_subscriptions_header_1": {
+                    "title": "Account, Subscriptions, Header 1",
+                    "value": "Abonnement navn"
+                },
+                "account_subscriptions_header_2": {
+                    "title": "Account, Subscriptions, Header 2",
+                    "value": "Næste betalingsdato"
+                },
+                "account_subscriptions_header_3": {
+                    "title": "Account, Subscriptions, Header 3",
+                    "value": "Seneste betaling"
+                },
+                "account_subscriptions_header_4": {
+                    "title": "Account, Subscriptions, Header 4",
+                    "value": "Pris/cyclus"
+                },
+                "account_subscriptions_view_subscription_button": {
+                    "title": "Account, Subscriptions, View Details Button",
+                    "value": "VIS DETALJER"
+                },
+                "account_subscriptions_none_found": {
+                    "title": "Account, Subscriptions, None Found",
+                    "value": "Der er ingen abonnementer tilknyttet din konto."
+                },
+                "update_subscription_subtitle": {
+                    "title": "Account, Subscription Details, Credit Card Note",
+                    "value": "Det er ikke nødvendigt at opdatere din kreditkort information."
+                },
+                "save_changes_button": {
+                    "title": "Account, Subscription Details, Save Changes Button",
+                    "value": "GEM ÆNDRINGER"
+                },
+                "cancel_subscription_button": {
+                    "title": "Account, Subscription Details, Cancel Subscription Button",
+                    "value": "OPSIG ABONNEMENT"
+                },
+                "cancel_subscription_confirm_text": {
+                    "title": "Account, Subscription Details, Cancel Subscription Button",
+                    "value": "Bekræft, at du ønsker at opsige dette abonnement ?"
+                },
+                "subscription_details_next_billing": {
+                    "title": "Account, Subscription Details, Next Billing Date",
+                    "value": "Næste betalingsdato"
+                },
+                "subscription_details_last_payment": {
+                    "title": "Account, Subscription Details, Last Payment Date",
+                    "value": "Seneste betalingsdato"
+                },
+                "subscription_details_current_billing": {
+                    "title": "Account, Subscription Details, Current Billing Title",
+                    "value": "Gældende betalings metode"
+                },
+                "subscription_details_notice": {
+                    "title": "Account, Subscription Details, User Notice",
+                    "value": "*BEMÆRK: Alle ændringer til betalingsmetode eller abonnement vil træde i kraft ved næste betalingsdato. Prisændringer vil træde i kraft åjeblikkelig og vil fremgå af din næste reginig."
+                },
+                "subscription_details_past_payments": {
+                    "title": "Account, Subscription Details, Past Payments Title",
+                    "value": "Tidligere betalinger"
+                }
+            }
+        },
+        "ec_errors": {
+            "label": "Store Error Text",
+            "options": {
+                "login_failed": {
+                    "title": "Account, User Login Failed",
+                    "value": "Det angivne brugernavn og password er ukorrekt."
+                },
+                "register_email_error": {
+                    "title": "Account Registration Email In Use Error",
+                    "value": "Den email adresse, du har angivet, har allerede en konto."
+                },
+                "no_reset_email_found": {
+                    "title": "No Email Found Error",
+                    "value": "Den email adresse, du har angivet, er ikke kendt i systemet."
+                },
+                "personal_information_update_error": {
+                    "title": "Account, updating personal info error",
+                    "value": "En fejl opstod under opdateringen af dine personlige informationer."
+                },
+                "password_wrong_current": {
+                    "title": "Wrong password entered Error",
+                    "value": "Det password, du angav som gældende, svarer ikke overens med din konto."
+                },
+                "password_no_match": {
+                    "title": "Passwords do not match Error",
+                    "value": "Det ny password og det gentastede ny password er forskellige."
+                },
+                "password_update_error": {
+                    "title": "password update error",
+                    "value": "En fejl opstod under opdateringen af dit password."
+                },
+                "billing_information_error": {
+                    "title": "Account, billing information update error",
+                    "value": "En fejl opstod under opdateringen af din fakturerings information."
+                },
+                "shipping_information_error": {
+                    "title": "Account, shipping information update error",
+                    "value": "En fejl opstod under opdateringen af din forsendelses information."
+                },
+                "email_exists_error": {
+                    "title": "Cart, create account on checkout, email exists",
+                    "value": "Denne email er allerede tilknyttet en konto. Login eller brug en anden email adresse for at fortsætte."
+                },
+                "3dsecure_failed": {
+                    "title": "Cart, Optional, Error message when 3D Secure Fails, Gateway Dependent",
+                    "value": "Din betaling kunne ikke gennemføres, fordi  3D Secure metoden fejlede. Prøv venligst igen. Kontakt os, hvis dit problem består."
+                },
+                "manualbill_failed": {
+                    "title": "Cart, Optional, Manual billing failed, Gateway Dependent",
+                    "value": "Din betaling kunne ikke gennemføres, manuel fakturering failede. Prøv venligst igen."
+                },
+                "thirdparty_failed": {
+                    "title": "Cart, Optional, Third Party Failed, Gateway Dependent",
+                    "value": "Din betaling kunne ikke gennemføres, 3 part fejlede. Prøv venligst igen."
+                },
+                "payment_failed": {
+                    "title": "Cart, Optional, Credit Card Failed, Gateway Dependent",
+                    "value": "Din betaling kunne ikke gennemføres, fordi dit kreditkort ikke kunne bekræftes. Kontroller venligst dine kreditkort informationer og prøv igen. Kontakt os, hvos problemet består."
+                },
+                "ideal_failed": {
+                    "title": "Cart, Optional, iDEAL Failed, Gateway Dependent",
+                    "value": "Din betaling lykkedes ikke. Prøv venligst igen ekker kontakt os, hvis problemet består."
+                },
+                "already_subscribed": {
+                    "title": "Cart, Optional, Already Subscribed, Gateway Dependent",
+                    "value": "Du abonnerer allerede på denne vare. Se din konto for at styre dine aktive abonnementer."
+                },
+                "subscription_not_found": {
+                    "title": "Account, Subscription Not Found Error",
+                    "value": "En ukendt fejl opstod, hvor det abonnement, du ønsker, ikke fandtes i vores system. Prøv venligst igen eller kontakt os, hvis problemet består."
+                },
+                "invalid_address": {
+                    "title": "Cart, Invalid Live Shipping Address",
+                    "value": "Noget gik galt med den adresse, du har angivet. Kontroller venligst by, postnr, region og land for at sikre, at data er korrekt."
+                },
+                "activation_error": {
+                    "title": "Account, Activation Error",
+                    "value": "En fejl opstod i forsøget på at aktivere din konto. Kontakt os venligst for at få probleme løst."
+                },
+                "not_activated": {
+                    "title": "Account, Not Activated",
+                    "value": "Den konto, du forsøger at tilgå, er ikke aktiveret. Brug venligst det aktiveringsmail, som blev sendt til dig ved oprettelsen af din konto eller kontakt os"
+                },
+                "subscription_update_failed": {
+                    "title": "Account, Subscription Update Error",
+                    "value": "Der opstod et problem under opdateringen af dit abonnment. Prøv venligst igen eller kontakt os, hvis problemet består."
+                },
+                "subscription_cancel_failed": {
+                    "title": "Account, Subscription Cancel Error",
+                    "value": "Der opstod et problem under opsigelsen af dit abonnement. Prøv venligst igen eller kontakt os, hvis problemet består."
+                },
+                "user_insert_error": {
+                    "title": "Account, Subscription User Insert Error",
+                    "value": "Der opstod et problem under oprettelsen af din konto i vores abonnement system. Kontakt os venligst for at fuldføre din ordre."
+                },
+                "subscription_added_failed": {
+                    "title": "Account, Subscription Plan Added Error",
+                    "value": "Der opstod et problem under opretelsen af dit abonnement i vores system. Kontakt os venligst for at fuldføre din ordre."
+                },
+                "subscription_failed": {
+                    "title": "Account, Subscription Creation Error",
+                    "value": "Der opstod et problem under opretelsen af dit abonnement i vores system. Kontakt os venligst for at fuldføre din ordre."
+                },
+                "nets_processing": {
+                    "title": "Account, Nets Error Level Authorize",
+                    "value": "Der opstod et problem under gennemførslen af din ordre hos Nets Netaxept. Du kan fuldføre din ordre ved at klikke på knappen nedenfor."
+                },
+                "nets_processing_payment": {
+                    "title": "Account, Nets Error Level Capture",
+                    "value": "Din betaling er fennemført hos Nets Netaxept, men der er et problem i vores system. Kontakt os venligst for at fuldføre din ordre."
+                },
+                "subscription_payment_failed_title": {
+                    "title": "Cart, Subscription Payment Failed",
+                    "value": "betaling fejlede"
+                },
+                "subscription_payment_failed_text": {
+                    "title": "Cart, Subscription Payment Failed Text",
+                    "value": "Betaling har fejlet for et af dine abonnementer. Klik venligst på linket nedenfor for at rette din betalingsinformation."
+                },
+                "subscription_payment_failed_link": {
+                    "title": "Cart, Subscription Payment Failed Link",
+                    "value": "Klik for at opdatere betalingsinformation."
+                },
+                "minquantity": {
+                    "title": "Store, Minimum Quantity Error",
+                    "value": "Denne vare fortdsætter et minimumskøb."
+                },
+                "missing_gift_card_options": {
+                    "title": "Store, Missing Gift Card Options",
+                    "value": "Manglende gavekort valg"
+                },
+                "missing_inquiry_options": {
+                    "title": "Store, Missing Inquiry Options",
+                    "value": "Manglende forespørgsels valg"
+                },
+                "session_expired": {
+                    "title": "Store, Session Expired",
+                    "value": "Din login er udløbet, genindtast venligst dine købsinformationer for at fuldføre din ordre."
+                },
+                "invalid_vat_number": {
+                    "title": "Cart, Invalid VAT Number Entered",
+                    "value": "Dit MOMS nummer er ugyldigt. Venligst ret nummeret eller lad feltet være tomt."
+                },
+                "missing_payment_method": {
+                    "title": "Cart, Select a Payment Method",
+                    "value": "Du skal vælge en betalings metode for at fortsætte."
+                },
+                "cart_stock_invalid": {
+                    "title": "Cart, Items are out of stock",
+                    "value": "Vi beklager, men nogle af dine varer i kurven er udsolgt eller findes ikke i det ønskede antal. Vi har opdateret indholdet af din kurv, så det afspejler det, vi har på lager."
+                },
+				"ideal_processing":{
+					"title":"Cart, iDeal Payment Processing",
+					"value":"Vi kunne ikke bekræfte din ordrestatus, og din ordre placeres i afventende status, indtil vi kan bekræfte dine betalingsoplysninger. Kontakt os, hvis du har spørgsmål."
+				},
+				"missing_shipping_method":{
+					"title":"Cart, No Shipping Method Selected",
+					"value":"Vælg venligst en forsendelsesmetode for at fortsætte med betalingen."
+				},
+				"payment_processing":{
+					"title":"Cart, Payment is pending",
+					"value":"Din betaling behandles stadig og er endnu ikke blevet godkendt."
+				},
+				"delayed_payment_failed":{
+					"title":"Cart, Payment is failed after delayed processing",
+					"value":"Din betaling mislykkedes efter forsinket behandling. Du skal kontakte os for at løse betalingen for din ordre."
+				},
+				"order_refunded":{
+					"title":"Cart, Order refunded",
+					"value":"Din ordre er blevet refunderet."
+				},
+				"cart_location_error":{
+					"title":"Cart, Location Error",
+					"value":"Der er en vare i din indkøbskurv, som ikke kan sendes til din nuværende leveringsadresse. Fjern venligst denne vare fra indkøbskurven eller fortsæt til kassen og indtast en anden adresse."
+				}
+            }
+        },
+        "ec_success": {
+            "label": "Store Success Text",
+            "options": {
+                "personal_information_updated": {
+                    "title": "Account Personal Information Update Success",
+                    "value": "Dine personlige information er opdateret."
+                },
+                "password_updated": {
+                    "title": "Account Personal Information Update Success",
+                    "value": "Dit password er opdateret."
+                },
+                "billing_information_updated": {
+                    "title": "Account Billing Update Success",
+                    "value": "Din fakturerings information er opdateret."
+                },
+                "shipping_information_updated": {
+                    "title": "Account Shipping Update Success",
+                    "value": "Din forsendelses information er opdateret."
+                },
+                "reset_email_sent": {
+                    "title": "Account Email Sent Success",
+                    "value": "Dit ny password er sendt til din email adresse."
+                },
+                "cart_account_created": {
+                    "title": "Cart, Create Account, Account Created Success Text",
+                    "value": "Din konto er oprettet, og alle ordrer vil nu blive tilknyttet din ny konto."
+                },
+                "cart_account_free_order": {
+                    "title": "Cart, Order Type, Gift Card, Free Order",
+                    "value": "Gratis ordre"
+                },
+                "store_added_to_cart": {
+                    "title": "Store, Added Item to Cart",
+                    "value": "Du har tilføjet [prod_title] til din kurv."
+                },
+                "activation_success": {
+                    "title": "Account, Activation Success",
+                    "value": "Du har bekræftet din konto"
+                },
+                "validation_required": {
+                    "title": "Account, Validation Required",
+                    "value": "Du har oprettet en konto, men din email adresse skal bekræftes. Et email er send til til din angivne adresse med instruktioner om at fortsætte  registreringsprocessen."
+                },
+                "subscription_updated": {
+                    "title": "Account, Subscription Updated",
+                    "value": "Dit abonnement er blevet opdateret."
+                },
+                "subscription_canceled": {
+                    "title": "Account, Subscription Canceled",
+                    "value": "Dit abonnement er blevet opsagt."
+                },
+                "inquiry_sent": {
+                    "title": "Store, Inquiry Sent",
+                    "value": "Din produkt forespørgsel er blevet sendt."
+                },
+                "add_to_cart_success": {
+                    "title": "Store, Added to Cart",
+                    "value": "Tilføjet til din indkøbsvogn"
+                },
+                "adding_to_cart": {
+                    "title": "Store, Adding to Cart",
+                    "value": "Tilføjer til din kurv..."
+                }
+            }
+        },
+        "ec_shipping_email": {
+            "label": "Shipping Emailer",
+            "options": {
+                "shipping_email_title": {
+                    "title": "Shipping Email Title",
+                    "value": "Forsendelses bekræftelse - ordre nummer"
+                },
+                "shipping_dear": {
+                    "title": "Shipping Dear Customer",
+                    "value": "Kære"
+                },
+                "shipping_subtitle1": {
+                    "title": "Order Shipped First Half",
+                    "value": "Din nylige ordre med nummer"
+                },
+                "shipping_subtitle2": {
+                    "title": "Order Shipped Second Half",
+                    "value": "er blevet afsendt! Du vil modtage den om kort tid."
+                },
+                "shipping_description": {
+                    "title": "Order Shipped Description",
+                    "value": "Du kan følge status ved at besøge dit transportfirma og bruge dette tracking nummer."
+                },
+                "shipping_carrier": {
+                    "title": "Order Shipped Carrier",
+                    "value": "Pakke firma:"
+                },
+                "shipping_tracking": {
+                    "title": "Order Shipped Tracking Number",
+                    "value": "Pakke trackingnummer:"
+                },
+                "shipping_billing_label": {
+                    "title": "Billing Label",
+                    "value": "Fakturerings adresse"
+                },
+                "shipping_shipping_label": {
+                    "title": "Shipping Label",
+                    "value": "Forsendelses adresse"
+                },
+                "shipping_product": {
+                    "title": "Produkt etikette",
+                    "value": "Product"
+                },
+                "shipping_quantity": {
+                    "title": "Kvantitets etikette",
+                    "value": "Antal"
+                },
+                "shipping_unit_price": {
+                    "title": "Unit Price Label",
+                    "value": "Enhedspris"
+                },
+                "shipping_total_price": {
+                    "title": "Total Price Label",
+                    "value": "Ext Pros"
+                },
+                "shipping_final_note1": {
+                    "title": "Shipping Emailer Final Note Line 1",
+                    "value": "Kontroller venligst dine varer ved motagelsen og lad os straks vide, hvis du har bekymringer eller problmer. Vi sætter pris på dine køb og håber, at du får glæde af dem."
+                },
+                "shipping_final_note2": {
+                    "title": "Shipping Emailer Final Note Line 2",
+                    "value": "Mange tak!"
+                }
+            }
+        },
+        "ec_login_widget": {
+            "label": "Login Widget",
+            "options": {
+                "hello_text": {
+                    "title": "Hello",
+                    "value": "Hello"
+                },
+                "dashboard_text": {
+                    "title": "Dashboard",
+                    "value": "Oversigt"
+                },
+                "order_history_text": {
+                    "title": "Order History",
+                    "value": "Ordre historik"
+                },
+                "billing_info_text": {
+                    "title": "Billing Information",
+                    "value": "Fakturerings information"
+                },
+                "shipping_info_text": {
+                    "title": "Shipping Information",
+                    "value": "Forsendelses information"
+                },
+                "change_password_text": {
+                    "title": "Change Password",
+                    "value": "Skift password"
+                },
+                "sign_out_text": {
+                    "title": "Sign Out",
+                    "value": "Log ud"
+                }
+            }
+        },
+        "ec_minicart_widget": {
+            "label": "Minicart Widget",
+            "options": {
+                "subtotal_text": {
+                    "title": "Minicart Widget, Subtotal Text",
+                    "value": "SUBTOTAL"
+                },
+                "checkout_button_text": {
+                    "title": "Minicart Widget, Checkout Button Text",
+                    "value": "TIL KASSEN"
+                }
+            }
+        },
+        "ec_pricepoint_widget": {
+            "label": "Price Point Widget",
+            "options": {
+                "less_than": {
+                    "title": "Less Than Text",
+                    "value": "Mindre end"
+                },
+                "greater_than": {
+                    "title": "Greater Than Text",
+                    "value": "Større end"
+                }
+            }
+        },
+        "ec_newsletter_popup": {
+            "label": "Newsletter Popup",
+            "options": {
+                "signup_form_title": {
+                    "title": "Signup Form Title",
+                    "value": "Nyhedsbrev abonnement"
+                },
+                "signup_form_subtitle": {
+                    "title": "Signup Form Subtitle",
+                    "value": "Abonner og få det hele med!"
+                },
+                "signup_form_email_placeholder": {
+                    "title": "Signup Form Email Placeholder",
+                    "value": "email adresse"
+                },
+                "signup_form_name_placeholder": {
+                    "title": "Signup Form Name Placeholder",
+                    "value": "dit name"
+                },
+                "signup_form_button_text": {
+                    "title": "Signup Form Button",
+                    "value": "SEND"
+                },
+                "signup_form_success_title": {
+                    "title": "Signup Success Title",
+                    "value": "Du er registreret!"
+                },
+                "signup_form_success_subtitle": {
+                    "title": "Signup Success Subtitle",
+                    "value": "Du vil nu modtage vores nyheder periodisk."
+                }
+            }
+        },
+        "ec_abandoned_cart_email": {
+            "label": "Abandoned Cart Email",
+            "options": {
+                "email_title": {
+                    "title": "Email Title",
+                    "value": "Du efterlod varer i din indkøbskurv"
+                },
+                "something_in_cart": {
+                    "title": "Main Title, Something in Cart",
+                    "value": "DER ER NOGET I DIN INDKØBSKURV."
+                },
+                "complete_question": {
+                    "title": "Informational Text",
+                    "value": "Ønsker du at fuldføre dit køb?"
+                },
+                "complete_checkout": {
+                    "title": "Complete Checkout Button",
+                    "value": "Fuldfør køb"
+                }
+            }
+        },
+        "ec_stock_notify_email": {
+            "label": "Stock Notification Email",
+            "options": {
+                "email_title": {
+                    "title": "Email Title",
+                    "value": "Din vare er igen på lager"
+                },
+                "view_now": {
+                    "title": "View Link Text",
+                    "value": "Vis nu"
+                },
+                "unsubscribe": {
+                    "title": "Unsubscribe Link Text",
+                    "value": "Stop modtagelsen af disse notifikationer"
+                }
+            }
+        },
+        "ec_customer_review_notify_email": {
+            "label": "Product Review Notification Email",
+            "options": {
+                "email_title": {
+                    "title": "Email Title",
+                    "value": "Ny anmeldelse tilgængelig"
+                },
+                "reviewed_product": {
+                    "title": "Reviewed Product Label",
+                    "value": "Anmeldt produkt"
+                },
+                "submitted_by": {
+                    "title": "Submitted By Label",
+                    "value": "Indsendt af"
+                },
+                "rating_label": {
+                    "title": "Rating Label",
+                    "value": "Bedømmelse"
+                },
+                "review_title": {
+                    "title": "Review Title Label",
+                    "value": "Anmeldelse title"
+                },
+                "review_comments": {
+                    "title": "Review Comments Label",
+                    "value": "Anmeldelse bemærkninger"
+                },
+                "anonymous": {
+                    "title": "Anonymous Review Label",
+                    "value": "Anonym"
+                },
+                "link_text": {
+                    "title": "Link Text",
+                    "value": "Vis anmeldelse nu"
+                }
+            }
+        },
+        "language_code": {
+            "label": "Language Code",
+            "options": {
+                "code": {
+                    "title": "Do Not Change",
+                    "value": "DK"
+                }
+            }
+        }
+    }
+}

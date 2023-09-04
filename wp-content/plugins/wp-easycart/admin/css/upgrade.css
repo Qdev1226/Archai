@@ -1,0 +1,97 @@
+/* New Design */
+.wpeasycart_upsell_panel_wrap{ float:left; width:100%; }
+.wpeasycart_upsell_panel{ width:750px; max-width:100%; margin:50px auto; background:#FFF; border:1px solid #CCC; box-shadow:#999 0px 0px 5px; }
+.wpeasycart_upsell_panel_section{ float:left; width:100%; padding:25px; background:#FFF; }
+.wpeasycart_upsell_panel_green{ background:#7bb243; padding:75px 25px; }
+.wpeasycart_upsell_panel_grey{ background:#f4f4f4; padding:75px 25px; }
+.wpeasycart_upsell_panel_section h1{ float:left; width:100%; text-align:center; color:#FFF; font-size:36px; line-height:1.2em; }
+.wpeasycart_upsell_panel_section h2{ float:left; width:100%; text-align:center; color:#7bb243; font-size:26px; line-height:1.6em; margin:0px;  }
+.wpeasycart_upsell_panel_section h4{ float:left; width:100%; text-align:center; color:#FFF; font-size:22px; font-weight:normal; line-height:1.6em; margin:0px;  }
+.wpeasycart_upsell_panel_section h5{ float:left; width:100%; text-align:center; color:#222; font-size:22px; font-weight:normal; line-height:1.6em; margin:0px;  }
+.wpeasycart_upsell_panel_section_button_row_center{ float:left; width:100%; margin:60px 0; text-align:center; }
+.wpeasycart_upsell_panel_button_outline{ display:inline-block; border:2px solid #1881ab; background:transparent; text-decoration:none; color:#1881ab; font-size:22px; padding:12px 24px; }
+.wpeasycart_upsell_panel_button_outline:hover{ background:#1881ab; color:#FFFFFF; }
+.wpeasycart_upsell_panel_section p{ text-align:center; color:#222; font-size:16px; }
+.wpeasycart_upsell_panel_section img.wpeasycart_partner_logos{ float:left; width:100%; height:auto; }
+.wpeasycart_upsell_panel_section img.wpeasycart_testimonial_stars{float:right; width:114px; height:18px; }
+.wpeasycart_upsell_testimonials{ float:left; width:100%; }
+.wpeasycart_upsell_testimonial{ float:left; width:75%; background:#f4f4f4; padding:25px; border-radius:15px; margin:0 0 25px 0; }
+.wpeasycart_upsell_testimonial:last-child{ float:right; clear:both; }
+.wpeasycart_upsell_testimonial h4{ float:left; width:100%; font-size:18px; color:#222; }
+.wpeasycart_upsell_testimonial p{ float:left; width:100%; font-size:16px; font-style:italic; }
+.wpeasycart_upsell_testimonial_info{ float:left; width:100%; }
+.wpeasycart_upsell_testimonial_info > span{ float:left; }
+
+.wpeasycart_upsell_pricing_row{ float:left; width:100%; margin-top:25px; }
+.wpeasycart_upsell_pricing_column{ float:left; width:49%; margin-right:2%; }
+.wpeasycart_upsell_pricing_column:last-child{ margin-right:0; }
+.wp_easycart_upsell_pricing_column_title{ float:left; width:100%; background:#a2d956; border-top:1px solid #b3ea67; border-right:1px solid #b3ea67; border-left:1px solid #b3ea67; color:#FFF; padding:10px; text-align:center; font-size:22px; }
+.wp_easycart_upsell_pricing_column_pricing{ float:left; width:100%; background:#91c845; border-top:1px solid #b3ea67; border-right:1px solid #b3ea67; border-left:1px solid #b3ea67; color:#FFF; padding:30px 10px 18px; text-align:center; font-size:48px; line-height:30px; }
+.wp_easycart_upsell_pricing_currency{ font-size:22px; position:relative; top:-20px; }
+.wp_easycart_upsell_pricing_time{ font-size:18px; padding-top:30px; }
+.wp_easycart_upsell_pricing_column_item{ float:left; width:100%; background:#fcfcfc; border-top:1px solid #e1e1e1; border-right:1px solid #e1e1e1; border-left:1px solid #e1e1e1; color:#222; padding:20px 10px; text-align:center; font-size:18px; line-height:1.6em; }
+.wp_easycart_upsell_pricing_column_item:nth-child( even ){ float:left; width:100%; background:#ffffff; border-top:1px solid #e1e1e1; border-right:1px solid #e1e1e1; border-left:1px solid #e1e1e1; }
+.wp_easycart_upsell_pricing_column_item > a{ border-radius:8px; background:#1881ab; border:2px solid #1881ab; text-decoration:none; color:#FFFFFF; font-size:16px; padding:6px 12px; }
+.wp_easycart_upsell_pricing_column_item > a:hover{ background:#47a3c7; }
+.wp_easycart_upsell_pricing_column_item > a.wpeasycart_upsell_panel_button_outline{ border-radius:0px; border:2px solid #1881ab; background:transparent; text-decoration:none; color:#1881ab; font-size:22px; padding:6px 18px; }
+.wp_easycart_upsell_pricing_column_item > a.wpeasycart_upsell_panel_button_outline:hover{ background:#1881ab; color:#FFFFFF; }
+
+/* Popup Box */
+.ec_admin_upsell_noscroll{ overflow:hidden; }
+#ec_admin_upsell_popup{ display:none; width:100%; position:fixed; z-index:9999999; top:0px; left:0px; right:0px; bottom:0px; background:rgba(0, 0, 0, 0.84); overflow-y:scroll; }
+#ec_admin_upsell_popup *{ -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+.ec_admin_upsell_popup_inner{ width:1000px; max-width:90%; margin:0 auto; padding:50px 0; }
+.ec_admin_upsell_popup_close{ position:fixed; top:5px; right:25px; }
+.ec_admin_upsell_popup_close > a > div:before{ color:#FFF; font-size:50px; line-height:50px; width:50px; height:50px; }
+
+/* Inner Content */
+.ec_admin_upgrade_wrap{ float:left; width:100%; padding:0 15px 15px; }
+.ec_admin_upgrade_header{ float:left; width:100%; color:#7aaf40; font-size:32px; line-height:32px; text-align:center; margin-top:40px; }
+.ec_admin_upgrade_subheader{ float:left; width:100%; font-size:18px; line-height:24px; text-align:center; margin-top:15px; }
+.ec_admin_upgrade_subheader > a{ text-decoration:none; color:#AAA; }
+.ec_admin_upgrade_bubble_holder{ float:left; width:100%; margin-top:30px; }
+.ec_admin_upgrade_bubble{ float:left; margin-left:10%; width:20%; text-align:center; }
+.ec_admin_upgrade_bubble > .dashicons-before:before{ font-size:70px; width:70px; height:70px; }
+.ec_admin_upgrade_bubble > .dashicons-before.dashicons-unlock:before{ color:#8bc34a; }
+.ec_admin_upgrade_bubble > .dashicons-before.dashicons-admin-users:before{ color:#e91e63; }
+.ec_admin_upgrade_bubble > .dashicons-before.dashicons-download:before{ color:#607d8b; }
+.ec_admin_upgrade_bubble_text{ font-size:18px; }
+.ec_admin_upgrade_bubble_text.unlock-green{ color:#8bc34a; }
+.ec_admin_upgrade_bubble_text.support-pink{ color:#e91e63; }
+.ec_admin_upgrade_bubble_text.updates-grey{ color:#607d8b; }
+.ec_admin_upgrade_divider{ float:left; width:100%; clear:both; margin:35px auto; }
+.ec_admin_upgrade_divider > div{ width:80%; height:1px; background:#CCC; margin:0 auto; }
+.ec_admin_upgrade_box_container{ display:flex; float:left; width:100%; }
+.ec_admin_upgrade_box{ float:left; width:39%; margin-left:2%; border:3px solid #7bb141; }
+.ec_admin_upgrade_box_most_popular{ border:3px solid #7bb141; margin-left:10%;  }
+.ec_admin_upgrade_most_popular_row{ background:#7bb141; padding:15px 5px; text-align:center; color:#FFF; font-weight:600; font-size:15px; }
+.ec_admin_upgrade_best_value_row{ background:#7bb141; padding:15px 5px; text-align:center; color:#FFF; font-weight:600; font-size:15px; }
+.ec_admin_upgrade_box_line_item{ position:relative; width:100%; float:left; text-align:center; border-bottom:1px solid #CCC; padding:15px 5px; font-weight:600; }
+.ec_admin_upgrade_box_line_item:last-child{ border-bottom:none; }
+.ec_admin_upgrade_box_title{ font-size:32px; padding:15px 0; }
+.ec_admin_upgrade_box_pricing{ font-size:52px; padding:12px 0 0; }
+.ec_admin_old_price{ position:absolute; left:50%; width:90px; color:#909090; text-align:right; font-size:25px; margin-left:-130px; text-decoration:line-through; font-weight:normal; }
+.ec_admin_old_price > .ec_admin_upgrade_box_currency{ font-size:18px !important; top:0 !important; }
+.ec_admin_new_price{ color:red; }
+.ec_admin_upgrade_box_currency{ position:relative; top:-10px; font-size:22px; font-weight:200; margin-top:-10px; }
+.ec_admin_upgrade_box_length{ color:#AAA; font-size:13px; padding:15px 0; }
+.ec_admin_upgrade_special_line_item{ font-size:14px; color:#7bb141; }
+.ec_admin_upgrade_box_signup_row{ padding:40px 5px; }
+.ec_admin_upgrade_box_signup_row > a{ padding:15px 25px; background:#7bb141; color:#FFF; font-size:18px; text-align:center; text-decoration:none; border-radius:7px; }
+.ec_admin_upgrade_box_signup_row > a:hover{ background:#97cc5e; }
+.ec_admin_upgrade_term_notes{ float:left; width:100%; text-align:center; color:#AAA; font-size:14px; padding:5px 0; }
+.ec_admin_upgrade_term_extension_notes{ float:left; width:100%; text-align:center; color:#AAA; font-size:14px; font-weight:600; padding:5px 0; }
+.ec_admin_upgrade_faq_container{ float:left; margin-top:25px; -moz-column-count:2; -moz-column-gap:10px; -webkit-column-count:2; -webkit-column-gap:10px; column-count:2; column-gap:10px; width:100%; }
+.ec_admin_upgrade_faq_box{ position:relative; background-color:#fbfbfb; display:inline-block; margin-bottom:10px; width:100%; padding:20px; }
+.ec_admin_upgrade_faq_box_inner{ text-align:left; }
+.ec_admin_upgrade_faq_box_inner > h3{ font-size:14px; margin:0 0 10px; }
+@media screen and (min-width: 760px) and (max-width: 1026px) {
+	.ec_admin_upgrade_box{ margin-left:4%; width:44%; }
+}
+@media screen and (max-width: 759px){
+	.ec_admin_upgrade_box_container{ display:block; }
+	.ec_admin_upgrade_box{ margin-left:5%; width:90%; margin-bottom:20px; }
+	.ec_admin_upgrade_bubble_holder{ margin-top:0px;}
+	.ec_admin_upgrade_bubble{ width:90%; margin-left:5%; margin-top:20px; }
+	.ec_admin_upgrade_faq_container{ margin-top:20px; -moz-column-count:1; -moz-column-gap:inherit; -webkit-column-count:1; -webkit-column-gap:inherit; column-count:1; column-gap:inherit; }
+}

@@ -1,0 +1,3290 @@
+{
+    "label": "Dutch",
+    "options": {
+        "sort_bar": {
+            "label": "Product - Sorteren",
+            "options": {
+                "sort_by_price_low": {
+                    "title": "Productpagina Sorteerbox Item 1",
+                    "value": "Prijs Laag-Hoog"
+                },
+                "sort_by_price_high": {
+                    "title": "Productpagina Sorteerbox Item 2",
+                    "value": "Prijs Hoog-Laag"
+                },
+                "sort_by_title_a": {
+                    "title": "Productpagina Sorteerbox Item 3",
+                    "value": "Titel A-Z"
+                },
+                "sort_by_title_z": {
+                    "title": "Productpagina Sorteerbox Item 4",
+                    "value": "Titel Z-A"
+                },
+                "sort_by_newest": {
+                    "title": "Productpagina Sorteerbox Item 5",
+                    "value": "Nieuwste"
+                },
+                "sort_by_rating": {
+                    "title": "Productpagina Sorteerbox Item 6",
+                    "value": "Beste waardering"
+                },
+                "sort_by_most_viewed": {
+                    "title": "Productpagina Sorteerbox Item 7",
+                    "value": "Meest bekeken"
+                },
+                "sort_default": {
+                    "title": "Default Sorting",
+                    "value": "Standaard Sortering"
+                },
+				"sort_by_oldest":{
+					"title":"Product Page Sort Box Item 8",
+					"value":"Oudste"
+				}
+            }
+        },
+        "product_page": {
+            "label": "Product - Pagina",
+            "options": {
+                "product_quick_view": {
+                    "title": "Label snelle weergave",
+                    "value": "+Quick View"
+                },
+                "product_design_now": {
+                    "title": "Product Design Now Label",
+                    "value": "Ontwerp nu"
+                },
+                "product_no_results": {
+                    "title": "Productpagina zonder resultaat",
+                    "value": "Geen resultaten gevonden"
+                },
+                "product_items_per_page": {
+                    "title": "Productpagina Items per pagina",
+                    "value": "Items per pagina:"
+                },
+                "product_paging_page": {
+                    "title": "Productpagina pagina in Pagina a of b",
+                    "value": "Pagina"
+                },
+                "product_paging_of": {
+                    "title": "Productpagina van in Pagina a of b",
+                    "value": "van"
+                },
+                "product_showing": {
+                    "title": "Product Page Num Results Showing",
+                    "value": "met"
+                },
+                "product_all": {
+                    "title": "Product Page Num Results all",
+                    "value": "alle"
+                },
+                "product_results": {
+                    "title": "Product Page Num Results",
+                    "value": "resultaten"
+                },
+                "product_view_cart": {
+                    "title": "Product Page View Cart",
+                    "value": "Bekijk winkelwagen"
+                },
+                "product_product_added_note": {
+                    "title": "Product Page Added to Cart Note",
+                    "value": "Het product is toegevoegd aan uw winkelwagen."
+                },
+                "product_product_view_per_page": {
+                    "title": "Product Page View in Per Page",
+                    "value": "Bekijk"
+                },
+                "product_page_restricted_line_1": {
+                    "title": "Restricted Product Line 1",
+                    "value": "OPEN TOEGANG IS NIET TOEGESTAAN VOOR DE WINKEL"
+                },
+                "product_page_restricted_line_2": {
+                    "title": "Restricted Product Line 2 Prior to Link",
+                    "value": "Log in of maak een account aan door"
+                },
+                "product_page_restricted_link_text": {
+                    "title": "Restricted Product Link Text",
+                    "value": "hier te klikken"
+                },
+                "product_page_restricted_line_3": {
+                    "title": "Restricted Product Line 2 Post Link",
+                    "value": "Jouw account moet mogelijk worden gecontroleerd voordat je toegang kunt krijgen tot de winkel."
+                },
+                "product_page_start_trial_1": {
+                    "title": "Start Your Trial Text Part 1",
+                    "value": "Begin je"
+                },
+                "product_page_start_trial_2": {
+                    "title": "Start Your Trial Text Part 2",
+                    "value": "dagen gratis op proef vandaag!"
+                },
+                "product_inc_vat_text": {
+                    "title": "Including VAT Text",
+                    "value": "Incl. BTW"
+                },
+                "product_excluding_vat_text": {
+                    "title": "Excluding VAT Text",
+                    "value": "Excl. BTW"
+                },
+                "product_page_notify_unsubscribe_success": {
+                    "title": "Product Notify Unsubscribe Success",
+                    "value": "Je bent succesvol afgemeld voor meldingen"
+                },
+                "product_page_login_for_price": {
+                    "title": "Product Login for Pricing",
+                    "value": "Log in voor prijzen"
+                },
+                "product_page_login_for_price_no_access": {
+                    "title": "Product Login for Pricing No Access",
+                    "value": "Geen prijs beschikbaar"
+                },
+				"product_page_clear_filters":{
+					"title":"Clear Filters",
+					"value":"Filters wissen"
+				},
+				"product_page_filters":{
+					"title":"Filters",
+					"value":"Filters"
+				}
+            }
+        },
+        "quick_view": {
+            "label": "Product - Quick View",
+            "options": {
+                "quick_view_gift_card_message": {
+                    "title": "Bericht bij cadeaubon",
+                    "value": "SPECIAAL BERICHT"
+                },
+                "quick_view_gift_card_to_name": {
+                    "title": "Titel ontvanger cadeaubon",
+                    "value": "AAN"
+                },
+                "quick_view_gift_card_from_name": {
+                    "title": "Titel afzender cadeaubon",
+                    "value": "VAN"
+                },
+                "quick_view_quantity": {
+                    "title": "Titel hoeveelheid",
+                    "value": "AANTAL"
+                },
+                "quick_view_remaining": {
+                    "title": "Label in x items resterend",
+                    "value": "resterend"
+                },
+                "quick_view_add_to_cart": {
+                    "title": "Buttontekst toevoegen",
+                    "value": "IN WINKELWAGEN"
+                },
+                "quick_view_select_options": {
+                    "title": "Fouttekst bij missende productdetails",
+                    "value": "Selecteer alle opties voor dit product."
+                },
+                "quick_view_view_full_details": {
+                    "title": "Linktekst bekijk productdetails",
+                    "value": "Bekijk productdetails"
+                }
+            }
+        },
+        "product_details": {
+            "label": "Product - Details",
+            "options": {
+                "product_details_donation_label": {
+                    "title": "Donatielabel",
+                    "value": "Uw donatie: "
+                },
+                "product_details_minimum_donation": {
+                    "title": "Donatielabel (minimum)",
+                    "value": "Minimale donatie:"
+                },
+                "product_details_gift_card_message": {
+                    "title": "Store Gift Card Message",
+                    "value": "Jouw bericht"
+                },
+                "product_details_gift_card_to_name": {
+                    "title": "Titel ontvanger cadeaubon",
+                    "value": "AAN"
+                },
+                "product_details_gift_card_from_name": {
+                    "title": "Titel ontvanger cadeaubon",
+                    "value": "VAN"
+                },
+                "product_details_quantity": {
+                    "title": "Label hoeveelheid",
+                    "value": "Aantal"
+                },
+                "product_details_remaining": {
+                    "title": "x resterend",
+                    "value": "resterend"
+                },
+                "product_details_x_of_y": {
+                    "title": "Tekstverdeler op pagina",
+                    "value": "van"
+                },
+                "product_details_model_number": {
+                    "title": "Tekst bij modelnummer",
+                    "value": "modelnummer"
+                },
+                "product_details_reduced_price": {
+                    "title": "Kortingstekst",
+                    "value": "Uw korting"
+                },
+                "product_details_description": {
+                    "title": "Titel beschrijving",
+                    "value": "Beschrijving"
+                },
+                "product_details_customer_reviews": {
+                    "title": "Titel reviews",
+                    "value": "Reviews"
+                },
+                "product_details_specifications": {
+                    "title": "Titel specificaties",
+                    "value": "Kleuren"
+                },
+                "product_details_customer_rating": {
+                    "title": "Titel klantenwaardering",
+                    "value": "Klantenwaardering"
+                },
+                "product_details_review_based_on": {
+                    "title": "Review gebaseerd op",
+                    "value": "gebaseerd op"
+                },
+                "product_details_review": {
+                    "title": "Review",
+                    "value": "review"
+                },
+                "product_details_review_no_reviews": {
+                    "title": "Productdetails, Klantenreviews, Geen reviews",
+                    "value": "Geef als eerste een review."
+                },
+                "product_details_add_to_cart": {
+                    "title": "Buttontekst toevoegen",
+                    "value": "IN WINKELWAGEN"
+                },
+                "product_details_added_to_cart": {
+                    "title": "Checkout Now",
+                    "value": "AFREKENEN"
+                },
+                "product_details_select_options": {
+                    "title": "Select Options Button",
+                    "value": "selecteer opties"
+                },
+                "product_details_out_of_stock": {
+                    "title": "Niet op voorraad tekst",
+                    "value": "UITVERKOCHT"
+                },
+                "product_details_sign_up_now": {
+                    "title": "Meld je nu aan tekst",
+                    "value": "MELD JE NU AAN"
+                },
+                "product_details_inquiry_title": {
+                    "title": "Inquiry Title",
+                    "value": "Product informatieverzoek"
+                },
+                "product_details_inquiry_error": {
+                    "title": "Inquiry Error Text",
+                    "value": "Vul alle verplichte velden"
+                },
+                "product_details_inquiry_name": {
+                    "title": "Inquiry Name",
+                    "value": "*Naam:"
+                },
+                "product_details_inquiry_email": {
+                    "title": "Inquiry Email",
+                    "value": "*Email:"
+                },
+                "product_details_inquiry_message": {
+                    "title": "Inquire Button Text",
+                    "value": "*Jouw verzoek:"
+                },
+                "product_details_inquire": {
+                    "title": "Inquire Button Text",
+                    "value": "VERSTUUR"
+                },
+                "product_details_inquiry_send_copy": {
+                    "title": "Inquiry - Send Copy",
+                    "value": "Stuur mij een kopie"
+                },
+                "product_details_inquiry_thank_you": {
+                    "title": "Inquiry Thank You Note",
+                    "value": "Hartelijk dank voor het indienen van een product informatieverzoek. Wij nemen zo spoedig mogelijk contact met u op."
+                },
+                "product_details_minimum_quantity_text1": {
+                    "title": "Min Purchase Amount Text Part 1",
+                    "value": "Eenmalige administratiekosten van"
+                },
+                "product_details_minimum_quantity_text2": {
+                    "title": "Min Purchase Amount Text Part 2",
+                    "value": "is vereist"
+                },
+                "product_details_maximum_quantity_text1": {
+                    "title": "Max Purchase Amount Text Part 1",
+                    "value": "Maximale aankoopbedrag \u03bff"
+                },
+                "product_details_maximum_quantity_text2": {
+                    "title": "Max Purchase Amount Text Part 2",
+                    "value": "is toegestaan"
+                },
+                "product_details_handling_fee_notice1": {
+                    "title": "One Time Handling Fee Part 1",
+                    "value": "Eenmalige administratiekosten van"
+                },
+                "product_details_handling_fee_notice2": {
+                    "title": "One Time Handling Fee Part 2",
+                    "value": "zal aan uw verzendkosten totaal worden toegevoegd bij het afrekenen."
+                },
+                "product_details_handling_fee_each_notice1": {
+                    "title": "Handling Fee Each Part 1",
+                    "value": "*Administratiekosten van"
+                },
+                "product_details_handling_fee_each_notice2": {
+                    "title": "Handling Fee Each Part 2",
+                    "value": "per item zal worden toegevoegd aan uw verzendkosten totaal bij het afrekenen."
+                },
+                "product_details_signup_fee_notice1": {
+                    "title": "One Time Signup Fee Part 1",
+                    "value": "*Een eenmalig aanmeld bedrag van"
+                },
+                "product_details_signup_fee_notice2": {
+                    "title": "One Time Signup Fee Part 2",
+                    "value": "zal  aan uw verzendkosten totaal worden toegevoegd bij het afrekenen."
+                },
+                "product_details_home_link": {
+                    "title": "Home Breadcrumbs Link",
+                    "value": "Home"
+                },
+                "product_details_store_link": {
+                    "title": "Store Breadcrumbs Link",
+                    "value": "Shop"
+                },
+                "product_details_reviews_text": {
+                    "title": "Store Reviews Count",
+                    "value": "Beoordelingen"
+                },
+                "product_details_gift_card_recipient_name": {
+                    "title": "Store Gift Card To Name",
+                    "value": "Naam ontvanger"
+                },
+                "product_details_gift_card_recipient_email": {
+                    "title": "Store Gift Card To Email",
+                    "value": "Ontvanger E-mail"
+                },
+                "product_details_gift_card_sender_name": {
+                    "title": "Store Gift Card Sender's Name",
+                    "value": "Naam afzender"
+                },
+                "product_details_donation_amount": {
+                    "title": "Store Donation Amount",
+                    "value": "Donatie. Geef decimaalteken met een punt ipv een komma aan"
+                },
+                "product_details_loading_options": {
+                    "title": "Store Loading Options",
+                    "value": "Laad beschikbare opties"
+                },
+                "product_details_missing_option": {
+                    "title": "Store Missing Option",
+                    "value": "Ontbrekende optie:"
+                },
+                "product_details_maximum_quantity": {
+                    "title": "Store Maximum Quantity Exceeded",
+                    "value": "Maximale hoeveelheid overschreden"
+                },
+                "product_details_one_time_addition1": {
+                    "title": "Store One Time Addition 1",
+                    "value": "Een eenmalige prijs van"
+                },
+                "product_details_one_time_addition2": {
+                    "title": "Store One Time Addition 2",
+                    "value": "zal worden toegevoegd aan uw bestelling."
+                },
+                "product_details_left_in_stock": {
+                    "title": "Store Left in Stock",
+                    "value": "Op voorraad"
+                },
+				"product_details_search":{
+					"title":"Store Search",
+					"value":"Zoek producten..."
+				},
+                "product_details_categories": {
+                    "title": "Store Categories",
+                    "value": "Categorie\u00ebn:"
+                },
+                "product_details_manufacturer": {
+                    "title": "Store Manufacturer",
+                    "value": "fabrikant:"
+                },
+                "product_details_related_products": {
+                    "title": "Store Related Products",
+                    "value": "verwante producten"
+                },
+                "product_details_tier_buy": {
+                    "title": "Tiered Pricing buy x at y",
+                    "value": "Koop je er "
+                },
+                "product_details_tier_buy_at": {
+                    "title": "Tiered Pricing buy x at y",
+                    "value": "kosten ze"
+                },
+                "product_details_tier_or_more": {
+                    "title": "Tiered Pricing buy x or more",
+                    "value": "of meer,"
+                },
+                "product_details_tier_each": {
+                    "title": "Tiered Pricing buy x at y each",
+                    "value": "per stuk"
+                },
+                "product_details_gift_card_error": {
+                    "title": "Gift Card Option Error Text",
+                    "value": "Ontbrekende Cadeaubon opties"
+                },
+                "product_details_donation_error": {
+                    "title": "Donation Amount Error Text",
+                    "value": "Ongeldig donatie  bedrag ingevuld. Voer een minimaal bedrag in van"
+                },
+                "product_details_your_price": {
+                    "title": "Your Price:",
+                    "value": "uw Prijs:"
+                },
+                "product_details_backorder_until": {
+                    "title": "Backorder UNTIL date, until",
+                    "value": "totdat"
+                },
+                "product_details_backordered": {
+                    "title": "BACKORDERED until date",
+                    "value": "Nabesteld"
+                },
+                "product_details_some_backordered": {
+                    "title": "Some BACKORDERED",
+                    "value": "sommige items worden nabesteld, slechts"
+                },
+                "product_details_some_backordered_remaining": {
+                    "title": "Some BACKORDERED remaining",
+                    "value": "overgebleven"
+                },
+                "product_details_backordered_message": {
+                    "title": "Backordered message in cart",
+                    "value": "Sommige items in uw winkelwagen zijn momenteel niet op voorraad en worden nageleverd."
+                },
+                "product_details_vat_included": {
+                    "title": "Including VAT",
+                    "value": "Incl. BTW"
+                },
+                "product_details_vat_excluded": {
+                    "title": "Excluding VAT",
+                    "value": "Excl. BTW"
+                },
+                "product_details_backorder_button": {
+                    "title": "Backorder Button",
+                    "value": "NALEVEREN"
+                },
+                "product_details_reviews_for_text": {
+                    "title": "Reviews for",
+                    "value": "beoordelingen voor"
+                },
+                "product_details_as_low_as": {
+                    "title": "As low as",
+                    "value": "Al vanaf"
+                },
+                "product_details_subscription_day": {
+                    "title": "Subscription Day Label",
+                    "value": "dag"
+                },
+                "product_details_subscription_week": {
+                    "title": "Subscription Week Label",
+                    "value": "week"
+                },
+                "product_details_subscription_month": {
+                    "title": "Subscription Month Label",
+                    "value": "maand"
+                },
+                "product_details_subscription_month_full": {
+                    "title": "Subscription Month Label Full",
+                    "value": "maanden"
+                },
+                "product_details_subscription_duration_divider": {
+                    "title": "Subscription duration limit dividing word",
+                    "value": "voor"
+                },
+                "product_details_subscription_year": {
+                    "title": "Subscription Year Label",
+                    "value": "jaar"
+                },
+                "product_details_notify_subscribe_success": {
+                    "title": "Stock Notification Subscribe Success",
+                    "value": "U bent aangemeld voor een voorraadnotificatie van dit product!"
+                },
+                "product_details_notify_subscribe_title": {
+                    "title": "Stock Notification Subscribe Title",
+                    "value": "E-mail wanneer voorraad beschikbaar"
+                },
+                "product_details_notify_subscribe_email_placeholder": {
+                    "title": "Stock Notification Subscribe Email Placeholder",
+                    "value": "your@email.com"
+                },
+                "product_details_notify_subscribe_button_title": {
+                    "title": "Stock Notification Subscribe Button Title",
+                    "value": "Abonneer nu"
+                },
+				"product_details_starting_at":{
+					"title":"Starting At Price",
+					"value":"Vanaf"
+				}
+            }
+        },
+        "customer_review": {
+            "label": "Reviews - Menu",
+            "options": {
+                "customer_review_title": {
+                    "title": "Titel productreview",
+                    "value": "Schrijf een review"
+                },
+                "customer_review_choose_rating": {
+                    "title": "Titel waardering",
+                    "value": "Geef een waardering"
+                },
+                "customer_review_enter_title": {
+                    "title": "Reviewtitel opgeven",
+                    "value": "Geef uw review een titel"
+                },
+                "customer_review_enter_description": {
+                    "title": "Reviewbeschrijving opgeven",
+                    "value": "Geef een beschrijving"
+                },
+                "customer_review_select_option": {
+                    "title": "Tekst reviewopties",
+                    "value": "Selecteer een optie"
+                },
+                "customer_review_close_button": {
+                    "title": "Buttontekst review sluiten",
+                    "value": "Sluiten"
+                },
+                "customer_review_submit_button": {
+                    "title": "Buttontekst review verzenden",
+                    "value": "Review verzenden"
+                },
+                "product_details_write_a_review": {
+                    "title": "Buttontekst schrijf een review",
+                    "value": "Schrijf een Review"
+                },
+                "product_details_add_a_review_for": {
+                    "title": "Store Add a Review",
+                    "value": "Voeg een beoordeling toe voor"
+                },
+                "product_details_your_review_title": {
+                    "title": "Store Review title",
+                    "value": "Naam"
+                },
+                "product_details_your_review_rating": {
+                    "title": "Store Review Rating",
+                    "value": "jouw waardering"
+                },
+                "product_details_your_review_message": {
+                    "title": "Store Review Message",
+                    "value": "jouw recensie"
+                },
+                "product_details_your_review_submit": {
+                    "title": "Store Review Submit",
+                    "value": "VERSTUUR"
+                },
+                "product_details_review_submitted_button": {
+                    "title": "Product Details Review Submitted Button",
+                    "value": "Recensie verstuurd"
+                },
+                "product_details_submitting_review": {
+                    "title": "Store Submitting Review",
+                    "value": "Review wordt ingediend, een moment geduld"
+                },
+                "product_details_review_submitted": {
+                    "title": "Store Review Submitted",
+                    "value": "Je review is succesvol ingediend"
+                },
+                "product_details_review_log_in_first": {
+                    "title": "Log in to Review",
+                    "value": "Meld u aan of maak een account aan om een beoordeling voor dit product in te dienen."
+                },
+                "product_details_review_anonymous_reviewer": {
+                    "title": "Anonymous Reviewer Name",
+                    "value": "Gast"
+                },
+                "review_error": {
+                    "title": "Store Review Error Missing Data",
+                    "value": "Je moet een titel, waardering en bericht in uw beoordeling opnemen."
+                }
+            }
+        },
+        "cart": {
+            "label": "Winkel - Winkelmand",
+            "options": {
+                "cart_title": {
+                    "title": "Titel winkelmand",
+                    "value": "Mijn winkelwagen"
+                },
+                "cart_checkout_details_title": {
+                    "title": "Checkout Details Title",
+                    "value": "Afreken details"
+                },
+                "cart_submit_payment_title": {
+                    "title": "Submit Payment Title",
+                    "value": "Verstuur betaling"
+                },
+                "your_cart_title": {
+                    "title": "Your Cart Title",
+                    "value": "Ihre Artikel im Warenkorb"
+                },
+                "cart_empty_cart": {
+                    "title": "Bericht lege winkelmand",
+                    "value": "Er bevinden zich momenteel geen items in uw winkelwagen."
+                },
+                "cart_checkout": {
+                    "title": "Buttontekst afrekenen",
+                    "value": "Afrekenen"
+                },
+                "cart_continue_shopping": {
+                    "title": "Linktekst doorgaan met winkelen",
+                    "value": "Doorgaan met winkelen"
+                },
+                "cart_header_column1": {
+                    "title": "Winkelmand, Kolom 1",
+                    "value": "Product"
+                },
+                "cart_header_column2": {
+                    "title": "Winkelmand, Kolom 2",
+                    "value": "Details"
+                },
+                "cart_header_column3": {
+                    "title": "Winkelmand, Kolom 3",
+                    "value": "Prijs"
+                },
+                "cart_header_column4": {
+                    "title": "Winkelmand, Kolom 4",
+                    "value": "Aantal"
+                },
+                "cart_header_column5": {
+                    "title": "Winkelmand, Kolom 5",
+                    "value": "Totaal"
+                },
+                "cart_header_column6": {
+                    "title": "Winkelmand, Kolom 6",
+                    "value": "Acties"
+                },
+                "cart_item_vat_text": {
+                    "title": "Item, inclusief b.t.w.",
+                    "value": "BTW "
+                },
+                "cart_item_update_button": {
+                    "title": "Item, Updatebutton",
+                    "value": "OPSLAAN"
+                },
+                "cart_item_remove_button": {
+                    "title": "Item, Verwijderbutton",
+                    "value": "VERWIJDER"
+                },
+                "cart_item_adjustment": {
+                    "title": "Item, Aanpassing per item",
+                    "value": ""
+                },
+                "cart_item_new_price_option": {
+                    "title": "Item, Tekst prijsaanpassing",
+                    "value": "Nieuwe prijs: "
+                },
+                "cart_menu_icon_label": {
+                    "title": "Cart in Menu, Item",
+                    "value": "Item"
+                },
+                "cart_menu_icon_label_plural": {
+                    "title": "Cart in Menu, Items",
+                    "value": "Items"
+                },
+                "deconetwork_edit": {
+                    "title": "Deconetwork, Edit Design",
+                    "value": "Ontwerp bewerken"
+                },
+                "cart_order_adjustment": {
+                    "title": "Cart Item, Adjustment per Order",
+                    "value": "per bestelling"
+                },
+                "cart_return_to_store": {
+                    "title": "Empty Cart, Return to store",
+                    "value": "VERDER WINKELEN"
+                },
+                "cartitem_max_error": {
+                    "title": "Max Quantity Exceeded Error",
+                    "value": "Maximale hoeveelheid overschreden"
+                },
+                "cartitem_min_error": {
+                    "title": "Min Quantity Required Error",
+                    "value": "Minimaal Vereiste Hoeveelheid"
+                },
+                "cart_please_wait": {
+                    "title": "Cart Please Wait",
+                    "value": "Moment geduld"
+                },
+                "cart_item_adjustment_per_character": {
+                    "title": "Cart Per Character Adjustment",
+                    "value": "per Karakter"
+                },
+                "cart_minimum_purchase_amount1": {
+                    "title": "A Minimum Order Amount of",
+                    "value": "Een minimum aankoopbedrag van"
+                },
+                "cart_minimum_purchase_amount2": {
+                    "title": "Min Required Text 2",
+                    "value": "is vereist"
+                },
+				"cartitem_location_error":{
+					"title":"Cart Item Shipping Location not Allowed",
+					"value":"Dit artikel kan niet naar uw huidige verzendadres worden verzonden."
+				}
+            }
+        },
+        "cart_form_notices": {
+            "label": "Cart - Form Error Notices",
+            "options": {
+                "cart_notice_is_required": {
+                    "title": "Cart, Notice, Is Verplicht veld",
+                    "value": "is een verplicht veld"
+                },
+                "cart_notice_item_must_match": {
+                    "title": "Cart, Notice, Items moeten overeenkomen",
+                    "value": "moet overeenkomen"
+                },
+                "cart_notice_billing_first_name": {
+                    "title": "Cart, Notice, Billing, Voornaam",
+                    "value": "Voornaam"
+                },
+                "cart_notice_billing_last_name": {
+                    "title": "Cart, Notice, Billing, Achternaam",
+                    "value": "Achternaam"
+                },
+                "cart_notice_billing_address": {
+                    "title": "Cart, Notice, Billing, Adres",
+                    "value": "Factuur Adres"
+                },
+                "cart_notice_billing_city": {
+                    "title": "Cart, Notice, Billing, City",
+                    "value": "Plaats"
+                },
+                "cart_notice_billing_state": {
+                    "title": "Cart, Notice, Billing, Staat",
+                    "value": "Staat"
+                },
+                "cart_notice_billing_zip_code": {
+                    "title": "Cart, Notice, Billing, Postcode",
+                    "value": "Postcode"
+                },
+                "cart_notice_billing_country": {
+                    "title": "Cart, Notice, Billing, Land",
+                    "value": "Land"
+                },
+                "cart_notice_billing_phone": {
+                    "title": "Cart, Notice, Billing, Telefoon",
+                    "value": "Telefoon"
+                },
+                "cart_notice_shipping_first_name": {
+                    "title": "Cart, Notice, Verzendkosten, Voornaam",
+                    "value": "Voornaam"
+                },
+                "cart_notice_shipping_last_name": {
+                    "title": "Cart, Notice, Verzendkosten, Achternaam",
+                    "value": "Achternaam"
+                },
+                "cart_notice_shipping_address": {
+                    "title": "Cart, Notice, Verzendkosten, Adres",
+                    "value": "Bezorg Adres"
+                },
+                "cart_notice_shipping_city": {
+                    "title": "Cart, Notice, Verzendkosten, City",
+                    "value": "Plaats"
+                },
+                "cart_notice_shipping_state": {
+                    "title": "Cart, Notice, Verzendkosten, Staat",
+                    "value": "Staat"
+                },
+                "cart_notice_shipping_zip_code": {
+                    "title": "Cart, Notice, Verzendkosten, Postcode",
+                    "value": "Postcode"
+                },
+                "cart_notice_shipping_country": {
+                    "title": "Cart, Notice, Verzendkosten, Land",
+                    "value": "Land"
+                },
+                "cart_notice_shipping_phone": {
+                    "title": "Cart, Notice, Verzendkosten, Telefoon",
+                    "value": "Telefoon"
+                },
+                "cart_notice_contact_first_name": {
+                    "title": "Cart, Notice, Contact Voornaam",
+                    "value": "Voornaam"
+                },
+                "cart_notice_contact_last_name": {
+                    "title": "Cart, Notice, Contact Achternaam",
+                    "value": "Achternaam"
+                },
+                "cart_notice_email": {
+                    "title": "Cart, Notice, Email",
+                    "value": "Email"
+                },
+                "cart_notice_retype_email": {
+                    "title": "Cart, Notice, Herhaal Email",
+                    "value": "Herhaal Email"
+                },
+                "cart_notice_emails_match": {
+                    "title": "Cart, Notice, Emails Wedstrijd",
+                    "value": "Emails"
+                },
+                "cart_notice_password": {
+                    "title": "Cart, Notice, Wachtwoord",
+                    "value": "Wachtwoord"
+                },
+                "cart_notice_retype_password": {
+                    "title": "Cart, Notice, Retype Wachtwoord",
+                    "value": "Herhaal Wachtwoord"
+                },
+                "cart_notice_passwords_match": {
+                    "title": "Cart, Notice, Wachtwoords Wedstrijd",
+                    "value": "Wachtwoorden"
+                },
+                "cart_notice_length_error": {
+                    "title": "Cart, Notice, Wachtwoord Format",
+                    "value": "lengte moet groter zijn dan zes tekens"
+                },
+                "cart_notice_payment_card_type": {
+                    "title": "Cart, Notice, Card Type",
+                    "value": "Kaart Type"
+                },
+                "cart_notice_payment_card_holder_name": {
+                    "title": "Cart, Notice, Card Holder Required",
+                    "value": "Naam kaarthouder"
+                },
+                "cart_notice_payment_card_number": {
+                    "title": "Cart, Notice, Card Number Required",
+                    "value": "Kaartnummer"
+                },
+                "cart_notice_payment_card_number_error": {
+                    "title": "Cart, Notice, Card Number Required",
+                    "value": "Het creditcardnummer is ongeldig"
+                },
+                "cart_notice_payment_card_exp_month": {
+                    "title": "Cart, Notice, EXP Month Required",
+                    "value": "Verval Maand"
+                },
+                "cart_notice_payment_card_exp_year": {
+                    "title": "Cart, Notice, EXP Year Required",
+                    "value": "Verval Jaar"
+                },
+                "cart_notice_payment_card_code": {
+                    "title": "Cart, Notice, Security Code Required",
+                    "value": "Beveiligingscode"
+                },
+                "cart_notice_please_enter_your": {
+                    "title": "Cart, Notice, Please Enter Your",
+                    "value": "Vul uw"
+                },
+                "cart_notice_please_select_your": {
+                    "title": "Cart, Notice, Please Select Your",
+                    "value": "Selecteer uw"
+                },
+                "cart_notice_please_enter_valid": {
+                    "title": "Cart, Notice, Please Enter Valid",
+                    "value": "Vul een geldig"
+                },
+                "cart_notice_emails_do_not_match": {
+                    "title": "Cart, Notice, Email Do Not Match",
+                    "value": "Uw e-mailadressen komen niet overeen"
+                },
+                "cart_notice_passwords_do_not_match": {
+                    "title": "Cart, Notice, Passwords Do Not Match",
+                    "value": "Uw wachtwoorden komen niet overeen"
+                },
+                "cart_notice_checkout_details_errors": {
+                    "title": "Cart, Notice, Checkout Details Errors",
+                    "value": "Corrigeer de fouten in uw afreken gegevens"
+                },
+                "cart_notice_payment_accept_terms": {
+                    "title": "Cart, Notice, Please Accept Terms",
+                    "value": "Ga akkoord met de algemene voorwaarden"
+                },
+                "cart_notice_payment_correct_errors": {
+                    "title": "Cart, Notice, Payment Correct Errors",
+                    "value": "Corrigeer de fouten van uw credit card gegevens hierboven"
+                },
+				"cart_notice_shipping_not_alllowed":{
+					"title":"Cart, Notice, No Shipping Address Allowed",
+					"value":"Er zijn artikelen in uw winkelwagen die alleen naar een geldig factuuradres worden verzonden. Zorg ervoor dat uw factuuradres uw aankoop kan ontvangen."
+				}
+            }
+        },
+        "cart_process": {
+            "label": "Cart - Progress Bar",
+            "options": {
+                "cart_process_cart_link": {
+                    "title": "Cart, Progress, Cart",
+                    "value": "Winkelwagen"
+                },
+                "cart_process_shipping_link": {
+                    "title": "Cart, Progress, Address",
+                    "value": "Adres"
+                },
+                "cart_process_review_link": {
+                    "title": "Cart, Progress, Cart",
+                    "value": "Overzicht\/Betalen"
+                },
+                "cart_process_complete_link": {
+                    "title": "Cart, Progress, Complete",
+                    "value": "Compleet"
+                }
+            }
+        },
+        "cart_coupons": {
+            "label": "Winkel - Coupons en Cadeaubonnen",
+            "options": {
+                "cart_coupon_title": {
+                    "title": "Cart, Coupon Title",
+                    "value": "Coupon"
+                },
+                "cart_gift_card_title": {
+                    "title": "Cart, Gift Card Title",
+                    "value": "Cadeaubon"
+                },
+                "cart_coupon_sub_title": {
+                    "title": "Winkelmand, Coupon subtitel",
+                    "value": "Verzilver hieronder uw coupon- of cadeauboncode."
+                },
+                "cart_redeem_gift_card": {
+                    "title": "Winkelmand, Button cadeaubon",
+                    "value": "Activeer Cadeaubon"
+                },
+                "cart_apply_coupon": {
+                    "title": "Winkelmand, Button couponcode",
+                    "value": "Activeer Coupon"
+                },
+                "cart_invalid_coupon": {
+                    "title": "Winkelmand, Ongeldige coupon",
+                    "value": "De opgegeven code is niet (meer) geldig."
+                },
+                "cart_not_applicable_coupon": {
+                    "title": "Cart, Not Applicable Coupon",
+                    "value": "Coupon code is niet van toepassing op dit product"
+                },
+                "cart_max_exceeded_coupon": {
+                    "title": "Cart, Max Coupon Use Exceeded",
+                    "value": "Maximaal aantal codes overschreden"
+                },
+                "cart_invalid_giftcard": {
+                    "title": "Winkelmand, Ongeldige cadeaubon",
+                    "value": "De opgegeven code is niet (meer) geldig."
+                },
+                "cart_enter_coupon": {
+                    "title": "Cart, Enter Coupon Hint",
+                    "value": "Voer couponcode in"
+                },
+                "cart_enter_gift_code": {
+                    "title": "Cart, Enter Gift Card Hint",
+                    "value": "Voer Cadeaubon in"
+                },
+                "cart_coupon_expired": {
+                    "title": "Cart, Coupon Code Expired",
+                    "value": "Actie is verlopen"
+                },
+                "coupon_not_applicable": {
+                    "title": "Cart, Coupon Code Not Applicable",
+                    "value": "Coupon is niet van toepassing op de items in uw winkelwagen"
+                },
+				"cart_simple_apply":{
+					"title":"Cart, Apply",
+					"value":"Toepassen"
+				}
+            }
+        },
+        "cart_estimate_shipping": {
+            "label": "Winkel - Verzenden",
+            "options": {
+                "cart_estimate_shipping_title": {
+                    "title": "Winkelmand, Titel verzendkosten",
+                    "value": "Geschatte verzendkosten"
+                },
+                "cart_estimate_shipping_sub_title": {
+                    "title": "Winkelmand, Subtitel verzendkosten",
+                    "value": "Vul uw postcode in om de juiste verzendkosten weer te geven."
+                },
+                "cart_estimate_shipping_input_country_label": {
+                    "title": "Winkelmand, Verzendkosten, Land",
+                    "value": "Land:"
+                },
+                "cart_estimate_shipping_select_one": {
+                    "title": "Winkelmand, Verzendkosten, Landselectie",
+                    "value": "Selecteer uw land"
+                },
+                "cart_estimate_shipping_input_label": {
+                    "title": "Winkelmand, Verzendkosten, Postcode",
+                    "value": "Postcode:"
+                },
+                "cart_estimate_shipping_button": {
+                    "title": "Winkelmand, Verzendkosten Button",
+                    "value": "Verzendkosten"
+                },
+                "cart_estimate_shipping_standard": {
+                    "title": "Winkelmand, Standard verzending",
+                    "value": "Standaard verzending"
+                },
+                "cart_estimate_shipping_free": {
+                    "title": "Cart, Free Shipping Label",
+                    "value": "Gratis Lokale Ophaling"
+                },
+                "cart_estimate_shipping_express": {
+                    "title": "Winkelmand, Express verzending",
+                    "value": "Express levering (optioneel tegen meerprijs)"
+                },
+                "cart_estimate_shipping_error": {
+                    "title": "Winkelmand, Foutieve postcode",
+                    "value": "Uw postcode komt niet overeen. De verzendkosten worden bepaald nadat u uw verzendinformatie heeft ingevuld."
+                },
+                "cart_estimate_shipping_hint": {
+                    "title": "Cart, Estimate Shipping Hint",
+                    "value": "Postcode invoeren"
+                },
+                "delivery_in": {
+                    "title": "Cart, Live Shipping Delivery In (Days)",
+                    "value": "levering in"
+                },
+                "delivery_days": {
+                    "title": "Cart, Live Shipping (Delivery In) Days",
+                    "value": "dagen"
+                }
+            }
+        },
+        "cart_totals": {
+            "label": "Winkel - Totaaloverzicht",
+            "options": {
+                "cart_totals_title": {
+                    "title": "Winkelmand, Winkelmandtotalen",
+                    "value": "Totaal"
+                },
+                "cart_totals_subtotal": {
+                    "title": "Winkelmand, Winkelmandtotalen, Subtotaal",
+                    "value": "Subtotaal"
+                },
+                "cart_totals_tip": {
+                    "title": "Cart, Cart Totals, Tip",
+                    "value": "Fooi"
+                },
+                "cart_totals_tip_custom": {
+                    "title": "Cart, Cart Totals, Custom Tip Amount",
+                    "value": "Aangepast bedrag"
+                },
+                "cart_totals_apply_tip_custom": {
+                    "title": "Cart, Cart Totals, Apply Custom Tip",
+                    "value": "Fooi toepassen"
+                },
+                "cart_totals_shipping": {
+                    "title": "Winkelmand, Winkelmandtotalen, Verzendkosten",
+                    "value": "Verzendkosten"
+                },
+                "cart_totals_tax": {
+                    "title": "Winkelmand, Winkelmandtotalen, Btw",
+                    "value": "Btw"
+                },
+                "cart_totals_discounts": {
+                    "title": "Winkelmand, Winkelmandtotalen, Kortingen",
+                    "value": "Kortingen"
+                },
+                "cart_totals_vat": {
+                    "title": "Winkelmand, Winkelmandtotalen, BTW",
+                    "value": "BTW"
+                },
+                "cart_totals_duty": {
+                    "title": "Winkelmand, Winkelmandtotalen, Overig",
+                    "value": "Overige kosten"
+                },
+                "cart_totals_grand_total": {
+                    "title": "Winkelmand, Winkelmandtotalen, Ordertotaal",
+                    "value": "Ordertotaal"
+                },
+                "cart_totals_label": {
+                    "title": "Cart Totals Label",
+                    "value": "Winkelwagen Totalen"
+                }
+            }
+        },
+        "cart_login": {
+            "label": "Winkel - Inloggen",
+            "options": {
+                "cart_login_title": {
+                    "title": "Winkelmand, Titel Login",
+                    "value": "Ja, ik ben reeds klant."
+                },
+                "cart_login_sub_title": {
+                    "title": "Winkelmand, Subtitel",
+                    "value": "Log hieronder in met uw accountgegevens."
+                },
+                "cart_login_email_label": {
+                    "title": "Winkelmand, Login, Emaillabel",
+                    "value": "E-mailadres"
+                },
+                "cart_login_password_label": {
+                    "title": "Winkelmand, Login, Wachtwoordlabel",
+                    "value": "Wachtwoord"
+                },
+                "cart_login_button": {
+                    "title": "Winkelmand, Loginbutton",
+                    "value": "INLOGGEN"
+                },
+                "cart_login_forgot_password_link": {
+                    "title": "Winkelmand, Login, Wachtwoord vergeten",
+                    "value": "Uw wachtwoord vergeten?"
+                },
+                "cart_login_account_information_title": {
+                    "title": "Winkelmand, Login Opmerking",
+                    "value": "Opmerkingen"
+                },
+                "cart_login_account_information_text": {
+                    "title": "Winkelmand, Login Opmerkingtekst Deel 1",
+                    "value": "U rekent momenteel af als "
+                },
+                "cart_login_account_a_guest_text": {
+                    "title": "Winkelmand, Login Opmerking, Gast",
+                    "value": "gast"
+                },
+                "cart_login_account_information_text2": {
+                    "title": "Winkelmand, Login Opmerkingtekst Deel 2",
+                    "value": ".<br \/>Om af te rekenen met een bestaand account,"
+                },
+                "cart_login_account_information_logout_link": {
+                    "title": "Winkelmand, Login Opmerking, Link uitloggen",
+                    "value": "klik hier"
+                },
+				"cart_login_already_have_account":{
+					"title":"Cart, Login Have Account",
+					"value":"Heb je al een account?"
+				},
+				"cart_new_customer_title":{
+					"title":"Cart, New Customer Title",
+					"value":"klant informatie"
+				},
+				"cart_new_customer_return_link":{
+					"title":"Cart, New Customer Return Link",
+					"value":"Terugkeren om een nieuw account aan te maken?"
+				},
+				"cart_subscription_addresss_continue":{
+					"title":"Cart, New Customer Return Link",
+					"value":"Opslaan doorgaan"
+				},
+				"cart_login_already_have_account2":{
+					"title":"Cart, Login Have Account Question",
+					"value":"Heb je al een account?"
+				},
+				"cart_login_already_have_account_login":{
+					"title":"Cart, Login Button Have Account",
+					"value":"Log in"
+				},
+				"cart_subscription_already_purchased":{
+					"title":"Cart, Subscription Already Purchased Message",
+					"value":"Je hebt dit item al gekocht. Ga naar uw account om uw actieve abonnementen te bekijken."
+				}
+            }
+        },
+        "cart_guest_checkout": {
+            "label": "Winkel - Afrekenen als gast",
+            "options": {
+                "cart_guest_title": {
+                    "title": "Winkelmand, Login, Gast Afrekenen Titel",
+                    "value": "Afrekenen zonder account"
+                },
+                "cart_guest_sub_title": {
+                    "title": "Winkelmand, Login, Gast Afrekenen Subtitel",
+                    "value": "Het is mogelijk om af te rekenen, zonder eerst een account aan te hoeven maken."
+                },
+                "cart_guest_message": {
+                    "title": "Winkelmand, Login, Gast Afrekenen Bericht",
+                    "value": "Nu verdergaan als gast met de mogelijkheid om later alsnog een account aan te maken."
+                },
+                "cart_guest_button": {
+                    "title": "Winkelmand, Login, Gast Afrekenen Button",
+                    "value": "NAAR AFREKENEN"
+                }
+            }
+        },
+        "cart_subscription_guest_checkout": {
+            "label": "Winkelwagen - Abonnement geen account Afrekenen",
+            "options": {
+                "cart_subscription_guest_title": {
+                    "title": "Cart, Login, Abonnement geen account Titel",
+                    "value": "Account aanmaken bij Afrekenen"
+                },
+                "cart_subscription_guest_sub_title": {
+                    "title": "Cart, Login, Subscription geen account Ondertitel",
+                    "value": "Niet geregistreerd? Afrekenen zonder een bestaande account."
+                },
+                "cart_subscription_guest_message": {
+                    "title": "Cart, Login, Abonnement geen account Bericht",
+                    "value": "Nog geen account? Geen probleem. <br\/> U krijgt een kans om later een account aan te maken."
+                },
+                "cart_subscription_guest_button": {
+                    "title": "Cart, Login, Gast Afrekenen Button",
+                    "value": "NAAR AFREKENEN"
+                }
+            }
+        },
+		"cart_address_information":{
+			"label":"Cart - Address Information",
+			"options":{
+				"cart_state_ca":{
+					"title":"Cart, State (Canada)",
+					"value":"Province"
+				},
+				"cart_zip_ca":{
+					"title":"Cart, Zip (Canada)",
+					"value":"Postal code"
+				},
+				"cart_zip_gb":{
+					"title":"Cart, Zip (UK)",
+					"value":"Postcode"
+				},
+				"cart_address_nl":{
+					"title":"Cart, Address (Netherlands)",
+					"value":"Street and house number"
+				},
+				"cart_zip_nl":{
+					"title":"Cart, Zip (Netherlands)",
+					"value":"Postal code"
+				},
+				"cart_zip_ar":{
+					"title":"Cart, Zip (Argentina)",
+					"value":"Postal code"
+				},
+				"cart_state_ar":{
+					"title":"Cart, State (Argentina)",
+					"value":"Province"
+				}
+			}
+		},
+        "cart_billing_information": {
+            "label": "Winkel - Accountinfo",
+            "options": {
+                "cart_billing_information_title": {
+                    "title": "Winkelmand, Titel Accountinfo",
+                    "value": "Accountinformatie"
+                },
+                "cart_billing_information_first_name": {
+                    "title": "Winkelmand, Account, Label Voornaam",
+                    "value": "Voornaam"
+                },
+                "cart_billing_information_last_name": {
+                    "title": "Winkelmand, Account, Label Achternaam",
+                    "value": "Achternaam"
+                },
+                "cart_billing_information_address": {
+                    "title": "Winkelmand, Account, Label Adres",
+                    "value": "Adres"
+                },
+                "cart_billing_information_address2": {
+                    "title": "Winkelmand, Account, Label Adres 2",
+                    "value": "Adres 2"
+                },
+                "cart_billing_information_city": {
+                    "title": "Winkelmand, Account, Label Plaats",
+                    "value": "Plaats"
+                },
+                "cart_billing_information_state": {
+                    "title": "Winkelmand, Account, Label Provincie",
+                    "value": "Provincie"
+                },
+                "cart_billing_information_select_state": {
+                    "title": "Cart, Billing, Standaard No State Geselecteerde",
+                    "value": "Kies een staat"
+                },
+                "cart_billing_information_select_province": {
+                    "title": "Cart, Billing, Default No provincie geselecteerd",
+                    "value": "Selecteer Provincie"
+                },
+                "cart_billing_information_select_county": {
+                    "title": "Cart, Billing, Default No County Geselecteerde",
+                    "value": "Selecteer Provincie"
+                },
+                "cart_billing_information_select_other": {
+                    "title": "Cart, Billing, Default Niets geselecteerd",
+                    "value": "Selecteer Provincie"
+                },
+                "cart_billing_information_country": {
+                    "title": "Winkelmand, Account, Label Land",
+                    "value": "Land"
+                },
+                "cart_billing_information_select_country": {
+                    "title": "Winkelmand, Account, Landmenu, Landselectie",
+                    "value": "Selecteer uw land"
+                },
+                "cart_billing_information_zip": {
+                    "title": "Winkelmand, Account, Label Postcode",
+                    "value": "Postcode"
+                },
+                "cart_billing_information_phone": {
+                    "title": "Winkelmand, Account, Label telefoon",
+                    "value": "Telefoon"
+                },
+                "cart_billing_information_ship_to_this": {
+                    "title": "Winkelmand, Account, Gebruik Factuuradres",
+                    "value": "Verzenden naar dit adres"
+                },
+                "cart_billing_information_ship_to_different": {
+                    "title": "Winkelmand, Account, Gebruik ander adres",
+                    "value": "Verzenden naar een ander adres"
+                },
+                "cart_billing_information_company_name": {
+                    "title": "Cart, Billing, Company Name Label",
+                    "value": "Bedrijfsnaam"
+                },
+                "cart_billing_information_vat_registration_number": {
+                    "title": "Cart, Billing, VAT Registration Number Label",
+                    "value": "BTW registratie nummer"
+                }
+            }
+        },
+        "cart_shipping_information": {
+            "label": "Winkel - Verzendgegevens",
+            "options": {
+                "cart_shipping_information_title": {
+                    "title": "Winkelmand, Titel Verzendinfo",
+                    "value": "Bezorggegevens"
+                },
+                "cart_shipping_information_first_name": {
+                    "title": "Winkelmand, Verzenden, Voornaam Label",
+                    "value": "Voornaam"
+                },
+                "cart_shipping_information_last_name": {
+                    "title": "Winkelmand, Verzenden, Achternaam Label",
+                    "value": "Achternaam"
+                },
+                "cart_shipping_information_address": {
+                    "title": "Winkelmand, Verzenden, Adres Label",
+                    "value": "Adres"
+                },
+                "cart_shipping_information_address2": {
+                    "title": "Winkelmand, Verzenden, Adres 2 Label",
+                    "value": "Adres 2"
+                },
+                "cart_shipping_information_city": {
+                    "title": "Winkelmand, Verzenden, Plaats Label",
+                    "value": "Plaats"
+                },
+                "cart_shipping_information_state": {
+                    "title": "Winkelmand, Verzenden, Provincie Label",
+                    "value": "Provincie"
+                },
+                "cart_shipping_information_select_state": {
+                    "title": "Cart, Scheepvaart, Standaard No State Geselecteerde",
+                    "value": "Kies een Staat"
+                },
+                "cart_shipping_information_select_province": {
+                    "title": "Cart, Scheepvaart, Default No provincie geselecteerd",
+                    "value": "Selecteer een Provincie"
+                },
+                "cart_shipping_information_select_county": {
+                    "title": "Cart, Scheepvaart, Default No County Geselecteerde",
+                    "value": "Selecteer een Provincie"
+                },
+                "cart_shipping_information_select_other": {
+                    "title": "Cart, Scheepvaart, Default Niets geselecteerd",
+                    "value": "Selecteer Provincie"
+                },
+                "cart_shipping_information_country": {
+                    "title": "Winkelmand, Verzenden, Land Label",
+                    "value": "Land"
+                },
+                "cart_shipping_information_select_country": {
+                    "title": "Winkelmand, Verzenden, Landenmenu, Landselectie",
+                    "value": "Selecteer het land"
+                },
+                "cart_shipping_information_zip": {
+                    "title": "Winkelmand, Verzenden, Postcode Label",
+                    "value": "Postcode"
+                },
+                "cart_shipping_information_phone": {
+                    "title": "Winkelmand, Verzenden, Telefoon Label",
+                    "value": "Telefoon"
+                },
+                "cart_shipping_information_company_name": {
+                    "title": "Cart, Shipping, Company Name Label",
+                    "value": "Bedrijfsnaam"
+                }
+            }
+        },
+        "cart_contact_information": {
+            "label": "Winkel - Contactinfo",
+            "options": {
+                "cart_contact_information_title": {
+                    "title": "Winkelmand, Contactinformatie Titel",
+                    "value": "Contactinformatie"
+                },
+                "cart_contact_information_first_name": {
+                    "title": "Winkelmand, Contactinformatie, Voornaam Label",
+                    "value": "Voornaam"
+                },
+                "cart_contact_information_last_name": {
+                    "title": "Winkelmand, Contactinformatie, Achternaam Label",
+                    "value": "Achternaam"
+                },
+                "cart_contact_information_email": {
+                    "title": "Winkelmand, Contactinformatie, Email Label",
+                    "value": "E-mail"
+                },
+                "cart_contact_information_retype_email": {
+                    "title": "Winkelmand, Contactinformatie, Email opnieuw",
+                    "value": "E-mail bevestigen"
+                },
+                "cart_contact_information_create_account": {
+                    "title": "Winkelmand, Contactinformatie, Account aanmaken",
+                    "value": "Account aanmaken"
+                },
+                "cart_contact_information_password": {
+                    "title": "Winkelmand, Contactinformatie, Wachtwoord Label",
+                    "value": "Wachtwoord"
+                },
+                "cart_contact_information_retype_password": {
+                    "title": "Winkelmand, Contactinformatie, Bevestig Wachtwoord Label",
+                    "value": "Wachtwoord bevestigen"
+                },
+                "cart_contact_information_subscribe": {
+                    "title": "Winkelmand, Contactinformatie, Subscribe Label",
+                    "value": "Wilt u zich inschrijven voor onze nieuwsbrief?"
+                },
+                "cart_contact_information_continue_button": {
+                    "title": "Winkelmand, Contactinformatie, Doorgaan Button",
+                    "value": "DOORGAAN"
+                },
+                "cart_contact_information_continue_payment": {
+                    "title": "Cart, Contact Information, Continue to Payment",
+                    "value": "NAAR AFREKENEN"
+                },
+                "cart_contact_information_continue_shipping": {
+                    "title": "Cart, Contact Information, Continue to Shipping",
+                    "value": "NAAR VERZENDEN"
+                },
+				"cart_contact_information_email_other":{
+					"title":"Cart, Additional Email, Title",
+					"value":"Extra ontvangst-e-mail"
+				},
+				"cart_contact_information_email_other_label":{
+					"title":"Cart, Additional Email, Label",
+					"value":"Voer een extra e-mailadres in (optioneel)"
+				}
+            }
+        },
+        "cart_shipping_method": {
+            "label": "Winkel - Verzendmethode",
+            "options": {
+                "cart_shipping_method_title": {
+                    "title": "Winkelmand, Verzendmethode, Titel",
+                    "value": "Verzendmethode"
+                },
+                "cart_shipping_method_continue_button": {
+                    "title": "Winkelmand, Verzendmethode Doorgaan Button",
+                    "value": "DOORGAAN"
+                },
+                "cart_shipping_method_please_select_one": {
+                    "title": "Cart, Shipping please select one",
+                    "value": "Selecteer een verzendmethode"
+                },
+                "cart_shipping_update_shipping": {
+                    "title": "Cart, Update Shipping",
+                    "value": "Bijwerken verzendmethode"
+                },
+                "cart_shipping_no_rates_available": {
+                    "title": "Cart, No Shipping Rates Available",
+                    "value": "Er zijn geen beschikbare verzendmethoden in uw regio. Neem contact met ons op om uw bestelling te voltooien."
+                }
+            }
+        },
+        "cart_address_review": {
+            "label": "Winkel - Adresgegevens",
+            "options": {
+                "cart_address_review_title": {
+                    "title": "Winkelmand, Adresgegevens Titel",
+                    "value": "Adresgegevens"
+                },
+                "cart_address_review_billing_title": {
+                    "title": "Winkelmand, Adresgegevens, Factuur Titel",
+                    "value": "Factuuradres"
+                },
+                "cart_address_review_shipping_title": {
+                    "title": "Winkelmand, Adresgegevens, Verzenden Titel",
+                    "value": "Bezorgadres"
+                },
+                "cart_address_review_edit_link": {
+                    "title": "Winkelmand, Adresgegevens, Wijzigen Link",
+                    "value": "Wijzig adres- of verzendgegevens"
+                },
+                "cart_address_review_edit_link2": {
+                    "title": "Winkelmand, Adresgegevens, Wijzigen Link",
+                    "value": "Wijzig adres- of verzendgegevens"
+                }
+            }
+        },
+        "cart_payment_information": {
+            "label": "Winkel - Betaalinformatie",
+            "options": {
+                "cart_payment_information_title": {
+                    "title": "Winkelmand, Betaalinformatie Titel",
+                    "value": "Betaalinformatie"
+                },
+                "cart_payment_information_manual_payment": {
+                    "title": "Winkelmand, Betaalinformatie, Handmatige betaling Label",
+                    "value": "Betaling overboeken via bank"
+                },
+                "cart_payment_information_affirm": {
+                    "title": "Cart, Payment Information, Affirm Payment Label",
+                    "value": "Betaal nu met makkelijke maandelijkse betalingen"
+                },
+                "cart_payment_information_third_party": {
+                    "title": "Winkelmand, Betaalinformatie, Third Party Betaling Label",
+                    "value": "Betaal via"
+                },
+                "cart_payment_information_third_party_first": {
+                    "title": "Winkelmand, Betaalinformatie, Third Party Tekst, Deel 1",
+                    "value": "U wordt doorverwezen naar"
+                },
+                "cart_payment_information_third_party_second": {
+                    "title": "Winkelmand, Betaalinformatie, Third Party Tekst, Deel 2",
+                    "value": "wanneer u op verzend order klikt om uw betaling af te ronden."
+                },
+                "cart_payment_information_apple_pay": {
+                    "title": "Cart, Payment Information, Mobile Payment Label",
+                    "value": "Betaal met uw apparaat"
+                },
+                "cart_payment_card_type_credit_card": {
+                    "title": "Cart, Payment Information, Default Card Type Label",
+                    "value": "Kredietkaart"
+                },
+                "cart_payment_information_credit_card": {
+                    "title": "Winkelmand, Betaalinformatie, Credit Card Betaling Label",
+                    "value": "Betaal met uw CreditCard"
+                },
+				"cart_payment_information_amazon":{
+					"title":"Cart, Payment Information, Amazon Payment Label",
+					"value":"Betalen met Amazon"
+				},
+                "cart_payment_information_payment_method": {
+                    "title": "Winkelmand, Betaalinformatie, Betalingsmethode Label",
+                    "value": "Betaalmethode"
+                },
+                "cart_payment_information_card_holder_name": {
+                    "title": "Winkelmand, Betaalinformatie, Kaarthouder Label",
+                    "value": "Naam kaarthouder"
+                },
+                "cart_payment_information_card_number": {
+                    "title": "Winkelmand, Betaalinformatie, Kaartnummer Label",
+                    "value": "Kaartnummer"
+                },
+                "cart_payment_information_expiration_date": {
+                    "title": "Winkelmand, Betaalinformatie, Vervaldatum Label",
+                    "value": "Vervaldatum"
+                },
+                "cart_payment_information_security_code": {
+                    "title": "Winkelmand, Betaalinformatie, Beveiligingscode Label",
+                    "value": "Beveiligingscode"
+                },
+                "cart_payment_information_checkout_text": {
+                    "title": "Winkelmand, Betaalinformatie, Afrekenen Text",
+                    "value": "Door het verzenden van uw order, gaat u akkoord met onze [terms]Algemene Voorwaarden[\/terms] en [privacy]Privacy Policy[\/privacy] van onze webwinkel.<br \/>Na het klikken op verzend order is het bestelproces voltooid.<br \/>Alvast bedankt voor uw bestelling!"
+                },
+                "cart_payment_information_review_checkout_text": {
+                    "title": "Cart, Payment Information, Review Checkout Text",
+                    "value": "Alvorens uw bestelling af te ronden, krijgt u de mogelijkheid deze te controleren en de definitieve totalen te bevestigen. Klik op Controleer Order wanneer u deze wilt controleren, bevestigen, en uw bestelling wilt plaatsen."
+                },
+                "cart_payment_information_review_order_button": {
+                    "title": "Cart, Payment Information, Review Order Button",
+                    "value": "CONTROLEER ORDER"
+                },
+                "cart_payment_information_submit_order_button": {
+                    "title": "Winkelmand, Betaalinformatie, Verzend Order Button",
+                    "value": "VERZEND ORDER"
+                },
+                "cart_payment_information_cancel_order_button": {
+                    "title": "Cart, Payment Information, Cancel Order Button",
+                    "value": "ANNULEER ORDER"
+                },
+                "cart_payment_information_order_notes_title": {
+                    "title": "Winkelmand, Betaalinformatie, Klantnotities Titel",
+                    "value": "Opmerkingen bij uw order"
+                },
+                "cart_payment_information_order_notes_message": {
+                    "title": "Winkelmand, Betaalinformatie, Customer Notes Message",
+                    "value": "Wanneer u speciale verzoeken heeft, plaats deze dan hier."
+                },
+                "cart_payment_information_review_title": {
+                    "title": "Cart, Review Cart Title",
+                    "value": "BEKIJK WINKELWAGEN"
+                },
+                "cart_payment_information_edit_cart_link": {
+                    "title": "Cart, edit cart items link",
+                    "value": "bewerk winkelwagen items"
+                },
+                "cart_payment_information_edit_billing_link": {
+                    "title": "Cart, edit billing link",
+                    "value": "bewerken factuuradres"
+                },
+                "cart_payment_information_edit_shipping_link": {
+                    "title": "Cart, edit shipping link",
+                    "value": "bewerk bezorgadres"
+                },
+                "cart_payment_information_edit_shipping_method_link": {
+                    "title": "Cart, edit shipping link",
+                    "value": "bewerk verzendmethode"
+                },
+                "cart_payment_review_totals_title": {
+                    "title": "Cart, Review Total Title",
+                    "value": "BEKIJK TOTALEN"
+                },
+                "cart_payment_review_agree": {
+                    "title": "Cart, Review Agree Text",
+                    "value": "Ik ga akkoord met de voorwaarden van deze site."
+                },
+                "cart_change_payment_method": {
+                    "title": "Cart, Change Payment Method",
+                    "value": "verander betaalmethode"
+                },
+				"cart_payment_information_paypal_final_note":{
+					"title":"Cart, Review and Submit PayPal Note",
+					"value":"Je bestelling is nog niet compleet! Bekijk en verzend uw bestelling hieronder om uw betaling af te ronden."
+				},
+				"cart_please_wait":{
+					"title":"Cart, Processing, please wait",
+					"value":"Uw betaling wordt verwerkt, sluit het venster alstublieft niet."
+				},
+				"login_please_wait":{
+					"title":"Cart, Login Processing, please wait",
+					"value":"We zijn aan het inloggen, even geduld a.u.b."
+				},
+				"address_please_wait":{
+					"title":"Cart, Address Processing, please wait",
+					"value":"We slaan uw adresgegevens op en werken uw winkelwagentotalen bij, een moment alstublieft."
+				},
+				"create_account_please_wait":{
+					"title":"Cart, Create Account Processing, please wait",
+					"value":"We zijn uw account aan het maken, even geduld a.u.b."
+				},
+				"shipping_methods_please_wait":{
+					"title":"Cart, Shipping Methods Processing, please wait",
+					"value":"We slaan uw verzendselectie op en werken de totalen van uw winkelwagentje bij, even geduld a.u.b."
+				},
+				"payment_processed":{
+					"title":"Cart, Payment Processed Note",
+					"value":"Uw betaling is verwerkt en u kunt uw bestelling nu bekijken."
+				},
+				"payment_processed_view":{
+					"title":"Cart, Payment Processed View",
+					"value":"Bestelling bekijken"
+				}
+            }
+        },
+        "cart_success": {
+            "label": "Winkel - Orderbevestiging per e-mail",
+            "options": {
+                "cart_payment_receipt_order_details_link": {
+                    "title": "E-mailbevestiging, Link naar Account",
+                    "value": "Bekijk uw orderdetails"
+                },
+                "cart_payment_receipt_subscription_details_link": {
+                    "title": "E-mail ontvangst, Link naar Subscription",
+                    "value": "bekijk abonnementsgegevens"
+                },
+                "cart_payment_receipt_title": {
+                    "title": "E-mailbevestiging Titel",
+                    "value": "Orderbevestiging - Order"
+                },
+                "cart_payment_complete_line_1": {
+                    "title": "Winkelmand, Betaling Compleet, Regel 1",
+                    "value": "Beste:"
+                },
+                "cart_payment_complete_line_2": {
+                    "title": "Winkelmand, Betaling Compleet, Regel 2",
+                    "value": "Bedankt voor het plaatsen van uw bestelling! Uw ordernummer is:"
+                },
+                "cart_payment_complete_line_3": {
+                    "title": "Winkelmand, Betaling Compleet, Regel 3",
+                    "value": "Hieronder vindt u een samenvatting van uw bestelling. U kunt de status en de bijbehorende details bekijken door in te loggen, via onze website, in uw account."
+                },
+                "cart_payment_complete_line_4": {
+                    "title": "Winkelmand, Betaling Compleet, Regel 4",
+                    "value": "Bewaar deze e-mail als bewijs van uw bestelling!"
+                },
+                "cart_payment_complete_line_5": {
+                    "title": "Winkelmand, Betaling Compleet, Regel 5",
+                    "value": "Klik hier om uw account inhoud te bekijken"
+                },
+                "cart_payment_complete_click_here": {
+                    "title": "Cart, Payment Complete, Click Here",
+                    "value": "Klik Hier"
+                },
+                "cart_payment_complete_to_view_order": {
+                    "title": "Cart, Payment Complete, To View Order",
+                    "value": "om uw order te bekijken"
+                },
+                "cart_payment_complete_billing_label": {
+                    "title": "Winkelmand, Betaling Compleet, Factuur Label",
+                    "value": "Factuuradres"
+                },
+                "cart_payment_complete_shipping_label": {
+                    "title": "Winkelmand, Betaling Compleet, Verzenden Label",
+                    "value": "Bezorgadres"
+                },
+                "cart_payment_complete_details_header_1": {
+                    "title": "Winkelmand, Betaling Compleet, Koptekst 1",
+                    "value": "Product"
+                },
+                "cart_payment_complete_details_header_2": {
+                    "title": "Winkelmand, Betaling Compleet, Koptekst 2",
+                    "value": "Aantal"
+                },
+                "cart_payment_complete_details_header_3": {
+                    "title": "Winkelmand, Betaling Compleet, Koptekst 3",
+                    "value": "Prijs"
+                },
+                "cart_payment_complete_details_header_4": {
+                    "title": "Winkelmand, Betaling Compleet, Koptekst 4",
+                    "value": "Prijs"
+                },
+                "cart_payment_complete_order_totals_subtotal": {
+                    "title": "Winkelmand, Betaling Compleet, Subtotaal",
+                    "value": "Subtotaal"
+                },
+                "cart_payment_complete_order_totals_shipping": {
+                    "title": "Winkelmand, Betaling Compleet, Verzenden",
+                    "value": "Verzenden"
+                },
+                "cart_payment_complete_order_totals_tax": {
+                    "title": "Winkelmand, Betaling Compleet, Btw",
+                    "value": "BTW"
+                },
+                "cart_payment_complete_order_totals_discount": {
+                    "title": "Winkelmand, Betaling Compleet, Korting",
+                    "value": "Korting"
+                },
+                "cart_payment_complete_order_totals_vat": {
+                    "title": "Winkelmand, Betaling Compleet, BTW",
+                    "value": "BTW "
+                },
+                "cart_payment_complete_order_totals_duty": {
+                    "title": "Winkelmand, Betaling Compleet, Overige kosten",
+                    "value": "Overige kosten"
+                },
+                "cart_payment_complete_order_totals_grand_total": {
+                    "title": "Winkelmand, Betaling Compleet, Order Totaal",
+                    "value": "Ordertotaal"
+                },
+                "cart_payment_complete_bottom_line_1": {
+                    "title": "Winkelmand, Betaling Compleet, Onderregel 1",
+                    "value": "Controleer uw order na ontvangst en laat het ons direct weten indien er, ondanks onze zorgvuldige afhandeling van elke order, onverhoopt toch iets mis is gegaan."
+                },
+                "cart_payment_complete_bottom_line_2": {
+                    "title": "Winkelmand, Betaling Compleet, Onderregel 2",
+                    "value": "Bedankt en veel plezier met uw aankoop!"
+                },
+                "cart_success_thank_you_title": {
+                    "title": "Cart, Payment Complete, Thank You Title",
+                    "value": "Dank u voor uw bestelling"
+                },
+                "cart_success_order_number_is": {
+                    "title": "Cart, Payment Complete, Your Order Number",
+                    "value": "Ordernummer is:"
+                },
+                "cart_success_will_receive_email": {
+                    "title": "Cart, Payment Complete, Will receive email",
+                    "value": "U ontvangt binnenkort een e-mailbevestiging op"
+                },
+                "cart_success_print_receipt_text": {
+                    "title": "Cart, Payment Complete, Print Receipt Link Text",
+                    "value": "Print order"
+                },
+                "cart_success_save_order_text": {
+                    "title": "Cart, Payment Complete, Save Your Info",
+                    "value": "Sla uw gegevens op voor de volgende keer"
+                },
+                "cart_success_create_password": {
+                    "title": "Cart, Payment Complete, Create Password",
+                    "value": "Maak wachtwoord:"
+                },
+                "cart_success_verify_password": {
+                    "title": "Cart, Payment Complete, Verify Password",
+                    "value": "Bevestig wachtwoord:"
+                },
+                "cart_success_password_hint": {
+                    "title": "Cart, Payment Complete, Password Hint",
+                    "value": "(6-12 Letters)"
+                },
+                "cart_success_create_account": {
+                    "title": "Cart, Payment Complete, Create Account",
+                    "value": "Account aanmaken"
+                },
+                "cart_giftcard_receipt_title": {
+                    "title": "Cart, Gift Card Email Subject",
+                    "value": "Cadeaubon levering"
+                },
+                "cart_giftcard_receipt_header": {
+                    "title": "Cart, Gift Card Header",
+                    "value": "Uw Cadeaubon"
+                },
+                "cart_giftcard_receipt_to": {
+                    "title": "Cart, Gift Card To",
+                    "value": "aan"
+                },
+                "cart_giftcard_receipt_from": {
+                    "title": "Cart, Gift Card From",
+                    "value": "van"
+                },
+                "cart_giftcard_receipt_id": {
+                    "title": "Cart, Gift Card ID Label",
+                    "value": "Uw Cadeaubon ID"
+                },
+                "cart_giftcard_receipt_amount": {
+                    "title": "Cart, Gift Card Amount",
+                    "value": "Cadeaubon Totaal"
+                },
+                "cart_giftcard_receipt_message": {
+                    "title": "Cart, Gift Card Message",
+                    "value": "U kunt uw cadeaubon bij het afrekenen verzilveren"
+                },
+                "cart_downloads_available": {
+                    "title": "Cart Success, Downloads Available",
+                    "value": "Betaling is goedgekeurd, download is beschikbaar."
+                },
+                "cart_downloads_unavailable": {
+                    "title": "Cart Success, Downloads Unavailable",
+                    "value": "Uw order is inclusief downloads, maar uw betaling is nog niet goedgekeurd. Zodra de betaling is goedgekeurd zal uw download beschikbaar zijn in uw account."
+                },
+                "cart_downloads_click_to_go": {
+                    "title": "Cart Success, Downloads Click to go Text",
+                    "value": "Klik hier om nu daar heen te gaan."
+                },
+                "cart_success_view_downloads": {
+                    "title": "Cart Success, View Downloads",
+                    "value": "Bekijk downloads"
+                },
+                "cart_invoice_line_1": {
+                    "title": "Cart Invoice, Payment Note",
+                    "value": "Hieronder staat uw factuur, volg onderstaande link om de betaling te voltooien. U kunt ook een cheque betalen naar het hierboven vermelde adres."
+                },
+                "cart_invoice_pay_online": {
+                    "title": "Cart Invoice, Pay Online",
+                    "value": "om online te betalen"
+                },
+                "cart_invoice_items_label": {
+                    "title": "Cart Invoice, Invoice Header",
+                    "value": "FACTUURPUNTEN"
+                },
+				"cart_giftcards_unavailable":{
+					"title":"Cart Success, Gift Cards Unavailable",
+					"value":"Je bestelling bevat een cadeaukaart, maar je betaling is nog niet goedgekeurd. Zodra de betaling is goedgekeurd, is uw cadeaukaart beschikbaar in uw account."
+				},
+				"cart_text_notification_title":{
+					"title":"Order Success, Text Notification Service Title",
+					"value":"Bestelupdates"
+				},
+				"cart_text_notification_description":{
+					"title":"Order Success, Text Notification Service Description Info",
+					"value":"Abonneer u hieronder om updates van bestellingen rechtstreeks op uw telefoon te ontvangen via sms."
+				},
+				"cart_text_notification_placeholder":{
+					"title":"Order Success, Text Notification Service Input Placeholder",
+					"value":"xxx-xxx-xxxx"
+				},
+				"cart_text_notification_success":{
+					"title":"Order Success, Text Notification Success Message",
+					"value":"U bent nu geabonneerd op bestelmeldingen!"
+				},
+				"cart_text_notification_error":{
+					"title":"Order Success, Text Notification Error Message",
+					"value":"Uw telefoonnummer is ongeldig. Corrigeer het en verzend het opnieuw."
+				},
+				"cart_text_notification_button":{
+					"title":"Order Success, Text Notification Service Button",
+					"value":"Ontvang verzendupdates per tekst"
+				}
+            }
+        },
+        "subscription_trial": {
+            "label": "Subscription Trial Email",
+            "options": {
+                "trial_message_1": {
+                    "title": "Subscription Trial Part 1",
+                    "value": "Bedankt voor uw inschrijving! Uw"
+                },
+                "trial_message_2": {
+                    "title": "Subscription Trial Part 2",
+                    "value": "dagen gratis proefperiode van"
+                },
+                "trial_message_3": {
+                    "title": "Subscription Trial Part 3",
+                    "value": "is nu begonnen! Als u nog vragen of opmerkingen tijdens de proefperiode, neem dan contact met ons op, we zijn blij om te helpen."
+                },
+                "trial_message_4": {
+                    "title": "Subscription Trial Part 4",
+                    "value": "We hopen dat u bij ons wilt blijven, maar als u besluit dat dit niets voor u is, annuleert elk moment voorafgaand aan het einde van de proefperiode uw abonnement om te voorkomen dat deze in rekening wordt gebracht. U kunt dit doen door in te loggen in uw account en op en op Beheer Abonnementen te klikken, dan Bekijk uw Abonnement, en deze te annuleren op de detailpagina."
+                },
+                "trial_message_link": {
+                    "title": "View Subscription Information",
+                    "value": "Bekijk Abonnementsgegevens"
+                },
+                "subscription_trial_email_title": {
+                    "title": "Subscription Email Title",
+                    "value": "Uw proefperiode is begonnen"
+                },
+                "trial_ending_message_1": {
+                    "title": "Subscription Trial Ending Part 1",
+                    "value": "Uw"
+                },
+                "trial_ending_message_2": {
+                    "title": "Subscription Trial Part 2",
+                    "value": "dagen gratis proefperiode van"
+                },
+                "trial_ending_message_3": {
+                    "title": "Subscription Trial Part 3",
+                    "value": "eindigt in slechts 3 dagen! Mocht u nog vragen of opmerkingen, neem dan contact met ons op! Wij helpen u graag verder."
+                },
+                "trial_ending_message_4": {
+                    "title": "Subscription Trial Part 4",
+                    "value": "Wij hopen dat u zich bij ons, maar als u besluit dit niet voor u, te annuleren enig moment voorafgaand aan het einde van de proef om te voorkomen dat in rekening worden gebracht door in te loggen op je account te klikken beheer van abonnementen, het bekijken van uw abonnement, en annuleren op de detailpagina."
+                },
+                "trial_ending_message_link": {
+                    "title": "View Subscription Information",
+                    "value": "Bekijk Abonnementsgegevens"
+                },
+                "subscription_trial_ending_email_title": {
+                    "title": "Subscription Trial Email Title",
+                    "value": "Uw proefperiode eindigt dagen"
+                }
+            }
+        },
+        "subscription_ended": {
+            "label": "Subscription Ended Email",
+            "options": {
+                "ended_message_1": {
+                    "title": "Subscription Ended Part 1",
+                    "value": "Uw abonnement bij ons is be\u00ebindigd, geannuleerd of verlopen als gevolg van te veel mislukte betalingen."
+                },
+                "ended_message_2": {
+                    "title": "Subscription Ended Part 2",
+                    "value": "We vinden het jammer om u te zien gaan en hopen dat u terug wilt komen. Als dit abonnement per ongeluk is geannuleerd , kunt u op de link hieronder klikken om een nieuw abonnement aan te schaffen."
+                },
+                "ended_details": {
+                    "title": "Subscription Ended Details",
+                    "value": "Het volgende abonnement is afgelopen:"
+                },
+                "emded_message_link": {
+                    "title": "Start a New Subscription",
+                    "value": "Start een nieuw abonnement"
+                },
+                "subscription_ended_email_title": {
+                    "title": "Subscription Ended Email Title",
+                    "value": "Uw abonnement is be\u00ebindigd!"
+                }
+            }
+        },
+        "account_login": {
+            "label": "Account - Login",
+            "options": {
+                "account_login_title": {
+                    "title": "Account, Login Titel",
+                    "value": "Ja, ik ben reeds klant."
+                },
+                "account_login_sub_title": {
+                    "title": "Account, Login Subtitel",
+                    "value": "Log in om af te kunnen rekenen met een klantaccount."
+                },
+                "account_login_email_label": {
+                    "title": "Account, Login, Email Label",
+                    "value": "E-mailadres"
+                },
+                "account_login_password_label": {
+                    "title": "Account, Login, Wachtwoord Label",
+                    "value": "Wachtwoord"
+                },
+                "account_login_button": {
+                    "title": "Account, Login Button",
+                    "value": "INLOGGEN"
+                },
+                "account_login_forgot_password_link": {
+                    "title": "Account, Login, Wachtwoord vergeten",
+                    "value": "Uw wachtwoord vergeten?"
+                },
+                "account_login_account_information_title": {
+                    "title": "Account, Login Compleet Titel",
+                    "value": "Accountinformatie"
+                },
+                "account_login_account_information_text": {
+                    "title": "Account, Login Compleet Tekst",
+                    "value": "U rekent nu af als Demo User.<br \/>Om af te rekenen met een ander account,"
+                },
+                "account_login_account_information_logout_link": {
+                    "title": "Account, Login Compleet, Logout Link",
+                    "value": "klik hier"
+                },
+                "account_new_user_title": {
+                    "title": "Account, Login, Nieuwe Gebruiker Titel",
+                    "value": "Nee, ik heb nog geen account."
+                },
+                "account_new_user_sub_title": {
+                    "title": "Account, Login, Nieuwe Gebruiker Subtitel",
+                    "value": "Wilt u ook een vrijblijvend account? Klik op onderstaande button."
+                },
+                "account_new_user_message": {
+                    "title": "Account, Login, Nieuwe Gebruiker Bericht",
+                    "value": "<strong>Accountvoordelen:<\/strong><br \/>Met een account kunt u volledig gebruik maken van onze website. Op de hoogte blijven van onze updates en uw orderhistorie raadplegen."
+                },
+                "account_new_user_button": {
+                    "title": "Account, Login, Nieuwe Gebruiker Button",
+                    "value": "ACCOUNT AANMAKEN"
+                }
+            }
+        },
+        "account_forgot_password": {
+            "label": "Account - Wachtwoord vergeten",
+            "options": {
+                "account_forgot_password_title": {
+                    "title": "Account, Wachtwoordherstel Titel",
+                    "value": "Nieuw wachtwoord aanvragen"
+                },
+                "account_forgot_password_email_label": {
+                    "title": "Account, Wachtwoordherstel E-mail Label",
+                    "value": "E-mail"
+                },
+                "account_forgot_password_button": {
+                    "title": "Account, Wachtwoordherstel Button",
+                    "value": "WACHTWOORD VERSTUREN"
+                }
+            }
+        },
+        "account_validation_email": {
+            "label": "Account - Validation Email",
+            "options": {
+                "account_validation_email_message": {
+                    "title": "Account, Korte valideren E-mail Bericht",
+                    "value": "Om uw account te activeren, klikt u op de onderstaande link."
+                },
+                "account_validation_email_title": {
+                    "title": "Rekening, uw account te activeren titel",
+                    "value": "Activeer uw account"
+                },
+                "account_validation_email_link": {
+                    "title": "Rekening, uw account te activeren Link",
+                    "value": "Klik hier om te activeren"
+                }
+            }
+        },
+        "account_register": {
+            "label": "Account - Registratie",
+            "options": {
+                "account_register_title": {
+                    "title": "Account, Registreren Titel",
+                    "value": "Account aanmaken"
+                },
+                "account_register_first_name": {
+                    "title": "Account, Registreren, Voornaam Label",
+                    "value": "Voornaam"
+                },
+                "account_register_last_name": {
+                    "title": "Account, Registreren, Achternaam Label",
+                    "value": "Achternaam"
+                },
+                "account_register_email": {
+                    "title": "Account, Registreren, E-mail Label",
+                    "value": "E-mailadres"
+                },
+                "account_register_password": {
+                    "title": "Account, Registreren, Wachtwoord Label",
+                    "value": "Wachtwoord"
+                },
+                "account_register_retype_password": {
+                    "title": "Account, Registreren, Bevestig Wachtwoord Label",
+                    "value": "Bevestig uw wachtwoord"
+                },
+                "account_register_subscribe": {
+                    "title": "Account, Registreren, Aanmeldtekst",
+                    "value": "Wilt u zich inschrijven voor onze nieuwsbrief?"
+                },
+                "account_register_agree_terms": {
+                    "title": "Account, Register, Agree Terms Text",
+                    "value": "Gaat u akkoord met onze websitevoorwaarden, ons gegevensbeleid en ons cookiebeleid?"
+                },
+                "account_register_button": {
+                    "title": "Account, Registreren Button",
+                    "value": "REGISTREREN"
+                },
+                "account_billing_information_user_notes": {
+                    "title": "Account, Billing, User Notes",
+                    "value": "Aanvullende informatie over uw registratie"
+                },
+                "account_register_email_title": {
+                    "title": "Account, Register Email Title",
+                    "value": "Nieuwe EasyCart Registratie"
+                },
+                "account_register_email_message": {
+                    "title": "Account, Register Email Message",
+                    "value": "Nieuwe Registratie met E-mailadres:"
+                }
+            }
+        },
+        "account_navigation": {
+            "label": "Account - Navigatie",
+            "options": {
+                "account_navigation_title": {
+                    "title": "Account, Navigatie Titel",
+                    "value": "Mijn Dashboard"
+                },
+                "account_navigation_basic_inforamtion": {
+                    "title": "Account, Navigatie, Wijzig Basisinfo Link",
+                    "value": "Wijzig basisinformatie"
+                },
+                "account_navigation_orders": {
+                    "title": "Account, Navigatie, Uitzicht Bestellingen Link",
+                    "value": "bekijk bestellingen"
+                },
+                "account_navigation_password": {
+                    "title": "Account, Navigatie, Wijzig Wachtwoord Link",
+                    "value": "Wijzig wachtwoord"
+                },
+                "account_navigation_subscriptions": {
+                    "title": "Account, Navigatie, Abonnementen Link",
+                    "value": "beheer van abonnementen"
+                },
+                "account_navigation_payment_methods": {
+                    "title": "Account, Navigatie, Betalingen Link",
+                    "value": "beheren betaalmethoden"
+                },
+                "account_navigation_sign_out": {
+                    "title": "Account, Navigatie, Uitschrijven Link",
+                    "value": "Uitloggen"
+                },
+                "account_navigation_dashboard": {
+                    "title": "Account, Navigatie, Dashboard Link",
+                    "value": "Account Dashboard"
+                },
+                "account_navigation_billing_information": {
+                    "title": "Account, Navigation, Billing Link",
+                    "value": "factuurgegevens"
+                },
+                "account_navigation_shipping_information": {
+                    "title": "Account, Navigation, Shipping Link",
+                    "value": "verzendgegevens"
+                }
+            }
+        },
+        "account_dashboard": {
+            "label": "Account - Dashboard",
+            "options": {
+                "account_dashboard_recent_orders_title": {
+                    "title": "Account, Dashboard, Recente Orders Titel",
+                    "value": "Mijn Orders"
+                },
+                "account_dashboard_recent_orders_none": {
+                    "title": "Account, Dashboard, Recente Order, Geen Orders",
+                    "value": "Er is nog geen order geplaatst"
+                },
+                "account_dashboard_all_orders_linke": {
+                    "title": "Account, Dashboard, Alle Orders Link",
+                    "value": "BEKIJK ALLE ORDERS"
+                },
+                "account_dashboard_order_placed": {
+                    "title": "Account, Dashboard, Order Placed Label",
+                    "value": "BESTELLING GEPLAATST"
+                },
+                "account_dashboard_order_total": {
+                    "title": "Account, Dashboard, Total Label",
+                    "value": "TOTAAL"
+                },
+                "account_dashboard_order_ship_to": {
+                    "title": "Account, Dashboard, Ship To Label",
+                    "value": "VERZEND NAAR"
+                },
+                "account_dashboard_order_order_label": {
+                    "title": "Account, Dashboard, Order Label",
+                    "value": "BESTELLING"
+                },
+                "account_dashboard_order_view_details": {
+                    "title": "Account, Dashboard, View Details Link",
+                    "value": "Bekijk details"
+                },
+                "account_dashboard_order_buy_item_again": {
+                    "title": "Account, Dashboard, Buy Item Again",
+                    "value": "Bestel artikel opnieuw"
+                },
+                "account_dashboard_preference_title": {
+                    "title": "Account, Dashboard, Voorkeuren Titel",
+                    "value": "Mijn Instellingen"
+                },
+                "account_dashboard_email_title": {
+                    "title": "Account, Dashboard, E-mail Titel",
+                    "value": "Mijn E-mailadres"
+                },
+                "account_dashboard_email_edit_link": {
+                    "title": "Account, Dashboard, E-mail Wijzig Link",
+                    "value": "Wijzig het e-mailadres"
+                },
+                "account_dashboard_email_note": {
+                    "title": "Account, Dashboard, E-mail Notitie",
+                    "value": "(Uw e-mailadres wordt gebruikt als gebruikersnaam tijdens het inloggen)"
+                },
+                "account_dashboard_billing_title": {
+                    "title": "Account, Dashboard, Factuur Titel",
+                    "value": "Mijn Factuuradres"
+                },
+                "account_dashboard_billing_link": {
+                    "title": "Account, Dashboard, Factuuradres Wijzigen Link",
+                    "value": "Wijzig het factuuradres"
+                },
+                "account_dashboard_shipping_title": {
+                    "title": "Account, Dashboard, Verzenden Titel",
+                    "value": "Mijn Verzendadres"
+                },
+                "account_dashboard_shipping_link": {
+                    "title": "Account, Dashboard, Verzendadres Wijzigen Link",
+                    "value": "Wijzig het verzendadres"
+                }
+            }
+        },
+        "account_personal_information": {
+            "label": "Account - Wijzigen Persoonlijke Info",
+            "options": {
+                "account_personal_information_title": {
+                    "title": "Account, Persoonlijke Informatie Titel",
+                    "value": "Persoonlijke informatie"
+                },
+                "account_personal_information_sub_title": {
+                    "title": "Account, Persoonlijke Informatie Sub Titel",
+                    "value": "Let op: Het aanbrengen van wijzigingen in uw account, inclusief verzendadres, zal alleen effect hebben op nieuwe orders. Alle voorgaande openstaande orders worden verzonden naar het adres zoals eerder opgegeven op de dag van aankoop."
+                },
+                "account_personal_information_first_name": {
+                    "title": "Account, Persoonlijke Informatie, Voornaam Label",
+                    "value": "Voornaam"
+                },
+                "account_personal_information_last_name": {
+                    "title": "Account, Persoonlijke Informatie, Achternaam Label",
+                    "value": "Achternaam"
+                },
+                "account_personal_information_email": {
+                    "title": "Account, Persoonlijke Informatie, E-mail Label",
+                    "value": "E-mailadres"
+                },
+                "account_personal_information_subscribe": {
+                    "title": "Account, Persoonlijke Informatie, Inschrijven Label",
+                    "value": "Wilt u zich inschrijven voor onze nieuwsbrief?"
+                },
+                "account_personal_information_update_button": {
+                    "title": "Account, Persoonlijke Informatie, Opslaan Button",
+                    "value": "OPSLAAN"
+                },
+                "account_personal_information_cancel_link": {
+                    "title": "Account, Persoonlijke Informatie, Annuleer Link",
+                    "value": "ANNULEREN"
+                },
+				"account_personal_information_email_other":{
+					"title":"Account, Personal Information, Additional Email Label",
+					"value":"Extra e-mailadres"
+				}
+            }
+        },
+        "account_password": {
+            "label": "Account - Wijzigen Wachtwoord",
+            "options": {
+                "account_password_title": {
+                    "title": "Account, Wachtwoord Titel",
+                    "value": "Wijzig uw Wachtwoord"
+                },
+                "account_password_sub_title": {
+                    "title": "Account, Wachtwoord Subtitel",
+                    "value": "Let op: Zodra uw wachtwoord is gewijzigd, gebruikt u vanaf dat moment het nieuwe wachtwoord om in te loggen op onze site."
+                },
+                "account_password_current_password": {
+                    "title": "Account, Wachtwoord, Huidig Wachtwoord Label",
+                    "value": "Huidig wachtwoord"
+                },
+                "account_password_new_password": {
+                    "title": "Account, Wachtwoord, Nieuw Wachtwoord Label",
+                    "value": "Nieuw Wachtwoord"
+                },
+                "account_password_retype_new_password": {
+                    "title": "Account, Wachtwoord, Bevestig Nieuw Wachtwoord Label",
+                    "value": "Bevestig uw nieuwe wachtwoord"
+                },
+                "account_password_update_button": {
+                    "title": "Account, Wachtwoord, Opslaan Button",
+                    "value": "OPSLAAN"
+                },
+                "account_password_cancel_button": {
+                    "title": "Account, Wachtwoord, Annuleer Link",
+                    "value": "ANNULEREN"
+                }
+            }
+        },
+        "account_billing_information": {
+            "label": "Account - Wijzigen Factuurgegevens",
+            "options": {
+                "account_billing_information_title": {
+                    "title": "Account, Factuurgegevens Titel",
+                    "value": "Factuurgegevens"
+                },
+                "account_billing_information_first_name": {
+                    "title": "Account, Factuurgegevens, Voornaam Label",
+                    "value": "Voornaam"
+                },
+                "account_billing_information_last_name": {
+                    "title": "Account, Factuurgegevens, Achternaam Label",
+                    "value": "Achternaam"
+                },
+                "account_billing_information_address": {
+                    "title": "Account, Factuurgegevens, Adres Label",
+                    "value": "Adres"
+                },
+                "account_billing_information_address2": {
+                    "title": "Account, Factuurgegevens, Adres 2 Label",
+                    "value": "Adres 2"
+                },
+                "account_billing_information_city": {
+                    "title": "Account, Factuurgegevens, Plaats Label",
+                    "value": "Plaats"
+                },
+                "account_billing_information_state": {
+                    "title": "Account, Factuurgegevens, Provincie Label",
+                    "value": "Provincie"
+                },
+                "account_billing_information_default_no_state": {
+                    "title": "Account, Factuurgegevens, Geen Provincie Label",
+                    "value": "Selecteer uw provincie"
+                },
+                "account_billing_information_zip": {
+                    "title": "Account, Factuurgegevens, Postcode Label",
+                    "value": "Postcode"
+                },
+                "account_billing_information_country": {
+                    "title": "Account, Factuurgegevens, Land Label",
+                    "value": "Land"
+                },
+                "account_billing_information_default_no_country": {
+                    "title": "Account, Factuurgegevens, Geen Land Label",
+                    "value": "Selecteer uw land"
+                },
+                "account_billing_information_phone": {
+                    "title": "Account, Factuurgegevens, Telefoon Label",
+                    "value": "Telefoon"
+                },
+                "account_billing_information_update_button": {
+                    "title": "Account, Factuurgegevens, Opslaan Button",
+                    "value": "OPSLAAN"
+                },
+                "account_billing_information_cancel": {
+                    "title": "Account, Factuurgegevens, Annuleer Link",
+                    "value": "ANNULEREN"
+                }
+            }
+        },
+        "account_shipping_information": {
+            "label": "Account - Wijzigen Verzendgegevens",
+            "options": {
+                "account_shipping_information_title": {
+                    "title": "Account, Verzendgegevens Titel",
+                    "value": "Verzendgegevens"
+                },
+                "account_shipping_information_first_name": {
+                    "title": "Account, Verzendgegevens, Voornaam Label",
+                    "value": "Voornaam"
+                },
+                "account_shipping_information_last_name": {
+                    "title": "Account, Verzendgegevens, Achternaam Label",
+                    "value": "Achternaam"
+                },
+                "account_shipping_information_address": {
+                    "title": "Account, Verzendgegevens, Adres Label",
+                    "value": "Adres"
+                },
+                "account_shipping_information_address2": {
+                    "title": "Account, Verzendgegevens, Adres 2 Label",
+                    "value": "Adres 2"
+                },
+                "account_shipping_information_city": {
+                    "title": "Account, Verzendgegevens, Plaats Label",
+                    "value": "Plaats"
+                },
+                "account_shipping_information_state": {
+                    "title": "Account, Verzendgegevens, Provincie Label",
+                    "value": "Provincie"
+                },
+                "account_shipping_information_default_no_state": {
+                    "title": "Account, Verzendgegevens, Geen Provincie Label",
+                    "value": "Selecteer uw provincie"
+                },
+                "account_shipping_information_zip": {
+                    "title": "Account, Verzendgegevens, Postcode Label",
+                    "value": "Postcode"
+                },
+                "account_shipping_information_country": {
+                    "title": "Account, Verzendgegevens, Land Label",
+                    "value": "Land"
+                },
+                "account_shipping_information_default_no_country": {
+                    "title": "Account, Verzendgegevens, Geen Land Label",
+                    "value": "Selecteer uw land"
+                },
+                "account_shipping_information_phone": {
+                    "title": "Account, Verzendgegevens, Telefoon Label",
+                    "value": "Telefoon"
+                },
+                "account_shipping_information_update_button": {
+                    "title": "Account, Verzendgegevens, Opslaan Button",
+                    "value": "OPSLAAN"
+                },
+                "account_shipping_information_cancel": {
+                    "title": "Account, Verzendgegevens, Annuleer Link",
+                    "value": "ANNULEREN"
+                }
+            }
+        },
+        "account_orders": {
+            "label": "Account - Orders",
+            "options": {
+                "account_orders_title": {
+                    "title": "Account, Orders Titel",
+                    "value": "Uw orderhistorie"
+                },
+                "account_orders_header_1": {
+                    "title": "Account, Orders, Koptekst 1",
+                    "value": "ID"
+                },
+                "account_orders_header_2": {
+                    "title": "Account, Orders, Koptekst 2",
+                    "value": "Datum"
+                },
+                "account_orders_header_3": {
+                    "title": "Account, Orders, Koptekst 3",
+                    "value": "Totaal"
+                },
+                "account_orders_header_4": {
+                    "title": "Account, Orders, Koptekst 4",
+                    "value": "Status"
+                },
+                "account_orders_view_order_button": {
+                    "title": "Account, Orders, Bekijk Order Button",
+                    "value": "BEKIJK ORDER"
+                }
+            }
+        },
+        "account_forgot_password_email": {
+            "label": "Account - Wachtwoordherstel per e-mail",
+            "options": {
+                "account_forgot_password_email_title": {
+                    "title": "Account, Wachtwoordherstel e-mail, E-mail Titel",
+                    "value": "Uw nieuwe (tijdelijke) wachtwoord"
+                },
+                "account_forgot_password_email_dear": {
+                    "title": "Account, Wachtwoordherstel e-mail, Beste Gebruiker",
+                    "value": "Beste"
+                },
+                "account_forgot_password_email_your_new_password": {
+                    "title": "Account, Wachtwoordherstel e-mail, Uw nieuwe wachtwoord",
+                    "value": "Uw nieuwe wachtwoord luidt:"
+                },
+                "account_forgot_password_email_change_password": {
+                    "title": "Account, Wachtwoordherstel e-mail, Verander Wachtwoord Text",
+                    "value": "Log in op uw account en verander het wachtwoord in een wachtwoord naar keuze."
+                },
+                "account_forgot_password_email_thank_you": {
+                    "title": "Account, Wachtwoordherstel e-mail, Succes Tekst",
+                    "value": "Succes!"
+                }
+            }
+        },
+        "account_order_details": {
+            "label": "Account - Orderdetails",
+            "options": {
+                "account_orders_details_order_info_title": {
+                    "title": "Account, Orderdetails, Ordergegevens Titel",
+                    "value": "Ordergegevens"
+                },
+                "account_orders_details_your_order_title": {
+                    "title": "Account, Orderdetails, Uw Order Titel",
+                    "value": "Uw order"
+                },
+                "account_orders_details_order_number": {
+                    "title": "Account, Orderdetails, Ordernummer Label",
+                    "value": "Ordernummer:"
+                },
+                "account_orders_details_order_date": {
+                    "title": "Account, Orderdetails, Orderdatum Label",
+                    "value": "Orderdatum:"
+                },
+                "account_orders_details_order_status": {
+                    "title": "Account, Orderdetails, Orderstatus Label",
+                    "value": "Orderstatus:"
+                },
+                "account_orders_details_order_tracking": {
+                    "title": "Account, Orderdetails, Ordertracking Label",
+                    "value": "Trackingnummer:"
+                },
+                "account_orders_details_shipping_method": {
+                    "title": "Account, Orderdetails, Verzendmethode Label",
+                    "value": "Verzendmethode:"
+                },
+                "account_orders_details_coupon_code": {
+                    "title": "Account, Orderdetails, Couponcode Label",
+                    "value": "Couponcode:"
+                },
+                "account_orders_details_gift_card": {
+                    "title": "Account, Orderdetails, Cadeaubon Label",
+                    "value": "Cadeaubon:"
+                },
+                "account_orders_details_view_subscription": {
+                    "title": "Account, Orders Details, Uitzicht Subscription",
+                    "value": "Bekijk Abonnementsgegevens"
+                },
+                "account_orders_details_billing_label": {
+                    "title": "Account, Orderdetails, Factuur Label",
+                    "value": "Factuuradres"
+                },
+                "account_orders_details_shipping_label": {
+                    "title": "Account, Orderdetails, Verzenden Label",
+                    "value": "Verzendadres"
+                },
+                "account_orders_details_payment_method": {
+                    "title": "Account, Orderdetails, Betaalmethode",
+                    "value": "Betaalmethode:"
+                },
+                "account_order_details_payment_method_manual": {
+                    "title": "Account, Orderdetails, Betaalmethode, Handmatige Betaling Label",
+                    "value": "Directe overboeking via bank"
+                },
+                "account_orders_details_subtotal": {
+                    "title": "Account, Orderdetails, Subtotaal",
+                    "value": "Subtotaal:"
+                },
+                "account_orders_details_tax_total": {
+                    "title": "Account, Orderdetails, Btw-Totaal",
+                    "value": "BTW-totaal:"
+                },
+                "account_orders_details_shipping_total": {
+                    "title": "Account, Orderdetails, Verzenden Totaal",
+                    "value": "Verzendtotaal:"
+                },
+                "account_orders_details_discount_total": {
+                    "title": "Account, Orderdetails, Korting Totaal",
+                    "value": "Totale korting:"
+                },
+                "account_orders_details_duty_total": {
+                    "title": "Account, Orderdetails, Overige kosten Totaal",
+                    "value": "Totaal overige kosten:"
+                },
+                "account_orders_details_vat_total": {
+                    "title": "Account, Orderdetails, BTW Totaal",
+                    "value": "BTW-Totaal:"
+                },
+                "account_orders_details_refund_total": {
+                    "title": "Account, Orders Details, terugbetaling Totaal",
+                    "value": "Terugbetaalde Bedrag:"
+                },
+                "account_orders_details_refund_total_short": {
+                    "title": "Account, Orders Details, Refund Total Short",
+                    "value": "Totaal restitutie"
+                },
+                "account_orders_details_grand_total": {
+                    "title": "Account, Orderdetails, Ordertotaal",
+                    "value": "Ordertotaal:"
+                },
+                "account_orders_details_header_1": {
+                    "title": "Account, Orderdetails, Koptekst 1",
+                    "value": "Product"
+                },
+                "account_orders_details_header_2": {
+                    "title": "Account, Orderdetails, Koptekst 2",
+                    "value": "Opties"
+                },
+                "account_orders_details_header_3": {
+                    "title": "Account, Orderdetails, Koptekst 3",
+                    "value": "Prijs"
+                },
+                "account_orders_details_header_4": {
+                    "title": "Account, Orderdetails, Koptekst 4",
+                    "value": "Aantal"
+                },
+                "account_orders_details_header_5": {
+                    "title": "Account, Orderdetails, Koptekst 5",
+                    "value": "Totaalprijs"
+                },
+                "account_orders_details_gift_message": {
+                    "title": "Account, Orderdetails, Cadeaubon Bericht",
+                    "value": "Bericht: "
+                },
+                "account_orders_details_gift_from": {
+                    "title": "Account, Orderdetails, Cadeaubon Van",
+                    "value": "Van: "
+                },
+                "account_orders_details_gift_to": {
+                    "title": "Account, Orderdetails, Cadeaubon Aan",
+                    "value": "Aan: "
+                },
+                "account_orders_details_gift_card_id": {
+                    "title": "Account, Orderdetails, Cadeaubon ID",
+                    "value": "Cadeauboncode: "
+                },
+                "account_orders_details_print_online": {
+                    "title": "Account, Orderdetails, Print Online Link",
+                    "value": "Print Online"
+                },
+                "account_orders_details_download": {
+                    "title": "Account, Orderdetails, Download",
+                    "value": "Download"
+                },
+                "account_orders_details_downloads_used": {
+                    "title": "Account, Orderdetails, Downloads Gebruikt",
+                    "value": "Downloads gebruikt"
+                },
+                "account_orders_details_downloads_expire_time": {
+                    "title": "Account, Orderdetails, Download Verval",
+                    "value": "Download vervalt op:"
+                },
+                "account_orders_details_your_codes": {
+                    "title": "Account, Orders Details, Your Codes",
+                    "value": "uw Codes:"
+                },
+                "complete_payment": {
+                    "title": "Account, Orders Details, Complete Payment",
+                    "value": "Compleet Bestellen Betalen:"
+                },
+                "order_status_status_not_found": {
+                    "title": "Account, Orders Status, Status Not Found",
+                    "value": "Status Niet gevonden"
+                },
+                "order_status_order_shipped": {
+                    "title": "Account, Orders Status, Order Shipped",
+                    "value": "Order verzonden"
+                },
+                "order_status_order_confirmed": {
+                    "title": "Account, Orders Status, Order Confirmed",
+                    "value": "Order bevestigd"
+                },
+                "order_status_order_on_hold": {
+                    "title": "Account, Orders Status, Order on Hold",
+                    "value": "Order in de wacht"
+                },
+                "order_status_order_started": {
+                    "title": "Account, Orders Status, Order Started",
+                    "value": "Order in behandeling"
+                },
+                "order_status_card_approved": {
+                    "title": "Account, Orders Status, Card Approved",
+                    "value": "Klaar voor verzending"
+                },
+                "order_status_card_denied": {
+                    "title": "Account, Orders Status, Card Denied",
+                    "value": "Winkelwagen afgekeurd"
+                },
+                "order_status_third_party_pending": {
+                    "title": "Account, Orders Status, Third Party Pending",
+                    "value": "Externe Partij: in de wacht"
+                },
+                "order_status_third_party_error": {
+                    "title": "Account, Orders Status, Third Party Error",
+                    "value": "Externe Partij: Fout"
+                },
+                "order_status_third_party_approved": {
+                    "title": "Account, Orders Status, Third Party Approved",
+                    "value": "Externe Partij: Goedgekeurd"
+                },
+                "order_status_ready_for_pickup": {
+                    "title": "Account, Orders Status, Ready for Pickup",
+                    "value": "Klaar om af te halen"
+                },
+                "order_status_pending_approval": {
+                    "title": "Account, Orders Status, Pending Approval",
+                    "value": "Wacht op goedkeuring"
+                },
+                "order_status_direct_deposit_pending": {
+                    "title": "Account, Orders Status, Direct Deposit Pending",
+                    "value": "Wacht op betaling"
+                },
+                "order_status_direct_deposit_received": {
+                    "title": "Account, Orders Status, Direct Deposit Received",
+                    "value": "Betaald"
+                },
+                "order_status_refunded_order": {
+                    "title": "Account, Orders Status, Refunded Order",
+                    "value": "Order terugbetaald"
+                },
+                "order_status_partial_refund": {
+                    "title": "Account, Orders Status, Partial Refund",
+                    "value": "Gedeeltelijke terugbetaald"
+                },
+                "order_status_order_picked_up": {
+                    "title": "Account, Orders Status, Order Picked UP",
+                    "value": "Order opgehaald"
+                },
+                "no_order_found": {
+                    "title": "Account, No Order Found",
+                    "value": "Order geannuleerd"
+                },
+                "return_to_dashboard": {
+                    "title": "Account, Return to Dashboard",
+                    "value": "Keer terug naar Dashboard Account"
+                },
+				"account_orders_details_email":{
+					"title":"Account, Orders Details, Order Email Label",
+					"value":"E-mail:"
+				},
+				"account_orders_details_email_other":{
+					"title":"Account, Orders Details, Order Additional Email Label",
+					"value":"Extra E-mail:"
+				}
+            }
+        },
+        "account_subscriptions": {
+            "label": "Account - Abonnementen",
+            "options": {
+                "account_subscriptions_title": {
+                    "title": "Rekening, abonnementen titel",
+                    "value": "Uw actieve abonnementen"
+                },
+                "account_canceled_subscriptions_title": {
+                    "title": "Account, Geannuleerd Abonnementen Titel",
+                    "value": "Uw Geannuleerde Abonnementen"
+                },
+                "account_subscriptions_header_1": {
+                    "title": "Rekening, abonnementen, Koppen 1",
+                    "value": "Inschrijving Naam"
+                },
+                "account_subscriptions_header_2": {
+                    "title": "Rekening, abonnementen, Koppen 2",
+                    "value": "Volgende betaal datum"
+                },
+                "account_subscriptions_header_3": {
+                    "title": "Rekening, abonnementen, Koppen 3",
+                    "value": "Laatst in rekening gebracht"
+                },
+                "account_subscriptions_header_4": {
+                    "title": "Rekening, abonnementen, Koppen 4",
+                    "value": "Prijs\/Cyclus"
+                },
+                "account_subscriptions_view_subscription_button": {
+                    "title": "Rekening, abonnementen, details Button",
+                    "value": "BEKIJK DETAILS"
+                },
+                "account_subscriptions_none_found": {
+                    "title": "Rekening, abonnementen, Geen gevonden",
+                    "value": "Er zijn geen abonnementen aan uw account gekoppeld."
+                },
+                "update_subscription_subtitle": {
+                    "title": "Account, Abonnementsgegevens, Credit Card Note",
+                    "value": "U bent niet verplicht om uw credit card gegevens bij te werken."
+                },
+                "save_changes_button": {
+                    "title": "Account, Abonnementsgegevens, Wijzigingen opslaan Button",
+                    "value": "wijzigingen opslaan"
+                },
+                "cancel_subscription_button": {
+                    "title": "Account, Abonnementsgegevens, Abonnement Opzeggen Button",
+                    "value": "Afmelden"
+                },
+                "cancel_subscription_confirm_text": {
+                    "title": "Account, Abonnementsgegevens, Abonnement opzeggen Button",
+                    "value": "Weet u zeker dat u dit abonnement wilt opzeggen?"
+                },
+                "subscription_details_next_billing": {
+                    "title": "Account, Subscription Details, Next Billing Date",
+                    "value": "Volgende betaal datum"
+                },
+                "subscription_details_last_payment": {
+                    "title": "Account, Subscription Details, Last Payment Date",
+                    "value": "Laatste betaaldatum"
+                },
+                "subscription_details_current_billing": {
+                    "title": "Account, Subscription Details, Current Billing Title",
+                    "value": "Huidige betaal methode"
+                },
+                "subscription_details_notice": {
+                    "title": "Account, Subscription Details, User Notice",
+                    "value": "* LET OP: wijzigingen in de betaalmethode of abonnement worden van kracht in de volgende factureringscyclus. Prijswijzigingen vinden evenredig plaats met onmiddellijke ingang en zal worden doorgevoerd op uw volgende factuur."
+                },
+                "subscription_details_past_payments": {
+                    "title": "Account, Subscription Details, Past Payments Title",
+                    "value": "Vorige betalingen"
+                }
+            }
+        },
+        "ec_errors": {
+            "label": "Winkel - Foutmeldingen",
+            "options": {
+                "login_failed": {
+                    "title": "Foutmelding: Account - Inloggen mislukt",
+                    "value": "De opgegeven gebruikersnaam of het wachtwoord is onjuist."
+                },
+                "register_email_error": {
+                    "title": "Foutmelding: Account - Registratie e-mail in gebruik",
+                    "value": "Het e-mailadres dat u hebt opgegeven is reeds in gebruik."
+                },
+                "no_reset_email_found": {
+                    "title": "Foutmelding: Geen e-mailadres gevonden",
+                    "value": "Het opgegeven e-mailadres is niet gevonden in onze gegevens."
+                },
+                "personal_information_update_error": {
+                    "title": "Foutmelding: Account - Persoonlijke informatie opslaan.",
+                    "value": "Tijdens het opslaan van de gegevens is er een fout ontstaan."
+                },
+                "password_wrong_current": {
+                    "title": "Foutmelding: Foutief wachtwoord opgegeven",
+                    "value": "Het opgegeven wachtwoord komt niet overeen met het wachtwoord in het account."
+                },
+                "password_no_match": {
+                    "title": "Foutmelding: Wachtwoorden matchen niet",
+                    "value": "Het nieuwe wachtwoord en de bevestiging van het nieuwe wachtwoord komen niet overeen."
+                },
+                "password_update_error": {
+                    "title": "Foutmelding: Wachtwoord opslaan",
+                    "value": "Tijdens het opslaan van uw wachtwoord is er een fout ontstaan."
+                },
+                "billing_information_error": {
+                    "title": "Foutmelding: Account - Factuurgegevens opslaan",
+                    "value": "Tijdens het opslaan van uw factuurgegevens is er een fout ontstaan."
+                },
+                "shipping_information_error": {
+                    "title": "Foutmelding: Account - Verzendgegevens opslaan",
+                    "value": "Tijdens het opslaan van uw verzendgegevens is er een fout ontstaan."
+                },
+                "email_exists_error": {
+                    "title": "Foutmelding: Winkel - E-mailcontrole tijdens aanmaken account(afrekenen)",
+                    "value": "Dit e-mailadres wordt al gebruikt. Log in met een ander e-mailadres om verder te kunnen gaan."
+                },
+                "3dsecure_failed": {
+                    "title": "Foutmelding: Winkel - Optioneel, 3D Secure niet geslaagd, Gateway Dependent",
+                    "value": "Uw betaling kon niet worden afgerond, omdat de 3D Secure methode niet is geslaagd. Probeer het opnieuw. Wanneer het probleem aanblijft, neem dan contact met ons op."
+                },
+                "manualbill_failed": {
+                    "title": "Foutmelding: Winkel - Optioneel, Handmatige betaling niet geslaagd, Gateway Dependent",
+                    "value": "Uw betaling kon niet worden afgerond, omdat de gegevens voor een handmatige overboeking niet juist zijn ontvangen. Probeer het opnieuw. Wanneer het probleem aanblijft, neem dan contact met ons op."
+                },
+                "thirdparty_failed": {
+                    "title": "Foutmelding: Winkel - Optioneel, Third Party niet geslaagd, Gateway Dependent",
+                    "value": "Uw betaling kon niet worden afgerond, omdat het contact met de Externe Partij niet is geslaagd. Probeer het opnieuw. Wanneer het probleem aanblijft, neem dan contact met ons op."
+                },
+                "payment_failed": {
+                    "title": "Foutmelding: Winkel - Optioneel, Creditcardbetaling niet geslaagd, Gateway Dependent",
+                    "value": "Uw betaling kon niet worden afgerond, omdat uw creditcard niet kon worden geverifieerd. Controleer uw creditcardinformatie en probeer het opnieuw. Wanneer het probleem aanblijft, neem dan contact met ons op."
+                },
+                "ideal_failed": {
+                    "title": "Cart, Optional, iDEAL Failed, Gateway Dependent",
+                    "value": "Uw betaling is niet voltooid. Probeer het opnieuw of neem contact met ons op als u problemen blijft ondervinden."
+                },
+                "already_subscribed": {
+                    "title": "Cart, Optioneel, al had ingeschreven, Gateway Afhankelijke",
+                    "value": "U bent al geabonneerd op dit artikel. U kunt terecht bij uw account om uw actieve abonnementen te beheren."
+                },
+                "subscription_not_found": {
+                    "title": "Account, Abonnement niet gevonden",
+                    "value": "Er is een onbekende fout opgetreden omdat het abonnement dat u probeert te kopen niet werd teruggevonden in ons systeem. Probeert u het opnieuw of neem contact met ons op als deze fout zich blijft voordoen."
+                },
+                "invalid_address": {
+                    "title": "Cart, Ongeldig Levende verzendadres",
+                    "value": "Er is iets mis met het adres dat u hebt ingevoerd. Controleer uw stad, provincie, postcode en land om te zorgen dat de waarden correct zijn."
+                },
+                "activation_error": {
+                    "title": "Account, Activation Error",
+                    "value": "Er is een fout opgetreden tijdens een poging om uw account te activeren. Neem contact met ons op om het probleem opn te lossen."
+                },
+                "not_activated": {
+                    "title": "Account, Niet Geactiveerd",
+                    "value": "De rekening je probeert op te vragen is niet geactiveerd. Activeer je account via de activatie e-mail verzonden wanneer u zich voor een account of neem contact met ons op als u problemen ondervindt."
+                },
+                "subscription_update_failed": {
+                    "title": "Account, abonnement beheren Fout",
+                    "value": "Er is een probleem opgetreden tijdens het updaten van uw abonnement, probeer het opnieuw of neem contact met ons op als u nog steeds problemen ondervindt."
+                },
+                "subscription_cancel_failed": {
+                    "title": "Account, Abonnement Annuleren Fout",
+                    "value": "Er was een probleem bij het annuleren van uw abonnement, probeer het opnieuw of neem contact met ons op als u nog steeds problemen ondervindt."
+                },
+                "user_insert_error": {
+                    "title": "Account, Inschrijving Gebruiker Insert Error",
+                    "value": "Er was een probleem met het aanmaken van uw gebruikersaccount in het abonnement systeem. Neem contact met ons op om uw transactie te voltooien."
+                },
+                "subscription_added_failed": {
+                    "title": "Account, abonnement toegevoegd Fout",
+                    "value": "Er was een intern probleem bij het maken van dit product in onze abonnementsdienst. Neem contact met ons op om uw transactie te voltooien."
+                },
+                "subscription_failed": {
+                    "title": "Account, Subscription Creation Error",
+                    "value": "Er is een probleem opgetreden tijdens het maken van uw abonnement in ons systeem. Neem contact met ons op om uw transactie te voltooien."
+                },
+                "nets_processing": {
+                    "title": "Account, Nets Error Level Authorize",
+                    "value": "Bij het invullen van uw bestelling op Nets Netaxept, is er een fout opgetreden. Je kunt elk moment de betaling afronden door te klikken op onderstaande knop. Neem contact met ons op als het probleem zicht blijft voordoen."
+                },
+                "nets_processing_payment": {
+                    "title": "Account, Nets Error Level Capture",
+                    "value": "Uw betaling is geautoriseerd bij Netten Netaxept, maar er lijkt een probleem in ons systeem te zijn geweest. Neem contact met ons op om uw bestelling af te ronden."
+                },
+                "subscription_payment_failed_title": {
+                    "title": "Cart, Subscription Payment Failed",
+                    "value": "betaling mislukt"
+                },
+                "subscription_payment_failed_text": {
+                    "title": "Cart, Subscription Payment Failed Text",
+                    "value": "De betaling is mislukt op \u00e9\u00e9n van uw abonnementen. Klik op de link hieronder om uw credit card gegevens bij te werken."
+                },
+                "subscription_payment_failed_link": {
+                    "title": "Cart, Subscription Payment Failed Link",
+                    "value": "Klik om de betaling bij te werken"
+                },
+                "minquantity": {
+                    "title": "Store, Minimum Quantity Error",
+                    "value": "Dit product vereist een minimale afname hoeveelheid."
+                },
+                "missing_gift_card_options": {
+                    "title": "Store, Missing Gift Card Options",
+                    "value": "Ontbrekende Cadeaubon Opties"
+                },
+                "missing_inquiry_options": {
+                    "title": "Store, Missing Inquiry Options",
+                    "value": "Ontbrekende Aanvraag Opties"
+                },
+                "session_expired": {
+                    "title": "Store, Session Expired",
+                    "value": "Uw sessie is verlopen, gelieve uw betaal gegevens opnieuw in te voeren om uw bestelling te voltooien."
+                },
+                "invalid_vat_number": {
+                    "title": "Cart, Invalid VAT Number Entered",
+                    "value": "Uw BTW-nummer is ongeldig. Gelieve dit veld leeg te laten of de fout te corrigeren om door te gaan."
+                },
+                "missing_payment_method": {
+                    "title": "Cart, Select a Payment Method",
+                    "value": "U moet een betaalmethode selecteren om door te gaan."
+                },
+                "cart_stock_invalid": {
+                    "title": "Cart, Items are out of stock",
+                    "value": "Het spijt ons, maar sommige items in uw winkelwagentje zijn niet langer op voorraad."
+                },
+				"ideal_processing":{
+					"title":"Cart, iDeal Payment Processing",
+					"value":"We konden uw bestelstatus niet bevestigen en uw bestelling wordt in de status In afwachting geplaatst totdat we uw betalingsgegevens kunnen verifiëren. Neem bij vragen contact met ons op."
+				},
+				"missing_shipping_method":{
+					"title":"Cart, No Shipping Method Selected",
+					"value":"Selecteer een verzendmethode om door te gaan met betalen."
+				},
+				"payment_processing":{
+					"title":"Cart, Payment is pending",
+					"value":"Uw betaling wordt nog verwerkt en is nog niet goedgekeurd."
+				},
+				"delayed_payment_failed":{
+					"title":"Cart, Payment is failed after delayed processing",
+					"value":"Uw betaling is mislukt na vertraagde verwerking. U moet contact met ons opnemen om de betaling voor uw bestelling op te lossen."
+				},
+				"order_refunded":{
+					"title":"Cart, Order refunded",
+					"value":"Je bestelling is terugbetaald."
+				},
+				"cart_location_error":{
+					"title":"Cart, Location Error",
+					"value":"Er zit een artikel in uw winkelwagen dat niet naar uw huidige verzendadres kan worden verzonden. Verwijder dit artikel uit de winkelwagen of ga door naar de afrekengegevens en voer een ander adres in."
+				}
+            }
+        },
+        "ec_success": {
+            "label": "Winkel - Successvolle meldingen",
+            "options": {
+                "personal_information_updated": {
+                    "title": "Succes: Account - Persoonlijke info opslaan",
+                    "value": "Uw persoonlijke informatie is succesvol opgeslagen."
+                },
+                "password_updated": {
+                    "title": "Succes: Account - Persoonlijke info opslaan",
+                    "value": "Uw wachtwoord is succesvol opgeslagen."
+                },
+                "billing_information_updated": {
+                    "title": "Succes: Account - Factuurgegevens opslaan",
+                    "value": "Uw factuurgegevens zijn succesvol opgeslagen."
+                },
+                "shipping_information_updated": {
+                    "title": "Succes: Account - Verzendgegevens opslaan",
+                    "value": "Uw verzendgegevens zijn succesvol opgeslagen."
+                },
+                "reset_email_sent": {
+                    "title": "Succes: Account - E-mail verzenden",
+                    "value": "Het wachtwoord is verzonden naar uw e-mailadres."
+                },
+                "cart_account_created": {
+                    "title": "Succes: Winkel - Account aanmmaken tekst",
+                    "value": "Uw account is aangemaakt, alle orders zullen worden gekoppeld aan dit nieuwe account."
+                },
+                "cart_account_free_order": {
+                    "title": "Succes: Winkelmand, Order Type, Cadeaubon, Gratis order",
+                    "value": "Gratis"
+                },
+                "store_added_to_cart": {
+                    "title": "Succes: Store, toegevoegde artikel winkelwagen",
+                    "value": "Je hebt met succes [prod_title] toegevoegd aan uw mandje."
+                },
+                "activation_success": {
+                    "title": "Account, Activering Succes",
+                    "value": "Je hebt met succes je account geactiveerd"
+                },
+                "validation_required": {
+                    "title": "Account, Validatie vereist",
+                    "value": "U hebt een account aangemaakt, maar uw e-mail moet worden gevalideerd. Een e-mail wordt naar uw account gestuurd met instructies over hoe u het registratieproces kunt voltooien. Neem contact met ons op als u vragen hebt."
+                },
+                "subscription_updated": {
+                    "title": "Account, Abonnement Beheren",
+                    "value": "Uw abonnement is bijgewerkt."
+                },
+                "subscription_canceled": {
+                    "title": "Account, Inschrijving geannuleerd",
+                    "value": "Uw abonnement is geannuleerd."
+                },
+                "inquiry_sent": {
+                    "title": "Store, Inquiry Sent",
+                    "value": "Uw product informatie aanvraag is succesvol verstuurd."
+                },
+                "add_to_cart_success": {
+                    "title": "Store, Added to Cart",
+                    "value": "Succesvol toegevoegd aan uw winkelwagen"
+                },
+                "adding_to_cart": {
+                    "title": "Store, Adding to Cart",
+                    "value": "Toevoegen aan winkelwagen ..."
+                }
+            }
+        },
+        "ec_shipping_email": {
+            "label": "Shipping Emailer",
+            "options": {
+                "shipping_email_title": {
+                    "title": "Shipping Email Title",
+                    "value": "Bevestiging verzending - Order nummer"
+                },
+                "shipping_dear": {
+                    "title": "Shipping Dear Customer",
+                    "value": "Beste"
+                },
+                "shipping_subtitle1": {
+                    "title": "Order Shipped First Half",
+                    "value": "Uw recente bestelling met het aantal"
+                },
+                "shipping_subtitle2": {
+                    "title": "Order Shipped Second Half",
+                    "value": "is verzonden! U zult deze binnenkort ontvangen."
+                },
+                "shipping_description": {
+                    "title": "Order Shipped Description",
+                    "value": "U kunt de status van uw bestelling controleren door bij de vervoerders website het volgende tracking nummer in te vullen."
+                },
+                "shipping_carrier": {
+                    "title": "Order Shipped Carrier",
+                    "value": "pakket vervoerder:"
+                },
+                "shipping_tracking": {
+                    "title": "Order Shipped Tracking Number",
+                    "value": "Pakket tracking nummer:"
+                },
+                "shipping_billing_label": {
+                    "title": "Billing Label",
+                    "value": "factuuradres"
+                },
+                "shipping_shipping_label": {
+                    "title": "Shipping Label",
+                    "value": "bezorgadres"
+                },
+                "shipping_product": {
+                    "title": "Product Label",
+                    "value": "Product"
+                },
+                "shipping_quantity": {
+                    "title": "Quantity Label",
+                    "value": "hoeveelheid"
+                },
+                "shipping_unit_price": {
+                    "title": "Unit Price Label",
+                    "value": "eenheidsprijs"
+                },
+                "shipping_total_price": {
+                    "title": "Total Price Label",
+                    "value": "totale prijs"
+                },
+                "shipping_final_note1": {
+                    "title": "Shipping Emailer Final Note Line 1",
+                    "value": "Kijk uw bestelling bij ontvangst na en laat het ons direct weten als er problemen zijn."
+                },
+                "shipping_final_note2": {
+                    "title": "Shipping Emailer Final Note Line 2",
+                    "value": "Heel erg bedankt!"
+                }
+            }
+        },
+        "ec_login_widget": {
+            "label": "Login Widget",
+            "options": {
+                "hello_text": {
+                    "title": "Hello",
+                    "value": "Hallo"
+                },
+                "dashboard_text": {
+                    "title": "Dashboard",
+                    "value": "Dashboard"
+                },
+                "order_history_text": {
+                    "title": "Order History",
+                    "value": "Bestelgeschiedenis"
+                },
+                "billing_info_text": {
+                    "title": "Billing Information",
+                    "value": "facturatie gegevens"
+                },
+                "shipping_info_text": {
+                    "title": "Shipping Information",
+                    "value": "Verzend informatie"
+                },
+                "change_password_text": {
+                    "title": "Change Password",
+                    "value": "Verander wachtwoord"
+                },
+                "sign_out_text": {
+                    "title": "Sign Out",
+                    "value": "Afmelden"
+                }
+            }
+        },
+        "ec_minicart_widget": {
+            "label": "Minicart Widget",
+            "options": {
+                "subtotal_text": {
+                    "title": "Minicart Widget, Subtotaal Tekst",
+                    "value": "SUBTOTAAL"
+                },
+                "checkout_button_text": {
+                    "title": "Minicart Widget, Afrekenen Button Tekst",
+                    "value": "AFREKENEN"
+                }
+            }
+        },
+        "ec_pricepoint_widget": {
+            "label": "Price Point Widget",
+            "options": {
+                "less_than": {
+                    "title": "minder dan tekst",
+                    "value": "minder dan"
+                },
+                "greater_than": {
+                    "title": "groter dan tekst",
+                    "value": "groter dan"
+                }
+            }
+        },
+        "ec_newsletter_popup": {
+            "label": "Newsletter Popup",
+            "options": {
+                "signup_form_title": {
+                    "title": "Signup Form Title",
+                    "value": "Aanmelden voor nieuwsbrief"
+                },
+                "signup_form_subtitle": {
+                    "title": "Signup Form Subtitle",
+                    "value": "Meld je nu aan en mis geen nieuwtjes!"
+                },
+                "signup_form_email_placeholder": {
+                    "title": "Signup Form Email Placeholder",
+                    "value": "e-mailadres"
+                },
+                "signup_form_name_placeholder": {
+                    "title": "Signup Form Name Placeholder",
+                    "value": "jouw naam"
+                },
+                "signup_form_button_text": {
+                    "title": "Signup Form Button",
+                    "value": "SUBMIT"
+                },
+                "signup_form_success_title": {
+                    "title": "Signup Success Title",
+                    "value": "Je bent aangemeld!"
+                },
+                "signup_form_success_subtitle": {
+                    "title": "Signup Success Subtitle",
+                    "value": "Nu u bent aangemeld, zullen wij u exclusieve aanbiedingen periodiek sturen."
+                }
+            }
+        },
+        "ec_abandoned_cart_email": {
+            "label": "Abandoned Cart Email",
+            "options": {
+                "email_title": {
+                    "title": "Email Title",
+                    "value": "Je hebt nog artikelen in je winkelwagen"
+                },
+                "something_in_cart": {
+                    "title": "Main Title, Something in Cart",
+                    "value": "Artikelen in je winkelwagen."
+                },
+                "complete_question": {
+                    "title": "Informational Text",
+                    "value": "Wil je jouw aankoop voltooien?"
+                },
+                "complete_checkout": {
+                    "title": "Complete Checkout Button",
+                    "value": "Totaal afrekenen."
+                }
+            }
+        },
+        "ec_stock_notify_email": {
+            "label": "Stock Notification Email",
+            "options": {
+                "email_title": {
+                    "title": "Email Title",
+                    "value": "Uw artikel is terug"
+                },
+                "view_now": {
+                    "title": "View Link Text",
+                    "value": "Kijk nu"
+                },
+                "unsubscribe": {
+                    "title": "Unsubscribe Link Text",
+                    "value": "Afmelden voor deze meldingen"
+                }
+            }
+        },
+        "ec_customer_review_notify_email": {
+            "label": "Product Review Notification Email",
+            "options": {
+                "email_title": {
+                    "title": "Email Title",
+                    "value": "Nieuwe beoordeling beschikbaar"
+                },
+                "reviewed_product": {
+                    "title": "Reviewed Product Label",
+                    "value": "Beoordeeld product"
+                },
+                "submitted_by": {
+                    "title": "Submitted By Label",
+                    "value": "Ingediend door"
+                },
+                "rating_label": {
+                    "title": "Rating Label",
+                    "value": "Beoordeling"
+                },
+                "review_title": {
+                    "title": "Review Title Label",
+                    "value": "Titel bekijken"
+                },
+                "review_comments": {
+                    "title": "Review Comments Label",
+                    "value": "Reacties bekijken"
+                },
+                "anonymous": {
+                    "title": "Anonymous Review Label",
+                    "value": "Anoniem"
+                },
+                "link_text": {
+                    "title": "Link Text",
+                    "value": "Bekijk recensie nu"
+                }
+            }
+        },
+        "language_code": {
+            "label": "Language Code",
+            "options": {
+                "code": {
+                    "title": "Do Not Change",
+                    "value": "NL"
+                }
+            }
+        }
+    }
+}

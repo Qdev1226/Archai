@@ -772,7 +772,7 @@ div.mce-menu .mce-menu-item-sep,
 .mce-menubtn.mce-fixed-width span {
 	overflow-x: hidden;
 	text-overflow: ellipsis;
-	width: 82px;
+	width: 20px;
 }
 
 /* Charmap modal */

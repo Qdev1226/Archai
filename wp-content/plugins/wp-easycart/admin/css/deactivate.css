@@ -1,0 +1,17 @@
+.ec-admin-deactivate-container{ position:fixed; overflow:auto; height:100%; width:100%; top:0; z-index:100000; }
+.ec-admin-deactivate-bg{ position:fixed; background:rgba(0,0,0,0.7); z-index:100000; width:100%; height:100%; overflow:auto; }
+.ec-admin-deactivate-box{ top:10%; background:transparent; position:absolute; left:50%; margin-left:-298px; padding-bottom:30px; z-index:100001; width:596px; }
+.ec-admin-deactivate-box-header{ font-size:18px; color:#cecece; border-bottom:1px solid #eeeeee; background:#fbfbfb; padding:15px 20px; position:relative; margin-bottom:-10px; }
+.ec-admin-deactivate-box-content{ border-bottom:0; border:0; background:#fefefe; padding:20px; }
+.ec-admin-deactivate-box-content > h4{ }
+.ec-admin-deactivate-box-list{ list-style:none; }
+.ec-admin-deactivate-box-list > li{ margin-bottom:6px; }
+.ec-admin-deactivate-box-list > li > label{ cursor:pointer; }
+.ec-admin-deactivate-box-list > li > label > span{ }
+.ec-admin-deactivate-box-list > li > label > span > input{ border-radius:50%; margin-right:4px; line-height:10px; border:1px solid #b4b9be; background:#FFF; color:#555; clear:none; cursor:pointer; display:inline-block; height:16px; margin:-4px 4px 0 0; outline:0; padding:0 !important; text-align:center; vertical-align:middle; width:16px; min-width:16px; -webkit-appearance:none; box-shadow:inset 0 1px 2px rgba(0,0,0,0.1); transition:.05s border-color ease-in-out; }
+.ec-admin-deactivate-reason{ display:none; margin:3px 0 3px 22px; }
+.ec-admin-deactivate-reason-title{ }
+.ec-admin-deactivate-reason > input{ width:100%; }
+.ec-admin-deactivate-box-footer{ border-top:1px solid #eeeeee; text-align:right; background:#fefefe; padding:20px; }
+.ec-admin-deactivate-box-footer > label{ float:left; cursor:poitner; }
+.ec-admin-deactivate-box-footer > a{ margin:0 7px !important; }

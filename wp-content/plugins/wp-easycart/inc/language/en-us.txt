@@ -1,0 +1,3339 @@
+{
+	"label":"US English",
+	"options":{
+		"sort_bar":{
+			"label":"Product Page Sort Menu",
+			"options":{
+				"sort_by_price_low":{
+					"title":"Product Page Sort Box Item 1",
+					"value":"Price Low-High"
+				},
+				"sort_by_price_high":{
+					"title":"Product Page Sort Box Item 2",
+					"value":"Price High-Low"
+				},
+				"sort_by_title_a":{
+					"title":"Product Page Sort Box Item 3",
+					"value":"Title A-Z"
+				},
+				"sort_by_title_z":{
+					"title":"Product Page Sort Box Item 4",
+					"value":"Title Z-A"
+				},
+				"sort_by_newest":{
+					"title":"Product Page Sort Box Item 5",
+					"value":"Newest"
+				},
+				"sort_by_rating":{
+					"title":"Product Page Sort Box Item 6",
+					"value":"Best Rating"
+				},
+				"sort_by_most_viewed":{
+					"title":"Product Page Sort Box Item 7",
+					"value":"Most Viewed"
+				},
+				"sort_default":{
+					"title":"Product Page Sort Box Default",
+					"value":"Default Sorting"
+				},
+				"sort_by_oldest":{
+					"title":"Product Page Sort Box Item 8",
+					"value":"Oldest"
+				}
+			}
+		},
+		"product_page":{
+			"label":"Product Page",
+			"options":{
+				"product_quick_view":{
+					"title":"Product Quick View Label",
+					"value":"Quickview"
+				},
+				"product_design_now":{
+					"title":"Product Design Now Label",
+					"value":"DESIGN NOW"
+				},
+				"product_no_results":{
+					"title":"Product Page No Results",
+					"value":"No Results Found"
+				},
+				"product_items_per_page":{
+					"title":"Product Page Items per Page",
+					"value":"Items Per Page:"
+				},
+				"product_paging_page":{
+					"title":"Product Page Page in Page a of b",
+					"value":"Page"
+				},
+				"product_paging_of":{
+					"title":"Product Page of in Page a of b",
+					"value":"of"
+				},
+				"product_showing":{
+					"title":"Product Page Num Results Showing",
+					"value":"Showing"
+				},
+				"product_all":{
+					"title":"Product Page Num Results all",
+					"value":"all"
+				},
+				"product_results":{
+					"title":"Product Page Num Results",
+					"value":"Results"
+				},
+				"product_view_cart":{
+					"title":"Product Page View Cart",
+					"value":"View Cart"
+				},
+				"product_product_added_note":{
+					"title":"Product Page Added to Cart Note",
+					"value":"Product successfully added to your cart."
+				},
+				"product_product_view_per_page":{
+					"title":"Product Page View in Per Page",
+					"value":"View"
+				},
+				"product_page_restricted_line_1":{
+					"title":"Restricted Product Line 1",
+					"value":"OPEN ACCESS IS NOT ALLOWED FOR THE STORE"
+				},
+				"product_page_restricted_line_2":{
+					"title":"Restricted Product Line 2 Prior to Link",
+					"value":"Please log in or create an account by"
+				},
+				"product_page_restricted_link_text":{
+					"title":"Restricted Product Link Text",
+					"value":"clicking here"
+				},
+				"product_page_restricted_line_3":{
+					"title":"Restricted Product Line 2 Post Link",
+					"value":". Your account may need to be verified before you will be able to access the store."
+				},
+				"product_page_start_trial_1":{
+					"title":"Start Your Trial Text Part 1",
+					"value":"Start Your"
+				},
+				"product_page_start_trial_2":{
+					"title":"Start Your Trial Text Part 2",
+					"value":"Day Free Trial Today!"
+				},
+				"product_inc_vat_text":{
+					"title":"Including VAT Text",
+					"value":"inc VAT"
+				},
+				"product_excluding_vat_text":{
+					"title":"Excluding VAT Text",
+					"value":"excluding VAT"
+				},
+				"product_page_notify_unsubscribe_success":{
+					"title":"Product Notify Unsubscribe Success",
+					"value":"You have successfully been unsubscribed from notifications"
+				},
+				"product_page_login_for_price":{
+					"title":"Product Login for Pricing",
+					"value":"Login for Pricing"
+				},
+				"product_page_login_for_price_no_access":{
+					"title":"Product Login for Pricing No Access",
+					"value":"No Pricing Available"
+				},
+				"product_page_clear_filters":{
+					"title":"Clear Filters",
+					"value":"Clear Filters"
+				},
+				"product_page_filters":{
+					"title":"Filters",
+					"value":"Filters"
+				}
+			}
+		},
+		"quick_view":{
+			"label":"Quick View Panel",
+			"options":{
+				"quick_view_gift_card_message":{
+					"title":"Gift Card Message Title",
+					"value":"SPECIAL MESSAGE"
+				},
+				"quick_view_gift_card_to_name":{
+					"title":"Gift Card To Name Title",
+					"value":"TO"
+				},
+				"quick_view_gift_card_from_name":{
+					"title":"Gift Card From Name Title",
+					"value":"FROM"
+				},
+				"quick_view_quantity":{
+					"title":"Quantity Title",
+					"value":"QUANTITY"
+				},
+				"quick_view_remaining":{
+					"title":"label in x items remaining",
+					"value":"remaining"
+				},
+				"quick_view_add_to_cart":{
+					"title":"Add to Cart Button",
+					"value":"ADD TO CART"
+				},
+				"quick_view_select_options":{
+					"title":"Select Options Button",
+					"value":"Select Options"
+				},
+				"quick_view_view_full_details":{
+					"title":"Link Text View Full Product Details",
+					"value":"View Full Product Details"
+				},
+				"quick_view_select_options":{
+					"title":"Product details missing options error text",
+					"value":"Please select all options for this product."
+				}
+			}
+		},
+		"product_details":{
+			"label":"Product Details Page",
+			"options":{
+				"product_details_donation_label":{
+					"title":"Your Donation Label",
+					"value":"Your Donation: "
+				},
+				"product_details_minimum_donation":{
+					"title":"Your Donation Minimum Label",
+					"value":"minimum donation:"
+				},
+				"product_details_gift_card_message":{
+					"title":"Gift Card Message Title",
+					"value":"SPECIAL MESSAGE"
+				},
+				"product_details_gift_card_to_name":{
+					"title":"Gift Card To Name Title",
+					"value":"TO"
+				},
+				"product_details_gift_card_from_name":{
+					"title":"Gift Card From Name Title",
+					"value":"FROM"
+				},
+				"product_details_quantity":{
+					"title":"Quantity Title",
+					"value":"Quantity"
+				},
+				"product_details_remaining":{
+					"title":"x remaining",
+					"value":"remaining"
+				},
+				"product_details_x_of_y":{
+					"title":"page text divider",
+					"value":"of"
+				},
+				"product_details_model_number":{
+					"title":"model number text",
+					"value":"model number"
+				},
+				"product_details_reduced_price":{
+					"title":"reduced price text",
+					"value":"REDUCED PRICE YOU SAVE"
+				},
+				"product_details_quantity":{
+					"title":"Quantity Label",
+					"value":"Quantity"
+				},
+				"product_details_description":{
+					"title":"Description Title",
+					"value":"Description"
+				},
+				"product_details_customer_reviews":{
+					"title":"Customer Reviews Title",
+					"value":"Customer Reviews"
+				},
+				"product_details_specifications":{
+					"title":"Specifications Title",
+					"value":"Specifications"
+				},
+				"product_details_customer_rating":{
+					"title":"Customer Rating",
+					"value":"Overall Customer Rating"
+				},
+				"product_details_review_based_on":{
+					"title":"Review Based ON",
+					"value":"based on "
+				},
+				"product_details_review":{
+					"title":"Review",
+					"value":"review"
+				},
+				"product_details_review_no_reviews":{
+					"title":"Product Details, Customer Reviews, No Reviews",
+					"value":"There are no reviews yet, submit yours in the box provided."
+				},
+				"product_details_add_to_cart":{
+					"title":"Add to Cart button text",
+					"value":"ADD TO CART"
+				},
+				"product_details_added_to_cart":{
+					"title":"Checkout Now button text",
+					"value":"CHECKOUT NOW"
+				},
+				"product_details_select_options":{
+					"title":"Select Options Button",
+					"value":"Select Options"
+				},
+				"product_details_out_of_stock":{
+					"title":"Out of Stock Text",
+					"value":"OUT OF STOCK"
+				},
+				"product_details_sign_up_now":{
+					"title":"Sign Up Now Text",
+					"value":"SIGN UP NOW"
+				},
+				"product_details_inquiry_title":{
+					"title":"Inquiry Title",
+					"value":"Submit Product Inquiry"
+				},
+				"product_details_inquiry_error":{
+					"title":"Inquiry Error Text",
+					"value":"Please fill out all required fields"
+				},
+				"product_details_inquiry_name":{
+					"title":"Inquiry Name",
+					"value":"*Your Name:"
+				},
+				"product_details_inquiry_email":{
+					"title":"Inquiry Email",
+					"value":"*Your Email:"
+				},
+				"product_details_inquiry_message":{
+					"title":"Inquire Button Text",
+					"value":"*Your Message:"
+				},
+				"product_details_inquire":{
+					"title":"Inquire Button Text",
+					"value":"SUBMIT INQUIRY"
+				},
+				"product_details_inquiry_send_copy":{
+					"title":"Inquiry - Send Copy",
+					"value":"Please send me a copy"
+				},
+				"product_details_inquiry_thank_you":{
+					"title":"Inquiry Thank You Note",
+					"value":"Thank you for submitting a product inquiry and we will get back to you as soon as possible."
+				},
+				"product_details_minimum_quantity_text1":{
+					"title":"Min Purchase Amount Text Part 1",
+					"value":"Minimum purchase amount of"
+				},
+				"product_details_minimum_quantity_text2":{
+					"title":"Min Purchase Amount Text Part 2",
+					"value":"is required"
+				},
+				"product_details_maximum_quantity_text1":{
+					"title":"Max Purchase Amount Text Part 1",
+					"value":"Maximum purchase amount of"
+				},
+				"product_details_maximum_quantity_text2":{
+					"title":"Max Purchase Amount Text Part 2",
+					"value":"is allowed"
+				},
+				"product_details_handling_fee_notice1":{
+					"title":"One Time Handling Fee Part 1",
+					"value":"*A one-time handling fee of"
+				},
+				"product_details_handling_fee_notice2":{
+					"title":"One Time Handling Fee Part 2",
+					"value":"will be added to your shipping total at checkout."
+				},
+				"product_details_handling_fee_each_notice1":{
+					"title":"Handling Fee Each Part 1",
+					"value":"*A handling fee of"
+				},
+				"product_details_handling_fee_each_notice2":{
+					"title":"Handling Fee Each Part 2",
+					"value":"per item will be added to your shipping total at checkout."
+				},
+				"product_details_signup_fee_notice1":{
+					"title":"One Time Sign-up Fee Part 1",
+					"value":"*A one-time sign-up fee of"
+				},
+				"product_details_signup_fee_notice2":{
+					"title":"One Time Sign-up Fee Part 2",
+					"value":"will be added to your first payment total."
+				},
+				"product_details_home_link":{
+					"title":"Home Breadcrumbs Link",
+					"value":"Home"
+				},
+				"product_details_store_link":{
+					"title":"Store Breadcrumbs Link",
+					"value":"Shop"
+				},
+				"product_details_reviews_text":{
+					"title":"Store Reviews Count",
+					"value":"Reviews"
+				},
+				"product_details_gift_card_recipient_name":{
+					"title":"Store Gift Card To Name",
+					"value":"Recipient's Name"
+				},
+				"product_details_gift_card_recipient_email":{
+					"title":"Store Gift Card To Email",
+					"value":"Recipient's Email"
+				},
+				"product_details_gift_card_sender_name":{
+					"title":"Store Gift Card Sender's Name",
+					"value":"Sender's Name"
+				},
+				"product_details_gift_card_message":{
+					"title":"Store Gift Card Message",
+					"value":"Include a Message"
+				},
+				"product_details_donation_amount":{
+					"title":"Store Donation Amount",
+					"value":"Donation Amount"
+				},
+				"product_details_loading_options":{
+					"title":"Store Loading Options",
+					"value":"Loading Available Options"
+				},
+				"product_details_missing_option":{
+					"title":"Store Missing Option",
+					"value":"Missing Option:"
+				},
+				"product_details_maximum_quantity":{
+					"title":"Store Maximum Quantity Exceeded",
+					"value":"Maximum quantity exceeded"
+				},
+				"product_details_one_time_addition1":{
+					"title":"Store One Time Addition 1",
+					"value":"A one-time price of"
+				},
+				"product_details_one_time_addition2":{
+					"title":"Store One Time Addition 2",
+					"value":"will be added to your order."
+				},
+				"product_details_left_in_stock":{
+					"title":"Store Left in Stock",
+					"value":"Left in Stock"
+				},
+				"product_details_search":{
+					"title":"Store Search",
+					"value":"Search products..."
+				},
+				"product_details_categories":{
+					"title":"Store Categories",
+					"value":"Categories:"
+				},
+				"product_details_manufacturer":{
+					"title":"Store Manufacturer",
+					"value":"Manufacturer:"
+				},
+				"product_details_related_products":{
+					"title":"Store Related Products",
+					"value":"Related Products"
+				},
+				"product_details_tier_buy":{
+					"title":"Tiered Pricing buy x at y",
+					"value":"Buy"
+				},
+				"product_details_tier_buy_at":{
+					"title":"Tiered Pricing buy x at y",
+					"value":"at"
+				},
+				"product_details_tier_or_more":{
+					"title":"Tiered Pricing buy x or more",
+					"value":"or more"
+				},
+				"product_details_tier_each":{
+					"title":"Tiered Pricing buy x at y each",
+					"value":"each"
+				},
+				"product_details_gift_card_error":{
+					"title":"Gift Card Option Error Text",
+					"value":"Missing Gift Card Options"
+				},
+				"product_details_donation_error":{
+					"title":"Donation Amount Error Text",
+					"value":"Invalid donation amount entered. Please enter a minimum value of"
+				},
+				"product_details_your_price":{
+					"title":"Your Price:",
+					"value":"Your Price:"
+				},
+				"product_details_backorder_until":{
+					"title":"Backorder UNTIL date, until",
+					"value":"until"
+				},
+				"product_details_backordered":{
+					"title":"BACKORDERED until date",
+					"value":"Backordered"
+				},
+				"product_details_some_backordered":{
+					"title":"Some BACKORDERED",
+					"value":"Some items are backordered, only"
+				},
+				"product_details_some_backordered_remaining":{
+					"title":"Some BACKORDERED remaining",
+					"value":"remaining."
+				},
+				"product_details_backordered_message":{
+					"title":"Backordered message in cart",
+					"value":"Some items in your cart are currently out of stock and on backorder."
+				},
+				"product_details_vat_included":{
+					"title":"Including VAT",
+					"value":"Including"
+				},
+				"product_details_vat_excluded":{
+					"title":"Excluding VAT",
+					"value":"Excluding"
+				},
+				"product_details_backorder_button":{
+					"title":"Backorder Button",
+					"value":"BACKORDER NOW"
+				},
+				"product_details_reviews_for_text":{
+					"title":"Reviews for",
+					"value":"Reviews for"
+				},
+				"product_details_as_low_as":{
+					"title":"As low as",
+					"value":"As low as"
+				},
+				"product_details_subscription_day":{
+					"title":"Subscription Day Label",
+					"value":"day"
+				},
+				"product_details_subscription_week":{
+					"title":"Subscription Week Label",
+					"value":"week"
+				},
+				"product_details_subscription_month":{
+					"title":"Subscription Month Label Short",
+					"value":"mo"
+				},
+				"product_details_subscription_month_full":{
+					"title":"Subscription Month Label Full",
+					"value":"months"
+				},
+				"product_details_subscription_duration_divider":{
+					"title":"Subscription duration limit dividing word",
+					"value":"for"
+				},
+				"product_details_subscription_year":{
+					"title":"Subscription Year Label",
+					"value":"year"
+				},
+				"product_details_notify_subscribe_success":{
+					"title":"Stock Notification Subscribe Success",
+					"value":"You have been subscribed to stock notification of this product!"
+				},
+				"product_details_notify_subscribe_title":{
+					"title":"Stock Notification Subscribe Title",
+					"value":"Email when stock available"
+				},
+				"product_details_notify_subscribe_email_placeholder":{
+					"title":"Stock Notification Subscribe Email Placeholder",
+					"value":"your@email.com"
+				},
+				"product_details_notify_subscribe_button_title":{
+					"title":"Stock Notification Subscribe Button Title",
+					"value":"Subscribe Now"
+				},
+				"product_details_starting_at":{
+					"title":"Starting At Price",
+					"value":"Starting At"
+				}
+			}
+		},
+		"customer_review":{
+			"label":"Customer Review Panel",
+			"options":{
+				"customer_review_title":{
+					"title":"Product Details Rating Box Title",
+					"value":"Write a Review"
+				},
+				"customer_review_choose_rating":{
+					"title":"Product Details Rating Box Choose Rating",
+					"value":"choose a rating"
+				},
+				"customer_review_enter_title":{
+					"title":"Product Details Rating Box Choose Title",
+					"value":"enter a review title"
+				},
+				"customer_review_enter_description":{
+					"title":"Product Details Rating Box Choose Description",
+					"value":"enter a review description"
+				},
+				"customer_review_select_option":{
+					"title":"Product Details Default Select Option Text",
+					"value":"select an option"
+				},
+				"customer_review_close_button":{
+					"title":"Product Details Rating Box Close Button",
+					"value":"Close"
+				},
+				"customer_review_submit_button":{
+					"title":"Product Details Rating Box Submit Button",
+					"value":"Submit Review"
+				},
+				"product_details_write_a_review":{
+					"title":"Product Details Write a Review Button",
+					"value":"Write a Review"
+				},
+				"product_details_add_a_review_for":{
+					"title":"Store Add a Review",
+					"value":"Add a review for"
+				},
+				"product_details_your_review_title":{
+					"title":"Store Review title",
+					"value":"Your Review Title"
+				},
+				"product_details_your_review_rating":{
+					"title":"Store Review Rating",
+					"value":"Your Rating"
+				},
+				"product_details_your_review_message":{
+					"title":"Store Review Message",
+					"value":"Your Review"
+				},
+				"product_details_your_review_submit":{
+					"title":"Store Review Submit",
+					"value":"SUBMIT"
+				},
+				"product_details_review_submitted_button":{
+					"title":"Product Details Review Submitted Button",
+					"value":"REVIEW SUBMITTED"
+				},
+				"product_details_submitting_review":{
+					"title":"Store Submitting Review",
+					"value":"Submitting Your Review, Please Wait"
+				},
+				"product_details_review_submitted":{
+					"title":"Store Review Submitted",
+					"value":"Your Review Has Been Submitted Successfully"
+				},
+				"product_details_review_log_in_first":{
+					"title":"Log in to Review",
+					"value":"Please sign in or create an account to submit a review for this product."
+				},
+				"product_details_review_anonymous_reviewer":{
+					"title":"Anonymous Reviewer Name",
+					"value":"Anonymous"
+				},
+				"review_error":{
+					"title":"Store Review Error Missing Data",
+					"value":"You must include a title, rating, and message in your review."
+				}
+			}
+		},
+		"cart":{
+			"label":"Cart",
+			"options":{
+				"cart_title":{
+					"title":"Checkout Cart Title",
+					"value":"SHOPPING CART"
+				},
+				"cart_checkout_details_title":{
+					"title":"Checkout Details Title",
+					"value":"CHECKOUT DETAILS"
+				},
+				"cart_submit_payment_title":{
+					"title":"Submit Payment Title",
+					"value":"SUBMIT PAYMENT"
+				},
+				"your_cart_title":{
+					"title":"Your Cart Title",
+					"value":"YOUR CART"
+				},
+				"cart_empty_cart":{
+					"title":"Checkout, Empty Cart Message",
+					"value":"There are no items in your cart."
+				},
+				"cart_checkout":{
+					"title":"Checkout Page, Checkout Button",
+					"value":"Checkout"
+				},
+				"cart_continue_shopping":{
+					"title":"Checkout Page, Continue Shopping Link",
+					"value":"Continue Shopping"
+				},
+				"cart_header_column1":{
+					"title":"Cart Header, Column 1",
+					"value":"Product"
+				},
+				"cart_header_column2":{
+					"title":"Cart Header, Column 2",
+					"value":"Details"
+				},
+				"cart_header_column3":{
+					"title":"Cart Header, Column 3",
+					"value":"Price"
+				},
+				"cart_header_column4":{
+					"title":"Cart Header, Column 4",
+					"value":"Quantity"
+				},
+				"cart_header_column5":{
+					"title":"Cart Header, Column 5",
+					"value":"Total"
+				},
+				"cart_header_column6":{
+					"title":"Cart Header, Column 6",
+					"value":"Actions"
+				},
+				"cart_item_vat_text":{
+					"title":"Cart Item, Included Vat",
+					"value":"VAT @"
+				},
+				"cart_item_update_button":{
+					"title":"Cart Item, Update Button",
+					"value":"UPDATE"
+				},
+				"cart_item_remove_button":{
+					"title":"Cart Item, Remove Button",
+					"value":"REMOVE"
+				},
+				"cart_item_adjustment":{
+					"title":"Cart Item, Adjustment per Item",
+					"value":"per item"
+				},
+				"cart_item_new_price_option":{
+					"title":"Cart Item, Price Override Text",
+					"value":"Item Price of"
+				},
+				"cart_menu_icon_label":{
+					"title":"Cart in Menu, Item",
+					"value":"Item"
+				},
+				"cart_menu_icon_label_plural":{
+					"title":"Cart in Menu, Items",
+					"value":"Items"
+				},
+				"deconetwork_edit":{
+					"title":"Deconetwork, Edit Design",
+					"value":"Edit Design"
+				},
+				"cart_order_adjustment":{
+					"title":"Cart Item, Adjustment per Order",
+					"value":"per order"
+				},
+				"cart_return_to_store":{
+					"title":"Empty Cart, Return to store",
+					"value":"RETURN TO STORE"
+				},
+				"cartitem_max_error":{
+					"title":"Max Quantity Exceeded Error",
+					"value":"Maximum Quantity Exceeded"
+				},
+				"cartitem_min_error":{
+					"title":"Min Quantity Required Error",
+					"value":"Minimum Quantity Required"
+				},
+				"cart_please_wait":{
+					"title":"Cart Please Wait",
+					"value":"Please Wait"
+				},
+				"cart_item_adjustment_per_character":{
+					"title":"Cart Per Character Adjustment",
+					"value":"Per Character"
+				},
+				"cart_minimum_purchase_amount1":{
+					"title":"A Minimum Order Amount of",
+					"value":"A Minimum Order Amount of"
+				},
+				"cart_minimum_purchase_amount2":{
+					"title":"Min Required Text 2",
+					"value":"is Required"
+				},
+				"cartitem_location_error":{
+					"title":"Cart Item Shipping Location not Allowed",
+					"value":"This item cannot be shipped to your current shipping address."
+				}
+			}
+		},
+		"cart_form_notices":{
+			"label":"Cart - Form Error Notices",
+			"options":{
+				"cart_notice_is_required":{
+					"title":"Cart, Notice, Is Required Field",
+					"value":"is a required field"
+				},
+				"cart_notice_item_must_match":{
+					"title":"Cart, Notice, Items Must Match",
+					"value":"must match"
+				},
+				"cart_notice_billing_first_name":{
+					"title":"Cart, Notice, Billing, First Name",
+					"value":"Billing First Name"
+				},
+				"cart_notice_billing_last_name":{
+					"title":"Cart, Notice, Billing, Last Name",
+					"value":"Billing Last Name"
+				},
+				"cart_notice_billing_address":{
+					"title":"Cart, Notice, Billing, Address",
+					"value":"Billing Address"
+				},
+				"cart_notice_billing_city":{
+					"title":"Cart, Notice, Billing, City",
+					"value":"Billing City"
+				},
+				"cart_notice_billing_state":{
+					"title":"Cart, Notice, Billing, State",
+					"value":"Billing State"
+				},
+				"cart_notice_billing_zip_code":{
+					"title":"Cart, Notice, Billing, Zip Code",
+					"value":"Billing Zip Code"
+				},
+				"cart_notice_billing_country":{
+					"title":"Cart, Notice, Billing, Country",
+					"value":"Billing Country"
+				},
+				"cart_notice_billing_phone":{
+					"title":"Cart, Notice, Billing, Phone",
+					"value":"Billing Phone"
+				},
+				"cart_notice_shipping_first_name":{
+					"title":"Cart, Notice, Shipping, First Name",
+					"value":"Shipping First Name"
+				},
+				"cart_notice_shipping_last_name":{
+					"title":"Cart, Notice, Shipping, Last Name",
+					"value":"Shipping Last Name"
+				},
+				"cart_notice_shipping_address":{
+					"title":"Cart, Notice, Shipping, Address",
+					"value":"Shipping Address"
+				},
+				"cart_notice_shipping_city":{
+					"title":"Cart, Notice, Shipping, City",
+					"value":"Shipping City"
+				},
+				"cart_notice_shipping_state":{
+					"title":"Cart, Notice, Shipping, State",
+					"value":"Shipping State"
+				},
+				"cart_notice_shipping_zip_code":{
+					"title":"Cart, Notice, Shipping, Zip Code",
+					"value":"Shipping Zip Code"
+				},
+				"cart_notice_shipping_country":{
+					"title":"Cart, Notice, Shipping, Country",
+					"value":"Shipping Country"
+				},
+				"cart_notice_shipping_phone":{
+					"title":"Cart, Notice, Shipping, Phone",
+					"value":"Shipping Phone"
+				},
+				"cart_notice_contact_first_name":{
+					"title":"Cart, Notice, Contact First Name",
+					"value":"Contact First Name"
+				},
+				"cart_notice_contact_last_name":{
+					"title":"Cart, Notice, Contact Last Name",
+					"value":"Contact Last Name"
+				},
+				"cart_notice_email":{
+					"title":"Cart, Notice, Email",
+					"value":"Email"
+				},
+				"cart_notice_retype_email":{
+					"title":"Cart, Notice, Retype Email",
+					"value":"Retype Email"
+				},
+				"cart_notice_emails_match":{
+					"title":"Cart, Notice, Emails Match",
+					"value":"Emails"
+				},
+				"cart_notice_password":{
+					"title":"Cart, Notice, Password",
+					"value":"Password"
+				},
+				"cart_notice_retype_password":{
+					"title":"Cart, Notice, Retype Password",
+					"value":"Retype Password"
+				},
+				"cart_notice_passwords_match":{
+					"title":"Cart, Notice, Passwords Match",
+					"value":"Passwords"
+				},
+				"cart_notice_length_error":{
+					"title":"Cart, Notice, Password Format",
+					"value":"Please enter a password of at least 6 characters"
+				},
+				"cart_notice_payment_card_type":{
+					"title":"Cart, Notice, Card Type",
+					"value":"Card Type"
+				},
+				"cart_notice_payment_card_holder_name":{
+					"title":"Cart, Notice, Card Holder Required",
+					"value":"Card Holder Name"
+				},
+				"cart_notice_payment_card_number":{
+					"title":"Cart, Notice, Card Number Required",
+					"value":"Card Number"
+				},
+				"cart_notice_payment_card_number_error":{
+					"title":"Cart, Notice, Card Number Required",
+					"value":"The credit card number entered is invalid"
+				},
+				"cart_notice_payment_card_exp_month":{
+					"title":"Cart, Notice, EXP Month Required",
+					"value":"Expiration Month"
+				},
+				"cart_notice_payment_card_exp_year":{
+					"title":"Cart, Notice, EXP Year Required",
+					"value":"Expiration Year"
+				},
+				"cart_notice_payment_card_code":{
+					"title":"Cart, Notice, Security Code Required",
+					"value":"Security Code"
+				},
+				"cart_notice_please_enter_your":{
+					"title":"Cart, Notice, Please Enter Your",
+					"value":"Please enter your"
+				},
+				"cart_notice_please_select_your":{
+					"title":"Cart, Notice, Please Select Your",
+					"value":"Please select your"
+				},
+				"cart_notice_please_enter_valid":{
+					"title":"Cart, Notice, Please Enter Valid",
+					"value":"Please enter a valid"
+				},
+				"cart_notice_emails_do_not_match":{
+					"title":"Cart, Notice, Email Do Not Match",
+					"value":"Your email addresses do not match"
+				},
+				"cart_notice_passwords_do_not_match":{
+					"title":"Cart, Notice, Passwords Do Not Match",
+					"value":"Your passwords do not match"
+				},
+				"cart_notice_checkout_details_errors":{
+					"title":"Cart, Notice, Checkout Details Errors",
+					"value":"Please correct the errors in your checkout details"
+				},
+				"cart_notice_payment_accept_terms":{
+					"title":"Cart, Notice, Please Accept Terms",
+					"value":"Please agree to the terms and conditions"
+				},
+				"cart_notice_payment_correct_errors":{
+					"title":"Cart, Notice, Payment Correct Errors",
+					"value":"Please correct the errors to your checkout information above"
+				},
+				"cart_notice_shipping_not_alllowed":{
+					"title":"Cart, Notice, No Shipping Address Allowed",
+					"value":"There are items in your cart that only ship to a valid billing address. Please be sure your billing address can receive your purchase."
+				}
+			}
+		},
+		"cart_process":{
+			"label":"Cart - Progress Bar",
+			"options":{
+				"cart_process_cart_link":{
+					"title":"Cart, Progress, Cart",
+					"value":"Cart"
+				},
+				"cart_process_shipping_link":{
+					"title":"Cart, Progress, Address",
+					"value":"Address"
+				},
+				"cart_process_review_link":{
+					"title":"Cart, Progress, Cart",
+					"value":"Review/Pay"
+				},
+				"cart_process_complete_link":{
+					"title":"Cart, Progress, Complete",
+					"value":"Complete"
+				}
+			}
+		},
+		"cart_coupons":{
+			"label":"Cart - Enter Coupons and Gift Cards",
+			"options":{
+				"cart_coupon_title":{
+					"title":"Cart, Coupon Title",
+					"value":"Coupon"
+				},
+				"cart_gift_card_title":{
+					"title":"Cart, Gift Card Title",
+					"value":"Gift Card"
+				},
+				"cart_coupon_sub_title":{
+					"title":"Cart, Coupons Sub-Title",
+					"value":"Redeem coupon codes or gift cards by entering them below."
+				},
+				"cart_redeem_gift_card":{
+					"title":"Cart, Redeem Gift Card Button",
+					"value":"Redeem Gift Card"
+				},
+				"cart_apply_coupon":{
+					"title":"Cart, Apply Coupon Button",
+					"value":"Apply Coupon"
+				},
+				"cart_invalid_coupon":{
+					"title":"Cart, Invalid Coupon",
+					"value":"Not a valid coupon code"
+				},
+				"cart_not_applicable_coupon":{
+					"title":"Cart, Not Applicable Coupon",
+					"value":"Coupon code does not apply to this product"
+				},
+				"cart_max_exceeded_coupon":{
+					"title":"Cart, Max Coupon Use Exceeded",
+					"value":"Max uses exceeded"
+				},
+				"cart_invalid_giftcard":{
+					"title":"Cart, Invalid Gift Card",
+					"value":"Not a valid gift card number"
+				},
+				"cart_enter_coupon":{
+					"title":"Cart, Enter Coupon Hint",
+					"value":"Enter Coupon Code"
+				},
+				"cart_enter_gift_code":{
+					"title":"Cart, Enter Gift Card Hint",
+					"value":"Enter Gift Card"
+				},
+				"cart_coupon_expired":{
+					"title":"Cart, Coupon Code Expired",
+					"value":"Coupon Has Expired"
+				},
+				"coupon_not_applicable":{
+					"title":"Cart, Coupon Code Not Applicable",
+					"value":"Coupon does not apply to the items in your cart"
+				},
+				"cart_simple_apply":{
+					"title":"Cart, Apply",
+					"value":"Apply"
+				}
+			}
+		},
+		"cart_estimate_shipping":{
+			"label":"Cart - Estimate Shipping",
+			"options":{
+				"cart_estimate_shipping_title":{
+					"title":"Cart, Estimate Shipping Title",
+					"value":"Estimate Shipping Costs"
+				},
+				"cart_estimate_shipping_sub_title":{
+					"title":"Cart, Estimate Shipping Sub Title",
+					"value":"Please enter your zip code to estimate shipping costs."
+				},
+				"cart_estimate_shipping_input_country_label":{
+					"title":"Cart, Estimate Shipping, Input Label Country",
+					"value":"Country:"
+				},
+				"cart_estimate_shipping_select_one":{
+					"title":"Cart, Estimate Shipping, Select one for country box",
+					"value":"Select One"
+				},
+				"cart_estimate_shipping_input_label":{
+					"title":"Cart, Estimate Shipping, Input Label Zip Code",
+					"value":"Zip Code:"
+				},
+				"cart_estimate_shipping_button":{
+					"title":"Cart, Estimate Shipping Button",
+					"value":"Estimate Shipping"
+				},
+				"cart_estimate_shipping_standard":{
+					"title":"Cart, Standard Shipping Label",
+					"value":"Standard Shipping"
+				},
+				"cart_estimate_shipping_free":{
+					"title":"Cart, Free Shipping Label",
+					"value":"Free Local Pickup"
+				},
+				"cart_estimate_shipping_express":{
+					"title":"Cart, Express Shipping Label",
+					"value":"Ship Express"
+				},
+				"cart_estimate_shipping_error":{
+					"title":"Cart, Mismatch Postal Code Error",
+					"value":"Your postal code does not match our store's country. Shipping rates will be determined after you have entered your shipping information"
+				},
+				"cart_estimate_shipping_hint":{
+					"title":"Cart, Estimate Shipping Hint",
+					"value":"Enter Zip Code"
+				},
+				"delivery_in":{
+					"title":"Cart, Live Shipping Delivery In (Days)",
+					"value":"delivery in"
+				},
+				"delivery_days":{
+					"title":"Cart, Live Shipping (Delivery In) Days",
+					"value":"days"
+				}
+			}
+		},
+		"cart_totals":{
+			"label":"Cart - Cart Totals",
+			"options":{
+				"cart_totals_title":{
+					"title":"Cart, Cart Totals Title",
+					"value":"Cart Totals"
+				},
+				"cart_totals_subtotal":{
+					"title":"Cart, Cart Totals, Subtotal",
+					"value":"Cart Subtotal"
+				},
+				"cart_totals_tip":{
+					"title":"Cart, Cart Totals, Tip",
+					"value":"Tip"
+				},
+				"cart_totals_tip_custom":{
+					"title":"Cart, Cart Totals, Custom Tip Amount",
+					"value":"Custom Amount"
+				},
+				"cart_totals_apply_tip_custom":{
+					"title":"Cart, Cart Totals, Apply Custom Tip",
+					"value":"Apply Tip"
+				},
+				"cart_totals_shipping":{
+					"title":"Cart, Cart Totals, Shipping",
+					"value":"Shipping"
+				},
+				"cart_totals_tax":{
+					"title":"Cart, Cart Totals, Tax",
+					"value":"Tax"
+				},
+				"cart_totals_discounts":{
+					"title":"Cart, Cart Totals, Discounts",
+					"value":"Discounts"
+				},
+				"cart_totals_vat":{
+					"title":"Cart, Cart Totals, VAT",
+					"value":"VAT"
+				},
+				"cart_totals_duty":{
+					"title":"Cart, Cart Totals, Duty",
+					"value":"Duty"
+				},
+				"cart_totals_grand_total":{
+					"title":"Cart, Cart Totals, Grand Total",
+					"value":"Grand Total"
+				},
+				"cart_totals_label":{
+					"title":"Cart Totals Label",
+					"value":"Cart Totals"
+				}
+			}
+		},
+		"cart_login":{
+			"label":"Cart - Cart Login",
+			"options":{
+				"cart_login_title":{
+					"title":"Cart, Login Title",
+					"value":"Returning Customer"
+				},
+				"cart_login_sub_title":{
+					"title":"Cart, Login Sub Title",
+					"value":"To checkout with an existing account, please sign in below."
+				},
+				"cart_login_email_label":{
+					"title":"Cart, Login, Email Label",
+					"value":"Email Address"
+				},
+				"cart_login_password_label":{
+					"title":"Cart, Login, Password Label",
+					"value":"Password"
+				},
+				"cart_login_button":{
+					"title":"Cart, Login Button",
+					"value":"SIGN IN"
+				},
+				"cart_login_forgot_password_link":{
+					"title":"Cart, Login, Forgot Password Link",
+					"value":"Forgot Your Password?"
+				},
+				"cart_login_account_information_title":{
+					"title":"Cart, Login Complete Title",
+					"value":"Account Information"
+				},
+				"cart_login_account_information_text":{
+					"title":"Cart, Login Complete Text",
+					"value":"You are currently checking out as "
+				},
+				"cart_login_account_a_guest_text":{
+					"title":"Cart, Login Complete, a guest",
+					"value":"a guest"
+				},
+				"cart_login_account_information_text2":{
+					"title":"Cart, Login Complete Text Part 2",
+					"value":" to checkout with a different account."
+				},
+				"cart_login_account_information_logout_link":{
+					"title":"Cart, Login Complete, Logout Link",
+					"value":"click here"
+				},
+				"cart_login_already_have_account":{
+					"title":"Cart, Login Have Account",
+					"value":"Already have an account? Log in"
+				},
+				"cart_new_customer_title":{
+					"title":"Cart, New Customer Title",
+					"value":"Customer Information"
+				},
+				"cart_new_customer_return_link":{
+					"title":"Cart, New Customer Return Link",
+					"value":"Return to create a new account?"
+				},
+				"cart_subscription_addresss_continue":{
+					"title":"Cart, New Customer Return Link",
+					"value":"Save & Continue"
+				},
+				"cart_login_already_have_account2":{
+					"title":"Cart, Login Have Account Question",
+					"value":"Already have an account?"
+				},
+				"cart_login_already_have_account_login":{
+					"title":"Cart, Login Button Have Account",
+					"value":"Log in"
+				},
+				"cart_subscription_already_purchased":{
+					"title":"Cart, Subscription Already Purchased Message",
+					"value":"You have already purchased this item. Please visit your account to review your active subscriptions."
+				}
+			}
+		},
+		"cart_guest_checkout":{
+			"label":"Cart - Guest Checkout",
+			"options":{
+				"cart_guest_title":{
+					"title":"Cart, Login, Guest Checkout Title",
+					"value":"Checkout Without an Account"
+				},
+				"cart_guest_sub_title":{
+					"title":"Cart, Login, Guest Checkout Sub Title",
+					"value":"Not registered? Checkout without an existing account."
+				},
+				"cart_guest_message":{
+					"title":"Cart, Login, Guest Checkout Message",
+					"value":"No account? Continue as a guest.<br/>You will have an opportunity to create an account later."
+				},
+				"cart_guest_button":{
+					"title":"Cart, Login, Guest Checkout Button",
+					"value":"CONTINUE TO CHECKOUT"
+				}
+			}
+		},
+		"cart_subscription_guest_checkout":{
+			"label":"Cart - Subscription No Account Checkout",
+			"options":{
+				"cart_subscription_guest_title":{
+					"title":"Cart, Login, Subscription No Account Title",
+					"value":"Create Account on Checkout"
+				},
+				"cart_subscription_guest_sub_title":{
+					"title":"Cart, Login, Subscription No Account Sub Title",
+					"value":"Not registered? Checkout without an existing account."
+				},
+				"cart_subscription_guest_message":{
+					"title":"Cart, Login, Subscription No Account Message",
+					"value":"No account? No problem.<br/>You will have an opportunity to create an account later."
+				},
+				"cart_subscription_guest_button":{
+					"title":"Cart, Login, Guest Checkout Button",
+					"value":"CONTINUE TO CHECKOUT"
+				}
+			}
+		},
+		"cart_address_information":{
+			"label":"Cart - Address Information",
+			"options":{
+				"cart_state_ca":{
+					"title":"Cart, State (Canada)",
+					"value":"Province"
+				},
+				"cart_zip_ca":{
+					"title":"Cart, Zip (Canada)",
+					"value":"Postal code"
+				},
+				"cart_zip_gb":{
+					"title":"Cart, Zip (UK)",
+					"value":"Postcode"
+				},
+				"cart_address_nl":{
+					"title":"Cart, Address (Netherlands)",
+					"value":"Street and house number"
+				},
+				"cart_zip_nl":{
+					"title":"Cart, Zip (Netherlands)",
+					"value":"Postal code"
+				},
+				"cart_zip_ar":{
+					"title":"Cart, Zip (Argentina)",
+					"value":"Postal code"
+				},
+				"cart_state_ar":{
+					"title":"Cart, State (Argentina)",
+					"value":"Province"
+				}
+			}
+		},
+		"cart_address_information":{
+			"label":"Cart - Address Information",
+			"options":{
+				"cart_state_ca":{
+					"title":"Cart, State (Canada)",
+					"value":"Province"
+				},
+				"cart_zip_ca":{
+					"title":"Cart, Zip (Canada)",
+					"value":"Postal code"
+				},
+				"cart_zip_gb":{
+					"title":"Cart, Zip (UK)",
+					"value":"Postcode"
+				},
+				"cart_address_nl":{
+					"title":"Cart, Address (Netherlands)",
+					"value":"Street and house number"
+				},
+				"cart_zip_nl":{
+					"title":"Cart, Zip (Netherlands)",
+					"value":"Postal code"
+				},
+				"cart_zip_ar":{
+					"title":"Cart, Zip (Argentina)",
+					"value":"Postal code"
+				},
+				"cart_state_ar":{
+					"title":"Cart, State (Argentina)",
+					"value":"Province"
+				}
+			}
+		},
+		"cart_billing_information":{
+			"label":"Cart - Billing Information",
+			"options":{
+				"cart_billing_information_title":{
+					"title":"Cart, Billing Information Title",
+					"value":"Billing Information"
+				},
+				"cart_billing_information_first_name":{
+					"title":"Cart, Billing, First Name Label",
+					"value":"First Name"
+				},
+				"cart_billing_information_last_name":{
+					"title":"Cart, Billing, Last Name Label",
+					"value":"Last Name"
+				},
+				"cart_billing_information_address":{
+					"title":"Cart, Billing, Address Label",
+					"value":"Address"
+				},
+				"cart_billing_information_address2":{
+					"title":"Cart, Billing, Address 2 Label",
+					"value":"Apartment, suite, etc."
+				},
+				"cart_billing_information_city":{
+					"title":"Cart, Billing, City Label",
+					"value":"City"
+				},
+				"cart_billing_information_state":{
+					"title":"Cart, Billing, State Label",
+					"value":"State"
+				},
+				"cart_billing_information_select_state":{
+					"title":"Cart, Billing, Default No State Selected",
+					"value":"Select a State"
+				},
+				"cart_billing_information_select_province":{
+					"title":"Cart, Billing, Default No Province Selected",
+					"value":"Select a Province"
+				},
+				"cart_billing_information_select_county":{
+					"title":"Cart, Billing, Default No County Selected",
+					"value":"Select a County"
+				},
+				"cart_billing_information_select_other":{
+					"title":"Cart, Billing, Default None Selected",
+					"value":"Select One"
+				},
+				"cart_billing_information_country":{
+					"title":"Cart, Billing, Country Label",
+					"value":"Country"
+				},
+				"cart_billing_information_select_country":{
+					"title":"Cart, Billing, Country Menu, Default None Selected",
+					"value":"Select a Country"
+				},
+				"cart_billing_information_zip":{
+					"title":"Cart, Billing, Zip Label",
+					"value":"Zip Code"
+				},
+				"cart_billing_information_phone":{
+					"title":"Cart, Billing, Phone Label",
+					"value":"Phone"
+				},
+				"cart_billing_information_ship_to_this":{
+					"title":"Cart, Billing, Use Billing Radio",
+					"value":"Ship to this address"
+				},
+				"cart_billing_information_ship_to_different":{
+					"title":"Cart, Billing, Use Shipping Radio",
+					"value":"SHIP TO DIFFERENT ADDRESS"
+				},
+				"cart_billing_information_company_name":{
+					"title":"Cart, Billing, Company Name Label",
+					"value":"Company Name"
+				},
+				"cart_billing_information_vat_registration_number":{
+					"title":"Cart, Billing, VAT Registration Number Label",
+					"value":"VAT Registration Number"
+				}
+			}
+		},
+		"cart_shipping_information":{
+			"label":"Cart - Shipping Information",
+			"options":{
+				"cart_shipping_information_title":{
+					"title":"Cart, Shipping Information Title",
+					"value":"Shipping Information"
+				},
+				"cart_shipping_information_first_name":{
+					"title":"Cart, Shipping, First Name Label",
+					"value":"First Name"
+				},
+				"cart_shipping_information_last_name":{
+					"title":"Cart, Shipping, Last Name Label",
+					"value":"Last Name"
+				},
+				"cart_shipping_information_address":{
+					"title":"Cart, Shipping, Address Label",
+					"value":"Address"
+				},
+				"cart_shipping_information_address2":{
+					"title":"Cart, Shipping, Address 2 Label",
+					"value":"Apartment, suite, etc."
+				},
+				"cart_shipping_information_city":{
+					"title":"Cart, Shipping, City Label",
+					"value":"City"
+				},
+				"cart_shipping_information_state":{
+					"title":"Cart, Shipping, State Label",
+					"value":"State"
+				},
+				"cart_shipping_information_select_state":{
+					"title":"Cart, Shipping, Default No State Selected",
+					"value":"Select a State"
+				},
+				"cart_shipping_information_select_province":{
+					"title":"Cart, Shipping, Default No Province Selected",
+					"value":"Select a Province"
+				},
+				"cart_shipping_information_select_county":{
+					"title":"Cart, Shipping, Default No County Selected",
+					"value":"Select a County"
+				},
+				"cart_shipping_information_select_other":{
+					"title":"Cart, Shipping, Default None Selected",
+					"value":"Select One"
+				},
+				"cart_shipping_information_country":{
+					"title":"Cart, Shipping, Country Label",
+					"value":"Country"
+				},
+				"cart_shipping_information_select_country":{
+					"title":"Cart, Shipping, Country Menu, Default None Selected",
+					"value":"Select a Country"
+				},
+				"cart_shipping_information_zip":{
+					"title":"Cart, Shipping, Zip Label",
+					"value":"Zip Code"
+				},
+				"cart_shipping_information_phone":{
+					"title":"Cart, Shipping, Phone Label",
+					"value":"Phone"
+				},
+				"cart_shipping_information_company_name":{
+					"title":"Cart, Shipping, Company Name Label",
+					"value":"Company Name"
+				}
+			}
+		},
+		"cart_contact_information":{
+			"label":"Cart - Contact Information",
+			"options":{
+				"cart_contact_information_title":{
+					"title":"Cart, Contact Information Title",
+					"value":"Contact Information"
+				},
+				"cart_contact_information_first_name":{
+					"title":"Cart, Contact Information, First Name Label",
+					"value":"First Name"
+				},
+				"cart_contact_information_last_name":{
+					"title":"Cart, Contact Information, Last Name Label",
+					"value":"Last Name"
+				},
+				"cart_contact_information_email":{
+					"title":"Cart, Contact Information, Email Label",
+					"value":"Email"
+				},
+				"cart_contact_information_retype_email":{
+					"title":"Cart, Contact Information, Retype Email Label",
+					"value":"Retype Email"
+				},
+				"cart_contact_information_create_account":{
+					"title":"Cart, Contact Information, Create Account Label",
+					"value":"Create Account"
+				},
+				"cart_contact_information_password":{
+					"title":"Cart, Contact Information, Password Label",
+					"value":"Password"
+				},
+				"cart_contact_information_retype_password":{
+					"title":"Cart, Contact Information, Retype Password Label",
+					"value":"Retype Password"
+				},
+				"cart_contact_information_subscribe":{
+					"title":"Cart, Contact Information, Subscribe Label",
+					"value":"Would you like to receive emails and updates from us?"
+				},
+				"cart_contact_information_continue_button":{
+					"title":"Cart, Contact Information, Continue Button",
+					"value":"CONTINUE"
+				},
+				"cart_contact_information_continue_payment":{
+					"title":"Cart, Contact Information, Continue to Payment",
+					"value":"CONTINUE TO PAYMENT"
+				},
+				"cart_contact_information_continue_shipping":{
+					"title":"Cart, Contact Information, Continue to Shipping",
+					"value":"CONTINUE TO SHIPPING"
+				},
+				"cart_contact_information_email_other":{
+					"title":"Cart, Additional Email, Title",
+					"value":"Additional Receipt Email"
+				},
+				"cart_contact_information_email_other_label":{
+					"title":"Cart, Additional Email, Label",
+					"value":"Enter an additional email (optional)"
+				}
+			}
+		},
+		"cart_shipping_method":{
+			"label":"Cart - Shipping Method",
+			"options":{
+				"cart_shipping_method_title":{
+					"title":"Cart, Shipping Method, Title",
+					"value":"Shipping Method"
+				},
+				"cart_shipping_method_continue_button":{
+					"title":"Cart, Shipping Method Continue Button",
+					"value":"CONTINUE"
+				},
+				"cart_shipping_method_please_select_one":{
+					"title":"Cart, Shipping please select one",
+					"value":"Please select a shipping method"
+				},
+				"cart_shipping_update_shipping":{
+					"title":"Cart, Update Shipping",
+					"value":"Update Shipping"
+				},
+				"cart_shipping_no_rates_available":{
+					"title":"Cart, No Shipping Rates Available",
+					"value":"There are no available shipping methods in your area. Contact us to complete your order."
+				}
+			}
+		},
+		"cart_address_review":{
+			"label":"Cart - Address Review",
+			"options":{
+				"cart_address_review_title":{
+					"title":"Cart, Address Information Title",
+					"value":"Address Information"
+				},
+				"cart_address_review_billing_title":{
+					"title":"Cart, Address Review, Billing Title",
+					"value":"Billing Address"
+				},
+				"cart_address_review_shipping_title":{
+					"title":"Cart, Address Review, Shipping Title",
+					"value":"Shipping Address"
+				},
+				"cart_address_review_edit_link":{
+					"title":"Cart, Address Review, Edit Link",
+					"value":"Edit Address or Shipping Options"
+				},
+				"cart_address_review_edit_link2":{
+					"title":"Cart, Address Review, Edit Link",
+					"value":"Edit Address Information"
+				}
+			}
+		},
+		"cart_payment_information":{
+			"label":"Cart - Payment Information",
+			"options":{
+				"cart_payment_information_title":{
+					"title":"Cart, Payment Information Title",
+					"value":"Payment Information"
+				},
+				"cart_payment_information_manual_payment":{
+					"title":"Cart, Payment Information, Manual Payment Label",
+					"value":"Pay by Direct Deposit"
+				},
+				"cart_payment_information_affirm":{
+					"title":"Cart, Payment Information, Affirm Payment Label",
+					"value":"Pay with Easy Monthly Payments"
+				},
+				"cart_payment_information_third_party":{
+					"title":"Cart, Payment Information, Third Party Payment Label",
+					"value":"Pay Using"
+				},
+				"cart_payment_information_third_party_first":{
+					"title":"Cart, Payment Information, Third Party Text, Part 1",
+					"value":"You will be redirected to"
+				},
+				"cart_payment_information_third_party_second":{
+					"title":"Cart, Payment Information, Third Party Text, Part 2",
+					"value":"when you click submit order to complete your payment."
+				},
+				"cart_payment_information_apple_pay":{
+					"title":"Cart, Payment Information, Mobile Payment Label",
+					"value":"Pay using Your Device"
+				},
+				"cart_payment_card_type_credit_card":{
+					"title":"Cart, Payment Information, Default Card Type Label",
+					"value":"Credit Card"
+				},
+				"cart_payment_information_credit_card":{
+					"title":"Cart, Payment Information, Credit Card Payment Label",
+					"value":"Pay by Credit Card"
+				},
+				"cart_payment_information_amazon":{
+					"title":"Cart, Payment Information, Amazon Payment Label",
+					"value":"Pay with Amazon"
+				},
+				"cart_payment_information_payment_method":{
+					"title":"Cart, Payment Information, Payment Method Label",
+					"value":"Payment Method"
+				},
+				"cart_payment_information_card_holder_name":{
+					"title":"Cart, Payment Information, Card Holder Label",
+					"value":"Card Holder Name"
+				},
+				"cart_payment_information_card_number":{
+					"title":"Cart, Payment Information, Card Number Label",
+					"value":"Card Number"
+				},
+				"cart_payment_information_expiration_date":{
+					"title":"Cart, Payment Information, Expiration Date Label",
+					"value":"Expiration Date"
+				},
+				"cart_payment_information_security_code":{
+					"title":"Cart, Payment Information, Security Code Label",
+					"value":"Security Code"
+				},
+				"cart_payment_information_checkout_text":{
+					"title":"Cart, Payment Information, Checkout Text",
+					"value":"By submitting your order, you are agreeing to the [terms]terms and conditions[/terms] and [privacy]privacy policy[/privacy] of our website.  Once you click submit order, the checkout process is complete and no changes can be made to your order. Thank you for shopping with us!"
+				},
+				"cart_payment_information_review_checkout_text":{
+					"title":"Cart, Payment Information, Review Checkout Text",
+					"value":"Before submitting your order and making it final, you will be given a chance to review and confirm the final totals. Please click the review order button when you are ready to review, confirm, and submit your order."
+				},
+				"cart_payment_information_review_order_button":{
+					"title":"Cart, Payment Information, Review Order Button",
+					"value":"REVIEW ORDER"
+				},
+				"cart_payment_information_submit_order_button":{
+					"title":"Cart, Payment Information, Submit Order Button",
+					"value":"SUBMIT ORDER"
+				},
+				"cart_payment_information_cancel_order_button":{
+					"title":"Cart, Payment Information, Edit Order Button",
+					"value":"EDIT ORDER"
+				},
+				"cart_payment_information_order_notes_title":{
+					"title":"Cart, Payment Information, Customer Notes Title",
+					"value":"ORDER NOTES"
+				},
+				"cart_payment_information_order_notes_message":{
+					"title":"Cart, Payment Information, Customer Notes Message",
+					"value":"If you have any special requests for your order please enter them here."
+				},
+				"cart_payment_information_review_title":{
+					"title":"Cart, Review Cart Title",
+					"value":"REVIEW YOUR CART"
+				},
+				"cart_payment_information_edit_cart_link":{
+					"title":"Cart, edit cart items link",
+					"value":"edit cart items"
+				},
+				"cart_payment_information_edit_billing_link":{
+					"title":"Cart, edit billing link",
+					"value":"edit billing address"
+				},
+				"cart_payment_information_edit_shipping_link":{
+					"title":"Cart, edit shipping link",
+					"value":"edit shipping address"
+				},
+				"cart_payment_information_edit_shipping_method_link":{
+					"title":"Cart, edit shipping link",
+					"value":"edit shipping method"
+				},
+				"cart_payment_review_totals_title":{
+					"title":"Cart, Review Total Title",
+					"value":"REVIEW CART TOTALS"
+				},
+				"cart_payment_review_agree":{
+					"title":"Cart, Review Agree Text",
+					"value":"I agree to the terms and conditions of this site."
+				},
+				"cart_change_payment_method":{
+					"title":"Cart, Change Payment Method",
+					"value":"change payment method"
+				},
+				"cart_payment_information_paypal_final_note":{
+					"title":"Cart, Review and Submit PayPal Note",
+					"value":"Your order is not yet complete! Please review and submit your order below to finalize your payment."
+				},
+				"cart_please_wait":{
+					"title":"Cart, Processing, please wait",
+					"value":"Your payment is processing, please do not close the window."
+				},
+				"login_please_wait":{
+					"title":"Cart, Login Processing, please wait",
+					"value":"We are logging you in, please wait."
+				},
+				"address_please_wait":{
+					"title":"Cart, Address Processing, please wait",
+					"value":"We are saving your address information and updating your cart totals, just a moment please."
+				},
+				"create_account_please_wait":{
+					"title":"Cart, Create Account Processing, please wait",
+					"value":"We are creating your account, please wait."
+				},
+				"shipping_methods_please_wait":{
+					"title":"Cart, Shipping Methods Processing, please wait",
+					"value":"We are saving your shipping selection and updating your cart totals, please wait."
+				},
+				"payment_processed":{
+					"title":"Cart, Payment Processed Note",
+					"value":"Your payment has been processed and you may view your order now."
+				},
+				"payment_processed_view":{
+					"title":"Cart, Payment Processed View",
+					"value":"View Order"
+				}
+			}
+		},
+		"cart_success":{
+			"label":"Order Receipt",
+			"options":{
+				"cart_payment_receipt_order_details_link":{
+					"title":"Email Receipt, Link to Account",
+					"value":"View Order Details"
+				},
+				"cart_payment_receipt_subscription_details_link":{
+					"title":"Email Receipt, Link to Subscription",
+					"value":"View Subscription Details"
+				},
+				"cart_payment_receipt_title":{
+					"title":"Email Receipt Title",
+					"value":"Order Confirmation - Order Number"
+				},
+				"cart_payment_complete_line_1":{
+					"title":"Cart, Payment Complete, Line 1",
+					"value":"Dear:"
+				},
+				"cart_payment_complete_line_2":{
+					"title":"Cart, Payment Complete, Line 2",
+					"value":"Thank you for your order! Your Reference Number is:"
+				},
+				"cart_payment_complete_line_3":{
+					"title":"Cart, Payment Complete, Line 3",
+					"value":"Below is a summary of order. You can check the status of your order and all the details by visiting our website and logging into your account."
+				},
+				"cart_payment_complete_line_4":{
+					"title":"Cart, Payment Complete, Line 4",
+					"value":"Please keep this as a record of your order!"
+				},
+				"cart_payment_complete_line_5":{
+					"title":"Cart, Payment Complete, Line 5",
+					"value":"Click Here to View Your Membership Content"
+				},
+				"cart_payment_complete_click_here":{
+					"title":"Cart, Payment Complete, Click Here",
+					"value":"Click Here"
+				},
+				"cart_payment_complete_to_view_order":{
+					"title":"Cart, Payment Complete, To View Order",
+					"value":"to View Your Order"
+				},
+				"cart_payment_complete_billing_label":{
+					"title":"Cart, Payment Complete, Billing Label",
+					"value":"Billing Address"
+				},
+				"cart_payment_complete_shipping_label":{
+					"title":"Cart, Payment Complete, Shipping Label",
+					"value":"Shipping Address"
+				},
+				"cart_payment_complete_details_header_1":{
+					"title":"Cart, Payment Complete, Header 1",
+					"value":"Product"
+				},
+				"cart_payment_complete_details_header_2":{
+					"title":"Cart, Payment Complete, Header 2",
+					"value":"Qty"
+				},
+				"cart_payment_complete_details_header_3":{
+					"title":"Cart, Payment Complete, Header 3",
+					"value":"Price"
+				},
+				"cart_payment_complete_details_header_4":{
+					"title":"Cart, Payment Complete, Header 4",
+					"value":"Ext Price"
+				},
+				"cart_payment_complete_order_totals_subtotal":{
+					"title":"Cart, Payment Complete, Subtotal",
+					"value":"Subtotal"
+				},
+				"cart_payment_complete_order_totals_shipping":{
+					"title":"Cart, Payment Complete, Shipping",
+					"value":"Shipping"
+				},
+				"cart_payment_complete_order_totals_tax":{
+					"title":"Cart, Payment Complete, Tax",
+					"value":"Tax"
+				},
+				"cart_payment_complete_order_totals_discount":{
+					"title":"Cart, Payment Complete, Discount",
+					"value":"Discount"
+				},
+				"cart_payment_complete_order_totals_vat":{
+					"title":"Cart, Payment Complete, VAT",
+					"value":"VAT @"
+				},
+				"cart_payment_complete_order_totals_duty":{
+					"title":"Cart, Payment Complete, Duty",
+					"value":"Duty"
+				},
+				"cart_payment_complete_order_totals_grand_total":{
+					"title":"Cart, Payment Complete, Order Total",
+					"value":"Order Total"
+				},
+				"cart_payment_complete_bottom_line_1":{
+					"title":"Cart, Payment Complete, Bottom Line 1",
+					"value":"Please double check your order when you receive it and let us know immediately if there are any concerns or issues. We always value your business and hope you enjoy your product."
+				},
+				"cart_payment_complete_bottom_line_2":{
+					"title":"Cart, Payment Complete, Bottom Line 2",
+					"value":"Thank you very much!"
+				},
+				"cart_success_thank_you_title":{
+					"title":"Cart, Payment Complete, Thank You Title",
+					"value":"Thank you for your order"
+				},
+				"cart_success_order_number_is":{
+					"title":"Cart, Payment Complete, Your Order Number",
+					"value":"Order number is:"
+				},
+				"cart_success_will_receive_email":{
+					"title":"Cart, Payment Complete, Will receive email",
+					"value":"You will receive an email confirmation shortly at"
+				},
+				"cart_success_print_receipt_text":{
+					"title":"Cart, Payment Complete, Print Receipt Link Text",
+					"value":"Print Receipt"
+				},
+				"cart_success_save_order_text":{
+					"title":"Cart, Payment Complete, Save Your Info",
+					"value":"Save your information for next time"
+				},
+				"cart_success_create_password":{
+					"title":"Cart, Payment Complete, Create Password",
+					"value":"Create Password:"
+				},
+				"cart_success_verify_password":{
+					"title":"Cart, Payment Complete, Verify Password",
+					"value":"Verify Password:"
+				},
+				"cart_success_password_hint":{
+					"title":"Cart, Payment Complete, Password Hint",
+					"value":"(6-12 Characters)"
+				},
+				"cart_success_create_account":{
+					"title":"Cart, Payment Complete, Create Account",
+					"value":"Create Account"
+				},
+				"cart_giftcard_receipt_title":{
+					"title":"Cart, Gift Card Email Subject",
+					"value":"Gift Card Delivery"
+				},
+				"cart_giftcard_receipt_header":{
+					"title":"Cart, Gift Card Header",
+					"value":"Your Gift Card"
+				},
+				"cart_giftcard_receipt_to":{
+					"title":"Cart, Gift Card To",
+					"value":"To"
+				},
+				"cart_giftcard_receipt_from":{
+					"title":"Cart, Gift Card From",
+					"value":"From"
+				},
+				"cart_giftcard_receipt_id":{
+					"title":"Cart, Gift Card ID Label",
+					"value":"Your Gift Card ID"
+				},
+				"cart_giftcard_receipt_amount":{
+					"title":"Cart, Gift Card Amount",
+					"value":"Gift Card Total"
+				},
+				"cart_giftcard_receipt_message":{
+					"title":"Cart, Gift Card Message",
+					"value":"You can redeem your gift card during checkout at"
+				},
+				"cart_downloads_available":{
+					"title":"Cart Success, Downloads Available",
+					"value":"Your order includes downloads and are available in your account."
+				},
+				"cart_downloads_unavailable":{
+					"title":"Cart Success, Downloads Unavailable",
+					"value":"Your order includes downloads, but your payment has not yet been approved. Once payment has been approved your downloads will be available in your account."
+				},
+				"cart_downloads_click_to_go":{
+					"title":"Cart Success, Downloads Click to go Text",
+					"value":"Click to go there now."
+				},
+				"cart_success_view_downloads":{
+					"title":"Cart Success, View Downloads",
+					"value":"View Downloads"
+				},
+				"cart_invoice_line_1":{
+					"title":"Cart Invoice, Payment Note",
+					"value":"Below is your invoice, please follow the link below to complete payment. You may also send a check payment to the address listed above."
+				},
+				"cart_invoice_pay_online":{
+					"title":"Cart Invoice, Pay Online",
+					"value":"to Pay Online"
+				},
+				"cart_invoice_items_label":{
+					"title":"Cart Invoice, Invoice Header",
+					"value":"INVOICE ITEMS"
+				},
+				"cart_giftcards_unavailable":{
+					"title":"Cart Success, Gift Cards Unavailable",
+					"value":"Your order includes a gift card, but your payment has not yet been approved. Once payment has been approved your gift card will be available in your account."
+				},
+				"cart_text_notification_title":{
+					"title":"Order Success, Text Notification Service Title",
+					"value":"Order Updates"
+				},
+				"cart_text_notification_description":{
+					"title":"Order Success, Text Notification Service Description Info",
+					"value":"Subscribe below to get order updates directly to your phone via text message."
+				},
+				"cart_text_notification_placeholder":{
+					"title":"Order Success, Text Notification Service Input Placeholder",
+					"value":"xxx-xxx-xxxx"
+				},
+				"cart_text_notification_success":{
+					"title":"Order Success, Text Notification Success Message",
+					"value":"You are now subscribed to order notifications!"
+				},
+				"cart_text_notification_error":{
+					"title":"Order Success, Text Notification Error Message",
+					"value":"Your phone number is invalid, please correct and resubmit."
+				},
+				"cart_text_notification_button":{
+					"title":"Order Success, Text Notification Service Button",
+					"value":"Get Shipping Updates by Text"
+				}
+			}
+		},
+		"subscription_trial":{
+			"label":"Subscription Trial Email",
+			"options":{
+				"trial_message_1":{
+					"title":"Subscription Trial Part 1",
+					"value":"Thank you for signing up! Your"
+				},
+				"trial_message_2":{
+					"title":"Subscription Trial Part 2",
+					"value":"day free trial of"
+				},
+				"trial_message_3":{
+					"title":"Subscription Trial Part 3",
+					"value":"has now started! If you have any questions or concerns during your trial, please contact us, we are happy to help."
+				},
+				"trial_message_4":{
+					"title":"Subscription Trial Part 4",
+					"value":"We hope you stick with us, but if you decide this isn't for you, you may cancel at any time prior to the end of your trial to prevent being charged. To cancel, log into your account, click manage subscriptions, view your subscription, and cancel on the details page."
+				},
+				"trial_message_link":{
+					"title":"View Subscription Information",
+					"value":"View Subscription Information"
+				},
+				"subscription_trial_email_title":{
+					"title":"Subscription Trial Email Title",
+					"value":"Your Trial Has Started"
+				},
+				"trial_ending_message_1":{
+					"title":"Subscription Trial Ending Part 1",
+					"value":"Your"
+				},
+				"trial_ending_message_2":{
+					"title":"Subscription Trial Part 2",
+					"value":"day free trial of"
+				},
+				"trial_ending_message_3":{
+					"title":"Subscription Trial Part 3",
+					"value":"is ending in only 3 days! If you have any questions or concerns, please contact us! We are happy to help."
+				},
+				"trial_ending_message_4":{
+					"title":"Subscription Trial Part 4",
+					"value":"We hope you stick with us, but if you decide this isn't for you, you may cancel at any time prior to the end of your trial to prevent being charged. To cancel, log into your account, click manage subscriptions, view your subscription, and cancel on the details page."
+				},
+				"trial_ending_message_link":{
+					"title":"View Subscription Information",
+					"value":"View Subscription Information"
+				},
+				"subscription_trial_ending_email_title":{
+					"title":"Subscription Trial Email Title",
+					"value":"Your Trial is Ending in 3 Days"
+				}
+			}
+		},
+		"subscription_ended":{
+			"label":"Subscription Ended Email",
+			"options":{
+				"ended_message_1":{
+					"title":"Subscription Ended Part 1",
+					"value":"Your subscription with us has either ended, been cancelled, or expired due to too many failed payments."
+				},
+				"ended_message_2":{
+					"title":"Subscription Ended Part 2",
+					"value":"We are sorry to see you go and hope you return. If this subscription was cancelled by accident, you may click the link below to purchase a new subscription."
+				},
+				"ended_details":{
+					"title":"Subscription Ended Details",
+					"value":"The following subscription has ended:"
+				},
+				"emded_message_link":{
+					"title":"Start a New Subscription",
+					"value":"Start a New Subscription"
+				},
+				"subscription_ended_email_title":{
+					"title":"Subscription Ended Email Title",
+					"value":"Your Subscription Has Ended"
+				}
+			}
+		},
+		"account_login":{
+			"label":"Account - Login",
+			"options":{
+				"account_login_title":{
+					"title":"Account, Login Title",
+					"value":"Returning Customer"
+				},
+				"account_login_sub_title":{
+					"title":"Account, Login Sub Title",
+					"value":"Sign in below to access your existing account."
+				},
+				"account_login_email_label":{
+					"title":"Account, Login, Email Label",
+					"value":"Email Address"
+				},
+				"account_login_password_label":{
+					"title":"Account, Login, Password Label",
+					"value":"Password"
+				},
+				"account_login_button":{
+					"title":"Account, Login Button",
+					"value":"SIGN IN"
+				},
+				"account_login_forgot_password_link":{
+					"title":"Account, Login, Forgot Password Link",
+					"value":"Forgot Your Password?"
+				},
+				"account_login_account_information_title":{
+					"title":"Account, Login Complete Title",
+					"value":"Account Information"
+				},
+				"account_login_account_information_text":{
+					"title":"Account, Login Complete Text",
+					"value":"You are currently checking out as Demo User. To checkout with a different account,"
+				},
+				"account_login_account_information_logout_link":{
+					"title":"Account, Login Complete, Logout Link",
+					"value":"click here"
+				},
+				"account_new_user_title":{
+					"title":"Account, Login, New User Title",
+					"value":"New User"
+				},
+				"account_new_user_sub_title":{
+					"title":"Account, Login, New User Sub Title",
+					"value":"Not registered? Click the button below"
+				},
+				"account_new_user_message":{
+					"title":"Account, Login, New User Message",
+					"value":"No account? Create an account to take full advantage of this website."
+				},
+				"account_new_user_button":{
+					"title":"Account, Login, New User Button",
+					"value":"CREATE ACCOUNT"
+				}
+			}
+		},
+		"account_forgot_password":{
+			"label":"Account - Forgot Password",
+			"options":{
+				"account_forgot_password_title":{
+					"title":"Account, Retrieve Password Title",
+					"value":"Retrieve Your Password"
+				},
+				"account_forgot_password_email_label":{
+					"title":"Account, Retrieve Password Email Label",
+					"value":"Email"
+				},
+				"account_forgot_password_button":{
+					"title":"Account, Retrieve Password Button",
+					"value":"RETRIEVE PASSWORD"
+				}
+			}
+		},
+		"account_validation_email":{
+			"label":"Account - Validation Email",
+			"options":{
+				"account_validation_email_message":{
+					"title":"Account, Short Validate Email Message",
+					"value":"To activate your account, please click the link below."
+				},
+				"account_validation_email_title":{
+					"title":"Account, Activate Your Account Title",
+					"value":"Please Activate Your Account"
+				},
+				"account_validation_email_link":{
+					"title":"Account, Activate Your Account Link",
+					"value":"Click Here to Activate"
+				}
+			}
+		},
+		"account_register":{
+			"label":"Account - Register",
+			"options":{
+				"account_register_title":{
+					"title":"Account, Register Title",
+					"value":"Create an Account"
+				},
+				"account_register_first_name":{
+					"title":"Account, Register, First Name Label",
+					"value":"First Name"
+				},
+				"account_register_last_name":{
+					"title":"Account, Register, Last Name Label",
+					"value":"Last Name"
+				},
+				"account_register_email":{
+					"title":"Account, Register, Email Label",
+					"value":"Email Address"
+				},
+				"account_register_password":{
+					"title":"Account, Register, Password Label",
+					"value":"Password"
+				},
+				"account_register_retype_password":{
+					"title":"Account, Register, Re-type Password Label",
+					"value":"Re-type Password"
+				},
+				"account_register_subscribe":{
+					"title":"Account, Register, Subscribe Text",
+					"value":"Would you like to subscribe to our email list?"
+				},
+				"account_register_agree_terms":{
+					"title":"Account, Register, Agree Terms Text",
+					"value":"Do you agree to our website terms, data policy, and cookies policy?"
+				},
+				"account_register_button":{
+					"title":"Account, Register Button",
+					"value":"REGISTER"
+				},
+				"account_billing_information_user_notes":{
+					"title":"Account, Billing, User Notes",
+					"value":"Additional Information about your Registration"
+				},
+				"account_register_email_title":{
+					"title":"Account, Register Email Title",
+					"value":"New EasyCart Registration"
+				},
+				"account_register_email_message":{
+					"title":"Account, Register Email Message",
+					"value":"New Registration with Email Address:"
+				}
+			}
+		},
+		"account_navigation":{
+			"label":"Account - Navigation",
+			"options":{
+				"account_navigation_title":{
+					"title":"Account, Navigation Title",
+					"value":"Account Navigation"
+				},
+				"account_navigation_basic_inforamtion":{
+					"title":"Account, Navigation, Basic Information Link",
+					"value":"basic information"
+				},
+				"account_navigation_orders":{
+					"title":"Account, Navigation, View Orders Link",
+					"value":"view orders"
+				},
+				"account_navigation_password":{
+					"title":"Account, Navigation, Change Password Link",
+					"value":"change password"
+				},
+				"account_navigation_subscriptions":{
+					"title":"Account, Navigation, Subscriptions Link",
+					"value":"manage subscriptions"
+				},
+				"account_navigation_payment_methods":{
+					"title":"Account, Navigation, Payments Link",
+					"value":"manage payment methods"
+				},
+				"account_navigation_sign_out":{
+					"title":"Account, Navigation, Sign Out Link",
+					"value":"sign out"
+				},
+				"account_navigation_dashboard":{
+					"title":"Account, Navigation, Dashboard Link",
+					"value":"account dashboard"
+				},
+				"account_navigation_billing_information":{
+					"title":"Account, Navigation, Billing Link",
+					"value":"billing information"
+				},
+				"account_navigation_shipping_information":{
+					"title":"Account, Navigation, Shipping Link",
+					"value":"shipping information"
+				}
+			}
+		},
+		"account_dashboard":{
+			"label":"Account - Dashboard",
+			"options":{
+				"account_dashboard_recent_orders_title":{
+					"title":"Account, Dashboard, Recent Orders Title",
+					"value":"Recent Orders"
+				},
+				"account_dashboard_recent_orders_none":{
+					"title":"Account, Dashboard, Recent Order, No Orders",
+					"value":"No Orders Have Been Placed"
+				},
+				"account_dashboard_all_orders_linke":{
+					"title":"Account, Dashboard, All Orders Link",
+					"value":"VIEW ALL ORDERS"
+				},
+				"account_dashboard_order_placed":{
+					"title":"Account, Dashboard, Order Placed Label",
+					"value":"ORDER PLACED"
+				},
+				"account_dashboard_order_total":{
+					"title":"Account, Dashboard, Total Label",
+					"value":"TOTAL"
+				},
+				"account_dashboard_order_ship_to":{
+					"title":"Account, Dashboard, Ship To Label",
+					"value":"SHIP TO"
+				},
+				"account_dashboard_order_order_label":{
+					"title":"Account, Dashboard, Order Label",
+					"value":"ORDER"
+				},
+				"account_dashboard_order_view_details":{
+					"title":"Account, Dashboard, View Details Link",
+					"value":"View Details"
+				},
+				"account_dashboard_order_buy_item_again":{
+					"title":"Account, Dashboard, Buy Item Again",
+					"value":"Buy Item Again"
+				},
+				"account_dashboard_preference_title":{
+					"title":"Account, Dashboard, Preference Title",
+					"value":"Account Preferences"
+				},
+				"account_dashboard_email_title":{
+					"title":"Account, Dashboard, Email Title",
+					"value":"Your Primary Email"
+				},
+				"account_dashboard_email_edit_link":{
+					"title":"Account, Dashboard, Email Edit Link",
+					"value":"edit"
+				},
+				"account_dashboard_email_note":{
+					"title":"Account, Dashboard, Email Note",
+					"value":"(This is used to log in)"
+				},
+				"account_dashboard_billing_title":{
+					"title":"Account, Dashboard, Billing Title",
+					"value":"Billing Address"
+				},
+				"account_dashboard_billing_link":{
+					"title":"Account, Dashboard, Billing Edit Link",
+					"value":"edit billing address"
+				},
+				"account_dashboard_shipping_title":{
+					"title":"Account, Dashboard, Shipping Title",
+					"value":"Shipping Address"
+				},
+				"account_dashboard_shipping_link":{
+					"title":"Account, Dashboard, Shipping Edit Link",
+					"value":"edit shipping address"
+				}
+			}
+		},
+		"account_personal_information":{
+			"label":"Account - Edit Personal Information",
+			"options":{
+				"account_personal_information_title":{
+					"title":"Account, Personal Information Title",
+					"value":"Personal Information"
+				},
+				"account_personal_information_sub_title":{
+					"title":"Account, Personal Information Sub Title",
+					"value":"Please note: Changes made to your account information, including shipping addresses, will only affect new orders. All previously placed orders will be sent to the address listed on the date of purchase."
+				},
+				"account_personal_information_first_name":{
+					"title":"Account, Personal Information, First Name Label",
+					"value":"First Name"
+				},
+				"account_personal_information_last_name":{
+					"title":"Account, Personal Information, Last Name Label",
+					"value":"Last Name"
+				},
+				"account_personal_information_email":{
+					"title":"Account, Personal Information, Email Label",
+					"value":"Email Address"
+				},
+				"account_personal_information_subscribe":{
+					"title":"Account, Personal Information, Subscribe Label",
+					"value":"Would you like to subscribe to our newsletter?"
+				},
+				"account_personal_information_update_button":{
+					"title":"Account, Personal Information, Update Button",
+					"value":"UPDATE"
+				},
+				"account_personal_information_cancel_link":{
+					"title":"Account, Personal Information, Cancel Link",
+					"value":"CANCEL"
+				},
+				"account_personal_information_email_other":{
+					"title":"Account, Personal Information, Additional Email Label",
+					"value":"Additional Email Address"
+				}
+			}
+		},
+		"account_password":{
+			"label":"Account - Edit Password",
+			"options":{
+				"account_password_title":{
+					"title":"Account, Password Title",
+					"value":"Edit Your Password"
+				},
+				"account_password_sub_title":{
+					"title":"Account, Password Sub Title",
+					"value":"Please note: Once you change your password you will be required to use the new password each time you log into our site."
+				},
+				"account_password_current_password":{
+					"title":"Account, Password, Current Password Label",
+					"value":"Current Password"
+				},
+				"account_password_new_password":{
+					"title":"Account, Password, New Password Label",
+					"value":"New Password"
+				},
+				"account_password_retype_new_password":{
+					"title":"Account, Password, Retype New Password Label",
+					"value":"Retype New Password"
+				},
+				"account_password_update_button":{
+					"title":"Account, Password, Update Button",
+					"value":"UPDATE"
+				},
+				"account_password_cancel_button":{
+					"title":"Account, Password, Cancel Link",
+					"value":"CANCEL"
+				}
+			}
+		},
+		"account_billing_information":{
+			"label":"Account - Edit Billing Information",
+			"options":{
+				"account_billing_information_title":{
+					"title":"Account, Billing Information Title",
+					"value":"Billing Information"
+				},
+				"account_billing_information_first_name":{
+					"title":"Account, Billing Information, First Name Label",
+					"value":"First Name"
+				},
+				"account_billing_information_last_name":{
+					"title":"Account, Billing Information, Last Name Label",
+					"value":"Last Name"
+				},
+				"account_billing_information_address":{
+					"title":"Account, Billing Information, Address Label",
+					"value":"Address"
+				},
+				"account_billing_information_address2":{
+					"title":"Account, Billing Information, Address 2 Label",
+					"value":"Apartment, Suite, etc."
+				},
+				"account_billing_information_city":{
+					"title":"Account, Billing Information, City Label",
+					"value":"City"
+				},
+				"account_billing_information_state":{
+					"title":"Account, Billing Information, State Label",
+					"value":"State"
+				},
+				"account_billing_information_default_no_state":{
+					"title":"Account, Billing Information, No State Label",
+					"value":"Select a State"
+				},
+				"account_billing_information_zip":{
+					"title":"Account, Billing Information, Zip Label",
+					"value":"Zip Code"
+				},
+				"account_billing_information_country":{
+					"title":"Account, Billing Information, Country Label",
+					"value":"Country"
+				},
+				"account_billing_information_default_no_country":{
+					"title":"Account, Billing Information, No Country Label",
+					"value":"Select a Country"
+				},
+				"account_billing_information_phone":{
+					"title":"Account, Billing Information, Phone Label",
+					"value":"Phone"
+				},
+				"account_billing_information_update_button":{
+					"title":"Account, Billing Information, Update Button",
+					"value":"UPDATE"
+				},
+				"account_billing_information_cancel":{
+					"title":"Account, Billing Information, Cancel Link",
+					"value":"CANCEL"
+				}
+			}
+		},
+		"account_shipping_information":{
+			"label":"Account - Edit Shipping Information",
+			"options":{
+				"account_shipping_information_title":{
+					"title":"Account, Shipping Information Title",
+					"value":"Shipping Information"
+				},
+				"account_shipping_information_first_name":{
+					"title":"Account, Shipping Information, First Name Label",
+					"value":"First Name"
+				},
+				"account_shipping_information_last_name":{
+					"title":"Account, Shipping Information, Last Name Label",
+					"value":"Last Name"
+				},
+				"account_shipping_information_address":{
+					"title":"Account, Shipping Information, Address Label",
+					"value":"Address"
+				},
+				"account_shipping_information_address2":{
+					"title":"Account, Shipping Information, Address 2 Label",
+					"value":"Apartment, suite, etc."
+				},
+				"account_shipping_information_city":{
+					"title":"Account, Shipping Information, City Label",
+					"value":"City"
+				},
+				"account_shipping_information_state":{
+					"title":"Account, Shipping Information, State Label",
+					"value":"State"
+				},
+				"account_shipping_information_default_no_state":{
+					"title":"Account, Shipping Information, No State Label",
+					"value":"Select a State"
+				},
+				"account_shipping_information_zip":{
+					"title":"Account, Shipping Information, Zip Label",
+					"value":"Zip Code"
+				},
+				"account_shipping_information_country":{
+					"title":"Account, Shipping Information, Country Label",
+					"value":"Country"
+				},
+				"account_shipping_information_default_no_country":{
+					"title":"Account, Shipping Information, No Country Label",
+					"value":"Select a Country"
+				},
+				"account_shipping_information_phone":{
+					"title":"Account, Shipping Information, Phone Label",
+					"value":"Phone"
+				},
+				"account_shipping_information_update_button":{
+					"title":"Account, Shipping Information, Update Button",
+					"value":"UPDATE"
+				},
+				"account_shipping_information_cancel":{
+					"title":"Account, Shipping Information, Cancel Link",
+					"value":"CANCEL"
+				}
+			}
+		},
+		"account_orders":{
+			"label":"Account - Orders",
+			"options":{
+				"account_orders_title":{
+					"title":"Account, Orders Title",
+					"value":"Your Order History"
+				},
+				"account_orders_header_1":{
+					"title":"Account, Orders, Header 1",
+					"value":"ID"
+				},
+				"account_orders_header_2":{
+					"title":"Account, Orders, Header 2",
+					"value":"Date"
+				},
+				"account_orders_header_3":{
+					"title":"Account, Orders, Header 3",
+					"value":"Total"
+				},
+				"account_orders_header_4":{
+					"title":"Account, Orders, Header 4",
+					"value":"Status"
+				},
+				"account_orders_view_order_button":{
+					"title":"Account, Orders, View Order Button",
+					"value":"VIEW ORDER"
+				}
+			}
+		},
+		"account_forgot_password_email":{
+			"label":"Account - Forgot Password Recovery Email",
+			"options":{
+				"account_forgot_password_email_title":{
+					"title":"Account, Password Recovery Email, Email Title",
+					"value":"Your New Password"
+				},
+				"account_forgot_password_email_dear":{
+					"title":"Account, Password Recovery Email, Dear User",
+					"value":"Dear"
+				},
+				"account_forgot_password_email_your_new_password":{
+					"title":"Account, Password Recovery Email, Your New Password",
+					"value":"Your new password is:"
+				},
+				"account_forgot_password_email_change_password":{
+					"title":"Account, Password Recovery Email, Change Password Text",
+					"value":"Be sure to log into your account and change your password to something you can remember."
+				},
+				"account_forgot_password_email_thank_you":{
+					"title":"Account, Password Recovery Email, Thank You Text",
+					"value":"Thank You Very much!"
+				}
+			}
+		},
+		"account_order_details":{
+			"label":"Account - Order Details",
+			"options":{
+				"account_orders_details_order_info_title":{
+					"title":"Account, Orders Details, Order Information Title",
+					"value":"Order Information"
+				},
+				"account_orders_details_your_order_title":{
+					"title":"Account, Orders Details, Your Order Title",
+					"value":"Your Order"
+				},
+				"account_orders_details_order_number":{
+					"title":"Account, Orders Details, Order Number Label",
+					"value":"Order Number:"
+				},
+				"account_orders_details_order_date":{
+					"title":"Account, Orders Details, Order Date Label",
+					"value":"Order Date:"
+				},
+				"account_orders_details_order_status":{
+					"title":"Account, Orders Details, Order Status Label",
+					"value":"Order Status:"
+				},
+				"account_orders_details_order_tracking":{
+					"title":"Account, Orders Details, Order Tracking Label",
+					"value":"Tracking Number:"
+				},
+				"account_orders_details_shipping_method":{
+					"title":"Account, Orders Details, Shipping Method Label",
+					"value":"Shipping Method:"
+				},
+				"account_orders_details_coupon_code":{
+					"title":"Account, Orders Details, Coupon Code Label",
+					"value":"Coupon Code:"
+				},
+				"account_orders_details_gift_card":{
+					"title":"Account, Orders Details, Gift Card Label",
+					"value":"Gift Card:"
+				},
+				"account_orders_details_view_subscription":{
+					"title":"Account, Orders Details, View Subscription",
+					"value":"View Subscription Details"
+				},
+				"account_orders_details_billing_label":{
+					"title":"Account, Orders Details, Billing Label",
+					"value":"Billing Address"
+				},
+				"account_orders_details_shipping_label":{
+					"title":"Account, Orders Details, Shipping Label",
+					"value":"Shipping Address"
+				},
+				"account_orders_details_payment_method":{
+					"title":"Account, Orders Details, Payment Method",
+					"value":"Payment Method:"
+				},
+				"account_order_details_payment_method_manual":{
+					"title":"Account, Order Details, Payment Method, Manual Bill Label",
+					"value":"Direct Deposit"
+				},
+				"account_orders_details_subtotal":{
+					"title":"Account, Orders Details, Subtotal",
+					"value":"Sub Total:"
+				},
+				"account_orders_details_tax_total":{
+					"title":"Account, Orders Details, Tax Total",
+					"value":"Tax Total:"
+				},
+				"account_orders_details_shipping_total":{
+					"title":"Account, Orders Details, Shipping Total",
+					"value":"Shipping Total:"
+				},
+				"account_orders_details_discount_total":{
+					"title":"Account, Orders Details, Discount Total",
+					"value":"Discount Total:"
+				},
+				"account_orders_details_duty_total":{
+					"title":"Account, Orders Details, Duty Total",
+					"value":"Duty Total:"
+				},
+				"account_orders_details_vat_total":{
+					"title":"Account, Orders Details, VAT Total",
+					"value":"VAT Total:"
+				},
+				"account_orders_details_refund_total":{
+					"title":"Account, Orders Details, Refund Total",
+					"value":"Refunded Amount:"
+				},
+				"account_orders_details_refund_total_short":{
+					"title":"Account, Orders Details, Refund Total Short",
+					"value":"Refund Total"
+				},
+				"account_orders_details_grand_total":{
+					"title":"Account, Orders Details, Grand Total",
+					"value":"Order Total:"
+				},
+				"account_orders_details_header_1":{
+					"title":"Account, Orders Details, Header 1",
+					"value":"Product"
+				},
+				"account_orders_details_header_2":{
+					"title":"Account, Orders Details, Header 2",
+					"value":"Options"
+				},
+				"account_orders_details_header_3":{
+					"title":"Account, Orders Details, Header 3",
+					"value":"Price"
+				},
+				"account_orders_details_header_4":{
+					"title":"Account, Orders Details, Header 4",
+					"value":"Quantity"
+				},
+				"account_orders_details_header_5":{
+					"title":"Account, Orders Details, Header 5",
+					"value":"Total"
+				},
+				"account_orders_details_gift_message":{
+					"title":"Account, Orders Details, Gift Card Message",
+					"value":"message: "
+				},
+				"account_orders_details_gift_from":{
+					"title":"Account, Orders Details, Gift Card From",
+					"value":"from: "
+				},
+				"account_orders_details_gift_to":{
+					"title":"Account, Orders Details, Gift Card To",
+					"value":"to: "
+				},
+				"account_orders_details_gift_card_id":{
+					"title":"Account, Orders Details, Gift Card ID",
+					"value":"Gift Card Code: "
+				},
+				"account_orders_details_print_online":{
+					"title":"Account, Orders Details, Print Online Link",
+					"value":"Print Online"
+				},
+				"account_orders_details_download":{
+					"title":"Account, Orders Details, Download",
+					"value":"Download"
+				},
+				"account_orders_details_downloads_used":{
+					"title":"Account, Orders Details, Downloads Used",
+					"value":"Downloads Used"
+				},
+				"account_orders_details_downloads_expire_time":{
+					"title":"Account, Orders Details, Download Expiration",
+					"value":"Download Expires On:"
+				},
+				"account_orders_details_your_codes":{
+					"title":"Account, Orders Details, Your Codes",
+					"value":"Your Code(s):"
+				},
+				"complete_payment":{
+					"title":"Account, Orders Details, Complete Payment",
+					"value":"Complete Order Payment"
+				},
+				"order_status_status_not_found":{
+					"title":"Account, Orders Status, Status Not Found",
+					"value":"Status Not Found"
+				},
+				"order_status_order_shipped":{
+					"title":"Account, Orders Status, Order Shipped",
+					"value":"Order Shipped"
+				},
+				"order_status_order_confirmed":{
+					"title":"Account, Orders Status, Order Confirmed",
+					"value":"Order Confirmed"
+				},
+				"order_status_order_on_hold":{
+					"title":"Account, Orders Status, Order on Hold",
+					"value":"Order on Hold"
+				},
+				"order_status_order_started":{
+					"title":"Account, Orders Status, Order Started",
+					"value":"Order Started"
+				},
+				"order_status_card_approved":{
+					"title":"Account, Orders Status, Card Approved",
+					"value":"Card Approved"
+				},
+				"order_status_card_denied":{
+					"title":"Account, Orders Status, Card Denied",
+					"value":"Card Denied"
+				},
+				"order_status_third_party_pending":{
+					"title":"Account, Orders Status, Third Party Pending",
+					"value":"Third Party Pending"
+				},
+				"order_status_third_party_error":{
+					"title":"Account, Orders Status, Third Party Error",
+					"value":"Third Party Error"
+				},
+				"order_status_third_party_approved":{
+					"title":"Account, Orders Status, Third Party Approved",
+					"value":"Third Party Approved"
+				},
+				"order_status_ready_for_pickup":{
+					"title":"Account, Orders Status, Ready for Pickup",
+					"value":"Ready for Pickup"
+				},
+				"order_status_pending_approval":{
+					"title":"Account, Orders Status, Pending Approval",
+					"value":"Pending Approval"
+				},
+				"order_status_direct_deposit_pending":{
+					"title":"Account, Orders Status, Direct Deposit Pending",
+					"value":"Direct Deposit Pending"
+				},
+				"order_status_direct_deposit_received":{
+					"title":"Account, Orders Status, Direct Deposit Received",
+					"value":"Direct Deposit Received"
+				},
+				"order_status_refunded_order":{
+					"title":"Account, Orders Status, Refunded Order",
+					"value":"Refunded Order"
+				},
+				"order_status_partial_refund":{
+					"title":"Account, Orders Status, Partial Refund",
+					"value":"Partial Refund"
+				},
+				"order_status_order_picked_up":{
+					"title":"Account, Orders Status, Order Picked UP",
+					"value":"Order Picked Up"
+				},
+				"no_order_found":{
+					"title":"Account, No Order Found",
+					"value":"Order was not found or is not associated with the account you are currently logged into"
+				},
+				"return_to_dashboard":{
+					"title":"Account, Return to Dashboard",
+					"value":"Return to Account Dashboard"
+				},
+				"account_orders_details_email":{
+					"title":"Account, Orders Details, Order Email Label",
+					"value":"Email:"
+				},
+				"account_orders_details_email_other":{
+					"title":"Account, Orders Details, Order Additional Email Label",
+					"value":"Additional Email:"
+				}
+			}
+		},
+		"account_subscriptions":{
+			"label":"Account - Subscriptions",
+			"options":{
+				"account_subscriptions_title":{
+					"title":"Account, Subscriptions Title",
+					"value":"Your Active Subscriptions"
+				},
+				"account_canceled_subscriptions_title":{
+					"title":"Account, Canceled Subscriptions Title",
+					"value":"Your Canceled Subscriptions"
+				},
+				"account_subscriptions_header_1":{
+					"title":"Account, Subscriptions, Header 1",
+					"value":"Subscription Name"
+				},
+				"account_subscriptions_header_2":{
+					"title":"Account, Subscriptions, Header 2",
+					"value":"Next Bill Date"
+				},
+				"account_subscriptions_header_3":{
+					"title":"Account, Subscriptions, Header 3",
+					"value":"Last Charged"
+				},
+				"account_subscriptions_header_4":{
+					"title":"Account, Subscriptions, Header 4",
+					"value":"Price/Cycle"
+				},
+				"account_subscriptions_view_subscription_button":{
+					"title":"Account, Subscriptions, View Details Button",
+					"value":"VIEW DETAILS"
+				},
+				"account_subscriptions_none_found":{
+					"title":"Account, Subscriptions, None Found",
+					"value":"There are no subscriptions associated with your account."
+				},
+				"update_subscription_subtitle":{
+					"title":"Account, Subscription Details, Credit Card Note",
+					"value":"You are not required to update your credit card information."
+				},
+				"save_changes_button":{
+					"title":"Account, Subscription Details, Save Changes Button",
+					"value":"SAVE CHANGES"
+				},
+				"cancel_subscription_button":{
+					"title":"Account, Subscription Details, Cancel Subscription Button",
+					"value":"CANCEL SUBSCRIPTION"
+				},
+				"cancel_subscription_confirm_text":{
+					"title":"Account, Subscription Details, Cancel Subscription Button",
+					"value":"Are you sure you would like to cancel this subscription?"
+				},
+				"subscription_details_next_billing":{
+					"title":"Account, Subscription Details, Next Billing Date",
+					"value":"Next Billing Date"
+				},
+				"subscription_details_last_payment":{
+					"title":"Account, Subscription Details, Last Payment Date",
+					"value":"Last Payment Date"
+				},
+				"subscription_details_current_billing":{
+					"title":"Account, Subscription Details, Current Billing Title",
+					"value":"Current Billing Method"
+				},
+				"subscription_details_notice":{
+					"title":"Account, Subscription Details, User Notice",
+					"value":"*NOTICE: any changes to the billing method or subscription plan will take effect in the next billing cycle. Pricing changes will be prorated beginning immediately and will be reflected on your next bill."
+				},
+				"subscription_details_past_payments":{
+					"title":"Account, Subscription Details, Past Payments Title",
+					"value":"Past Payments"
+				}
+			}
+		},
+		"ec_errors":{
+			"label":"Store Error Text",
+			"options":{
+				"login_failed":{
+					"title":"Account, User Login Failed",
+					"value":"The username or password you entered is incorrect."
+				},
+				"register_email_error":{
+					"title":"Account Registration Email In Use Error",
+					"value":"The email you have entered already has an account."
+				},
+				"no_reset_email_found":{
+					"title":"No Email Found Error",
+					"value":"The email address you entered was not found."
+				},
+				"personal_information_update_error":{
+					"title":"Account, updating personal info error",
+					"value":"An error occurred while updating your personal information."
+				},
+				"password_wrong_current":{
+					"title":"Wrong password entered Error",
+					"value":"The current password you entered did not match your account password."
+				},
+				"password_no_match":{
+					"title":"Passwords do not match Error",
+					"value":"The new password and the retype new password values did not match."
+				},
+				"password_update_error":{
+					"title":"password update error",
+					"value":"An error occurred while updating your password."
+				},
+				"billing_information_error":{
+					"title":"Account, billing information update error",
+					"value":"An error occurred while updating your billing information."
+				},
+				"shipping_information_error":{
+					"title":"Account, shipping information update error",
+					"value":"An error occurred while updating your shipping information."
+				},
+				"email_exists_error":{
+					"title":"Cart, create account on checkout, email exists",
+					"value":"This email already has an account. Please login or use a different email address to continue."
+				},
+				"3dsecure_failed":{
+					"title":"Cart, Optional, Error message when 3D Secure Fails, Gateway Dependent",
+					"value":"Your payment could not completed because the 3D Secure method failed. Please try your payment again. If your problem persists, please contact us to have the issue resolved."
+				},
+				"manualbill_failed":{
+					"title":"Cart, Optional, Manual billing failed, Gateway Dependent",
+					"value":"Your payment could not completed, manual billing failed. Please try again."
+				},
+				"thirdparty_failed":{
+					"title":"Cart, Optional, Third Party Failed, Gateway Dependent",
+					"value":"Your payment could not completed, third party failed. Please try again."
+				},
+				"payment_failed":{
+					"title":"Cart, Optional, Credit Card Failed, Gateway Dependent",
+					"value":"Your payment could not completed because your credit card could not be verified. Please check your credit card information and try again. If your problem persists, please contact us to complete payment."
+				},
+				"ideal_failed":{
+					"title":"Cart, Optional, iDEAL Failed, Gateway Dependent",
+					"value":"Your payment has failed to complete, please try again or contact us if you continue to have problems."
+				},
+				"already_subscribed":{
+					"title":"Cart, Optional, Already Subscribed, Gateway Dependent",
+					"value":"You have already subscribed to this product. Please visit your account to manage your active subscriptions."
+				},
+				"subscription_not_found":{
+					"title":"Cart, Optional, Subscription Not Found, Gateway Dependent",
+					"value":"An error has occurred while processing your request and the subscription requested was not found. Contact us to resolve the issue."
+				},
+				"invalid_address":{
+					"title":"Cart, Invalid Live Shipping Address",
+					"value":"Something is wrong with the address you have entered. Please check your city, state, zip, and country to make sure the values are correct."
+				},
+				"activation_error":{
+					"title":"Account, Activation Error",
+					"value":"An error has occurred while attempting to activate your account. Please contact us to have the issue resolved."
+				},
+				"not_activated":{
+					"title":"Account, Not Activated",
+					"value":"The account you are attempting to access has not been activated. Please activate your account through the activation email sent when you signed up for an account or contact us if you are having problems."
+				},
+				"subscription_update_failed":{
+					"title":"Account, Subscription Update Error",
+					"value":"There was a problem while updating your subscription, please try again or contact us if you continue to have problems."
+				},
+				"subscription_cancel_failed":{
+					"title":"Account, Subscription Cancel Error",
+					"value":"There was a problem while cancelling your subscription, please try again or contact us if you continue to have problems."
+				},
+				"subscription_not_found":{
+					"title":"Account, Subscription Not Found Error",
+					"value":"An unknown error occurred in which the subscription you are trying to purchase was not found in our system. Please try again and contact us if you have continued difficulties."
+				},
+				"user_insert_error":{
+					"title":"Account, Subscription User Insert Error",
+					"value":"There was a problem creating your user account in our subscription system. Please contact us to complete your transaction."
+				},
+				"subscription_added_failed":{
+					"title":"Account, Subscription Plan Added Error",
+					"value":"There was an internal problem while creating this product in our subscription service. Please contact us to complete your transaction."
+				},
+				"subscription_failed":{
+					"title":"Account, Subscription Creation Error",
+					"value":"There was a problem while creating your subscription in our system. Please contact us to complete your transaction."
+				},
+				"nets_processing":{
+					"title":"Account, Nets Error Level Authorize",
+					"value":"While completing your order at Nets Netaxept, an error occurred. You may complete your order at any time by clicking the button below."
+				},
+				"nets_processing_payment":{
+					"title":"Account, Nets Error Level Capture",
+					"value":"Your payment has been authorized at Nets Netaxept, but there seems to have been an issue in our system. Please contact us to complete your order."
+				},
+				"subscription_payment_failed_title":{
+					"title":"Cart, Subscription Payment Failed",
+					"value":"Payment Failed"
+				},
+				"subscription_payment_failed_text":{
+					"title":"Cart, Subscription Payment Failed Text",
+					"value":"The payment has failed for one of your subscriptions. Please click the link below to update your credit card information."
+				},
+				"subscription_payment_failed_link":{
+					"title":"Cart, Subscription Payment Failed Link",
+					"value":"Click to Update Billing"
+				},
+				"minquantity":{
+					"title":"Store, Minimum Quantity Error",
+					"value":"This product requires a minimum purchase quantity."
+				},
+				"missing_gift_card_options":{
+					"title":"Store, Missing Gift Card Options",
+					"value":"Missing Gift Card Options"
+				},
+				"missing_inquiry_options":{
+					"title":"Store, Missing Inquiry Options",
+					"value":"Missing Inquiry Options"
+				},
+				"session_expired":{
+					"title":"Store, Session Expired",
+					"value":"Your session has expired, please enter your checkout information again to complete your order."
+				},
+				"invalid_vat_number":{
+					"title":"Cart, Invalid VAT Number Entered",
+					"value":"Your VAT registration number is invalid. Please leave this field empty or correct the error to continue."
+				},
+				"missing_payment_method":{
+					"title":"Cart, Select a Payment Method",
+					"value":"You must select a payment method to continue."
+				},
+				"cart_stock_invalid":{
+					"title":"Cart, Items are out of stock",
+					"value":"We apologize for the inconvenience, but some of the items in your cart are either no longer in stock or the quantity you were attempting to purchase exceeds what is left in stock. Please notice that your cart has been updated to reflect what remains in stock. Thank you."
+				},
+				"ideal_processing":{
+					"title":"Cart, iDeal Payment Processing",
+					"value":"We were unable to confirm your order status and your order will be placed in pending status until we can verify your payment information. Please contact us if you have questions."
+				},
+				"missing_shipping_method":{
+					"title":"Cart, No Shipping Method Selected",
+					"value":"Please select a shipping method to continue to payment."
+				},
+				"payment_processing":{
+					"title":"Cart, Payment is pending",
+					"value":"Your payment is still processing and has not yet been approved."
+				},
+				"delayed_payment_failed":{
+					"title":"Cart, Payment is failed after delayed processing",
+					"value":"Your payment failed after delayed processing. You will need to contact us to resolve the payment for your order."
+				},
+				"order_refunded":{
+					"title":"Cart, Order refunded",
+					"value":"Your order has been refunded."
+				},
+				"cart_location_error":{
+					"title":"Cart, Location Error",
+					"value":"There is an item in your cart that cannot be shipped to your current shipping address. Please remove this item from the cart or continue to the checkout details and enter a different address."
+				}
+			}
+		},
+		"ec_success":{
+			"label":"Store Success Text",
+			"options":{
+				"personal_information_updated":{
+					"title":"Account Personal Information Update Success",
+					"value":"Your personal information was updated successfully."
+				},
+				"password_updated":{
+					"title":"Account Personal Information Update Success",
+					"value":"Your password was updated successfully."
+				},
+				"billing_information_updated":{
+					"title":"Account Billing Update Success",
+					"value":"Your billing information was updated successfully."
+				},
+				"shipping_information_updated":{
+					"title":"Account Shipping Update Success",
+					"value":"Your shipping information was updated successfully."
+				},
+				"reset_email_sent":{
+					"title":"Account Email Sent Success",
+					"value":"Your new password has been sent to your email address."
+				},
+				"cart_account_created":{
+					"title":"Cart, Create Account, Account Created Success Text",
+					"value":"Your account has been created, all orders will now be associated with your new account."
+				},
+				"cart_account_free_order":{
+					"title":"Cart, Order Type, Gift Card, Free Order",
+					"value":"Free Order"
+				},
+				"store_added_to_cart":{
+					"title":"Store, Added Item to Cart",
+					"value":"You have successfully added [prod_title] to your cart."
+				},
+				"activation_success":{
+					"title":"Account, Activation Success",
+					"value":"You have successfully activated your account"
+				},
+				"validation_required":{
+					"title":"Account, Validation Required",
+					"value":"You have successfully created an account, but your email needs to be validated. An email has been sent to your account with instructions on how to complete the registration process. Contact us if you have any questions."
+				},
+				"subscription_updated":{
+					"title":"Account, Subscription Updated",
+					"value":"Your subscription has been updated successfully."
+				},
+				"subscription_canceled":{
+					"title":"Account, Subscription Canceled",
+					"value":"Your subscription has been canceled."
+				},
+				"inquiry_sent":{
+					"title":"Store, Inquiry Sent",
+					"value":"Your product inquiry has been sent successfully."
+				},
+				"add_to_cart_success":{
+					"title":"Store, Added to Cart",
+					"value":"Successfully Added to your Shopping Cart"
+				},
+				"adding_to_cart":{
+					"title":"Store, Adding to Cart",
+					"value":"Adding to Cart..."
+				}
+			}
+		},
+		"ec_shipping_email":{
+			"label":"Shipping Emailer",
+			"options":{
+				"shipping_email_title":{
+					"title":"Shipping Email Title",
+					"value":"Shipping Confirmation - Order Number"
+				},
+				"shipping_dear":{
+					"title":"Shipping Dear Customer",
+					"value":"Dear"
+				},
+				"shipping_subtitle1":{
+					"title":"Order Shipped First Half",
+					"value":"Your recent order  with the number"
+				},
+				"shipping_subtitle2":{
+					"title":"Order Shipped Second Half",
+					"value":"has been shipped! You should be receiving it within a short time period."
+				},
+				"shipping_description":{
+					"title":"Order Shipped Description",
+					"value":"You may check the status of your order by visiting your carrier's website and using the following tracking number."
+				},
+				"shipping_carrier":{
+					"title":"Order Shipped Carrier",
+					"value":"Package Carrier:"
+				},
+				"shipping_tracking":{
+					"title":"Order Shipped Tracking Number",
+					"value":"Package Tracking Number:"
+				},
+				"shipping_billing_label":{
+					"title":"Billing Label",
+					"value":"Billing Address"
+				},
+				"shipping_shipping_label":{
+					"title":"Shipping Label",
+					"value":"Shipping Address"
+				},
+				"shipping_product":{
+					"title":"Product Label",
+					"value":"Product"
+				},
+				"shipping_quantity":{
+					"title":"Quantity Label",
+					"value":"Qty"
+				},
+				"shipping_unit_price":{
+					"title":"Unit Price Label",
+					"value":"Unit Price"
+				},
+				"shipping_total_price":{
+					"title":"Total Price Label",
+					"value":"Ext Price"
+				},
+				"shipping_final_note1":{
+					"title":"Shipping Emailer Final Note Line 1",
+					"value":"Please double check your order when you receive it and let us know immediately if there are any concerns or issues. We always value your business and hope you enjoy your product."
+				},
+				"shipping_final_note2":{
+					"title":"Shipping Emailer Final Note Line 2",
+					"value":"Thank you very much!"
+				}
+			}
+		},
+		"ec_login_widget":{
+			"label":"Login Widget",
+			"options":{
+				"hello_text":{
+					"title":"Hello",
+					"value":"Hello"
+				},
+				"dashboard_text":{
+					"title":"Dashboard",
+					"value":"Dashboard"
+				},
+				"order_history_text":{
+					"title":"Order History",
+					"value":"Order History"
+				},
+				"billing_info_text":{
+					"title":"Billing Information",
+					"value":"Billing Information"
+				},
+				"shipping_info_text":{
+					"title":"Shipping Information",
+					"value":"Shipping Information"
+				},
+				"change_password_text":{
+					"title":"Change Password",
+					"value":"Change Password"
+				},
+				"sign_out_text":{
+					"title":"Sign Out",
+					"value":"Sign Out"
+				}
+			}
+		},
+		"ec_minicart_widget":{
+			"label":"Minicart Widget",
+			"options":{
+				"subtotal_text":{
+					"title":"Minicart Widget, Subtotal Text",
+					"value":"SUBTOTAL"
+				},
+				"checkout_button_text":{
+					"title":"Minicart Widget, Checkout Button Text",
+					"value":"CHECKOUT"
+				}
+			}
+		},
+		"ec_pricepoint_widget":{
+			"label":"Price Point Widget",
+			"options":{
+				"less_than":{
+					"title":"Less Than Text",
+					"value":"Less Than"
+				},
+				"greater_than":{
+					"title":"Greater Than Text",
+					"value":"Greater Than"
+				}
+			}
+		},
+		"ec_newsletter_popup":{
+			"label":"Newsletter Popup",
+			"options":{
+				"signup_form_title":{
+					"title":"Signup Form Title",
+					"value":"Newsletter Signup"
+				},
+				"signup_form_subtitle":{
+					"title":"Signup Form Subtitle",
+					"value":"Sign up now and never miss a thing!"
+				},
+				"signup_form_email_placeholder":{
+					"title":"Signup Form Email Placeholder",
+					"value":"email address"
+				},
+				"signup_form_name_placeholder":{
+					"title":"Signup Form Name Placeholder",
+					"value":"your name"
+				},
+				"signup_form_button_text":{
+					"title":"Signup Form Button",
+					"value":"SUBMIT"
+				},
+				"signup_form_success_title":{
+					"title":"Signup Success Title",
+					"value":"You're Signed Up!"
+				},
+				"signup_form_success_subtitle":{
+					"title":"Signup Success Subtitle",
+					"value":"Now that you are signed up, we will send you exclusive offers periodically."
+				}
+			}
+		},
+		"ec_abandoned_cart_email":{
+			"label":"Abandoned Cart Email",
+			"options":{
+				"email_title":{
+					"title":"Email Title",
+					"value":"You Left Items in Your Cart"
+				},
+				"something_in_cart":{
+					"title":"Main Title, Something in Cart",
+					"value":"THERE'S SOMETHING IN YOUR CART."
+				},
+				"complete_question":{
+					"title":"Informational Text",
+					"value":"Would you like to complete your purchase?"
+				},
+				"complete_checkout":{
+					"title":"Complete Checkout Button",
+					"value":"Complete Checkout"
+				}
+			}
+		},
+		"ec_stock_notify_email":{
+			"label":"Stock Notification Email",
+			"options":{
+				"email_title":{
+					"title":"Email Title",
+					"value":"Your Item is Back"
+				},
+				"view_now":{
+					"title":"View Link Text",
+					"value":"View Now"
+				},
+				"unsubscribe":{
+					"title":"Unsubscribe Link Text",
+					"value":"Unsubscribe from these notifications"
+				}
+			}
+		},
+		"ec_customer_review_notify_email":{
+			"label":"Product Review Notification Email",
+			"options":{
+				"email_title":{
+					"title":"Email Title",
+					"value":"New Review Available"
+				},
+				"reviewed_product":{
+					"title":"Reviewed Product Label",
+					"value":"Reviewed Product"
+				},
+				"submitted_by":{
+					"title":"Submitted By Label",
+					"value":"Submitted By"
+				},
+				"rating_label":{
+					"title":"Rating Label",
+					"value":"Rating"
+				},
+				"review_title":{
+					"title":"Review Title Label",
+					"value":"Review Title"
+				},
+				"review_comments":{
+					"title":"Review Comments Label",
+					"value":"Review Comments"
+				},
+				"anonymous":{
+					"title":"Anonymous Review Label",
+					"value":"Anonymous"
+				},
+				"link_text":{
+					"title":"Link Text",
+					"value":"View Review Now"
+				}
+			}
+		},
+		"language_code":{
+			"label":"Language Code",
+			"options":{
+				"code":{
+					"title":"Do Not Change",
+					"value":"EN"
+				}
+			}
+		}
+	}
+}

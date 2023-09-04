@@ -18,7 +18,7 @@
     height: 42px;
     position: relative;
     box-sizing: border-box;
-    width: 200px;
+    /* width: 200px; */
     text-overflow: ellipsis;
     white-space: nowrap;
 }
@@ -26,8 +26,7 @@
 
 .trp-language-switcher > div {
     box-sizing: border-box;
-    padding:4px 20px 3px 13px;
-    border: 1.5px solid #949494;
+    padding:4px 2px 3px 13px;
     border-radius: 2px;
     background-image: url(../../assets/images/arrow-down-3101.svg);
     background-repeat: no-repeat;
@@ -42,7 +41,7 @@
 
     background-repeat: no-repeat;
 
-    /* background-color: #fff; */
+    background-color: #000000;
 }
 
 .trp-language-switcher > div:hover {
@@ -52,7 +51,7 @@
 
 .trp-language-switcher > div > a {
     display: block;
-    padding: 7px 12px;
+    padding: 3px 5px;
     border-radius: 3px;
     text-decoration: none;
     color: #1E1E1E;
@@ -62,7 +61,7 @@
 }
 
 .trp-language-switcher > div > a:hover {
-    background: #F0F0F0;
+    background: #000000;
     border-radius: 2px;
 }
 .trp-language-switcher > div > a.trp-ls-shortcode-disabled-language {

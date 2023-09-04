@@ -1,0 +1,72 @@
+/* PUTTING ALL RTL SUPPORT IN THIS FILE. RANDOM, BUT SHOULD WORK.*/
+
+.ec_product_page, .ec_product_page div, .ec_product_page input, .ec_product_page span, 
+.ec_product_details_page div, .ec_product_details_page input, .ec_product_details_page span, 
+.ec_cart_page div, .ec_cart_page input, .ec_cart_page span, 
+.ec_account_page div, .ec_account_page input, .ec_account_page span{
+	direction:rtl !important;
+}
+
+.ec_searchwidget, .ec_menuwidget, .ec_cartwidget, .ec_categorywidget, .ec_manufacturerwidget, .ec_groupwidget, .ec_pricepointwidget, .ec_newsletterwidget, .ec_productwidget, .ec_specialswidget{
+	direction:rtl !important;
+	text-align:right !important;
+}
+.ec_product_title, .ec_product_stars, .ec_product_num_reviews, .ec_product_quick_view_box_content_row, .ec_product_quick_view_box_content_row2, .ec_product_quick_view_box_content_row3, .ec_product_details_quantity, .ec_product_details_title, .ec_product_details_model_number, .ec_product_details_price, .ec_product_details_discount, .ec_product_details_add_to_cart, .ec_product_details_description, .ec_product_details_customer_reviews_overall_title, .ec_customer_review_title, .ec_customer_review_description, .ec_product_details_specifications, .ec_product_details_customer_reviews_popup_label_row, .ec_product_details_customer_reviews_popup_title, .ec_featured_product_title {
+	text-align:right !important;	
+}
+.ec_product_quick_view_box_content_option_row, .ec_product_quick_view_box_content_option_row img, .ec_product_details_quantity, .ec_product_details_stars, .ec_product_details_review_count, .ec_product_details_model_number, .ec_product_details_option1_swatches img, .ec_product_details_option2_swatches img, .ec_product_details_option3_swatches img, .ec_product_details_option4_swatches img, .ec_product_details_option5_swatches img, .ec_product_details_social_media_icons img, .ec_product_details_customer_reviews_stars, .ec_product_details_customer_reviews_num_reviews, .ec_customer_review_title, .ec_customer_review_date, .ec_product_star_on, .ec_product_star_off, .ec_customer_review_stars, .ec_customer_review_description, .ec_product_details_specifications, .ec_product_details_customer_reviews_popup_rating_label, .ec_product_details_customer_reviews_popup_rating_stars, .ec_product_details_customer_reviews_popup_label_row, .ec_product_details_customer_reviews_popup_submit_button input[type="submit"], .ec_product_details_customer_reviews_popup_title, .ec_featured_product_title, .ec_featured_product_rating, .ec_featured_product_rating_stars, .ec_featured_product_rating_num_ratings, .ec_product_details_option_combo_error, .ec_product_details_option_combo {
+	float:right !important;	
+}
+.ec_product_quick_view_box_content_right{
+	float:right !important;
+	margin-right: 30px !important;
+	margin-left: 0px !important;	
+}
+.ec_product_details_customer_reviews_stars{
+	margin-right:25px;
+	margin-left:0px;
+}
+.ec_product_details_customer_reviews_num_reviews{
+	margin-right:8px;
+	margin-left:0px;
+}
+.ec_customer_review_date{
+	text-align:left;
+	width:25%;
+	margin-left:7px;
+}
+.ec_customer_review_title{
+	margin-right:8px;
+	margin-left:0px;
+}
+.ec_customer_review_stars, .ec_customer_review_description{
+	margin-right:5px;
+	margin-left:0px;
+}
+.ec_product_details_customer_reviews_popup_input_row input[type="text"], .ec_product_details_customer_reviews_popup_label_row, .ec_product_details_customer_reviews_popup_input_row textarea, .ec_product_details_customer_reviews_popup_submit_button input[type="submit"]{
+	margin-right:20px;	
+}
+.ec_product_details_customer_reviews_popup_rating_label{
+	margin-right:10px;	
+}
+.ec_product_details_customer_reviews_popup_close_button{
+	float:left;
+	text-align:left;
+}
+.ec_product_details_customer_reviews_popup_close_button span{
+	text-align:left;
+	margin-left:10px;
+	margin-right:0px;	
+}
+.ec_product_details_customer_reviews_popup_title span{
+	margin-left:0px;
+	margin-right:10px;
+}
+.ec_featured_product_rating_num_ratings{
+	margin-left:0px;
+	margin-right:5px;
+}
+div.ec_product_details_mag_viewer{
+	direction:ltr !important;	
+}
+/* END ALL RTL SUPPORT */

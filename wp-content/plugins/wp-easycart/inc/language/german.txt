@@ -1,0 +1,3298 @@
+{
+    "label": "Deutsch",
+    "options": {
+        "sort_bar": {
+            "label": "Produkt Seite Sortieren Menu",
+            "options": {
+                "sort_by_price_low": {
+                    "title": "Produkt Seite Sortieren Box Item 1",
+                    "value": "Preis aufsteigend"
+                },
+                "sort_by_price_high": {
+                    "title": "Produkt Seite Sortieren Box Item 2",
+                    "value": "Preis absteigend"
+                },
+                "sort_by_title_a": {
+                    "title": "Produkt Seite Sortieren Box Item 3",
+                    "value": "Titel A-Z"
+                },
+                "sort_by_title_z": {
+                    "title": "Produkt Seite Sortieren Box Item 4",
+                    "value": "Titel Z-A"
+                },
+                "sort_by_newest": {
+                    "title": "Produkt Seite Sortieren Box Item 5",
+                    "value": "neuste Produkte"
+                },
+                "sort_by_rating": {
+                    "title": "Produkt Seite Sortieren Box Item 6",
+                    "value": "beste Bewertung"
+                },
+                "sort_by_most_viewed": {
+                    "title": "Produkt Seite Sortieren Box Item 7",
+                    "value": "h\u00e4ufig aufgerufen"
+                },
+                "sort_default": {
+                    "title": "Default Sorting",
+                    "value": "Standard"
+                },
+				"sort_by_oldest":{
+					"title":"Product Page Sort Box Item 8",
+					"value":"Älteste"
+				}
+            }
+        },
+        "product_page": {
+            "label": "Produkt Seite",
+            "options": {
+                "product_quick_view": {
+                    "title": "Produkt Schnellansicht Label",
+                    "value": "+Schnellansicht"
+                },
+                "product_design_now": {
+                    "title": "Product Design Now Label",
+                    "value": "jetzt gestalten"
+                },
+                "product_no_results": {
+                    "title": "Produkt Seite keine Resultate",
+                    "value": "keine Resultate gefunden"
+                },
+                "product_items_per_page": {
+                    "title": "Produkt Seite Artikel pro Seite",
+                    "value": "Artikel pro Seite:"
+                },
+                "product_paging_page": {
+                    "title": "Produkt Seite Seite in Seite a von b",
+                    "value": "Seite"
+                },
+                "product_paging_of": {
+                    "title": "Produkt Seite of in Seite a von b",
+                    "value": "von"
+                },
+                "product_showing": {
+                    "title": "Product Page Num Results Showing",
+                    "value": "Es wurden"
+                },
+                "product_all": {
+                    "title": "Product Page Num Results all",
+                    "value": ""
+                },
+                "product_results": {
+                    "title": "Product Page Num Results",
+                    "value": "Eintr\u00e4ge gefunden"
+                },
+                "product_view_cart": {
+                    "title": "Product Page View Cart",
+                    "value": "Einkaufswagen"
+                },
+                "product_product_added_note": {
+                    "title": "Product Page Added to Cart Note",
+                    "value": "Das Produkt wurde in den Warenkorb gelegt."
+                },
+                "product_product_view_per_page": {
+                    "title": "Product Page View in Per Page",
+                    "value": "Ansicht"
+                },
+                "product_page_restricted_line_1": {
+                    "title": "Restricted Product Line 1",
+                    "value": "OPEN ACCESS ist nicht f\u00fcr diesen STORE ERLAUBT"
+                },
+                "product_page_restricted_line_2": {
+                    "title": "Restricted Product Line 2 Prior to Link",
+                    "value": "Bitte loggen Sie sich ein oder erstellen Sie ein Kundenkonto, indem Sie"
+                },
+                "product_page_restricted_link_text": {
+                    "title": "Restricted Product Link Text",
+                    "value": "hier klicken"
+                },
+                "product_page_restricted_line_3": {
+                    "title": "Restricted Product Line 2 Post Link",
+                    "value": ". Ihr Konto muss m\u00f6glicherweise verifiziert werden, bevor Sie auf den Shop zugreifen k\u00f6nnen."
+                },
+                "product_page_start_trial_1": {
+                    "title": "Start Your Trial Text Part 1",
+                    "value": "Beginnen Sie Ihren"
+                },
+                "product_page_start_trial_2": {
+                    "title": "Start Your Trial Text Part 2",
+                    "value": "Tag der kostenlosen Testversion!"
+                },
+                "product_inc_vat_text": {
+                    "title": "Including VAT Text",
+                    "value": "inklusive Mehrwertsteuer"
+                },
+                "product_excluding_vat_text": {
+                    "title": "Excluding VAT Text",
+                    "value": "ohne Mehrwertsteuer"
+                },
+                "product_page_notify_unsubscribe_success": {
+                    "title": "Product Notify Unsubscribe Success",
+                    "value": "Sie wurden erfolgreich von den Benachrichtigungen abgemeldet.                  "
+                },
+                "product_page_login_for_price": {
+                    "title": "Product Login for Pricing",
+                    "value": "Bitte loggen Sie sich ein um die Preis zu sehen."
+                },
+                "product_page_login_for_price_no_access": {
+                    "title": "Product Login for Pricing No Access",
+                    "value": "keine Preise verf\u00fcgbar"
+                },
+				"product_page_clear_filters":{
+					"title":"Clear Filters",
+					"value":"Filter löschen"
+				},
+				"product_page_filters":{
+					"title":"Filters",
+					"value":"Filter"
+				}
+            }
+        },
+        "quick_view": {
+            "label": "Quick View Panel",
+            "options": {
+                "quick_view_gift_card_message": {
+                    "title": "Geschenkkarte Nachricht Titel",
+                    "value": "SPECIAL MESSAGE"
+                },
+                "quick_view_gift_card_to_name": {
+                    "title": "Geschenkkarte zu Name Titel",
+                    "value": "AN"
+                },
+                "quick_view_gift_card_from_name": {
+                    "title": "Geschenkkarte von Name Titel",
+                    "value": "VON"
+                },
+                "quick_view_quantity": {
+                    "title": "Menge Titel",
+                    "value": "MENGE"
+                },
+                "quick_view_remaining": {
+                    "title": "label in x Artikel \u00fcbrig",
+                    "value": "\u00fcbrig"
+                },
+                "quick_view_add_to_cart": {
+                    "title": "zur Warenkorb Taste",
+                    "value": "zum Warenkorb hinzuf\u00fcgen"
+                },
+                "quick_view_select_options": {
+                    "title": "Produkt details fehlende Optionen Fehlertext",
+                    "value": "Bitte w\u00e4hlen Sie alle Optionen f\u00fcr dieses Produkt."
+                },
+                "quick_view_view_full_details": {
+                    "title": "Link Text vollst\u00e4ndige Produkt Details sehen",
+                    "value": "vollst\u00e4ndige Produktdetails anzeigen"
+                },
+				"quick_view_select_options":{
+					"title":"Produkt details fehlende Optionen Fehlertext",
+					"value":"Bitte wählen Sie alle Optionen für dieses Produkt."
+				}
+            }
+        },
+        "product_details": {
+            "label": "Product Details Page",
+            "options": {
+                "product_details_donation_label": {
+                    "title": "Ihre Spende Label",
+                    "value": "Ihre Spende: "
+                },
+                "product_details_minimum_donation": {
+                    "title": "Ihre Spende Minimum Label",
+                    "value": "minimale Spende:"
+                },
+                "product_details_gift_card_message": {
+                    "title": "Store Gift Card Message",
+                    "value": "f\u00fcgen Sie eine Nachricht ein"
+                },
+                "product_details_gift_card_to_name": {
+                    "title": "Geschenkkarte zu Name Titel",
+                    "value": "AN"
+                },
+                "product_details_gift_card_from_name": {
+                    "title": "Geschenkkarte von Name Titel",
+                    "value": "VON"
+                },
+                "product_details_quantity": {
+                    "title": "Menge Label",
+                    "value": "Menge"
+                },
+                "product_details_remaining": {
+                    "title": "x \u00fcbrig",
+                    "value": "\u00fcbrig"
+                },
+                "product_details_x_of_y": {
+                    "title": "Seite Text Trennwand",
+                    "value": "von"
+                },
+                "product_details_model_number": {
+                    "title": "Modellnummer Text",
+                    "value": "Modellnummer"
+                },
+                "product_details_reduced_price": {
+                    "title": "reduzierter Preis Text",
+                    "value": "REDUZIERTER PREIS, DEN SIE SPAREN"
+                },
+                "product_details_description": {
+                    "title": "Beschreibung Title",
+                    "value": "Beschreibung"
+                },
+                "product_details_customer_reviews": {
+                    "title": "Kundenbewertungen Titel",
+                    "value": "Kundenbewertungen"
+                },
+                "product_details_specifications": {
+                    "title": "Spezifikationen Titel",
+                    "value": "Daten"
+                },
+                "product_details_customer_rating": {
+                    "title": "Kundenbewertung",
+                    "value": "Gesamtbewertung der Kunden"
+                },
+                "product_details_review_based_on": {
+                    "title": "\u00dcberpr\u00fcfung auf",
+                    "value": "basierend auf "
+                },
+                "product_details_review": {
+                    "title": "\u00fcberpr\u00fcfen",
+                    "value": "Rezensionen"
+                },
+                "product_details_review_no_reviews": {
+                    "title": "Produkt Details, Kundenbewertung, keine Kritik",
+                    "value": "Es liegen noch keine Rezensionen vor, reichen Sie Ihre in dem daf\u00fcr vorgesehenen Feld ein."
+                },
+                "product_details_add_to_cart": {
+                    "title": "In den Warenkorb Taste Text",
+                    "value": "IN DEN WARENKORB"
+                },
+                "product_details_added_to_cart": {
+                    "title": "Checkout Now Text",
+                    "value": "ZUR KASSE"
+                },
+                "product_details_select_options": {
+                    "title": "Select Options Button",
+                    "value": "w\u00e4hlen Sie die Optionen aus"
+                },
+                "product_details_out_of_stock": {
+                    "title": "Ausverkauft Text",
+                    "value": "AUSVERKAUFT"
+                },
+                "product_details_sign_up_now": {
+                    "title": "jetzt registrieren Text",
+                    "value": "JETZT REGISTRIEREN"
+                },
+                "product_details_inquiry_title": {
+                    "title": "Inquiry Title",
+                    "value": "Produktanfrage einreichen"
+                },
+                "product_details_inquiry_error": {
+                    "title": "Inquiry Error Text",
+                    "value": "Bitte f\u00fcllen Sie alle erforderlichen Felder aus."
+                },
+                "product_details_inquiry_name": {
+                    "title": "Inquiry Name",
+                    "value": "*Name:"
+                },
+                "product_details_inquiry_email": {
+                    "title": "Inquiry Email",
+                    "value": "*Email:"
+                },
+                "product_details_inquiry_message": {
+                    "title": "Inquire Button Text",
+                    "value": "*Ihre Nachricht:"
+                },
+                "product_details_inquire": {
+                    "title": "Inquire Button Text",
+                    "value": "Anfrage senden"
+                },
+                "product_details_inquiry_send_copy": {
+                    "title": "Inquiry - Send Copy",
+                    "value": "Bitte senden Sie mir eine Kopie."
+                },
+                "product_details_inquiry_thank_you": {
+                    "title": "Inquiry Thank You Note",
+                    "value": "Vielen Dank f\u00fcr ihre Produktanfrage wir werden uns so schnell wie m\u00f6glich bei Ihnen melden."
+                },
+                "product_details_minimum_quantity_text1": {
+                    "title": "Min Purchase Amount Text Part 1",
+                    "value": "Mindestabnahmemenge von"
+                },
+                "product_details_minimum_quantity_text2": {
+                    "title": "Min Purchase Amount Text Part 2",
+                    "value": "erforderlich"
+                },
+                "product_details_maximum_quantity_text1": {
+                    "title": "Max Purchase Amount Text Part 1",
+                    "value": "Maximale Abnahmemenge von"
+                },
+                "product_details_maximum_quantity_text2": {
+                    "title": "Max Purchase Amount Text Part 2",
+                    "value": "ist erlaubt"
+                },
+                "product_details_handling_fee_notice1": {
+                    "title": "One Time Handling Fee Part 1",
+                    "value": "*Eine einmalige Bearbeitungsgeb\u00fchr von"
+                },
+                "product_details_handling_fee_notice2": {
+                    "title": "One Time Handling Fee Part 2",
+                    "value": "wird an der Kasse zu Ihrer Versandsumme hinzugef\u00fcgt."
+                },
+                "product_details_handling_fee_each_notice1": {
+                    "title": "Handling Fee Each Part 1",
+                    "value": "*Eine Bearbeitungsgeb\u00fchr von"
+                },
+                "product_details_handling_fee_each_notice2": {
+                    "title": "Handling Fee Each Part 2",
+                    "value": "pro Artikel wird an der Kasse zu Ihrer Versandsumme hinzugef\u00fcgt."
+                },
+                "product_details_signup_fee_notice1": {
+                    "title": "One Time Signup Fee Part 1",
+                    "value": "*Eine einmalige Anmeldung Geb\u00fchr in H\u00f6he von"
+                },
+                "product_details_signup_fee_notice2": {
+                    "title": "One Time Signup Fee Part 2",
+                    "value": "wird zu Ihrem ersten Zahlungsbetrag hinzugef\u00fcgt."
+                },
+                "product_details_home_link": {
+                    "title": "Home Breadcrumbs Link",
+                    "value": "Home"
+                },
+                "product_details_store_link": {
+                    "title": "Store Breadcrumbs Link",
+                    "value": "Shop"
+                },
+                "product_details_reviews_text": {
+                    "title": "Store Reviews Count",
+                    "value": "Bewertungen"
+                },
+                "product_details_gift_card_recipient_name": {
+                    "title": "Store Gift Card To Name",
+                    "value": "Name des Empf\u00e4ngers"
+                },
+                "product_details_gift_card_recipient_email": {
+                    "title": "Store Gift Card To Email",
+                    "value": "E-Mail des Empf\u00e4ngers"
+                },
+                "product_details_gift_card_sender_name": {
+                    "title": "Store Gift Card Sender's Name",
+                    "value": "Name des Absenders"
+                },
+				"product_details_gift_card_message":{
+					"title":"Store Gift Card Message",
+					"value":"Fügen Sie eine Nachricht"
+				},
+                "product_details_donation_amount": {
+                    "title": "Store Donation Amount",
+                    "value": "Spendenbetrag"
+                },
+                "product_details_loading_options": {
+                    "title": "Store Loading Options",
+                    "value": " lade verf\u00fcgbaren Optionen"
+                },
+                "product_details_missing_option": {
+                    "title": "Store Missing Option",
+                    "value": "fehlende Option:"
+                },
+                "product_details_maximum_quantity": {
+                    "title": "Store Maximum Quantity Exceeded",
+                    "value": "H\u00f6chstmenge \u00fcberschritten"
+                },
+                "product_details_one_time_addition1": {
+                    "title": "Store One Time Addition 1",
+                    "value": "Ein einmaliger Preis von"
+                },
+                "product_details_one_time_addition2": {
+                    "title": "Store One Time Addition 2",
+                    "value": "wird zu Ihrer Bestellung hinzugef\u00fcgt."
+                },
+                "product_details_left_in_stock": {
+                    "title": "Store Left in Stock",
+                    "value": "noch auf Lager"
+                },
+				"product_details_search":{
+					"title":"Store Search",
+					"value":"Produktsuche..."
+				},
+                "product_details_categories": {
+                    "title": "Store Categories",
+                    "value": "Kategorien:"
+                },
+                "product_details_manufacturer": {
+                    "title": "Store Manufacturer",
+                    "value": "Hersteller:"
+                },
+                "product_details_related_products": {
+                    "title": "Store Related Products",
+                    "value": "verwandte Produkte"
+                },
+                "product_details_tier_buy": {
+                    "title": "Tiered Pricing buy x at y",
+                    "value": "kaufen Sie"
+                },
+                "product_details_tier_buy_at": {
+                    "title": "Tiered Pricing buy x at y",
+                    "value": "zu einem Preis von"
+                },
+                "product_details_tier_or_more": {
+                    "title": "Tiered Pricing buy x or more",
+                    "value": "oder mehr"
+                },
+                "product_details_tier_each": {
+                    "title": "Tiered Pricing buy x at y each",
+                    "value": "pro Einheit"
+                },
+                "product_details_gift_card_error": {
+                    "title": "Gift Card Option Error Text",
+                    "value": "Fehlende Geschenkekarten-Optionen"
+                },
+                "product_details_donation_error": {
+                    "title": "Donation Amount Error Text",
+                    "value": "ung\u00fcltiger Spendenbetrag eingegeben. Bitte geben Sie einen Mindestwert von"
+                },
+                "product_details_your_price": {
+                    "title": "Your Price:",
+                    "value": "Ihr Preis:"
+                },
+                "product_details_backorder_until": {
+                    "title": "Backorder UNTIL date, until",
+                    "value": "bis"
+                },
+                "product_details_backordered": {
+                    "title": "BACKORDERED until date",
+                    "value": "nachbestellt"
+                },
+                "product_details_some_backordered": {
+                    "title": "Some BACKORDERED",
+                    "value": "Einige Artikel sind nachbestellt, nur noch"
+                },
+                "product_details_some_backordered_remaining": {
+                    "title": "Some BACKORDERED remaining",
+                    "value": "auf Lager"
+                },
+                "product_details_backordered_message": {
+                    "title": "Backordered message in cart",
+                    "value": "Einige Artikel in Ihrem Warenkorb sind derzeit nicht vorr\u00e4tig und sind nachbestellt."
+                },
+                "product_details_vat_included": {
+                    "title": "Including VAT",
+                    "value": "inklusive"
+                },
+                "product_details_vat_excluded": {
+                    "title": "Excluding VAT",
+                    "value": "ohne"
+                },
+                "product_details_backorder_button": {
+                    "title": "Backorder Button",
+                    "value": "JETZT NACHBESTELLEN"
+                },
+                "product_details_reviews_for_text": {
+                    "title": "Reviews for",
+                    "value": "Bewertungen f\u00fcr"
+                },
+                "product_details_as_low_as": {
+                    "title": "As low as",
+                    "value": "bester Preis st\u00fcckzahlabh\u00e4ngig"
+                },
+                "product_details_subscription_day": {
+                    "title": "Subscription Day Label",
+                    "value": "Tag"
+                },
+                "product_details_subscription_week": {
+                    "title": "Subscription Week Label",
+                    "value": "Woche"
+                },
+                "product_details_subscription_month": {
+                    "title": "Subscription Month Label",
+                    "value": "Monat"
+                },
+                "product_details_subscription_month_full": {
+                    "title": "Subscription Month Label Full",
+                    "value": "Monate"
+                },
+                "product_details_subscription_duration_divider": {
+                    "title": "Subscription duration limit dividing word",
+                    "value": "f\u00fcr"
+                },
+                "product_details_subscription_year": {
+                    "title": "Subscription Year Label",
+                    "value": "Jahr"
+                },
+                "product_details_notify_subscribe_success": {
+                    "title": "Stock Notification Subscribe Success",
+                    "value": "Sie haben die Lagerbestandsmeldung f\u00fcr dieses Produkt abonniert!"
+                },
+                "product_details_notify_subscribe_title": {
+                    "title": "Stock Notification Subscribe Title",
+                    "value": "E-Mail, wenn am Lager verf\u00fcgbar."
+                },
+                "product_details_notify_subscribe_email_placeholder": {
+                    "title": "Stock Notification Subscribe Email Placeholder",
+                    "value": "your@email.com"
+                },
+                "product_details_notify_subscribe_button_title": {
+                    "title": "Stock Notification Subscribe Button Title",
+                    "value": "JETZT ABONNIEREN"
+                },
+				"product_details_starting_at":{
+					"title":"Starting At Price",
+					"value":"Ab"
+				}
+            }
+        },
+        "customer_review": {
+            "label": "Customer Review Panel",
+            "options": {
+                "customer_review_title": {
+                    "title": "ProduKt Details Bewertung Box Titel",
+                    "value": "schreiben Sie eine Bewertung"
+                },
+                "customer_review_choose_rating": {
+                    "title": "Produkt Details Bewertung Box w\u00e4hlen Sie Bewertung",
+                    "value": "w\u00e4hlen Sie eine Bewertung aus"
+                },
+                "customer_review_enter_title": {
+                    "title": "Produkt Details Bewertung Box w\u00e4hlen Titel",
+                    "value": "Titel der Bewertung eingeben"
+                },
+                "customer_review_enter_description": {
+                    "title": "Produkt Details Bewertung Box w\u00e4hlen Sie Beschreibung",
+                    "value": "schreiben Sie einen Beitrag"
+                },
+                "customer_review_select_option": {
+                    "title": "Produkt Details Standartauswahl Option Text",
+                    "value": "w\u00e4hlen Sie eine Option"
+                },
+                "customer_review_close_button": {
+                    "title": "Produkt Details Bewertung Box schliessen Taste",
+                    "value": "Schliessen"
+                },
+                "customer_review_submit_button": {
+                    "title": "Produkt Details Bewertung Box senden Taste",
+                    "value": "Bewertung absenden"
+                },
+                "product_details_write_a_review": {
+                    "title": "Produkt Details schreiben Sie eine Bewertung Taste",
+                    "value": "Bewertung schreiben"
+                },
+                "product_details_add_a_review_for": {
+                    "title": "Store Add a Review",
+                    "value": "Eine Bewertung schreiben f\u00fcr"
+                },
+                "product_details_your_review_title": {
+                    "title": "Store Review title",
+                    "value": "Ihr Titel der Bewertung"
+                },
+                "product_details_your_review_rating": {
+                    "title": "Store Review Rating",
+                    "value": "Ihre Bewertung"
+                },
+                "product_details_your_review_message": {
+                    "title": "Store Review Message",
+                    "value": "Ihre Beitrag"
+                },
+                "product_details_your_review_submit": {
+                    "title": "Store Review Submit",
+                    "value": "EINREICHEN"
+                },
+                "product_details_review_submitted_button": {
+                    "title": "Store Review Submit",
+                    "value": "SENDEN"
+                },
+                "product_details_review_submitted": {
+                    "title": "Store Review Submitted",
+                    "value": "Ihre Bewertung wurde erfolgreich abgegeben"
+                },
+                "product_details_submitting_review": {
+                    "title": "Store Submitting Review",
+                    "value": "Ihre Bewertung wird abgeben, bitte warten"
+                },
+                "product_details_review_log_in_first": {
+                    "title": "Log in to Review",
+                    "value": "Bitte loggen Sie sich ein oder erstellen Sie ein Konto, um einen Bewertung zu diesem Artikel abzugeben."
+                },
+                "product_details_review_anonymous_reviewer": {
+                    "title": "Anonymous Reviewer Name",
+                    "value": "Anonym"
+                },
+                "review_error": {
+                    "title": "Store Review Error Missing Data",
+                    "value": "Es muss ein Titel, Rating, und eine Nachricht in einem Beitrag enthalten sein."
+                }
+            }
+        },
+        "cart": {
+            "label": "Cart",
+            "options": {
+                "cart_title": {
+                    "title": "Kasse Warenkorb Titel",
+                    "value": "Ihr Einkaufswagen"
+                },
+                "cart_checkout_details_title": {
+                    "title": "Checkout Details Title",
+                    "value": "DETAILS ZUR KASSE"
+                },
+                "cart_submit_payment_title": {
+                    "title": "Submit Payment Title",
+                    "value": "Zahlung"
+                },
+                "your_cart_title": {
+                    "title": "Your Cart Title",
+                    "value": "Ihre Artikel im Warenkorb"
+                },
+                "cart_empty_cart": {
+                    "title": "Kasse, leerer Warenkorb Nachricht",
+                    "value": "Es sind keine Artikel in Ihrem Warenkorb."
+                },
+                "cart_checkout": {
+                    "title": "Kasse Seite, Kasse Kaste",
+                    "value": "Kasse"
+                },
+                "cart_continue_shopping": {
+                    "title": "Kasse Seite, Einkauf fortsetzen Link",
+                    "value": "Einkauf fortsetzen"
+                },
+                "cart_header_column1": {
+                    "title": "Warenkorb Kopfzeile, Spalte 1",
+                    "value": "Produkt"
+                },
+                "cart_header_column2": {
+                    "title": "Warenkorb Kopfzeile, Spalte 2",
+                    "value": "Details"
+                },
+                "cart_header_column3": {
+                    "title": "Warenkorb Kopfzeile, Spalte 3",
+                    "value": "St\u00fcckpreis"
+                },
+                "cart_header_column4": {
+                    "title": "Warenkorb Kopfzeile, Spalte 4",
+                    "value": "Menge"
+                },
+                "cart_header_column5": {
+                    "title": "Warenkorb Kopfzeile, Spalte 5",
+                    "value": "Total"
+                },
+                "cart_header_column6": {
+                    "title": "Warenkorb Kopfzeile, Spalte 6",
+                    "value": "Aktionen"
+                },
+                "cart_item_vat_text": {
+                    "title": "Warenkorb Artikel, inklusive MwSt.",
+                    "value": "Mehrwertsteuer @"
+                },
+                "cart_item_update_button": {
+                    "title": "Warenkorb Artikel, aktualisierung Taste",
+                    "value": "AKTUALISIEREN"
+                },
+                "cart_item_remove_button": {
+                    "title": "Warenkorb Artikel, entfernen Taste",
+                    "value": "ENTFERNEN"
+                },
+                "cart_item_adjustment": {
+                    "title": "Warenkorb Artikel, Anpassung pro Artikel",
+                    "value": "pro Artikel"
+                },
+                "cart_item_new_price_option": {
+                    "title": "Warenkorb Artikel, Preis nicht ber\u00fccksichtigen Text",
+                    "value": "Artikel Preis von"
+                },
+                "cart_menu_icon_label": {
+                    "title": "Cart in Menu, Item",
+                    "value": "Artikel"
+                },
+                "cart_menu_icon_label_plural": {
+                    "title": "Cart in Menu, Items",
+                    "value": "Artikel"
+                },
+                "deconetwork_edit": {
+                    "title": "Deconetwork, Edit Design",
+                    "value": "Entwurf bearbeiten"
+                },
+                "cart_order_adjustment": {
+                    "title": "Cart Item, Adjustment per Order",
+                    "value": "pro Bestellung"
+                },
+                "cart_return_to_store": {
+                    "title": "Empty Cart, Return to store",
+                    "value": "zur\u00fcck zum Shop"
+                },
+                "cartitem_max_error": {
+                    "title": "Max Quantity Exceeded Error",
+                    "value": "H\u00f6chstmenge \u00fcberschritten"
+                },
+                "cartitem_min_error": {
+                    "title": "Min Quantity Required Error",
+                    "value": "Mindestmenge erforderlich"
+                },
+                "cart_please_wait": {
+                    "title": "Cart Please Wait",
+                    "value": "Bitte warten..."
+                },
+                "cart_item_adjustment_per_character": {
+                    "title": "Cart Per Character Adjustment",
+                    "value": "pro Zeichen"
+                },
+                "cart_minimum_purchase_amount1": {
+                    "title": "A Minimum Order Amount of",
+                    "value": "Eine Mindestabnahmemenge von"
+                },
+                "cart_minimum_purchase_amount2": {
+                    "title": "Min Required Text 2",
+                    "value": "ist erforderlich"
+                },
+				"cartitem_location_error":{
+					"title":"Cart Item Shipping Location not Allowed",
+					"value":"Dieser Artikel kann nicht an Ihre aktuelle Lieferadresse versendet werden."
+				}
+            }
+        },
+        "cart_form_notices": {
+            "label": "Cart - Form Error Notices",
+            "options": {
+                "cart_notice_is_required": {
+                    "title": "Cart, Notice, Is Required Field",
+                    "value": "ist ein Pflichtfeld"
+                },
+                "cart_notice_item_must_match": {
+                    "title": "Cart, Notice, Items Must Match",
+                    "value": "m\u00fcssen \u00fcbereinstimmen"
+                },
+                "cart_notice_billing_first_name": {
+                    "title": "Cart, Notice, Billing, First Name",
+                    "value": "Vorname"
+                },
+                "cart_notice_billing_last_name": {
+                    "title": "Cart, Notice, Billing, Last Name",
+                    "value": "Nachname"
+                },
+                "cart_notice_billing_address": {
+                    "title": "Cart, Notice, Billing, Address",
+                    "value": "Rechnungsadresse"
+                },
+                "cart_notice_billing_city": {
+                    "title": "Cart, Notice, Billing, City",
+                    "value": "Stadt"
+                },
+                "cart_notice_billing_state": {
+                    "title": "Cart, Notice, Billing, State",
+                    "value": "Bundesland"
+                },
+                "cart_notice_billing_zip_code": {
+                    "title": "Cart, Notice, Billing, Zip Code",
+                    "value": "Postleitzahl"
+                },
+                "cart_notice_billing_country": {
+                    "title": "Cart, Notice, Billing, Country",
+                    "value": "Land"
+                },
+                "cart_notice_billing_phone": {
+                    "title": "Cart, Notice, Billing, Phone",
+                    "value": "Telefon"
+                },
+                "cart_notice_shipping_first_name": {
+                    "title": "Cart, Notice, Shipping, First Name",
+                    "value": "Vorname"
+                },
+                "cart_notice_shipping_last_name": {
+                    "title": "Cart, Notice, Shipping, Last Name",
+                    "value": "Nachname"
+                },
+                "cart_notice_shipping_address": {
+                    "title": "Cart, Notice, Shipping, Address",
+                    "value": "Versandadresse"
+                },
+                "cart_notice_shipping_city": {
+                    "title": "Cart, Notice, Shipping, City",
+                    "value": "Stadt"
+                },
+                "cart_notice_shipping_state": {
+                    "title": "Cart, Notice, Shipping, State",
+                    "value": "Bundesland"
+                },
+                "cart_notice_shipping_zip_code": {
+                    "title": "Cart, Notice, Shipping, Zip Code",
+                    "value": "Postleitzahl"
+                },
+                "cart_notice_shipping_country": {
+                    "title": "Cart, Notice, Shipping, Country",
+                    "value": "Land"
+                },
+                "cart_notice_shipping_phone": {
+                    "title": "Cart, Notice, Phone",
+                    "value": "Telefon"
+                },
+                "cart_notice_contact_first_name": {
+                    "title": "Cart, Notice, Contact First Name",
+                    "value": "Vorname"
+                },
+                "cart_notice_contact_last_name": {
+                    "title": "Cart, Notice, Contact Last Name",
+                    "value": "Nachname"
+                },
+                "cart_notice_email": {
+                    "title": "Cart, Notice, Email",
+                    "value": "Email"
+                },
+                "cart_notice_retype_email": {
+                    "title": "Cart, Notice, Retype Email",
+                    "value": "Email wiederholen"
+                },
+                "cart_notice_emails_match": {
+                    "title": "Cart, Notice, Shipping, Emails Match",
+                    "value": "Emails"
+                },
+                "cart_notice_password": {
+                    "title": "Cart, Notice, Password",
+                    "value": "Passwort"
+                },
+                "cart_notice_retype_password": {
+                    "title": "Cart, Notice, Retype Password",
+                    "value": "Passwort wiederholen"
+                },
+                "cart_notice_passwords_match": {
+                    "title": "Cart, Notice, Passwords Match",
+                    "value": "Passw\u00f6rter"
+                },
+                "cart_notice_length_error": {
+                    "title": "Cart, Notice, Password Format",
+                    "value": "L\u00e4nge muss gr\u00f6\u00dfer als sechs Zeichen sein"
+                },
+                "cart_notice_payment_card_type": {
+                    "title": "Cart, Notice, Card Type",
+                    "value": "Kartentyp"
+                },
+                "cart_notice_payment_card_holder_name": {
+                    "title": "Cart, Notice, Card Holder Required",
+                    "value": "Name des Karteninhabers"
+                },
+                "cart_notice_payment_card_number": {
+                    "title": "Cart, Notice, Card Number Required",
+                    "value": "Kartennummer"
+                },
+                "cart_notice_payment_card_number_error": {
+                    "title": "Cart, Notice, Card Number Required",
+                    "value": "Die eingegebene Kreditkartennummer ist ung\u00fcltig"
+                },
+                "cart_notice_payment_card_exp_month": {
+                    "title": "Cart, Notice, EXP Month Required",
+                    "value": "g\u00fcttig bis Monat"
+                },
+                "cart_notice_payment_card_exp_year": {
+                    "title": "Cart, Notice, EXP Year Required",
+                    "value": "g\u00fcltig bis Jahr"
+                },
+                "cart_notice_payment_card_code": {
+                    "title": "Cart, Notice, Security Code Required",
+                    "value": "Sicherheits-Code"
+                },
+                "cart_notice_please_enter_your": {
+                    "title": "Cart, Notice, Please Enter Your",
+                    "value": "Bitte geben Sie Ihren"
+                },
+                "cart_notice_please_select_your": {
+                    "title": "Cart, Notice, Please Select Your",
+                    "value": "Bitte w\u00e4hlen Sie Ihre"
+                },
+                "cart_notice_please_enter_valid": {
+                    "title": "Cart, Notice, Please Enter Valid",
+                    "value": "Bitte geben Sie eine g\u00fcltige"
+                },
+                "cart_notice_emails_do_not_match": {
+                    "title": "Cart, Notice, Email Do Not Match",
+                    "value": "Ihre E-Mail-Adressen stimmen nicht \u00fcberein."
+                },
+                "cart_notice_passwords_do_not_match": {
+                    "title": "Cart, Notice, Passwords Do Not Match",
+                    "value": "Ihre Passw\u00f6rter stimmen nicht \u00fcberein"
+                },
+                "cart_notice_checkout_details_errors": {
+                    "title": "Cart, Notice, Checkout Details Errors",
+                    "value": "Bitte korrigieren Sie die Fehler in Ihren Angaben zur Kasse."
+                },
+                "cart_notice_payment_accept_terms": {
+                    "title": "Cart, Notice, Please Accept Terms",
+                    "value": "Bitte stimmen Sie den Bedingungen und Konditionen zu"
+                },
+                "cart_notice_payment_correct_errors": {
+                    "title": "Cart, Notice, Payment Correct Errors",
+                    "value": "Bitte korrigieren Sie die Fehler Ihrer Kreditkarteninformationen, um diese Bestellung abzuschicken."
+                },
+				"cart_notice_shipping_not_alllowed":{
+					"title":"Cart, Notice, No Shipping Address Allowed",
+					"value":"Es gibt Artikel in Ihrem Warenkorb, die nur an eine gültige Rechnungsadresse versendet werden. Bitte stellen Sie sicher, dass Ihre Rechnungsadresse Ihren Einkauf erhalten kann."
+				}
+            }
+        },
+        "cart_process": {
+            "label": "Cart - Progress Bar",
+            "options": {
+                "cart_process_cart_link": {
+                    "title": "Cart, Progress, Cart",
+                    "value": "Einkaufswagen"
+                },
+                "cart_process_shipping_link": {
+                    "title": "Cart, Progress, Address",
+                    "value": "Versand"
+                },
+                "cart_process_review_link": {
+                    "title": "Cart, Progress, Cart",
+                    "value": "\u00dcberpr\u00fcfen\/Zahlen"
+                },
+                "cart_process_complete_link": {
+                    "title": "Cart, Progress, Complete",
+                    "value": "Vorgang abgeschlossen"
+                }
+            }
+        },
+        "cart_coupons": {
+            "label": "Warenkorb - Gutscheine und Geschenkkarten eingeben",
+            "options": {
+                "cart_coupon_title": {
+                    "title": "Cart, Coupon Title",
+                    "value": "Gutschein"
+                },
+                "cart_gift_card_title": {
+                    "title": "Cart, Gift Card Title",
+                    "value": "Geschenkkarte"
+                },
+                "cart_coupon_sub_title": {
+                    "title": "Warenkorb, Gutscheine Untertitel",
+                    "value": "L\u00f6sen Sie Gutscheincodes oder Geschenkkarten ein, indem Sie sie unten eingeben."
+                },
+                "cart_redeem_gift_card": {
+                    "title": "Warenkorb, Geschenkkarte einl\u00f6sen Taste",
+                    "value": "Geschenkkarte einl\u00f6sen"
+                },
+                "cart_apply_coupon": {
+                    "title": "Warenkorb, Gutschein verwenden Taste",
+                    "value": "Gutschein verwenden"
+                },
+                "cart_invalid_coupon": {
+                    "title": "Warenkorb, ung\u00fcltiger Gutschein",
+                    "value": "Gutscheincode ung\u00fcltig"
+                },
+                "cart_not_applicable_coupon": {
+                    "title": "Cart, Not Applicable Coupon",
+                    "value": "Gutscheincode gilt nicht f\u00fcr dieses Produkt"
+                },
+                "cart_max_exceeded_coupon": {
+                    "title": "Cart, Max Coupon Use Exceeded",
+                    "value": "max \u00fcberschritten Verwendungen"
+                },
+                "cart_invalid_giftcard": {
+                    "title": "Warenkorb, Gutscheinkarte ung\u00fcltig",
+                    "value": "Keine g\u00fcltige Geschenkkartennummer"
+                },
+                "cart_enter_coupon": {
+                    "title": "Cart, Enter Coupon Hint",
+                    "value": "Gutscheincode eingeben"
+                },
+                "cart_enter_gift_code": {
+                    "title": "Cart, Enter Gift Card Hint",
+                    "value": "Geschenk-Karte eingeben"
+                },
+                "cart_coupon_expired": {
+                    "title": "Cart, Coupon Code Expired",
+                    "value": "Coupon ist abgelaufen"
+                },
+                "coupon_not_applicable": {
+                    "title": "Cart, Coupon Code Not Applicable",
+                    "value": "Der Gutschein gilt nicht f\u00fcr die Artikel in Ihrem Einkaufswagen."
+                },
+				"cart_simple_apply":{
+					"title":"Cart, Apply",
+					"value":"Anwenden"
+				}
+            }
+        },
+        "cart_estimate_shipping": {
+            "label": "Cart - estimate shipping",
+            "options": {
+                "cart_estimate_shipping_title": {
+                    "title": "Warenkorb, voraussichtliche Lieferung Titel",
+                    "value": "gesch\u00e4tzte Versandkosten"
+                },
+                "cart_estimate_shipping_sub_title": {
+                    "title": "Warenkorb, voraussichtliche Lieferung Untertitel",
+                    "value": "Bitte geben Sie Ihre PLZ an, um die Versandkosten zu ermitteln."
+                },
+                "cart_estimate_shipping_input_country_label": {
+                    "title": "Warenkorb, voraussichtliche Lieferung, Input Label Land",
+                    "value": "Land:"
+                },
+                "cart_estimate_shipping_select_one": {
+                    "title": "Warenkorb, voraussichtliche Lieferung, w\u00e4hlen sie ein Land box",
+                    "value": "W\u00e4hlen Sie ein Land"
+                },
+                "cart_estimate_shipping_input_label": {
+                    "title": "Warenkorb, voraussichtliche Lieferung, Input Label PLZ",
+                    "value": "PLZ:"
+                },
+                "cart_estimate_shipping_button": {
+                    "title": "Warenkorb, voraussichtliche Lieferung Taste",
+                    "value": "gesch\u00e4tzte Lieferzeit"
+                },
+                "cart_estimate_shipping_standard": {
+                    "title": "Warenkorb, Standardversand Label",
+                    "value": "Standardversand"
+                },
+                "cart_estimate_shipping_free": {
+                    "title": "Cart, Free Shipping Label",
+                    "value": "Kostenlose Selbstabholung"
+                },
+                "cart_estimate_shipping_express": {
+                    "title": "Warenkorb, Expressversand  Label",
+                    "value": "Expressversand"
+                },
+                "cart_estimate_shipping_error": {
+                    "title": "Warenkorb, Fehlermeldung PLZ falsch",
+                    "value": "Ihre Postleitzahl stimmt nicht mit dem Land unseres Gesch\u00e4fts \u00fcberein. Die Versandkosten werden ermittelt, nachdem Sie Ihre Versandinformationen eingegeben haben."
+                },
+                "cart_estimate_shipping_hint": {
+                    "title": "Cart, Estimate Shipping Hint",
+                    "value": "PLZ eingeben"
+                },
+                "delivery_in": {
+                    "title": "Cart, Live Shipping Delivery In (Days)",
+                    "value": "Lieferung in"
+                },
+                "delivery_days": {
+                    "title": "Cart, Live Shipping (Delivery In) Days",
+                    "value": "Tagen."
+                }
+            }
+        },
+        "cart_totals": {
+            "label": "Cart - Cart Totals",
+            "options": {
+                "cart_totals_title": {
+                    "title": "Warenkorb, Warenkorb betr\u00e4gt Titel",
+                    "value": "Warenkorb Summe"
+                },
+                "cart_totals_subtotal": {
+                    "title": "Warenkorb, Warebkorb bet\u00e4gt, Zwischenbetrag",
+                    "value": "Warenkorb Zwischensumme"
+                },
+                "cart_totals_tip": {
+                    "title": "Cart, Cart Totals, Tip",
+                    "value": "Trinkgeld"
+                },
+                "cart_totals_tip_custom": {
+                    "title": "Cart, Cart Totals, Custom Tip Amount",
+                    "value": "Benutzerdefinierter Betrag"
+                },
+                "cart_totals_apply_tip_custom": {
+                    "title": "Cart, Cart Totals, Apply Custom Tip",
+                    "value": "Trinkgeld geben"
+                },
+                "cart_totals_shipping": {
+                    "title": "Warebkorb, Warenkorb betr\u00e4gt, Versand",
+                    "value": "Versand"
+                },
+                "cart_totals_tax": {
+                    "title": "Warenkorb, Warenkorb betr\u00e4gt, Steuer",
+                    "value": "Steuer"
+                },
+                "cart_totals_discounts": {
+                    "title": "Warenkorb, Warenkorb betr\u00e4gt, Rabatte",
+                    "value": "Rabatte"
+                },
+                "cart_totals_vat": {
+                    "title": "Warenkorb, Warenkorb betr\u00e4gt, Mehrwertsteuer",
+                    "value": "Mehrwertsteuer"
+                },
+                "cart_totals_duty": {
+                    "title": "Warenkorb, Warenkorb betr\u00e4gt, Geb\u00fchr",
+                    "value": "Zollgeb\u00fchren"
+                },
+                "cart_totals_grand_total": {
+                    "title": "Warenkorb, Warenkorb betr\u00e4gt, Gesamtbetrag",
+                    "value": "Gesamtsumme"
+                },
+                "cart_totals_label": {
+                    "title": "Cart Totals Label",
+                    "value": "Warenkorb \u00dcbersicht"
+                }
+            }
+        },
+        "cart_login": {
+            "label": "Cart - Cart Login",
+            "options": {
+                "cart_login_title": {
+                    "title": "Warenkorb, Login Titel",
+                    "value": "Bereits Kunde"
+                },
+                "cart_login_sub_title": {
+                    "title": "Warenkorb, Login Undertitel",
+                    "value": "Zur Kasse mit einem bestehenden Benutzerkonto, bitte melden Sie sich unten an."
+                },
+                "cart_login_email_label": {
+                    "title": "Warenkorb, Login, Email Label",
+                    "value": "Email Adresse"
+                },
+                "cart_login_password_label": {
+                    "title": "Warenkorb, Login, Passwort Label",
+                    "value": "Passwort"
+                },
+                "cart_login_button": {
+                    "title": "Warenkorb, Login Taste",
+                    "value": "ANMELDEN"
+                },
+                "cart_login_forgot_password_link": {
+                    "title": "Warenkorb, Login, Passwort vergessen Link",
+                    "value": "Haben Sie Ihr Passwort vergessen?"
+                },
+                "cart_login_account_information_title": {
+                    "title": "Warenkorb, Login Complete Title",
+                    "value": "Benutzerkontoinformation"
+                },
+                "cart_login_account_information_text": {
+                    "title": "Warenkorb, Login abgeschlossen Text",
+                    "value": "Sie kaufen derzeit als"
+                },
+                "cart_login_account_a_guest_text": {
+                    "title": "Warenkorb, Login abgeschlossen, ein Gast",
+                    "value": "Gast ein"
+                },
+                "cart_login_account_information_text2": {
+                    "title": "Warenkorb, Login abgeschlossen Text Teil 2",
+                    "value": "wenn Sie mit einem andern Konto einkaufen m\u00f6chten, dann"
+                },
+                "cart_login_account_information_logout_link": {
+                    "title": "Warenkorb, Login abgeschlossen, Logout Link",
+                    "value": "benutzen Sie diesen Link."
+                },
+				"cart_login_already_have_account":{
+					"title":"Cart, Login Have Account",
+					"value":"Sie haben bereits ein Konto?"
+				},
+				"cart_new_customer_title":{
+					"title":"Cart, New Customer Title",
+					"value":"Kundeninformation"
+				},
+				"cart_new_customer_return_link":{
+					"title":"Cart, New Customer Return Link",
+					"value":"Zurück, um ein neues Konto zu erstellen?"
+				},
+				"cart_subscription_addresss_continue":{
+					"title":"Cart, New Customer Return Link",
+					"value":"Speichern fortsetzen"
+				},
+				"cart_login_already_have_account2":{
+					"title":"Cart, Login Have Account Question",
+					"value":"Sie haben bereits ein Konto?"
+				},
+				"cart_login_already_have_account_login":{
+					"title":"Cart, Login Button Have Account",
+					"value":"Anmeldung"
+				},
+				"cart_subscription_already_purchased":{
+					"title":"Cart, Subscription Already Purchased Message",
+					"value":"Sie haben diesen Artikel bereits gekauft. Bitte besuchen Sie Ihr Konto, um Ihre aktiven Abonnements zu überprüfen."
+				}
+            }
+        },
+        "cart_guest_checkout": {
+            "label": "Cart - Guest Checkout",
+            "options": {
+                "cart_guest_title": {
+                    "title": "Warenkorb, Login, Gast Kasse Titel",
+                    "value": "Zur Kasse ohne ein Benutzerkonto"
+                },
+                "cart_guest_sub_title": {
+                    "title": "Warenkorb, Login, Gast Kasse Undertitel",
+                    "value": "Nicht registriert? Zur Kasse ohne ein existierendes Konto."
+                },
+                "cart_guest_message": {
+                    "title": "Warenkorb, Login, Gast Kasse Nachricht",
+                    "value": "Kein Benutzerkonto? Fahren Sie als Gast fort.<br\/>Sie haben die M\u00f6glichkeit sp\u00e4ter ein Benutzerkonto zu erstellen."
+                },
+                "cart_guest_button": {
+                    "title": "Warenkorb, Login, Gast Kasse Kaste",
+                    "value": "WEITER ZUR KASSE"
+                }
+            }
+        },
+        "cart_subscription_guest_checkout": {
+            "label": "Warenkorb - Abonnement kein Benutzerkonto Kasse",
+            "options": {
+                "cart_subscription_guest_title": {
+                    "title": "Warenkorb, Login, Abonnement kein Benutzerkonto Titel",
+                    "value": "Benutzerkonto an der Kasse erstellen"
+                },
+                "cart_subscription_guest_sub_title": {
+                    "title": "Warenkorb, Login, Abonnement kein Benutzerkonto Untertitel",
+                    "value": "Nicht registriert? Zur Kasse ohne ein bestehendes Benutzerkonto."
+                },
+                "cart_subscription_guest_message": {
+                    "title": "Warenkorb, Login, Abonnement kein Konto Nachricht",
+                    "value": "Kein Benutzerkonto? Kein Problem.<br\/>Sie haben die M\u00f6glichkeit sp\u00e4ter ein Benutzerkonto zu erstellen."
+                },
+                "cart_subscription_guest_button": {
+                    "title": "Warenkorb, Login, Gast Kasse Taste",
+                    "value": "WEITER ZUR KASSE"
+                }
+            }
+        },
+		"cart_address_information":{
+			"label":"Cart - Address Information",
+			"options":{
+				"cart_state_ca":{
+					"title":"Cart, State (Canada)",
+					"value":"Province"
+				},
+				"cart_zip_ca":{
+					"title":"Cart, Zip (Canada)",
+					"value":"Postal code"
+				},
+				"cart_zip_gb":{
+					"title":"Cart, Zip (UK)",
+					"value":"Postcode"
+				},
+				"cart_address_nl":{
+					"title":"Cart, Address (Netherlands)",
+					"value":"Street and house number"
+				},
+				"cart_zip_nl":{
+					"title":"Cart, Zip (Netherlands)",
+					"value":"Postal code"
+				},
+				"cart_zip_ar":{
+					"title":"Cart, Zip (Argentina)",
+					"value":"Postal code"
+				},
+				"cart_state_ar":{
+					"title":"Cart, State (Argentina)",
+					"value":"Province"
+				}
+			}
+		},
+        "cart_billing_information": {
+            "label": "Warenkorb - Rechnungsinformationen",
+            "options": {
+                "cart_billing_information_title": {
+                    "title": "Warenkorb, Rechnungsinformationen Titel",
+                    "value": "Informationen zur Rechnungsstellung"
+                },
+                "cart_billing_information_first_name": {
+                    "title": "Warenkorb, Fakturierung, Vorname Label",
+                    "value": "Vorname"
+                },
+                "cart_billing_information_last_name": {
+                    "title": "Warenkorb, Fakturierung, Name Label",
+                    "value": "Name"
+                },
+                "cart_billing_information_address": {
+                    "title": "Warenkorb, Fakturierung, Adresse Label",
+                    "value": "Adresse"
+                },
+                "cart_billing_information_address2": {
+                    "title": "Warenkorb, Fakturierung, Adresse 2 Label",
+                    "value": "Adresse 2"
+                },
+                "cart_billing_information_city": {
+                    "title": "Warenkorb, Fakturierung, Stadt Label",
+                    "value": "Stadt"
+                },
+                "cart_billing_information_state": {
+                    "title": "Warenkorb, Fakturierung, Staat Label",
+                    "value": "Bundesland"
+                },
+                "cart_billing_information_select_state": {
+                    "title": "Warenkorb, Fakturierung, Fehlermeldung Kein Land ausgew\u00e4hlt",
+                    "value": "W\u00e4hlen Sie ein Bundesland aus."
+                },
+                "cart_billing_information_select_province": {
+                    "title": "Warenkorb, Fakturierung, Fehlermeldung Keine Provinz ausgew\u00e4hlt",
+                    "value": "W\u00e4hlen Sie ein Bundesland aus."
+                },
+                "cart_billing_information_select_county": {
+                    "title": "Warenkorb, Fakturierung, Fehlermeldung Kein Land ausgew\u00e4hlt",
+                    "value": "W\u00e4hlen Sie ein Land aus."
+                },
+                "cart_billing_information_select_other": {
+                    "title": "Warenkorb, Fakturierung, Fehlermeldung Keine ausgew\u00e4hlt",
+                    "value": "W\u00e4hlen Sie eine"
+                },
+                "cart_billing_information_country": {
+                    "title": "Warenkorb, Fakturierung, Land Label",
+                    "value": "Land"
+                },
+                "cart_billing_information_select_country": {
+                    "title": "Warenkorb, Fakturierung, Land Menu, Fehlermeldung Keine ausgew\u00e4hlt",
+                    "value": "W\u00e4hlen Sie ein Land aus."
+                },
+                "cart_billing_information_zip": {
+                    "title": "Warenkorb, Fakturierung, PLZ Label",
+                    "value": "PLZ"
+                },
+                "cart_billing_information_phone": {
+                    "title": "Warenkorb, Fakturierung, Telefon Label",
+                    "value": "Telefon"
+                },
+                "cart_billing_information_ship_to_this": {
+                    "title": "Warenkorb, Fakturierung, Use Billing Radio",
+                    "value": "Versand an diese Adresse"
+                },
+                "cart_billing_information_ship_to_different": {
+                    "title": "Warenkorb, Fakturierung, Use Shipping Radio",
+                    "value": "Versand an eine andere Adresse"
+                },
+                "cart_billing_information_company_name": {
+                    "title": "Cart, Billing, Company Name Label",
+                    "value": "Name der Firma"
+                },
+                "cart_billing_information_vat_registration_number": {
+                    "title": "Cart, Billing, VAT Registration Number Label",
+                    "value": "Umsatzsteuer-Registrierungsnummer"
+                }
+            }
+        },
+        "cart_shipping_information": {
+            "label": "Warenkorb - Versandinformationen",
+            "options": {
+                "cart_shipping_information_title": {
+                    "title": "Warenkorb, Versandinformationen Titel",
+                    "value": "Versandinformationen"
+                },
+                "cart_shipping_information_first_name": {
+                    "title": "Wahrenkorb, Shipping, Vorname Label",
+                    "value": "Vorname"
+                },
+                "cart_shipping_information_last_name": {
+                    "title": "Warenkorb, Versand, Name Label",
+                    "value": "Name"
+                },
+                "cart_shipping_information_address": {
+                    "title": "Warenkorb, Versand, Adresse Label",
+                    "value": "Adresse"
+                },
+                "cart_shipping_information_address2": {
+                    "title": "Warenkorb, Versand, Adresse 2 Label",
+                    "value": "Adresse 2"
+                },
+                "cart_shipping_information_city": {
+                    "title": "Warenkorb, Versand, Land Label",
+                    "value": "Land"
+                },
+                "cart_shipping_information_state": {
+                    "title": "Warenkorb, Versand, Staat Label",
+                    "value": "Bundesland"
+                },
+                "cart_shipping_information_select_state": {
+                    "title": "Warenkorb, Versand, Fehlermeldung Keinen Staat ausgew\u00e4hlt",
+                    "value": "W\u00e4hlen Sie ein Bundesland aus."
+                },
+                "cart_shipping_information_select_province": {
+                    "title": "Warenkorb, Versand, Fehlermeldung Keine Provinz ausgew\u00e4hlt",
+                    "value": "W\u00e4hlen Sie ein Bundesland aus."
+                },
+                "cart_shipping_information_select_county": {
+                    "title": "Warenkorb, Versand, Fehlermeldung Kein Land ausgew\u00e4hlt",
+                    "value": "W\u00e4hlen Sie ein Land aus."
+                },
+                "cart_shipping_information_select_other": {
+                    "title": "Warenkorb, Versand, Fehlermeldung Keine ausgew\u00e4hlt",
+                    "value": "W\u00e4hlen Sie eine"
+                },
+                "cart_shipping_information_country": {
+                    "title": "Warenkorb, Versand, Land Label",
+                    "value": "Land"
+                },
+                "cart_shipping_information_select_country": {
+                    "title": "Warenkorb, Versand, Land Menu, Fehlermeldung Keine ausgew\u00e4hlt",
+                    "value": "W\u00e4hlen Sie ein Land aus."
+                },
+                "cart_shipping_information_zip": {
+                    "title": "Warenkorb, Versand, PLZ Label",
+                    "value": "PLZ"
+                },
+                "cart_shipping_information_phone": {
+                    "title": "Warenkorb, Versand, Telefon Label",
+                    "value": "Telefon"
+                },
+                "cart_shipping_information_company_name": {
+                    "title": "Cart, Shipping, Company Name Label",
+                    "value": "Name der Firma"
+                }
+            }
+        },
+        "cart_contact_information": {
+            "label": "Warenkorb - Kontaktinformation",
+            "options": {
+                "cart_contact_information_title": {
+                    "title": "Warenkorb, Kontaktinformation Titel",
+                    "value": "Kontaktinformation"
+                },
+                "cart_contact_information_first_name": {
+                    "title": "Warenkorb, Kontaktinformation, Vorname Label",
+                    "value": "Vorname"
+                },
+                "cart_contact_information_last_name": {
+                    "title": "Warenkorb, Kontaktinformation, Name Label",
+                    "value": "Name"
+                },
+                "cart_contact_information_email": {
+                    "title": "Warenkorb, Kontaktinformation, Email Label",
+                    "value": "Email"
+                },
+                "cart_contact_information_retype_email": {
+                    "title": "Warenkorb, Kontaktinformation, Email Adresse angeben Label",
+                    "value": "Email Adresse eingeben"
+                },
+                "cart_contact_information_create_account": {
+                    "title": "Warenkorb, Kontaktinformation, Benutzerkonto erstellen Label",
+                    "value": "Benutzerkonto erstellen"
+                },
+                "cart_contact_information_password": {
+                    "title": "Warenkorb, Kontaktinformation, Passwort Label",
+                    "value": "Passwort"
+                },
+                "cart_contact_information_retype_password": {
+                    "title": "Warenkorb, Kontaktinformation, Passwort angeben Label",
+                    "value": "Passwort widerholen"
+                },
+                "cart_contact_information_subscribe": {
+                    "title": "Warenkorb, Kontaktinformation, Subscribe Label",
+                    "value": "M\u00f6chten Sie Emails und Updates von uns erhalten?"
+                },
+                "cart_contact_information_continue_button": {
+                    "title": "Warenkorb, Kontaktinformation, fortfahren Taste",
+                    "value": "FORTFAHREN"
+                },
+                "cart_contact_information_continue_payment": {
+                    "title": "Cart, Contact Information, Continue to Payment",
+                    "value": "Weiter zur Bezahlung"
+                },
+                "cart_contact_information_continue_shipping": {
+                    "title": "Cart, Contact Information, Continue to Shipping",
+                    "value": "Weiter zum Versand"
+                },
+				"cart_contact_information_email_other":{
+					"title":"Cart, Additional Email, Title",
+					"value":"Zusätzliche Empfangs-E-Mail"
+				},
+				"cart_contact_information_email_other_label":{
+					"title":"Cart, Additional Email, Label",
+					"value":"Geben Sie eine zusätzliche E-Mail-Adresse ein (optional)"
+				}
+            }
+        },
+        "cart_shipping_method": {
+            "label": "Warenkorb - Versandart",
+            "options": {
+                "cart_shipping_method_title": {
+                    "title": "Warenkorb, Versandart, Titel",
+                    "value": "Versandart"
+                },
+                "cart_shipping_method_continue_button": {
+                    "title": "Warenkorb, Versandart fortfahren Taste",
+                    "value": "FORTFAHREN"
+                },
+                "cart_shipping_method_please_select_one": {
+                    "title": "Cart, Shipping please select one",
+                    "value": "Bitte w\u00e4hlen Sie eine Versandart."
+                },
+                "cart_shipping_update_shipping": {
+                    "title": "Cart, Update Shipping",
+                    "value": "Versandart aktualisieren"
+                },
+                "cart_shipping_no_rates_available": {
+                    "title": "Cart, No Shipping Rates Available",
+                    "value": "Es gibt keine verf\u00fcgbaren Versandmethoden in Ihrer N\u00e4he. Kontaktieren Sie uns, um Ihre Bestellung abzuschlie\u00dfen."
+                }
+            }
+        },
+        "cart_address_review": {
+            "label": "Warenkorb - Address Review",
+            "options": {
+                "cart_address_review_title": {
+                    "title": "Warenkorb, Adresse \u00fcberpr\u00fcfen Titel",
+                    "value": "Adresse \u00fcberpr\u00fcfen"
+                },
+                "cart_address_review_billing_title": {
+                    "title": "Warenkorb, Adresse \u00fcberpr\u00fcfen, Fakturierung Titel",
+                    "value": "Rechnungsadresse"
+                },
+                "cart_address_review_shipping_title": {
+                    "title": "Warenkorb, Adresse \u00fcberpr\u00fcfen, Versand Titel",
+                    "value": "Lieferadresse"
+                },
+                "cart_address_review_edit_link": {
+                    "title": "Warenkorb, Adresse \u00fcberpr\u00fcfen, bearbeiten Link",
+                    "value": "Adresse oder Versandoptionen bearbeiten"
+                },
+                "cart_address_review_edit_link2": {
+                    "title": "Warenkorb, Adresse \u00fcberpr\u00fcfen, bearbeiten Link",
+                    "value": "Adressinformationen bearbeiten"
+                }
+            }
+        },
+        "cart_payment_information": {
+            "label": "Warenkorb - Zahlungsinformationen",
+            "options": {
+                "cart_payment_information_title": {
+                    "title": "Warenkorb, Zahlungsinformationen Titel",
+                    "value": "Zahlungsinformationen"
+                },
+                "cart_payment_information_manual_payment": {
+                    "title": "Warenkorb, Zahlungsinformationen, Manuelle Zahlung Label",
+                    "value": "Zahlung per Vorkasse"
+                },
+                "cart_payment_information_affirm": {
+                    "title": "Cart, Payment Information, Affirm Payment Label",
+                    "value": "mit einfachen monatlichen Raten bezahlen"
+                },
+                "cart_payment_information_third_party": {
+                    "title": "Warenkorb, Zahlungsinformationen, Zahlung durch einen Dritten Label",
+                    "value": "bezahlen mit"
+                },
+                "cart_payment_information_third_party_first": {
+                    "title": "Warenkorb, Zahlungsinformationen, Dritte Text, Teil 1",
+                    "value": "Sie werden weitergeleitet"
+                },
+                "cart_payment_information_third_party_second": {
+                    "title": "Warenkorb, Zahlungsinformationen, Zahlung durch einen Dritten, Teil 2",
+                    "value": "Klicken Sie auf senden, um Ihre Zahlung abzuschliessen."
+                },
+                "cart_payment_information_apple_pay": {
+                    "title": "Cart, Payment Information, Mobile Payment Label",
+                    "value": "Bezahlen Sie mit Ihrem Ger\u00e4t"
+                },
+                "cart_payment_card_type_credit_card": {
+                    "title": "Cart, Payment Information, Default Card Type Label",
+                    "value": "Kreditkarte"
+                },
+                "cart_payment_information_credit_card": {
+                    "title": "Warenkorb, Zahlungsinformationen, Kreditkartenzahlung Label",
+                    "value": "Bezahlen mit Kreditkarte"
+                },
+				"cart_payment_information_amazon":{
+					"title":"Cart, Payment Information, Amazon Payment Label",
+					"value":"Bezahlen mit Amazon"
+				},
+                "cart_payment_information_payment_method": {
+                    "title": "Warenkorb, Zahlungsinformationen, Zahlungsart Label",
+                    "value": "Zahlungsart"
+                },
+                "cart_payment_information_card_holder_name": {
+                    "title": "Warenkorb, Zahlungsinformationen, Karteninhaber Label",
+                    "value": "Name des Karteninhabers"
+                },
+                "cart_payment_information_card_number": {
+                    "title": "Warenkorb, Zahlungsinformationen, Kartennummer Label",
+                    "value": "Kartennummer"
+                },
+                "cart_payment_information_expiration_date": {
+                    "title": "Warenkorb, Zahlungsinformationen, Ablaufdatum Label",
+                    "value": "Ablaufdatum"
+                },
+                "cart_payment_information_security_code": {
+                    "title": "Warenkorb, Zahlungsinformationen, Sicherheitscode Label",
+                    "value": "Sicherheitscode"
+                },
+                "cart_payment_information_checkout_text": {
+                    "title": "Warenkorb, Zahlungsinformationen, Kasse Text",
+                    "value": "Durch das Absenden Ihrer Bestellung erkl\u00e4ren Sie sich mit den [terms] allgemeinen Gesch\u00e4ftsbedingungen[\/terms] und [privacy]Datenschutzrichtlinien[\/privacy] unserer Website einverstanden.  Sobald Sie auf Bestellung abschicken klicken, ist der Bestellvorgang abgeschlossen und es k\u00f6nnen keine \u00c4nderungen an Ihrer Bestellung vorgenommen werden. Vielen Dank f\u00fcr Ihren Einkauf bei uns!"
+                },
+                "cart_payment_information_review_checkout_text": {
+                    "title": "Cart, Payment Information, Review Checkout Text",
+                    "value": "Bevor Sie Ihre Bestellung abschlie\u00dfen, erhalten Sie die M\u00f6glichkeit, die Endsummen zu \u00fcberpr\u00fcfen und zu best\u00e4tigen. Bitte klicken Sie auf die Schaltfl\u00e4che Bestellung \u00fcberpr\u00fcfen, wenn Sie bereit sind, Ihre Bestellung zu \u00fcberpr\u00fcfen, zu best\u00e4tigen und abzuschicken."
+                },
+                "cart_payment_information_review_order_button": {
+                    "title": "Cart, Payment Information, Review Order Button",
+                    "value": "BESTELLUNG \u00dcBERPR\u00dcFEN"
+                },
+                "cart_payment_information_submit_order_button": {
+                    "title": "Warenkorb, Zahlungsinformationen, Bestellung absenden Taste",
+                    "value": "BESTELLUNG ABSENDEN"
+                },
+                "cart_payment_information_cancel_order_button": {
+                    "title": "Cart, Payment Information, Cancel Order Button",
+                    "value": "Bestellung stornieren"
+                },
+                "cart_payment_information_order_notes_title": {
+                    "title": "Warenkorb, Zahlungsinformationen, Kundennotizen Titel",
+                    "value": "Anmerkungen zur Bestellung"
+                },
+                "cart_payment_information_order_notes_message": {
+                    "title": "Warenkorb, Zahlungsinformationen, Kundennotizen Nachricht",
+                    "value": "Wenn Sie spezielle W\u00fcnsche f\u00fcr Ihre Bestellung haben, geben Sie diese bitte hier ein."
+                },
+                "cart_payment_information_review_title": {
+                    "title": "Cart, Review Cart Title",
+                    "value": "\u00dcberpr\u00fcfen Sie Ihren Warenkorb"
+                },
+                "cart_payment_information_edit_cart_link": {
+                    "title": "Cart, edit cart items link",
+                    "value": "Warenkorb Artikel bearbeiten"
+                },
+                "cart_payment_information_edit_billing_link": {
+                    "title": "Cart, edit billing link",
+                    "value": "Rechnungsadresse bearbeiten"
+                },
+                "cart_payment_information_edit_shipping_link": {
+                    "title": "Cart, edit shipping link",
+                    "value": "Lieferadresse bearbeiten"
+                },
+                "cart_payment_information_edit_shipping_method_link": {
+                    "title": "Cart, edit shipping link",
+                    "value": "Versandmethode bearbeiten"
+                },
+                "cart_payment_review_totals_title": {
+                    "title": "Cart, Review Total Title",
+                    "value": "Warenkorb Total"
+                },
+                "cart_payment_review_agree": {
+                    "title": "Cart, Review Agree Text",
+                    "value": "Ich stimme den allgemeinen Gesch\u00e4ftsbedingungen dieser Website zu."
+                },
+                "cart_change_payment_method": {
+                    "title": "Cart, Change Payment Method",
+                    "value": "Bezahlmethode bearbeiten"
+                },
+				"cart_payment_information_paypal_final_note":{
+					"title":"Cart, Review and Submit PayPal Note",
+					"value":"Ihre Bestellung ist noch nicht abgeschlossen! Bitte überprüfen und senden Sie Ihre Bestellung unten, um Ihre Zahlung abzuschließen."
+				},
+				"cart_please_wait":{
+					"title":"Cart, Processing, please wait",
+					"value":"Ihre Zahlung wird bearbeitet, bitte schließen Sie das Fenster nicht."
+				},
+				"login_please_wait":{
+					"title":"Cart, Login Processing, please wait",
+					"value":"Wir melden Sie an, bitte warten Sie."
+				},
+				"address_please_wait":{
+					"title":"Cart, Address Processing, please wait",
+					"value":"Wir speichern Ihre Adressinformationen und aktualisieren die Gesamtsummen Ihres Einkaufswagens, einen Moment bitte."
+				},
+				"create_account_please_wait":{
+					"title":"Cart, Create Account Processing, please wait",
+					"value":"Wir erstellen Ihr Konto, bitte warten Sie."
+				},
+				"shipping_methods_please_wait":{
+					"title":"Cart, Shipping Methods Processing, please wait",
+					"value":"Wir speichern Ihre Versandauswahl und aktualisieren die Gesamtsummen Ihres Einkaufswagens. Bitte warten Sie."
+				},
+				"payment_processed":{
+					"title":"Cart, Payment Processed Note",
+					"value":"Ihre Zahlung wurde bearbeitet und Sie können Ihre Bestellung jetzt einsehen."
+				},
+				"payment_processed_view":{
+					"title":"Cart, Payment Processed View",
+					"value":"Bestellung ansehen"
+				}
+            }
+        },
+        "cart_success": {
+            "label": "Order Receipt",
+            "options": {
+                "cart_payment_receipt_order_details_link": {
+                    "title": "Email Best\u00e4tigung, Link zum Konto",
+                    "value": "Bestelldetails anzeigen"
+                },
+                "cart_payment_receipt_subscription_details_link": {
+                    "title": "Email Best\u00e4tigung, Link zum Abonnement",
+                    "value": "Abonnementdetails anzeigen"
+                },
+                "cart_payment_receipt_title": {
+                    "title": "Email Best\u00e4tigung Titel",
+                    "value": "Auftragsbest\u00e4tigung - Bestellnummer"
+                },
+                "cart_payment_complete_line_1": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Linie 1",
+                    "value": "Sehr geehrte\/r"
+                },
+                "cart_payment_complete_line_2": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Linie 2",
+                    "value": "vielen Dank f\u00fcr Ihre Bestellung bei xxxxxxxxx! Ihre Referenznummer ist:"
+                },
+                "cart_payment_complete_line_3": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Linie 3",
+                    "value": "Nachfolgend finden Sie eine Zusammenfassung Ihrer Bestellung. Sie k\u00f6nnen den Status Ihrer Bestellung und alle Details auf unserer Website \u00fcberpr\u00fcfen, wenn Sie sich in Ihren Account einloggen."
+                },
+                "cart_payment_complete_line_4": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Linie 4",
+                    "value": "Bitte bewahren Sie dies als Beleg f\u00fcr Ihre Bestellung auf!"
+                },
+                "cart_payment_complete_line_5": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Linie 5",
+                    "value": "Klicken Sie hier, um den Inhalt Ihrer Mitgliedschaft anzuzeigen"
+                },
+                "cart_payment_complete_click_here": {
+                    "title": "Cart, Payment Complete, Click Here",
+                    "value": "Link"
+                },
+                "cart_payment_complete_to_view_order": {
+                    "title": "Cart, Payment Complete, To View Order",
+                    "value": "zur Ansicht Ihrer Bestellung"
+                },
+                "cart_payment_complete_billing_label": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Fakturierung Label",
+                    "value": "Rechnungsadresse"
+                },
+                "cart_payment_complete_shipping_label": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Versand Label",
+                    "value": "Versandadresse"
+                },
+                "cart_payment_complete_details_header_1": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Kopfzeile 1",
+                    "value": "Produkt"
+                },
+                "cart_payment_complete_details_header_2": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Kopfzeile 2",
+                    "value": "Menge"
+                },
+                "cart_payment_complete_details_header_3": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Kopfzeile 3",
+                    "value": "St\u00fcckpreis"
+                },
+                "cart_payment_complete_details_header_4": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Kopfzeile 4",
+                    "value": "Gesamtpreis"
+                },
+                "cart_payment_complete_order_totals_subtotal": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Zwischensumme",
+                    "value": "Zwischensumme"
+                },
+                "cart_payment_complete_order_totals_shipping": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Versand",
+                    "value": "Versand"
+                },
+                "cart_payment_complete_order_totals_tax": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, MwSt",
+                    "value": "Steuer"
+                },
+                "cart_payment_complete_order_totals_discount": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, ",
+                    "value": "Rabatt"
+                },
+                "cart_payment_complete_order_totals_vat": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, MwSt",
+                    "value": "Mehrwertsteuer @"
+                },
+                "cart_payment_complete_order_totals_duty": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Duty",
+                    "value": "Zoll"
+                },
+                "cart_payment_complete_order_totals_grand_total": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Bestellung Total",
+                    "value": "Bestellung gesamt"
+                },
+                "cart_payment_complete_bottom_line_1": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Taste Linie 1",
+                    "value": "\u00dcberpr\u00fcfen Sie Ihre Bestellung, wenn Sie sie erhalten haben. Falls Sie Bedenken oder Fragen haben, setzen Sie sich mit uns in Verbindung. Wir sch\u00e4tzen es sehr dass Sie bei uns einkaufen und hoffen, das Ihnen Ihr Produkt gef\u00e4llt."
+                },
+                "cart_payment_complete_bottom_line_2": {
+                    "title": "Warenkorb, Zahlung abgeschlossen, Taste Linie 2",
+                    "value": "<hr \/>  <strong>Bitte \u00fcberweisen Sie den Gesamtbetrag auf folgendes Konto:<\/strong><br>  <em><strong>Bankverbindung:<\/strong><\/em><br><br> xxxxxxxx <strong><br>IBAN<\/strong>: xxxx xxxx xxxx xxxx <br> <strong>BIC<\/strong>: xxxxx<br><br>  Nach Eingang der Zahlung wird die Ware umgehend versendet. <br><br> <hr \/><br>  <strong>Kein Ausweis von Umsatzsteuer, da Kleinunternehmerregelung gem\u00e4\u00df \u00a7 19 UStG.<\/strong> <br><br> <hr \/> <br> <strong>HINWEIS<\/strong> Falls Sie ein individuelles Produkt gekauft haben (zum Beispiel die Auswahl von speziellen Farben) kann sich die  Lieferzeit verl\u00e4ngern, da Material extra f\u00fcr Sie bestellt werden muss.  Wir m\u00f6chten Sie noch einmal wie in der Widerrufsbelehrung dargelegt darauf hinweisen, dass das Widerrufsrecht nicht besteht bei Vertr\u00e4gen zur Lieferung von Waren, die nicht vorgefertigt sind und f\u00fcr deren Herstellung eine individuelle Auswahl oder Bestimmung durch den Verbraucher ma\u00dfgeblich ist oder die eindeutig auf die pers\u00f6nlichen Bed\u00fcrfnisse des Verbrauchers zugeschnitten sind. <br> <hr \/><br>Herzlichen Dank!"
+                },
+                "cart_success_thank_you_title": {
+                    "title": "Cart, Payment Complete, Thank You Title",
+                    "value": "Vielen Dank f\u00fcr Ihre Bestellung."
+                },
+                "cart_success_order_number_is": {
+                    "title": "Cart, Payment Complete, Your Order Number",
+                    "value": "Bestellnummer ist:"
+                },
+                "cart_success_will_receive_email": {
+                    "title": "Cart, Payment Complete, Will receive email",
+                    "value": "Sie erhalten in K\u00fcrze eine E-Mail-Best\u00e4tigung unter"
+                },
+                "cart_success_print_receipt_text": {
+                    "title": "Cart, Payment Complete, Print Receipt Link Text",
+                    "value": "Beleg drucken"
+                },
+                "cart_success_save_order_text": {
+                    "title": "Cart, Payment Complete, Save Your Info",
+                    "value": "Speichern Sie Ihre Informationen f\u00fcr das n\u00e4chste Mal."
+                },
+                "cart_success_create_password": {
+                    "title": "Cart, Payment Complete, Create Password",
+                    "value": "Passwort erstellen:"
+                },
+                "cart_success_verify_password": {
+                    "title": "Cart, Payment Complete, Verify Password",
+                    "value": "Passwort best\u00e4tigen:"
+                },
+                "cart_success_password_hint": {
+                    "title": "Cart, Payment Complete, Password Hint",
+                    "value": "(6-12 Zeichen)"
+                },
+                "cart_success_create_account": {
+                    "title": "Cart, Payment Complete, Create Account",
+                    "value": "Konto erstellen"
+                },
+                "cart_giftcard_receipt_title": {
+                    "title": "Cart, Gift Card Email Subject",
+                    "value": "Geschenkkarte Lieferung"
+                },
+                "cart_giftcard_receipt_header": {
+                    "title": "Cart, Gift Card Header",
+                    "value": "Ihre Geschenkkarte"
+                },
+                "cart_giftcard_receipt_to": {
+                    "title": "Cart, Gift Card To",
+                    "value": "an"
+                },
+                "cart_giftcard_receipt_from": {
+                    "title": "Cart, Gift Card From",
+                    "value": "von"
+                },
+                "cart_giftcard_receipt_id": {
+                    "title": "Cart, Gift Card ID Label",
+                    "value": "Ihre Geschenk-Karte ID"
+                },
+                "cart_giftcard_receipt_amount": {
+                    "title": "Cart, Gift Card Amount",
+                    "value": "Geschenk-Karte Gesamt"
+                },
+                "cart_giftcard_receipt_message": {
+                    "title": "Cart, Gift Card Message",
+                    "value": "Sie k\u00f6nnen Ihre Geschenkkarte an der Kasse einl\u00f6sen unter"
+                },
+                "cart_downloads_available": {
+                    "title": "Cart Success, Downloads Available",
+                    "value": "Ihre Bestellung enth\u00e4lt Downloads diese sind in Ihrem Konto verf\u00fcgbar."
+                },
+                "cart_downloads_unavailable": {
+                    "title": "Cart Success, Downloads Unavailable",
+                    "value": "Ihre Bestellung enth\u00e4lt Downloads, aber Ihre Zahlung wurde noch nicht genehmigt. Sobald die Zahlung genehmigt wurde, werden Ihre Downloads in Ihrem Konto verf\u00fcgbar sein."
+                },
+                "cart_downloads_click_to_go": {
+                    "title": "Cart Success, Downloads Click to go Text",
+                    "value": "Klicken Sie hier, um jetzt dorthin zu gelangen."
+                },
+                "cart_success_view_downloads": {
+                    "title": "Cart Success, View Downloads",
+                    "value": "Downloads anschauen"
+                },
+                "cart_invoice_line_1": {
+                    "title": "Cart Invoice, Payment Note",
+                    "value": "Unten ist Ihre Rechnung, bitte folgen Sie dem Link unten, um die Zahlung abzuschlie\u00dfen. Sie k\u00f6nnen auch eine Scheckzahlung an die oben angegebene Adresse senden."
+                },
+                "cart_invoice_pay_online": {
+                    "title": "Cart Invoice, Pay Online",
+                    "value": "Online bezahlen"
+                },
+                "cart_invoice_items_label": {
+                    "title": "Cart Invoice, Invoice Header",
+                    "value": "Rechnungsposten"
+                },
+				"cart_giftcards_unavailable":{
+					"title":"Cart Success, Gift Cards Unavailable",
+					"value":"Ihre Bestellung enthält eine Geschenkkarte, Ihre Zahlung wurde jedoch noch nicht genehmigt. Sobald die Zahlung genehmigt wurde, ist Ihre Geschenkkarte auf Ihrem Konto verfügbar."
+				},
+				"cart_text_notification_title":{
+					"title":"Order Success, Text Notification Service Title",
+					"value":"Bestell-Updates"
+				},
+				"cart_text_notification_description":{
+					"title":"Order Success, Text Notification Service Description Info",
+					"value":"Melden Sie sich unten an, um Bestellaktualisierungen per SMS direkt auf Ihr Telefon zu erhalten."
+				},
+				"cart_text_notification_placeholder":{
+					"title":"Order Success, Text Notification Service Input Placeholder",
+					"value":"xxx-xxx-xxxx"
+				},
+				"cart_text_notification_success":{
+					"title":"Order Success, Text Notification Success Message",
+					"value":"Sie haben jetzt Bestellbenachrichtigungen abonniert!"
+				},
+				"cart_text_notification_error":{
+					"title":"Order Success, Text Notification Error Message",
+					"value":"Ihre Telefonnummer ist ungültig, bitte korrigieren und erneut übermitteln."
+				},
+				"cart_text_notification_button":{
+					"title":"Order Success, Text Notification Service Button",
+					"value":"Erhalten Sie Versand-Updates per SMS"
+				}
+            }
+        },
+        "subscription_trial": {
+            "label": "Subscription Trial Email",
+            "options": {
+                "trial_message_1": {
+                    "title": "Subscription Trial Part 1",
+                    "value": "Vielen Dank f\u00fcr Ihre Anmeldung! Ihr"
+                },
+                "trial_message_2": {
+                    "title": "Subscription Trial Part 2",
+                    "value": "Tage kostenlose Testversion von"
+                },
+                "trial_message_3": {
+                    "title": "Subscription Trial Part 3",
+                    "value": "hat nun begonnen! Wenn Sie w\u00e4hrend Ihrer Testversion Fragen oder Bedenken haben, wenden Sie sich bitte an uns, wir helfen Ihnen gerne weiter."
+                },
+                "trial_message_4": {
+                    "title": "Subscription Trial Part 4",
+                    "value": "Wir hoffen, dass Sie bei uns bleiben, aber wenn Sie sich anders entscheiden k\u00f6nne Sie jederzeit vor dem Ablauf Ihrer Testversion k\u00fcndigen um Kosten zu vermeiden. Loggen Sie sich dazu in Ihr Kondenkonto eine gehenSie dann auf Abonement verwalten und stornieren Sie ihr Abnonnement."
+                },
+                "trial_message_link": {
+                    "title": "View Subscription Information",
+                    "value": "Abonnement-Informationen anzeigen"
+                },
+                "subscription_trial_email_title": {
+                    "title": "Subscription Email Title",
+                    "value": "Ihre Testsperiode hat begonnen"
+                },
+                "trial_ending_message_1": {
+                    "title": "Subscription Trial Ending Part 1",
+                    "value": "Ihre"
+                },
+                "trial_ending_message_2": {
+                    "title": "Subscription Trial Part 2",
+                    "value": "Tage kostenlose Testversion von"
+                },
+                "trial_ending_message_3": {
+                    "title": "Subscription Trial Part 3",
+                    "value": "wird in nur 3 Tagen enden! Wenn Sie Fragen oder Bedenken haben, kontaktieren Sie uns bitte! Wir helfen Ihnen gerne weiter."
+                },
+                "trial_ending_message_4": {
+                    "title": "Subscription Trial Part 4",
+                    "value": "Wir hoffen, dass Sie bei uns bleiben, aber wenn Sie sich anders entscheiden k\u00f6nne Sie jederzeit vor dem Ablauf Ihrer Testversion k\u00fcndigen um Kosten zu vermeiden. Loggen Sie sich dazu in Ihr Kondenkonto eine gehenSie dann auf Abonement verwalten und stornieren Sie ihr Abnonnement."
+                },
+                "trial_ending_message_link": {
+                    "title": "View Subscription Information",
+                    "value": "Abonnement-Informationen anzeigen"
+                },
+                "subscription_trial_ending_email_title": {
+                    "title": "Subscription Trial Email Title",
+                    "value": "Ihre Testversion endet in 3 Tage"
+                }
+            }
+        },
+        "subscription_ended": {
+            "label": "Subscription Ended Email",
+            "options": {
+                "ended_message_1": {
+                    "title": "Subscription Ended Part 1",
+                    "value": "Ihr Abonnement bei uns wurde entweder beendet, gek\u00fcndigt oder ist aufgrund von zu vielen fehlgeschlagenen Zahlungen abgelaufen."
+                },
+                "ended_message_2": {
+                    "title": "Subscription Ended Part 2",
+                    "value": "Wir bedauern, dass Sie uns verlassen und hoffen auf Ihre R\u00fcckkehr. Falls dieses Abonnement versehentlich gek\u00fcndigt wurde, k\u00f6nnen Sie auf den unterstehenden Link klicken, um ein neues Abonnement zu erwerben."
+                },
+                "ended_details": {
+                    "title": "Subscription Ended Details",
+                    "value": "Das folgende Abonnement ist abgelaufen:"
+                },
+                "emded_message_link": {
+                    "title": "Start a New Subscription",
+                    "value": "Ein neues Abonnement beginnen."
+                },
+                "subscription_ended_email_title": {
+                    "title": "Subscription Ended Email Title",
+                    "value": "Ihr Abonnement ist abgelaufen."
+                }
+            }
+        },
+        "account_login": {
+            "label": "Account - Login",
+            "options": {
+                "account_login_title": {
+                    "title": "Benutzerkonto, Login Titel",
+                    "value": "Bereits Kunde"
+                },
+                "account_login_sub_title": {
+                    "title": "Benutzerkonto, Login Untertitel",
+                    "value": "Melden Sie sich unten an, um auf Ihr bestehendes Konto zuzugreifen."
+                },
+                "account_login_email_label": {
+                    "title": "Benutzerkonto, Login, Email Label",
+                    "value": "Email Adresse"
+                },
+                "account_login_password_label": {
+                    "title": "Benutzerkonto, Login, Passwort Label",
+                    "value": "Passwort"
+                },
+                "account_login_button": {
+                    "title": "Benutzerkonto, Login Taste",
+                    "value": "ANMELDEN"
+                },
+                "account_login_forgot_password_link": {
+                    "title": "Konto, Login, Passwort vergessen Link",
+                    "value": "Haben Sie Ihr Passwort vergessen?"
+                },
+                "account_login_account_information_title": {
+                    "title": "Benutzerkonto, Login abgeschlossen Titel",
+                    "value": "Benutzerkontoinformationen"
+                },
+                "account_login_account_information_text": {
+                    "title": "Benutzerkonto, Login abgeschlossen Text",
+                    "value": "Sie kaufen derzeit als Demo Benutzer ein, um mit ein anderes Konto zu nutzen,"
+                },
+                "account_login_account_information_logout_link": {
+                    "title": "Benutzerkonto, Login abgeschlossen, Logout Link",
+                    "value": "klicken Sie hier."
+                },
+                "account_new_user_title": {
+                    "title": "Benutzerkonto, Login, Neuer Benutzer Titel",
+                    "value": "Neuer Benutzer"
+                },
+                "account_new_user_sub_title": {
+                    "title": "Benutzerkonto, Login, Neuer Benutzer Untertitel",
+                    "value": "Nicht registriert? Klicken Sie auf die Schaltfl\u00e4che unten."
+                },
+                "account_new_user_message": {
+                    "title": "Benutzerkonto, Login, Neuer Benutzer Nachricht",
+                    "value": "Kein Benutzerkonto? Erstellen Sie ein Benutzerkonto, um die Website vollst\u00e4ndig zu Nutzen."
+                },
+                "account_new_user_button": {
+                    "title": "Benutzerkonto, Login, Neuer Benutzer Button",
+                    "value": "Benutzerkonto erstellen"
+                }
+            }
+        },
+        "account_forgot_password": {
+            "label": "Benutzerkonto - Passwort vergessen",
+            "options": {
+                "account_forgot_password_title": {
+                    "title": "Benutzerkonto, Passwort abrufen Titel",
+                    "value": "Haben Sie Ihr Passwort vergessen?"
+                },
+                "account_forgot_password_email_label": {
+                    "title": "Benutzerkonto, Passwort abrufen Email Label",
+                    "value": "Email"
+                },
+                "account_forgot_password_button": {
+                    "title": "Account, Passwort abrufen Taste",
+                    "value": "Passwort abrufen"
+                }
+            }
+        },
+        "account_validation_email": {
+            "label": "Account - Validation Email",
+            "options": {
+                "account_validation_email_message": {
+                    "title": "Benutzerkonto, kurze Best\u00e4tigung Email Nachricht",
+                    "value": "Um Ihr Benutzerkonto zu aktivieren, klicken Sie bitte auf den nachfolgenden Link."
+                },
+                "account_validation_email_title": {
+                    "title": "Benutzerkonto, Aktivieren Sie Ihr Konto Title",
+                    "value": "Bitte aktivieren Sie Ihr Benutzerkonto."
+                },
+                "account_validation_email_link": {
+                    "title": "Benutzerkonto, Aktivieren Sie Ihr Konto Link",
+                    "value": "Klicken Sie hier zum aktivieren."
+                }
+            }
+        },
+        "account_register": {
+            "label": "Account - Register",
+            "options": {
+                "account_register_title": {
+                    "title": "Benutzerkonto, registrieren Title",
+                    "value": "Erstellen Sie ein Benutzerkonto."
+                },
+                "account_register_first_name": {
+                    "title": "Benutzerkonto, registrieren, Vorname Label",
+                    "value": "Vorname"
+                },
+                "account_register_last_name": {
+                    "title": "Benutzerkonto, registrieren, Name Label",
+                    "value": "Name"
+                },
+                "account_register_email": {
+                    "title": "Benutzerkonto, registrieren, Email Label",
+                    "value": "Email Adresse"
+                },
+                "account_register_password": {
+                    "title": "Benutzerkonto, registrieren, Passwort Label",
+                    "value": "Passwort"
+                },
+                "account_register_retype_password": {
+                    "title": "Benutzerkonto, registrieren, Passwort erneut eingeben Label",
+                    "value": "Passwort wiederholen"
+                },
+                "account_register_subscribe": {
+                    "title": "Benutzerkonto, registrieren, Subscribe Text",
+                    "value": "M\u00f6chten Sie in unsere Email-Liste eintragen werden?"
+                },
+                "account_register_agree_terms": {
+                    "title": "Account, Register, Agree Terms Text",
+                    "value": "Stimmen Sie den Nutzungsbedingungen unserer Website, den Datenrichtlinien und der Cookie-Richtlinie zu?"
+                },
+                "account_register_button": {
+                    "title": "Benutzerkonto, registrieren Taste",
+                    "value": "Registrieren"
+                },
+                "account_billing_information_user_notes": {
+                    "title": "Account, Billing, User Notes",
+                    "value": "Zus\u00e4tzliche Informationen zu Ihrer Anmeldung."
+                },
+                "account_register_email_title": {
+                    "title": "Account, Register Email Title",
+                    "value": "Neue EasyCart-Anmeldung"
+                },
+                "account_register_email_message": {
+                    "title": "Account, Register Email Message",
+                    "value": "Neue Anmeldung mit E-Mail-Adresse:"
+                }
+            }
+        },
+        "account_navigation": {
+            "label": "Account - Navigation",
+            "options": {
+                "account_navigation_title": {
+                    "title": "Benutzerkonto, Navigation Title",
+                    "value": "Benutzerkonto Navigation"
+                },
+                "account_navigation_basic_inforamtion": {
+                    "title": "Benutzerkonto, Navigation, Bearbeitung allgemeiner Informationen Link",
+                    "value": "pers\u00f6nliche Informationen"
+                },
+                "account_navigation_orders": {
+                    "title": "Benutzerkonto, Navigation, Sehen Sie die Bestellungen Link",
+                    "value": "Bestellungen ansehen"
+                },
+                "account_navigation_password": {
+                    "title": "Benutzerkonto, Navigation, Passwort bearbeiten Link",
+                    "value": "Passwort \u00e4ndern"
+                },
+                "account_navigation_subscriptions": {
+                    "title": "Benutzerkonto, Navigation, Subscriptions Link",
+                    "value": "Abonnements verwalten"
+                },
+                "account_navigation_payment_methods": {
+                    "title": "Benutzerkonto, Navigation, Zahlungen Link",
+                    "value": "Zahlungsmethoden verwalten"
+                },
+                "account_navigation_sign_out": {
+                    "title": "Benutzerkonto, Navigation, abmelden Link",
+                    "value": "abmelden"
+                },
+                "account_navigation_dashboard": {
+                    "title": "Benutzerkonto, Navigation, Armaturenbrett Link",
+                    "value": "Benutzerkonto Dashboard"
+                },
+                "account_navigation_billing_information": {
+                    "title": "Account, Navigation, Billing Link",
+                    "value": "Rechnungsinformationen"
+                },
+                "account_navigation_shipping_information": {
+                    "title": "Account, Navigation, Shipping Link",
+                    "value": "Versandinformationen"
+                }
+            }
+        },
+        "account_dashboard": {
+            "label": "Benutzerkonto - Dashboard",
+            "options": {
+                "account_dashboard_recent_orders_title": {
+                    "title": "Benutzerkonto, Armaturenbrett, letzte Bestellungen Titel",
+                    "value": "letzte Bestellungen"
+                },
+                "account_dashboard_recent_orders_none": {
+                    "title": "Benutzerkonto, Amaturenbrett, letzte Bestellungen, keine Bestellungen",
+                    "value": "Es wurden keine Bestellungen aufgegeben."
+                },
+                "account_dashboard_all_orders_linke": {
+                    "title": "Benutzerkonto, Armaturenbrett, alle Bestellungen Link",
+                    "value": "Alle Bestellungen ansehen"
+                },
+                "account_dashboard_order_placed": {
+                    "title": "Account, Dashboard, Order Placed Label",
+                    "value": "Bestellung aufgegeben"
+                },
+                "account_dashboard_order_total": {
+                    "title": "Account, Dashboard, Total Label",
+                    "value": "Gesamt"
+                },
+                "account_dashboard_order_ship_to": {
+                    "title": "Account, Dashboard, Ship To Label",
+                    "value": "Versand nach"
+                },
+                "account_dashboard_order_order_label": {
+                    "title": "Account, Dashboard, Order Label",
+                    "value": "Bestellung"
+                },
+                "account_dashboard_order_view_details": {
+                    "title": "Account, Dashboard, View Details Link",
+                    "value": "Details anzeigen"
+                },
+                "account_dashboard_order_buy_item_again": {
+                    "title": "Account, Dashboard, Buy Item Again",
+                    "value": "Artikel erneut kaufen"
+                },
+                "account_dashboard_preference_title": {
+                    "title": "Benutzerkonto, Armaturenbrett, Bevorzugung Titel",
+                    "value": "Kontoeinstellungen"
+                },
+                "account_dashboard_email_title": {
+                    "title": "Benutzerkonto, Armaturenbrett, Email Titel",
+                    "value": "Ihre Email"
+                },
+                "account_dashboard_email_edit_link": {
+                    "title": "Benutzerkonto, Armaturenbrett, Email bearbeiten Link",
+                    "value": "bearbeiten"
+                },
+                "account_dashboard_email_note": {
+                    "title": "Benutzerkonto, Armaturenbrett, Email Hinweis",
+                    "value": "(Diese wird ben\u00f6tigt, um sich an zu melden.)"
+                },
+                "account_dashboard_billing_title": {
+                    "title": "Benutzerkonto, Armaturenbrett, Fakturierung Titel",
+                    "value": "Rechnungsadresse"
+                },
+                "account_dashboard_billing_link": {
+                    "title": "Benutzerkonto, Armaturenbrett, Fakturierung bearbeiten Link",
+                    "value": "Rechnungsadresse bearbeiten"
+                },
+                "account_dashboard_shipping_title": {
+                    "title": "Benutzerkonto, Armaturenbrett, Versand Titel",
+                    "value": "Versandadresse"
+                },
+                "account_dashboard_shipping_link": {
+                    "title": "Benutzerkonto, Armaturenbrett, Versand Edit Link",
+                    "value": "Versandadresse bearbeiten"
+                }
+            }
+        },
+        "account_personal_information": {
+            "label": "Benutzerkontot - Pers\u00f6nliche Informationen bearbeiten",
+            "options": {
+                "account_personal_information_title": {
+                    "title": "Benutzerkonto, Pers\u00f6nliche Informationen Titel",
+                    "value": "Pers\u00f6nliche Informationen"
+                },
+                "account_personal_information_sub_title": {
+                    "title": "Benutzerkonto, Pers\u00f6nliche Informationen Untertitel",
+                    "value": "Bitte beachten Sie: \u00c4nderungen an Ihren Kontoinformationen, einschlie\u00dflich der Lieferadresse, wirken sich nur auf neue Bestellungen aus. Alle bereits aufgegebenen Bestellungen werden an die am Kaufdatum angegebene Adresse geschickt."
+                },
+                "account_personal_information_first_name": {
+                    "title": "Benutzerkonto, Pers\u00f6nliche Informationen, Vorname Label",
+                    "value": "Vorname"
+                },
+                "account_personal_information_last_name": {
+                    "title": "Benutzerkonto, Pers\u00f6nliche Informationen, Name Label",
+                    "value": "Name"
+                },
+                "account_personal_information_email": {
+                    "title": "Benutzerkonto, Pers\u00f6nliche Informationen, Email Label",
+                    "value": "Email Adresse"
+                },
+                "account_personal_information_subscribe": {
+                    "title": "Benutzerkonto, Pers\u00f6nliche Informationen, Subscribe Label",
+                    "value": "M\u00f6chten Sie unseren Newsletter abonnieren?"
+                },
+                "account_personal_information_update_button": {
+                    "title": "Benutzerkonto, Pers\u00f6nliche Informationen, Update Taste",
+                    "value": "UPDATE"
+                },
+                "account_personal_information_cancel_link": {
+                    "title": "Benutzerkonto, Pers\u00f6nliche Informationen, l\u00f6schen Link",
+                    "value": "ABBRECHEN"
+                },
+				"account_personal_information_email_other":{
+					"title":"Account, Personal Information, Additional Email Label",
+					"value":"Zusätzliche E-Mail-Adresse"
+				}
+            }
+        },
+        "account_password": {
+            "label": "Account - Edit Password",
+            "options": {
+                "account_password_title": {
+                    "title": "Benutzerkonto, Passwort Titel",
+                    "value": "Passwort bearbeiten"
+                },
+                "account_password_sub_title": {
+                    "title": "Benutzerkonto, Passwort Undertitel",
+                    "value": "Bitte beachten Sie: Sobald Sie Ihr Passwort ge\u00e4ndert haben, m\u00fcssen Sie jedes Mal, wenn Sie sich auf unserer Website einloggen, das neue Passwort verwenden."
+                },
+                "account_password_current_password": {
+                    "title": "Benutzerkonto, Password, Aktuelles Passwort Label",
+                    "value": "aktuelles Passwort"
+                },
+                "account_password_new_password": {
+                    "title": "Benutzerkonto, Passwort, Neues Passwort Label",
+                    "value": "neues Passwort"
+                },
+                "account_password_retype_new_password": {
+                    "title": "Benutzerkonto, Passwort, geben Sie das neue Passwort erneut ein Label",
+                    "value": "Geben Sie das neue Passwort erneut ein."
+                },
+                "account_password_update_button": {
+                    "title": "Benutzerkonto, Passwort, Update Taste",
+                    "value": "UPDATE"
+                },
+                "account_password_cancel_button": {
+                    "title": "Benutzerkonto, Passwort, l\u00f6schen Link",
+                    "value": "ABBRECHEN"
+                }
+            }
+        },
+        "account_billing_information": {
+            "label": "Benutzerkonto - Rechnungsinformationen bearbeiten",
+            "options": {
+                "account_billing_information_title": {
+                    "title": "Benutzerkonto, Rechnungsinformationen Titel",
+                    "value": "Rechnungsinformationen"
+                },
+                "account_billing_information_first_name": {
+                    "title": "Benutzerkonto, Rechnungsinformationen, Vorname Label",
+                    "value": "Vorname"
+                },
+                "account_billing_information_last_name": {
+                    "title": "Benutzerkonto, Rechnungsinformationen, Name Label",
+                    "value": "Name"
+                },
+                "account_billing_information_address": {
+                    "title": "Benutzerkonto, Rechnungsinformationen, Adresse Label",
+                    "value": "Adresse"
+                },
+                "account_billing_information_address2": {
+                    "title": "Benutzerkonto, Rechnungsinformationen, Adresse 2 Label",
+                    "value": "Adresse 2"
+                },
+                "account_billing_information_city": {
+                    "title": "Benutzerkonto, Rechnungsinformationen, Stadt Label",
+                    "value": "Stadt"
+                },
+                "account_billing_information_state": {
+                    "title": "Benutzerkonto, Rechnungsinformationen, Staat Label",
+                    "value": "Staat"
+                },
+                "account_billing_information_default_no_state": {
+                    "title": "Benutzerkonto, Rechnungsinformationen, Keinen Staat Label",
+                    "value": "w\u00e4hlen Sie einen Staat"
+                },
+                "account_billing_information_zip": {
+                    "title": "Benutzerkonto, Rechnungsinformationen, PLZ Label",
+                    "value": "PLZ"
+                },
+                "account_billing_information_country": {
+                    "title": "Benutzerkonto, Rechnungsinformationen, Land Label",
+                    "value": "Land"
+                },
+                "account_billing_information_default_no_country": {
+                    "title": "Benutzerkonto, Rechnungsinformationen, Kein Land Label",
+                    "value": "w\u00e4hlen Sie ein Land"
+                },
+                "account_billing_information_phone": {
+                    "title": "Benutzerkonto, Rechnungsinformationen, Telefon Label",
+                    "value": "Telefon"
+                },
+                "account_billing_information_update_button": {
+                    "title": "Benutzerkonto, Rechnungsinformationen, Update Taste",
+                    "value": "UPDATE"
+                },
+                "account_billing_information_cancel": {
+                    "title": "Benutzerkonto, Rechnungsinformationen, l\u00f6schen Link",
+                    "value": "ABBRECHEN"
+                }
+            }
+        },
+        "account_shipping_information": {
+            "label": "Benutzerkonto - Versandinformationen bearbeiten",
+            "options": {
+                "account_shipping_information_title": {
+                    "title": "Benutzerkonto, Versandinformationen Titel",
+                    "value": "Versandinformationen"
+                },
+                "account_shipping_information_first_name": {
+                    "title": "Benutzerkonto, Versandinformationen, Vorname Label",
+                    "value": "Vorname"
+                },
+                "account_shipping_information_last_name": {
+                    "title": "Benutzerkonto, Versandinformationen, Name Label",
+                    "value": "Name"
+                },
+                "account_shipping_information_address": {
+                    "title": "Benutzerkonto, Versandinformationen, Adresse Label",
+                    "value": "Adresse"
+                },
+                "account_shipping_information_address2": {
+                    "title": "Benutzerkonto, Versandinformationen, Adresse 2 Label",
+                    "value": "Adresse 2"
+                },
+                "account_shipping_information_city": {
+                    "title": "Benutzerkonto, Versandinformationen, Stadt Label",
+                    "value": "Stadt"
+                },
+                "account_shipping_information_state": {
+                    "title": "Benutzerkonto, Versandinformationen, Staat Label",
+                    "value": "Staat"
+                },
+                "account_shipping_information_default_no_state": {
+                    "title": "Benutzerkonto, Versandinformationen, Kein Staat Label",
+                    "value": "w\u00e4hlen Sie einen Staat"
+                },
+                "account_shipping_information_zip": {
+                    "title": "Benutzerkonto, Versandinformationen, PLZ Label",
+                    "value": "PLZ"
+                },
+                "account_shipping_information_country": {
+                    "title": "Benutzerkonto, Versandinformationen, Land Label",
+                    "value": "Land"
+                },
+                "account_shipping_information_default_no_country": {
+                    "title": "Benutzerkonto, Versandinformationen, Kein Land Label",
+                    "value": "w\u00e4hlen Sie ein Land"
+                },
+                "account_shipping_information_phone": {
+                    "title": "Benutzerkonto, Versandinformationen, Telefon Label",
+                    "value": "Telefon"
+                },
+                "account_shipping_information_update_button": {
+                    "title": "Benutzerkonto, Versandinformationen, Update Taste",
+                    "value": "UPDATE"
+                },
+                "account_shipping_information_cancel": {
+                    "title": "Benutzerkonto, Versandinformationen, l\u00f6schen Link",
+                    "value": "ABBRECHEN"
+                }
+            }
+        },
+        "account_orders": {
+            "label": "Benutzerkonto - Bestellungen",
+            "options": {
+                "account_orders_title": {
+                    "title": "Benutzerkonto, Bestellungen Titel",
+                    "value": "Ihre bisherigen Bestellungen"
+                },
+                "account_orders_header_1": {
+                    "title": "Benutzerkonto, Bestellungen, Kopfzeile 1",
+                    "value": "ID"
+                },
+                "account_orders_header_2": {
+                    "title": "Benutzerkonto, Bestellungen, Kopfzeile 2",
+                    "value": "Datum"
+                },
+                "account_orders_header_3": {
+                    "title": "Benutzerkonto, Bestellungen, Kopfzeile 3",
+                    "value": "Gesamt"
+                },
+                "account_orders_header_4": {
+                    "title": "Benutzerkonto, Bestellungen, Kopfzeile 4",
+                    "value": "Status"
+                },
+                "account_orders_view_order_button": {
+                    "title": "Benutzerkonto, Bestellungen, Bestellung sehen Taste",
+                    "value": "ansehen"
+                }
+            }
+        },
+        "account_forgot_password_email": {
+            "label": "Benutzerkonto - Passwort vergessen Wiederherstellen Email",
+            "options": {
+                "account_forgot_password_email_title": {
+                    "title": "Benutzerkonto, Passwort vergessen Email, Email Titel",
+                    "value": "Ihr neues Passwort"
+                },
+                "account_forgot_password_email_dear": {
+                    "title": "Benutzerkonto, Passwort vergessen Email, Sehr geehrter Benutzer",
+                    "value": "Sehr geehrte\/r"
+                },
+                "account_forgot_password_email_your_new_password": {
+                    "title": "Benutzerkonto, Passwort vergessen Email, Ihr neues Passwort",
+                    "value": "Ihr neues Passwort ist:"
+                },
+                "account_forgot_password_email_change_password": {
+                    "title": "Benutzerkonto, Passwort vergessen Email, Passwort \u00e4ndern Text",
+                    "value": "Loggen Sie sich in Ihr Konto ein und \u00e4ndern Sie Ihr Passwort auf eines Ihrer Wahl."
+                },
+                "account_forgot_password_email_thank_you": {
+                    "title": "Benutzerkonto, Passwort vergessen Email, Vielen Dank Text",
+                    "value": "Herzlichen Dank!"
+                }
+            }
+        },
+        "account_order_details": {
+            "label": "Account - Order Details",
+            "options": {
+                "account_orders_details_order_info_title": {
+                    "title": "Benutzerkonto, Bestelldetails, Bestellangaben Titel",
+                    "value": "Bestellangaben"
+                },
+                "account_orders_details_your_order_title": {
+                    "title": "Benutzerkonto, Bestelldetails, Ihre Bestellung Titel",
+                    "value": "Ihre Bestellung"
+                },
+                "account_orders_details_order_number": {
+                    "title": "Benutzerkonto, Bestelldetails, Bestellnummer Label",
+                    "value": "Bestellnummer:"
+                },
+                "account_orders_details_order_date": {
+                    "title": "Benutzerkonto, Bestelldetails, Bestelldatum Label",
+                    "value": "Bestelldatum:"
+                },
+                "account_orders_details_order_status": {
+                    "title": "Benutzerkonto, Bestelldetails, Bestellstatus Label",
+                    "value": "Bestellstatus:"
+                },
+                "account_orders_details_order_tracking": {
+                    "title": "Benutzerkonto, Bestelldetails, Auftragsverfolgung Label",
+                    "value": "Tracking-Nummer:"
+                },
+                "account_orders_details_shipping_method": {
+                    "title": "Benutzerkonto, Bestelldetails, Versandart Label",
+                    "value": "Versandart:"
+                },
+                "account_orders_details_coupon_code": {
+                    "title": "Benutzerkonto, Bestelldetails, Gutscheincode Label",
+                    "value": "Gutscheincode:"
+                },
+                "account_orders_details_gift_card": {
+                    "title": "Benutzerkonto, Bestelldetails, Geschenkkarte Label",
+                    "value": "Geschenkkarte:"
+                },
+                "account_orders_details_view_subscription": {
+                    "title": "Benutzerkonto, Bestelldetails, Subscription sehen",
+                    "value": "Abonnement-Details anzeigen"
+                },
+                "account_orders_details_billing_label": {
+                    "title": "Benutzerkonto, Bestelldetails, Fakturierung Label",
+                    "value": "Rechnungsadresse"
+                },
+                "account_orders_details_shipping_label": {
+                    "title": "Benutzerkonto, Bestelldetails, Versand Label",
+                    "value": "Versandadresse"
+                },
+                "account_orders_details_payment_method": {
+                    "title": "Benutzerkonto, Bestelldetails, Zahlungarten",
+                    "value": "Zahlungsarten:"
+                },
+                "account_order_details_payment_method_manual": {
+                    "title": "Benutzerkonto, Bestelldetails, Zahlungsarten, Manual Bill Label",
+                    "value": "\u00dcberweisung"
+                },
+                "account_orders_details_subtotal": {
+                    "title": "Benutzerkonto, Bestelldetails, Zwischensummel",
+                    "value": "Zwischensumme:"
+                },
+                "account_orders_details_tax_total": {
+                    "title": "Benutzerkonto, Bestelldetails, MwSt.",
+                    "value": "MwSt.:"
+                },
+                "account_orders_details_shipping_total": {
+                    "title": "Benutzerkonto, Bestelldetails, Versand Total",
+                    "value": "Versand Gesamt:"
+                },
+                "account_orders_details_discount_total": {
+                    "title": "Benutzerkonto, Bestelldetails, Rabatt Total",
+                    "value": "Rabatt Gesamt:"
+                },
+                "account_orders_details_duty_total": {
+                    "title": "Benutzerkonto, Bestelldetails, Duty Total",
+                    "value": "Zoll Gesamt:"
+                },
+                "account_orders_details_vat_total": {
+                    "title": "Benutzerkonto, Bestelldetails, MwSt Total",
+                    "value": "MwSt Gesamt:"
+                },
+                "account_orders_details_refund_total": {
+                    "title": "Benutzerkonto, Bestelldetails, R\u00fcckerstattung Total",
+                    "value": "R\u00fcckerstattungsbetrag:"
+                },
+                "account_orders_details_refund_total_short": {
+                    "title": "Account, Orders Details, Refund Total Short",
+                    "value": "R\u00fcckerstattung insgesamt"
+                },
+                "account_orders_details_grand_total": {
+                    "title": "Benutzerkonto, Bestelldetails, Grand Total",
+                    "value": "Bestellung Gesamt:"
+                },
+                "account_orders_details_header_1": {
+                    "title": "Benutzerkonto, Bestelldetails, Kopfzeile 1",
+                    "value": "Produkt"
+                },
+                "account_orders_details_header_2": {
+                    "title": "Benutzerkonto, Bestelldetails, Kopfzeile 2",
+                    "value": "M\u00f6glichkeiten"
+                },
+                "account_orders_details_header_3": {
+                    "title": "Benutzerkonto, Bestelldetails, Kopfzeile 3",
+                    "value": "St\u00fcckpreis"
+                },
+                "account_orders_details_header_4": {
+                    "title": "Benutzerkonto, Bestelldetails, Kopfzeile 4",
+                    "value": "Menge"
+                },
+                "account_orders_details_header_5": {
+                    "title": "Benutzerkonto, Bestelldetails, Kopfzeile 5",
+                    "value": "Preis Total"
+                },
+                "account_orders_details_gift_message": {
+                    "title": "Benutzerkonto, Bestelldetails, Geschenkkarte Nachricht",
+                    "value": "Nachricht: "
+                },
+                "account_orders_details_gift_from": {
+                    "title": "Benutzerkonto, Bestelldetails, Geschenkkarte From",
+                    "value": "von: "
+                },
+                "account_orders_details_gift_to": {
+                    "title": "Benutzerkonto, Bestelldetails, Geschenkkarte an",
+                    "value": "an: "
+                },
+                "account_orders_details_gift_card_id": {
+                    "title": "Benutzerkonto, Bestelldetails, Geschenkkarte ID",
+                    "value": "Geschenkkartencode: "
+                },
+                "account_orders_details_print_online": {
+                    "title": "Benutzerkonto, Bestelldetails, Online drucken Link",
+                    "value": "Online drucken"
+                },
+                "account_orders_details_download": {
+                    "title": "Benutzerkonto, Bestelldetails, Download",
+                    "value": "Download"
+                },
+                "account_orders_details_downloads_used": {
+                    "title": "Benutzerkonto, Bestelldetails, Downloads gebraucht",
+                    "value": "Downloads gebraucht"
+                },
+                "account_orders_details_downloads_expire_time": {
+                    "title": "Benutzerkonto, Bestelldetails, Download abgelaufen",
+                    "value": "Download l\u00e4uft ab am:"
+                },
+                "account_orders_details_your_codes": {
+                    "title": "Account, Orders Details, Your Codes",
+                    "value": "Ihre Codes:"
+                },
+                "complete_payment": {
+                    "title": "Account, Orders Details, Complete Payment",
+                    "value": "Komplette Bestellung Zahlung:"
+                },
+                "order_status_status_not_found": {
+                    "title": "Account, Orders Status, Status Not Found",
+                    "value": "Status der Bestellung nicht gefunden"
+                },
+                "order_status_order_shipped": {
+                    "title": "Account, Orders Status, Order Shipped",
+                    "value": "Bestellung versandt"
+                },
+                "order_status_order_confirmed": {
+                    "title": "Account, Orders Status, Order Confirmed",
+                    "value": "Bestellung best\u00e4tigt"
+                },
+                "order_status_order_on_hold": {
+                    "title": "Account, Orders Status, Order on Hold",
+                    "value": "zur\u00fcckgestellte Bestellung"
+                },
+                "order_status_order_started": {
+                    "title": "Account, Orders Status, Order Started",
+                    "value": "Bestellung gestartet"
+                },
+                "order_status_card_approved": {
+                    "title": "Account, Orders Status, Card Approved",
+                    "value": "Karte genehmigt"
+                },
+                "order_status_card_denied": {
+                    "title": "Account, Orders Status, Card Denied",
+                    "value": "Karte abgelehnt"
+                },
+                "order_status_third_party_pending": {
+                    "title": "Account, Orders Status, Third Party Pending",
+                    "value": "warten auf Zulieferer"
+                },
+                "order_status_third_party_error": {
+                    "title": "Account, Orders Status, Third Party Error",
+                    "value": "Problem beim Zulieferer"
+                },
+                "order_status_third_party_approved": {
+                    "title": "Account, Orders Status, Third Party Approved",
+                    "value": "Zulieferer genehmigt"
+                },
+                "order_status_ready_for_pickup": {
+                    "title": "Account, Orders Status, Ready for Pickup",
+                    "value": "Bereit zur Abholung"
+                },
+                "order_status_pending_approval": {
+                    "title": "Account, Orders Status, Pending Approval",
+                    "value": "ausstehende Genehmigung"
+                },
+                "order_status_direct_deposit_pending": {
+                    "title": "Account, Orders Status, Direct Deposit Pending",
+                    "value": "\u00dcberweisung ausstehend"
+                },
+                "order_status_direct_deposit_received": {
+                    "title": "Account, Orders Status, Direct Deposit Received",
+                    "value": "\u00dcberweisung erhalten"
+                },
+                "order_status_refunded_order": {
+                    "title": "Account, Orders Status, Refunded Order",
+                    "value": "Erstattungsauftrag"
+                },
+                "order_status_partial_refund": {
+                    "title": "Account, Orders Status, Partial Refund",
+                    "value": "Teilerstattung"
+                },
+                "order_status_order_picked_up": {
+                    "title": "Account, Orders Status, Order Picked UP",
+                    "value": "Bestellung abgeholt"
+                },
+                "no_order_found": {
+                    "title": "Account, No Order Found",
+                    "value": "Auftrag wurde nicht gefunden oder ist nicht mit dem Konto verkn\u00fcpft, mit dem Sie zurzeit angemeldet sind."
+                },
+                "return_to_dashboard": {
+                    "title": "Account, Return to Dashboard",
+                    "value": "Zur\u00fcck zur Konto Dashboard"
+                },
+				"account_orders_details_email":{
+					"title":"Account, Orders Details, Order Email Label",
+					"value":"Email:"
+				},
+				"account_orders_details_email_other":{
+					"title":"Account, Orders Details, Order Additional Email Label",
+					"value":"Zusätzliche E-Mail:"
+				}
+            }
+        },
+        "account_subscriptions": {
+            "label": "Benutzerkonto - Subscriptions",
+            "options": {
+                "account_subscriptions_title": {
+                    "title": "Benutzerkonto, Subscriptions Title",
+                    "value": "Ihre aktiven Abonnements"
+                },
+                "account_canceled_subscriptions_title": {
+                    "title": "Benutzerkonto, Abgebrochen Abonnements Title",
+                    "value": "Ihre gek\u00fcndigten Abonnements"
+                },
+                "account_subscriptions_header_1": {
+                    "title": "Benutzerkonto, Subscriptions, Kopfzeile 1",
+                    "value": "Name des Abonnements"
+                },
+                "account_subscriptions_header_2": {
+                    "title": "Benutzerkonto, Subscriptions, Kopfzeile 2",
+                    "value": "n\u00e4chstes Rechnungsdatum"
+                },
+                "account_subscriptions_header_3": {
+                    "title": "Benutzerkonto, Subscriptions, Kopfzeile 3",
+                    "value": "letzte Belastungen"
+                },
+                "account_subscriptions_header_4": {
+                    "title": "Benutzerkonto, Subscriptions, Kopfzeile 4",
+                    "value": "Preis\/Zyklus"
+                },
+                "account_subscriptions_view_subscription_button": {
+                    "title": "Benutzerkonto, Subscriptions, Details sehen Taste",
+                    "value": "Details ansehen"
+                },
+                "account_subscriptions_none_found": {
+                    "title": "Benutzerkonto, Subscriptions, Keine gefunden",
+                    "value": "Es gibt keine Abonnements, die mit Ihrem Benutzerkonto verbunden sind."
+                },
+                "update_subscription_subtitle": {
+                    "title": "Benutzerkonto, Subscription Details, Kreditkarten Hinweis",
+                    "value": "Sie sind nicht verpflichtet Ihre Kreditkarteninformationen zu aktualisieren."
+                },
+                "save_changes_button": {
+                    "title": "Benutzerkonto, Subscription Details, \u00c4nderungen speichern Taste",
+                    "value": "\u00c4nderungen speichern"
+                },
+                "cancel_subscription_button": {
+                    "title": "Benutzerkonto, Subscription Details, Cancel Subscription Taste",
+                    "value": "Abonnement k\u00fcndigen"
+                },
+                "cancel_subscription_confirm_text": {
+                    "title": "Benutzerkonto, Subscription Details, Cancel Subscription Taste",
+                    "value": "Sind Sie sicher, dass Sie dieses Abonnement k\u00fcndigen m\u00f6chten?"
+                },
+                "subscription_details_next_billing": {
+                    "title": "Account, Subscription Details, Next Billing Date",
+                    "value": "n\u00e4chstes Rechnungsdatum"
+                },
+                "subscription_details_last_payment": {
+                    "title": "Account, Subscription Details, Last Payment Date",
+                    "value": "letztes Zahlungsdatum"
+                },
+                "subscription_details_current_billing": {
+                    "title": "Account, Subscription Details, Current Billing Title",
+                    "value": "aktuelle Abrechnungsmethode"
+                },
+                "subscription_details_notice": {
+                    "title": "Account, Subscription Details, User Notice",
+                    "value": "*HINWEIS: Alle \u00c4nderungen der Abrechnungsmethode oder des Abonnementplans werden im n\u00e4chsten Abrechnungszyklus wirksam. Preis\u00e4nderungen werden ab sofort anteilsm\u00e4\u00dfig verrechnet und in Ihrer n\u00e4chsten Rechnung ber\u00fccksichtigt."
+                },
+                "subscription_details_past_payments": {
+                    "title": "Account, Subscription Details, Past Payments Title",
+                    "value": "fr\u00fchere Zahlungen"
+                }
+            }
+        },
+        "ec_errors": {
+            "label": "Store Error Text",
+            "options": {
+                "login_failed": {
+                    "title": "Benutzerkonto, Benutzer Login fehlgeschlagen",
+                    "value": "Der eingegebene Benutzername oder das Kennwort ist falsch."
+                },
+                "register_email_error": {
+                    "title": "Email-Konto Registrierung Aktivierungsfehler",
+                    "value": "Die von Ihnen eingegebene Email ist bereits einem Benutzerkonto zugeteilt."
+                },
+                "no_reset_email_found": {
+                    "title": "Keine Email gefunden Fehler",
+                    "value": "Die von Ihnen eingegebene Emailadresse wurde nicht gefunden."
+                },
+                "personal_information_update_error": {
+                    "title": "Benutzerkonto, aktualisierung der pers\u00f6nlichen Daten Fehler",
+                    "value": "Bei der Aktualisierung Ihrer pers\u00f6nlichen Daten ist ein Fehler aufgetreten."
+                },
+                "password_wrong_current": {
+                    "title": "Falsches Passwort eingegeben Fehler",
+                    "value": "Das von Ihnen eingegebene aktuelle Passwort stimmt nicht mit Ihrem Benutzerkonto-Passwort \u00fcberein."
+                },
+                "password_no_match": {
+                    "title": "Passw\u00f6rter stimmen nicht \u00fcberein Fehler",
+                    "value": "Das neue Kennwort und die Kontrolleingabe des neuen Kennworts stimmten nicht \u00fcberein."
+                },
+                "password_update_error": {
+                    "title": "Passwort update Fehler",
+                    "value": "Beim aktualisieren Ihres Passwortes ist ein Fehler aufgetreten."
+                },
+                "billing_information_error": {
+                    "title": "Benutzerkonto, Zahlungsinformationen update Fehler",
+                    "value": "W\u00e4hrend der Aktualisierung der Zahlungsinformationen ist ein Fehler aufgetreten."
+                },
+                "shipping_information_error": {
+                    "title": "Benutzerkonto, Versandinformation update Fehler",
+                    "value": "W\u00e4hrend der Aktualisierung Ihre Versandinformationen ist ein Fehler aufgetreten."
+                },
+                "email_exists_error": {
+                    "title": "Benutzerkonto, Benutzerkonto an der Kasse erstellen, Email existiert",
+                    "value": "Diese Email wurde bereits einem Benutzerkonto zugewiesen. Bitte loggen Sie sich ein oder verwenden Sie eine andere Email-Adresse."
+                },
+                "3dsecure_failed": {
+                    "title": "Benutzerkonto, freiwillig, Fehlermeldung bei 3D sicherung schl\u00e4gt fehl, Gateway Dependent",
+                    "value": "Ihre Zahlung konnte nicht abgeschlossen werden, weil die 3D Secure-Methode fehlgeschlagen ist. Bitte versuchen Sie Ihre Zahlung erneut. Wenn Ihr Problem weiterhin besteht, setzen Sie sich bitte mit uns in Verbindung, damit wir das Problem l\u00f6sen k\u00f6nnen."
+                },
+                "manualbill_failed": {
+                    "title": "Benutzerkonto, freiwillig, Manuelle Abrechnung fehlgeschlagen, Gateway Dependent",
+                    "value": "Ihre Zahlung konnte nicht abgeschlossen werden, manuelle Abrechnung fehlgeschlagen. Bitte versuchen Sie es erneut."
+                },
+                "thirdparty_failed": {
+                    "title": "Benutzerkonto, freiwillig, Zahlung Dritter Fehlgeschlagen, Gateway Dependent",
+                    "value": "Ihre Zahlung konnte nicht abgeschlossen werden, Zahlung Dritter fehlgeschlagen. Bitte versuchen Sie es erneut."
+                },
+                "payment_failed": {
+                    "title": "Benutzerkonto, freiwillig, Kreditkarte fehlgeschlagen, Gateway Dependent",
+                    "value": "Ihre Zahlung konnte nicht abgeschlossen werden, da Ihre Kreditkarte nicht verifiziert werden konnte. Bitte \u00fcberpr\u00fcfen Sie Ihre Kreditkarteninformationen und versuchen Sie es erneut. Wenn Ihr Problem weiterhin besteht, kontaktieren Sie uns bitte, um die Zahlung abzuschlie\u00dfen."
+                },
+                "ideal_failed": {
+                    "title": "Cart, Optional, iDEAL Failed, Gateway Dependent",
+                    "value": "Ihre Zahlung konnte nicht abgeschlossen werden. Bitte versuchen Sie es erneut oder kontaktieren Sie uns, wenn Sie weiterhin Probleme haben."
+                },
+                "already_subscribed": {
+                    "title": "Benutzerkonto, freiwillig, bereits angemeldet, Gateway Dependent",
+                    "value": "Sie haben dieses Produkt bereits abonniert. Bitte besuchen Sie Ihr Konto, um Ihre aktiven Abonnements zu verwalten."
+                },
+                "subscription_not_found": {
+                    "title": "Konto, Anmeldung nicht gefunden Fehler",
+                    "value": "Es ist ein unbekannter Fehler aufgetreten, bei dem das Abonnement, das Sie zu erwerben versuchen, in unserem System nicht gefunden wurde. Bitte versuchen Sie es erneut und kontaktieren Sie uns, wenn Sie weiterhin Schwierigkeiten haben."
+                },
+                "invalid_address": {
+                    "title": "Cart, Live-Versandadresse ung\u00fcltig",
+                    "value": "Irgend etwas stimmt nicht mit der von Ihnen angegebenen Adresse. Bitte \u00fcberpr\u00fcfen Sie Ihre Stadt, Bundesland, Postleitzahl, Land und um sicherzustellen, dass die Werte korrekt sind."
+                },
+                "activation_error": {
+                    "title": "Benutzerkonto, Aktivierungsfehler",
+                    "value": "W\u00e4hrenddem Sie versuchen Ihr Benutzerkonto zu aktivieren, ist ein Fehler aufgetreten. Bitte kontaktieren Sie uns, damit das Problem behoben werden kann."
+                },
+                "not_activated": {
+                    "title": "Benutzerkonto, Nicht aktiviert",
+                    "value": "Das Konto, auf das Sie zugreifen m\u00f6chten, wurde nicht aktiviert. Bitte aktivieren Sie Ihr Benutzerkonto durch die Aktivierung per Email, wenn Sie sich f\u00fcr ein Benutzerkonto angemeldet haben oder kontaktieren Sie uns, wenn das Problem weiterhin besteht."
+                },
+                "subscription_update_failed": {
+                    "title": "Benutzerkonto, Subscription Update Error",
+                    "value": "Es gab ein Problem bei der Aktualisierung Ihres Abonnements, bitte versuchen Sie es erneut oder kontaktieren Sie uns, wenn das Problem weiterhin besteht."
+                },
+                "subscription_cancel_failed": {
+                    "title": "Benutzerkonto, Subscription Cancel Error",
+                    "value": "Es gab ein Problem bei der K\u00fcndigung Ihres Abonnements, bitte versuchen Sie es erneut oder kontaktieren Sie uns, wenn das Problem weiterhin besteht."
+                },
+                "user_insert_error": {
+                    "title": "Konto, Benutzer Abonnement Insert Fehler",
+                    "value": "Es gab ein Problem beim Erstellen Ihres Benutzerkontos in unserem Abo-System. Bitte kontaktieren Sie uns, um die Transaktion abzuschlie\u00dfen."
+                },
+                "subscription_added_failed": {
+                    "title": "Konto, Subscription Plan Hinzugef\u00fcgt Fehler",
+                    "value": "Es gab ein internes Problem bei der Erstellung dieses Produkts in unserem Abonnementdienst. Bitte kontaktieren Sie uns, um Ihre Transaktion abzuschlie\u00dfen."
+                },
+                "subscription_failed": {
+                    "title": "Konto, Abonnement Creation Fehler",
+                    "value": "Es gab ein Problem bei der Erstellung Ihres Abonnements in unserem System. Bitte kontaktieren Sie uns, um Ihre Transaktion abzuschlie\u00dfen."
+                },
+                "nets_processing": {
+                    "title": "Account, Nets Error Level Authorize",
+                    "value": "Beim Abschluss Ihrer Bestellung bei Nets Netaxept ist ein Fehler aufgetreten. Sie k\u00f6nnen Ihre Bestellung jederzeit abschlie\u00dfen, indem Sie auf die Schaltfl\u00e4che unten klicken."
+                },
+                "nets_processing_payment": {
+                    "title": "Account, Nets Error Level Capture",
+                    "value": "Ihre Zahlung wurde bei Nets Netaxept autorisiert, aber es scheint ein Problem in unserem System gegeben zu haben. Bitte kontaktieren Sie uns, um Ihre Bestellung abzuschlie\u00dfen."
+                },
+                "subscription_payment_failed_title": {
+                    "title": "Cart, Subscription Payment Failed",
+                    "value": "Zahlung fehlgeschlagen"
+                },
+                "subscription_payment_failed_text": {
+                    "title": "Cart, Subscription Payment Failed Text",
+                    "value": "Die Zahlung f\u00fcr eines Ihrer Abonnements ist fehlgeschlagen. Bitte klicken Sie auf den Link unten, um Ihre Kreditkarteninformationen zu aktualisieren."
+                },
+                "subscription_payment_failed_link": {
+                    "title": "Cart, Subscription Payment Failed Link",
+                    "value": "Klicken Sie zum Aktualisieren der Rechnungsstellung"
+                },
+                "minquantity": {
+                    "title": "Store, Minimum Quantity Error",
+                    "value": "Dieses Produkt erfordert eine Mindestabnahmemenge."
+                },
+                "missing_gift_card_options": {
+                    "title": "Store, Missing Gift Card Options",
+                    "value": "Fehlende Geschenkkarte-Optionen"
+                },
+                "missing_inquiry_options": {
+                    "title": "Store, Missing Inquiry Options",
+                    "value": "Fehlende Anfrage-Optionen"
+                },
+                "session_expired": {
+                    "title": "Store, Session Expired",
+                    "value": "Ihre Sitzung ist abgelaufen. Bitte geben Sie Ihre Bestelldaten erneut ein, um Ihre Bestellung abzuschlie\u00dfen."
+                },
+                "invalid_vat_number": {
+                    "title": "Cart, Invalid VAT Number Entered",
+                    "value": "Ihre Umsatzsteuer-Identifikationsnummer ist ung\u00fcltig. Bitte lassen Sie dieses Feld leer oder korrigieren Sie den Fehler, um fortzufahren."
+                },
+                "missing_payment_method": {
+                    "title": "Cart, Select a Payment Method",
+                    "value": "Sie m\u00fcssen eine Zahlungsmethode ausw\u00e4hlen, um fortzufahren."
+                },
+                "cart_stock_invalid": {
+                    "title": "Cart, Items are out of stock",
+                    "value": "Wir entschuldigen uns f\u00fcr die Unannehmlichkeiten, aber einige der Artikel in Ihrem Einkaufswagen sind entweder nicht mehr vorr\u00e4tig oder die Menge, die Sie zu kaufen versuchten, \u00fcbersteigt die noch vorr\u00e4tige Menge. Bitte beachten Sie, dass Ihr Einkaufswagen aktualisiert wurde, um den verbleibenden Lagerbestand widerzuspiegeln. Vielen Dank."
+                },
+				"ideal_processing":{
+					"title":"Cart, iDeal Payment Processing",
+					"value":"Wir konnten Ihren Bestellstatus nicht bestätigen und Ihre Bestellung wird in den Status Ausstehend versetzt, bis wir Ihre Zahlungsinformationen überprüfen können. Bitte kontaktieren Sie uns, wenn Sie Fragen haben."
+				},
+				"missing_shipping_method":{
+					"title":"Cart, No Shipping Method Selected",
+					"value":"Bitte wählen Sie eine Versandart, um mit der Zahlung fortzufahren."
+				},
+				"payment_processing":{
+					"title":"Cart, Payment is pending",
+					"value":"Ihre Zahlung wird noch verarbeitet und wurde noch nicht genehmigt."
+				},
+				"delayed_payment_failed":{
+					"title":"Cart, Payment is failed after delayed processing",
+					"value":"Ihre Zahlung ist nach verzögerter Bearbeitung fehlgeschlagen. Sie müssen uns kontaktieren, um die Zahlung für Ihre Bestellung abzuwickeln."
+				},
+				"order_refunded":{
+					"title":"Cart, Order refunded",
+					"value":"Ihre Bestellung wurde erstattet."
+				},
+				"cart_location_error":{
+					"title":"Cart, Location Error",
+					"value":"In Ihrem Warenkorb befindet sich ein Artikel, der nicht an Ihre aktuelle Lieferadresse versendet werden kann. Bitte entfernen Sie diesen Artikel aus dem Warenkorb oder gehen Sie zu den Bestelldetails und geben Sie eine andere Adresse ein."
+				}
+            }
+        },
+        "ec_success": {
+            "label": "Store Success Text",
+            "options": {
+                "personal_information_updated": {
+                    "title": "Benutzerkonto Pers\u00f6nliche Informationen Aktualisierung Erfolg",
+                    "value": "Ihre pers\u00f6nlichen Daten wurden erfolgreich aktualisiert."
+                },
+                "password_updated": {
+                    "title": "Benutzerkonto Pers\u00f6nliche Informationen Aktualisierung Erfolg",
+                    "value": "Ihr Passwort wurde erfolgreich aktualisiert."
+                },
+                "billing_information_updated": {
+                    "title": "Benutzerkonto Fakturierung Aktualisierung Erfolg",
+                    "value": "Ihre Zahlungsinformationen wurden erfolgreich aktualisiert."
+                },
+                "shipping_information_updated": {
+                    "title": "Benutzerkonto Verdand Aktualisierung Erfolg",
+                    "value": "Ihre Versandinformationen wurden erfolgreich aktualisiert."
+                },
+                "reset_email_sent": {
+                    "title": "Benutzerkonto Email gesendet Erfolg",
+                    "value": "Ihr neues Passwort wurde an Ihre Email Adresse gesendet."
+                },
+                "cart_account_created": {
+                    "title": "Wahrenkorb, Benutzerkonto erstellen, Benutzerkonto erstellt Erfolg Text",
+                    "value": "Ihr Benutzerkonto wurde erstellt, alle Bestellungen werden Ihrem neuen Benutzerkonto zugeordnet."
+                },
+                "cart_account_free_order": {
+                    "title": "Wahrenkorb, Auftragsart, Geschenkkarte, Kostenlose Bestellung",
+                    "value": "kostenlose Bestellung"
+                },
+                "store_added_to_cart": {
+                    "title": "Gesch\u00e4ft, Hinzugef\u00fcgter Artikel in den Warenkorb",
+                    "value": "Sie haben [prod_title] erfolgreich zu Ihrem Warenkorb hinzugef\u00fcgt."
+                },
+                "activation_success": {
+                    "title": "Benutzerkonto, Aktivierung Erfolg",
+                    "value": "Sie haben Ihr Konto erfolgreich aktiviert"
+                },
+                "validation_required": {
+                    "title": "Benutzerkonto, G\u00fcltigkeitspr\u00fcfung erforderlich",
+                    "value": "Sie haben erfolgreich ein Konto erstellt, aber Ihre E-Mail muss noch validiert werden. Es wurde eine E-Mail an Ihr Konto geschickt, die Anweisungen zum Abschluss des Registrierungsprozesses enth\u00e4lt. Kontaktieren Sie uns, wenn Sie Fragen haben."
+                },
+                "subscription_updated": {
+                    "title": "Benutzerkonto, Subscription aktualisiert",
+                    "value": "Ihr Abonnement wurde erfolgreich aktualisiert."
+                },
+                "subscription_canceled": {
+                    "title": "Benutzerkonto, Subscription Canceled",
+                    "value": "Ihr Abonnement wurde storniert."
+                },
+                "inquiry_sent": {
+                    "title": "Store, Inquiry Sent",
+                    "value": "Ihre Produktanfrage wurde erfolgreich versendet."
+                },
+                "add_to_cart_success": {
+                    "title": "Store, Added to Cart",
+                    "value": "Erfolgreich in Ihren Warenkorb gelegt"
+                },
+                "adding_to_cart": {
+                    "title": "Store, Adding to Cart",
+                    "value": "Hinzuf\u00fcgen zum Warenkorb..."
+                }
+            }
+        },
+        "ec_shipping_email": {
+            "label": "Shipping Emailer",
+            "options": {
+                "shipping_email_title": {
+                    "title": "Shipping Email Title",
+                    "value": "Versandbest\u00e4tigung - Bestellnummer"
+                },
+                "shipping_dear": {
+                    "title": "Shipping Dear Customer",
+                    "value": "Sehr geehrte\/r"
+                },
+                "shipping_subtitle1": {
+                    "title": "Order Shipped First Half",
+                    "value": "Ihre letzte Bestellung mit der Nummer"
+                },
+                "shipping_subtitle2": {
+                    "title": "Order Shipped Second Half",
+                    "value": "ist versendet worden!"
+                },
+                "shipping_description": {
+                    "title": "Order Shipped Description",
+                    "value": "Sie k\u00f6nnen den Status Ihrer Bestellung, indem Sie Ihren Tr\u00e4gern Website und mit dem folgenden Spurhaltungszahl \u00fcberpr\u00fcfen."
+                },
+                "shipping_carrier": {
+                    "title": "Order Shipped Carrier",
+                    "value": "Paket-F\u00f6rdermaschine:"
+                },
+                "shipping_tracking": {
+                    "title": "Order Shipped Tracking Number",
+                    "value": "Paket Tracking-Nummer:"
+                },
+                "shipping_billing_label": {
+                    "title": "Billing Label",
+                    "value": "Rechnungsadresse"
+                },
+                "shipping_shipping_label": {
+                    "title": "Shipping Label",
+                    "value": "Versandadresse"
+                },
+                "shipping_product": {
+                    "title": "Product Label",
+                    "value": "Produkt"
+                },
+                "shipping_quantity": {
+                    "title": "Quantity Label",
+                    "value": "Menge"
+                },
+                "shipping_unit_price": {
+                    "title": "Unit Price Label",
+                    "value": "St\u00fcckpreis"
+                },
+                "shipping_total_price": {
+                    "title": "Total Price Label",
+                    "value": "Gesamtpreis"
+                },
+                "shipping_final_note1": {
+                    "title": "Shipping Emailer Final Note Line 1",
+                    "value": "Bitte \u00fcberpr\u00fcfen Sie Ihre Bestellung, wenn Sie es erhalten und lassen Sie uns sofort wissen, wenn es irgendwelche Bedenken oder Fragen. Wir schätzen Ihr Geschäft immer und hoffen, dass Ihnen Ihr Produkt gefällt."
+                },
+                "shipping_final_note2": {
+                    "title": "Shipping Emailer Final Note Line 2",
+                    "value": "Vielen Dank für Ihren Auftrag!"
+                }
+            }
+        },
+        "ec_login_widget": {
+            "label": "Login Widget",
+            "options": {
+                "hello_text": {
+                    "title": "Hello",
+                    "value": "Hallo"
+                },
+                "dashboard_text": {
+                    "title": "Dashboard",
+                    "value": "Armaturenbrett"
+                },
+                "order_history_text": {
+                    "title": "Order History",
+                    "value": "Bestellverlauf"
+                },
+                "billing_info_text": {
+                    "title": "Billing Information",
+                    "value": "Abrechnungsdaten"
+                },
+                "shipping_info_text": {
+                    "title": "Shipping Information",
+                    "value": "Versandinformationen"
+                },
+                "change_password_text": {
+                    "title": "Change Password",
+                    "value": "Kennwort \u00e4ndern"
+                },
+                "sign_out_text": {
+                    "title": "Sign Out",
+                    "value": "Abmelden"
+                }
+            }
+        },
+        "ec_minicart_widget": {
+            "label": "Minicart Widget",
+            "options": {
+                "subtotal_text": {
+                    "title": "Minicart Widget, Zwischensumme Text",
+                    "value": "Zwischensumme"
+                },
+                "checkout_button_text": {
+                    "title": "Minicart Widget, Kasse Taste Text",
+                    "value": "Kasse"
+                }
+            }
+        },
+        "ec_pricepoint_widget": {
+            "label": "Price Point Widget",
+            "options": {
+                "less_than": {
+                    "title": "Weniger als Text",
+                    "value": "Weniger als"
+                },
+                "greater_than": {
+                    "title": "Besser als Text",
+                    "value": "Besser als"
+                }
+            }
+        },
+        "ec_newsletter_popup": {
+            "label": "Newsletter Popup",
+            "options": {
+                "signup_form_title": {
+                    "title": "Signup Form Title",
+                    "value": "Anmeldung zum Newsletter"
+                },
+                "signup_form_subtitle": {
+                    "title": "Signup Form Subtitle",
+                    "value": "Registrieren Sie sich jetzt und verpassen Sie nichts mehr!"
+                },
+                "signup_form_email_placeholder": {
+                    "title": "Signup Form Email Placeholder",
+                    "value": "E-Mail-Addresse"
+                },
+                "signup_form_name_placeholder": {
+                    "title": "Signup Form Name Placeholder",
+                    "value": "ihr Name"
+                },
+                "signup_form_button_text": {
+                    "title": "Signup Form Button",
+                    "value": "ABSENDEN"
+                },
+                "signup_form_success_title": {
+                    "title": "Signup Success Title",
+                    "value": "Sie haben sich zum Newsletter angemeldet."
+                },
+                "signup_form_success_subtitle": {
+                    "title": "Signup Success Subtitle",
+                    "value": "Mit der Newsletter Anmeldung, k\u00f6nnen wir Ihnen reglem\u00e4\u00dfig exklusiven Angebote zusenden."
+                }
+            }
+        },
+        "ec_abandoned_cart_email": {
+            "label": "Abandoned Cart Email",
+            "options": {
+                "email_title": {
+                    "title": "Email Title",
+                    "value": "Sie Left Produkte im Warenkorb"
+                },
+                "something_in_cart": {
+                    "title": "Main Title, Something in Cart",
+                    "value": "ES GIBT IN IHREN WAGEN ETWAS."
+                },
+                "complete_question": {
+                    "title": "Informational Text",
+                    "value": "M\u00f6chten Sie Ihren Kauf abzuschlie\u00dfen?"
+                },
+                "complete_checkout": {
+                    "title": "Complete Checkout Button",
+                    "value": "Komplette Kasse"
+                }
+            }
+        },
+        "ec_stock_notify_email": {
+            "label": "Stock Notification Email",
+            "options": {
+                "email_title": {
+                    "title": "Email Title",
+                    "value": "Ihr Artikel ist zur\u00fcck"
+                },
+                "view_now": {
+                    "title": "View Link Text",
+                    "value": "Jetzt ansehen"
+                },
+                "unsubscribe": {
+                    "title": "Unsubscribe Link Text",
+                    "value": "K\u00fcndigen Sie diese Benachrichtigungen"
+                }
+            }
+        },
+        "ec_customer_review_notify_email": {
+            "label": "Product Review Notification Email",
+            "options": {
+                "email_title": {
+                    "title": "Email Title",
+                    "value": "Neue Rezension verf\u00fcgbar"
+                },
+                "reviewed_product": {
+                    "title": "Reviewed Product Label",
+                    "value": "Bewertetes Produkt"
+                },
+                "submitted_by": {
+                    "title": "Submitted By Label",
+                    "value": "Eingereicht von"
+                },
+                "rating_label": {
+                    "title": "Rating Label",
+                    "value": "Bewertung"
+                },
+                "review_title": {
+                    "title": "Review Title Label",
+                    "value": "Titel der Bewertung"
+                },
+                "review_comments": {
+                    "title": "Review Comments Label",
+                    "value": "Kommentare \u00fcberpr\u00fcfen"
+                },
+                "anonymous": {
+                    "title": "Anonymous Review Label",
+                    "value": "Anonym"
+                },
+                "link_text": {
+                    "title": "Link Text",
+                    "value": "Jetzt Bewertung anzeigen"
+                }
+            }
+        },
+        "language_code": {
+            "label": "Language Code",
+            "options": {
+                "code": {
+                    "title": "Do Not Change",
+                    "value": "DE"
+                }
+            }
+        }
+    }
+}

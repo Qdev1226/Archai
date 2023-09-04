@@ -1,0 +1,73 @@
+/* Block Editor */
+.wp-easycart-block-item.hidden{ display:none !important; }
+.wpeasycart-gt-group{ padding:0px 20px 20px; }
+.wpeasycart-gt-multiselect{ float:left; width:100%; border:1px solid #CCC; padding:10px; overflow-x:hidden; overflow-y:auto; max-height:120px; }
+.wpeasycart-gt-multiselect-container{ float:left; width:100%; }
+
+.wp-easycart-guten-edit-wrap{ display: flex; flex-direction: column; justify-content: center; align-items: flex-start; border:1px solid #222; padding:15px; }
+.wp-easycart-guten-edit-row-wrap{ width:100%; }
+
+.wp-easycart-guten-edit-header{ float:left; width:100%; margin-bottom:15px; }
+.wp-easycart-guten-edit-header > img{ float:left; width:15px; height:auto; margin-top:10px; margin-right:10px; }
+.wp-easycart-guten-edit-header > span{ font-size:24px }
+.wp-easycart-guten-edit-block-desc{ float:left; width:100%; margin-bottom:15px; padding-bottom:15px; border-bottom:1px solid #CCC; font-size:13px; }
+
+.wp-easycart-guten-search-wrap{ float:left; width:100%; clear:both; margin-bottom:15px; }
+
+.wp-easycart-guten-search-bar-wrap{ float:left; width:100%; clear:both; margin-bottom:15px; }
+.wp-easycart-guten-search-ele{ float:left; width:100%; }
+
+.wp-easycart-guten-search-none{ float:left; width:100%; margin:20px 0; font-size:15px; color:#222; text-align:center; }
+.wp-easycart-guten-search-list-loading{ float:left; width:100%; padding:25px; text-align:center; color:#999; font-size:14px; }
+
+.wp-easycart-guten-search-item-list-wrap{ float:left; width:100%; clear:both; border:1px solid #CCC; }
+
+.wp-eaycart-guten-search-selected-wrap{ float:left; width:100%; margin:10px 0 25px; padding-bottom:25px; border-bottom:1px solid #CCC; }
+.wp-easycart-guten-search-count-wrap{ float:left; width:100%; margin-bottom:10px; }
+.wp-eaycart-guten-search-selected-count{ float:left; font-size:13px; font-weight:bold; margin-right:15px; }
+.wp-eaycart-guten-search-selected-cancel{ float:left; font-size:13px; cursor:pointer; }
+.wp-eaycart-guten-search-selected-cancel:hover{ color:#222; }
+
+.wp-easycart-guten-search-item-selected{ cursor:pointer; color:#999; float:left; padding:0px 10px; background:#efefef; border:1px solid #CCC; border-radius:20px; margin-right:10px; }
+.wp-easycart-guten-search-item-selected:hover{ color:#222; }
+.wp-easycart-guten-search-item-selected-text{ font-size:13px; float:left; line-height:20px; margin-right:5px; }
+.wp-easycart-guten-search-item-selected-remove{ cursor:pointer; float:right; color:#999; width:20px; height:20px; border:none; padding:0px; margin-right:-10px; background:none; }
+.wp-easycart-guten-search-item-selected:hover .wp-easycart-guten-search-item-selected-remove{ color:#222; }
+
+.wp-easycart-guten-search-item-wrap{ position:relative; float:left; width:100%; padding:0px; border-bottom:1px solid #CCC; }
+.wp-easycart-guten-search-item-check{ display:flex; align-items: center; margin-bottom: 0; padding:12px 15px; background:#ffffff; }
+.wp-easycart-guten-search-item-check:hover{ background:#efefef; }
+.wp-easycart-guten-search-item-check > div{ margin-bottom:0px; }
+.wp-easycart-guten-search-item-check label{ position:absolute; left:0; top:0; width:100%; height:100%; padding:12px 85px 12px 50px; line-height:20px; }
+.wp-easycart-guten-search-item-count{ position:absolute; top:7px; right:10px; border-radius:15px; border:1px solid #CCC; background:#EFEFEF; font-size:11px; padding:4px 8px; }
+
+.wp-easycart-guten-search-button-wrap{ float:left; width:100%; margin-top:15px; }
+.wp-easycart-guten-search-button-done{ float:left; margin-right:10px; }
+.wp-easycart-guten-search-button-cancel{ float:left; padding:8px 12px; background:white; font-size:13px; text-decoration:none; }
+
+.wp-easycart-guten-store-display-wrap{ }
+.wp-easycart-guten-item-list{ width: calc(100% + 30px) !important; margin: 0px !important; display: flex; flex-direction: row; flex-wrap: wrap; align-items: flex-start;list-style: none; padding-left: 0px !important; }
+.wp-easycart-guten-list-empty{ display: flex; flex-direction: column; justify-content: center; align-items: flex-start; border:1px solid #222; padding:15px; }
+.wp-easycart-guten-list-empty-text{ float:left; width:100%; text-align:center; font-size:18px; font-weight:bold; margin:0 0 15px; }
+.wp-easycart-guten-list-empty-button{ margin:0 auto; }
+.wp-easycart-guten-item{ flex-basis: 25%; max-width: 25%; display: list-item; vertical-align: top; margin: 0 0 35px 0 !important; padding: 0 29px 0 0; text-align: left; list-style: none !important; height: auto; float: left; position: relative; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; zoom: 1;}
+.wp-easycart-guten-item:nth-child( 4n+1 ){ clear:both; }
+.wp-easycart-guten-item-image{ float:left; width:100%; }
+.wp-easycart-guten-item-image > img{ width:100%; height:auto; }
+.wp-easycart-guten-item-title{ text-align:center; font-size:16px; }
+.wp-easycart-guten-item-price{ text-align:center; font-size:16px; }
+.wp-easycart-guten-item-addtocart{ margin:10px auto 0; text-align:center; font-size:16px; padding:8px 16px; border-radius:5px; background:#444; color:#FFF; }
+
+.wp-easycart-guten-search-display-wrap{ display: flex; flex-direction: column; justify-content: center; align-items: flex-start; border: 1px solid #222; padding: 15px; }
+.wp-easycart-guten-search-preview-ele{ width:100%; }
+.wp-easycart-guten-search-preview-button{ width:100%; margin-top:5px; }
+
+.wp-easycart-guten-loader{ display:inline-block; position:relative; width:80px; height:80px; }
+.wp-easycart-guten-loader div{ display:inline-block; position:absolute; left:8px; width:16px; background:#e1e1e1; animation:wp-easycart-guten-loader 1.2s cubic-bezier(0, 0.5, 0.5, 1) infinite; }
+.wp-easycart-guten-loader div:nth-child(1){ left:8px; animation-delay:-0.24s; }
+.wp-easycart-guten-loader div:nth-child(2){ left:32px; animation-delay:-0.12s; }
+.wp-easycart-guten-loader div:nth-child(3){ left:56px; animation-delay:0; }
+@keyframes wp-easycart-guten-loader{
+  0%{ top:8px; height:64px; }
+  50%, 100%{ top:24px; height:32px; }
+}

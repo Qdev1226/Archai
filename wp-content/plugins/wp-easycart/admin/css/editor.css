@@ -1,0 +1,221 @@
+@charset "utf-8";
+/* CSS Document */
+.ec_editor_overlay{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.6);
+	z-index: 99998;
+	display:none;
+}
+
+.ec_editor_box_container{
+	-moz-box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.5);
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	position: fixed;
+	top: 15%;
+	left: 50%;
+	bottom: 15%;
+	width: 960px;
+	margin: 0 0 0 -480px;
+	background: #FFF;
+	overflow: auto;
+	padding: 61px 0 60px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	z-index: 100000;
+	display:none;
+}
+
+.ec_editor_close{
+	text-decoration: none;
+	font-size: 23px;
+	color: #fff;
+	position: absolute;
+	top: 20px;
+	right: 16px;
+	z-index: 10;
+}
+
+.ec_editor_heading{
+	z-index: 1;
+	border-bottom: 1px solid #22648A;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	box-sizing: border-box;
+	padding: 25px 50px 20px 36px;
+	margin: 0;
+	font-size: 22px;
+	font-weight: 100;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+	background-color: #2e86b9;
+	background-image: -webkit-gradient(
+	 linear,
+	 left top,
+	 left bottom,
+	 color-stop(0.5, #318EC4),
+	 color-stop(1, #2E86B9)
+	 );
+	background-image: -o-linear-gradient(bottom, #318EC4 50%, #2E86B9 100%);
+	background-image: -moz-linear-gradient(bottom, #318EC4 50%, #2E86B9 100%);
+	background-image: -webkit-linear-gradient(bottom, #318EC4 50%, #2E86B9 100%);
+	background-image: -ms-linear-gradient(bottom, #318EC4 50%, #2E86B9 100%);
+	background-image: linear-gradient(to bottom, #318EC4 50%, #2E86B9 100%);
+	color: #fff;
+}
+
+.ec_editor_inner_container{
+	bottom: 0 !important;
+	overflow: auto;
+	position: absolute;
+	width: 100%;
+	top: 62px;
+	left: 0;
+	bottom: 60px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 40px;
+}
+
+.ec_column_holder{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.ec_column_holder li{
+	font-weight: 100;
+	border: 1px solid #d9d9d9;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 0 #fff;
+	-moz-box-shadow: inset 0 1px 0 #fff;
+	box-shadow: inset 0 1px 0 #fff;
+	background: rgb(247,247,247);
+	background: -moz-linear-gradient(top, rgba(247,247,247,1) 0%, rgba(237,237,237,1) 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(247,247,247,1)), color-stop(100%,rgba(237,237,237,1)));
+	background: -webkit-linear-gradient(top, rgba(247,247,247,1) 0%,rgba(237,237,237,1) 100%);
+	background: -o-linear-gradient(top, rgba(247,247,247,1) 0%,rgba(237,237,237,1) 100%);
+	background: -ms-linear-gradient(top, rgba(247,247,247,1) 0%,rgba(237,237,237,1) 100%);
+	background: linear-gradient(to bottom, rgba(247,247,247,1) 0%,rgba(237,237,237,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f7f7', endColorstr='#ededed',GradientType=0 );
+	float: left;
+	width: 215px;
+	margin: 0 20px 20px 0;
+	padding: 25px;
+	cursor: pointer;
+}
+
+.ec_column_holder li div{
+	float: left !important;
+	width: 210px !important;
+	height: 44px;
+	background-color: #3dbaaa;
+	margin-right: 4%;
+	position: relative;
+	left: 0;
+	color: #FFF;
+	font-size: 16px;
+	width: 100%;
+	text-align: center;
+	float:left;
+	padding-top:25px;
+}
+
+.ec_editor_panel{
+	display:none;
+}
+
+.ec_editor_error{
+	display: none;
+	float: left;
+	width: 100%;
+	height: 35px;
+	line-height: 35px;
+	color: #250002;
+	background-color: #FFD5D5;
+	border-top: 3px solid #D8000C;
+	text-shadow: none;
+	border-radius: 5px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+.ec_editor_error span{
+	width: 100%; padding: 10px;
+}
+
+.ec_editor_help_text{
+	float:left; width:100%; font-size:12px; font-weight:bold; color:#333; margin-bottom:25px;
+}
+
+.ec_editor_select_row{
+	float:left; width:100%; line-height:45px;
+}
+
+.ec_editor_multiple_select_row{
+	float:left; width:100%; margin-bottom:10px;
+}
+
+.ec_editor_multiple_select_row select{
+	min-width:300px; height:250px !important;
+}
+
+.ec_editor_select_row .ec_editor_select_row_label, .ec_editor_multiple_select_row .ec_editor_select_row_label{
+	width:125px; float:left;
+}
+
+.ec_editor_select_row .ec_editor_select_row_input, .ec_editor_multiple_select_row .ec_editor_select_row_input{
+	float:left;
+}
+
+.ec_editor_select_box{
+	
+}
+
+.ec_editor_input_box{ float:left; margin-top:10px; min-height:28px; }
+
+.ec_editor_submit_row{
+	float:left; width:100%; height:45px; line-height:45px;
+}
+
+.ec_editor_submit_row .ec_editor_select_row_input{
+	float:left; margin-left:125px;
+}
+
+.ec_editor_button{
+	background: #2ea2cc;
+	border-color: #0074a2;
+	-webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,.5),0 1px 0 rgba(0,0,0,.15);
+	box-shadow: inset 0 1px 0 rgba(120,200,230,.5),0 1px 0 rgba(0,0,0,.15);
+	color: #fff;
+	text-decoration: none;
+	vertical-align: top;
+	display: inline-block;
+	font-size: 13px;
+	line-height: 26px;
+	height: 28px;
+	margin: 0;
+	padding: 0 10px 1px;
+	cursor: pointer;
+	border-width: 1px;
+	border-style: solid;
+	-webkit-border-radius: 3px;
+	-webkit-appearance: none;
+	border-radius: 3px;
+	white-space: nowrap;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
