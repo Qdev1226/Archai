@@ -1,3 +1,0 @@
-<div>
-settings content
-</div>

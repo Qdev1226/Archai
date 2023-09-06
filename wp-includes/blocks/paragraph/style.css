@@ -40,3 +40,7 @@ p.has-background{
 :where(p.has-text-color:not(.has-link-color)) a{
   color:inherit;
 }
+p {
+  text-align: justify !important;
+  text-justify: inter-word;
+}

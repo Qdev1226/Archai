@@ -120,7 +120,7 @@
 @media (min-width:782px){
   .wp-block-navigation .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container{
     right:100%;
-    top:-1px;
+    top:-10px;
   }
   .wp-block-navigation .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container:before{
     background:transparent;

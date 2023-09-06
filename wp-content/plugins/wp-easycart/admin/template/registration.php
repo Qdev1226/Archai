@@ -1,3 +1,0 @@
-<div>
-registration content
-</div>

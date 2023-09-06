@@ -1,1 +1,0 @@
-<?php $this->product_filter_menu_items(" > "); ?>

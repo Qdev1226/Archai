@@ -1,3 +1,0 @@
-<div>
-status content
-</div>

@@ -1,3 +1,0 @@
-<div>
-extensions content
-</div>
