@@ -26,7 +26,7 @@
 
 .trp-language-switcher > div {
     box-sizing: border-box;
-    padding:4px 2px 3px 13px;
+    /* padding:4px 2px 3px 13px; */
     border-radius: 2px;
     background-image: url(../../assets/images/arrow-down-3101.svg);
     background-repeat: no-repeat;
