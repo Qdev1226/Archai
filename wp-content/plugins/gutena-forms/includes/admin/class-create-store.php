@@ -126,7 +126,7 @@
             $main_sql_create = "CREATE TABLE {$table_name} (
                 form_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
                 user_id bigint(20) unsigned NOT NULL,
-                block_form_id varchar(256)  NOT NULL,
+                block_form_id varchar(90)  NOT NULL,
                 form_name varchar(256)  NOT NULL,
                 form_schema longtext  NOT NULL,
                 added_time timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
@@ -189,7 +189,7 @@
             $main_sql_create = "CREATE TABLE {$table_name} (
                 id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
                 entry_id bigint(20) unsigned NOT NULL,
-                field_name varchar(256)  NOT NULL,
+                field_name varchar(90)  NOT NULL,
                 field_value longtext  NOT NULL,
                 PRIMARY KEY  (id),
                 KEY entry_id (entry_id),
@@ -224,7 +224,7 @@
                 form_id bigint(20) unsigned NOT NULL,
                 entry_id bigint(20) unsigned NOT NULL DEFAULT '0',
                 user_id bigint(20) unsigned NOT NULL DEFAULT '0',
-                data_type varchar(100)  NOT NULL,
+                data_type varchar(90)  NOT NULL,
                 metadata longtext  NOT NULL,
                 modified_time timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
                 PRIMARY KEY  (id),

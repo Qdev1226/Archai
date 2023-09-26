@@ -4,11 +4,11 @@ Donate link: https://www.buymeacoffee.com/abuhayat
 Tags: block, carousel, slider, bootstrap, Gutenberg-block
 Requires at least: 5.8+
 Tested up to: 6.3
-Stable tag: 1.1.2
+Stable tag: 1.1.5
 Requires PHP: 7.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
- 
+
 B Slider is Gutenberg block an image and text slider. Using this slider you can make your slider very easily and in a short time.
 
 == Description ==
@@ -30,8 +30,8 @@ B Slider is Gutenberg Block an image and text slider. Using this slider you can 
 - Slide Overly Color option.
 - Slider Animation option.
 - Slider Content Default/Middle option.
-- Slider Arrow size option add.
-- Slider Arrow height and width, Border Radius, color option add.
+- Slider Arrow size option added.
+- Slider Arrow height and width, Border Radius, color option added.
 
 = Pro Features =
 - **Button in content**
@@ -58,7 +58,7 @@ B Slider is Gutenberg Block an image and text slider. Using this slider you can 
 * For installation help click on Installation Tab
 
 = Feedback =
-- Liked that plugin? Hate it? Want a new feature? [Send me some feedback](mailto:support@bplugins.com 'Send feedback')
+- Do you like that plugin? Hate it? Want a new feature? [Send me some feedback](mailto:support@bplugins.com 'Send feedback')
 
 
 = ⭐ Check out the Parent Plugin of this plugin- =
@@ -134,6 +134,15 @@ You can post your questions on the [support forum here](https://wordpress.org/su
  
 == Changelog ==
 
+= 1.1.5 - 20 sept 2023 =
+* Sdk some issues have been resolved
+
+= 1.1.4 =
+* Using Multiple Tags in Titles and Adding the admin.css File
+
+= 1.1.3 =
+* Some issues have been resolved
+
 = 1.1.2 =
 * Slider height can be set according to the device
 
@@ -159,8 +168,8 @@ You can post your questions on the [support forum here](https://wordpress.org/su
 * BoxControl Components Problem fix.
 
 = 1.0.4 =
-* Slider Arrow size option add .
-* Slider Arrow height and width, Border Radius, color option add.
+* Slider Arrow size option added.
+* Slider Arrow height and width, Border Radius, color option added.
 
 = 1.0.3 =
 * Screenshot Update
@@ -185,6 +194,15 @@ You can post your questions on the [support forum here](https://wordpress.org/su
 
 
 == Upgrade Notice ==
+
+= 1.1.5 - 20 sept 2023 =
+* Sdk some issues have been resolved
+
+= 1.1.4 =
+* Using Multiple Tags in Titles and Adding the admin.css File 
+
+= 1.1.3 =
+* Some issues have been resolved
 
 = 1.1.2 =
 * Slider height can be set according to the device
@@ -211,8 +229,8 @@ You can post your questions on the [support forum here](https://wordpress.org/su
 * BoxControl Components Problem fix.
 
 = 1.0.4 =
-* Slider Arrow size option add .
-* Slider Arrow height and width, Border Radius, color option add.
+* Slider Arrow size option added.
+* Slider Arrow height and width, Border Radius, color option added.
 
 = 1.0.3 =
 * Screenshot Update

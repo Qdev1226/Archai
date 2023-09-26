@@ -411,7 +411,7 @@
 <?php __("Remove duplicate rows for original dictionary strings", "translatepress-multilingual"); ?>
 <?php __("Cleans up all trp_original_strings table of duplicate rows. This table contains strings in the default language, without any translation.<br>The trp_original_meta table, which contains meta information that refers to the post parent’s id, is also regenerated.<br>Such duplicates can appear in exceptional situations of unexpected behavior.", "translatepress-multilingual"); ?>
 <?php __("Replace gettext strings that have original id NULL with the correct original ids", "translatepress-multilingual"); ?>
-<?php __("Some gettext strings might have the original is set to NULL which causes the translation editor to freeze.<br>Replace the original ids of these strings with the correct value.", "translatepress-multilingual"); ?>
+<?php __("Fixes an edge case issue where some gettext strings have the original id incorrectly set to NULL, causing problems in the Translation Editor.<br>This operation corrects the original ids in the trp_gettext_* tables.<br>Only check this option if you encountered an issue in the Translation Editor where clicking the green pencil did not bring up the gettext string for translation in the left sidebar.<br>Otherwise, please leave this option unchecked because it's an intensive operation.", "translatepress-multilingual"); ?>
 <?php __("Optimize Database", "translatepress-multilingual"); ?>
 <?php __("TranslatePress Database Updater", "translatepress-multilingual"); ?>
 <?php __("Updating TranslatePress tables", "translatepress-multilingual"); ?>
@@ -481,7 +481,8 @@
 <?php __("Transforms the language switcher into a button showing the other available language, not the current one.<br> Only works when there are exactly two languages, the default one and a translation one.<br>This will affect the shortcode language switcher and floating language switcher as well.<br> To achieve this in menu language switcher go to Appearance->Menus->Language Switcher and select Opposite Language.", "translatepress-multilingual"); ?>
 <?php __("Show regular strings tab in String Translation", "translatepress-multilingual"); ?>
 <?php __("Adds an additional tab on the String Translation interface that allows editing translations of user-inputted strings.", "translatepress-multilingual"); ?>
-<?php __("Click <a href=\"%s\">here</a> to remove duplicate rows from the database.", "translatepress-multilingual"); ?>
+<?php __("<a href=\"%s\">Click here</a> to access the database optimization tool.", "translatepress-multilingual"); ?>
+<?php __("It helps remove possible duplicate translations, clear unnecessary data and repair possible metadata issues.", "translatepress-multilingual"); ?>
 <?php __("Troubleshooting", "translatepress-multilingual"); ?>
 <?php __("Exclude strings", "translatepress-multilingual"); ?>
 <?php __("Debug", "translatepress-multilingual"); ?>

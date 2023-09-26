@@ -44,9 +44,9 @@
                                     <?php echo wp_kses ( __( 'Cleans up all trp_original_strings table of duplicate rows. This table contains strings in the default language, without any translation.<br>The trp_original_meta table, which contains meta information that refers to the post parent’s id, is also regenerated.<br>Such duplicates can appear in exceptional situations of unexpected behavior.', 'translatepress-multilingual' ), array( 'br' => array() )  ); ?>
                                 </p>
                                 <br>
-                                <input type="checkbox" name="trp_replace_original_id_null" id="trp_replace_original_id_null" checked><label for="trp_replace_original_id_null"><?php esc_attr_e( 'Replace gettext strings that have original id NULL with the correct original ids', 'translatepress-multilingual' ); ?></label></input><br>
+                                <input type="checkbox" name="trp_replace_original_id_null" id="trp_replace_original_id_null"><label for="trp_replace_original_id_null"><?php esc_attr_e( 'Replace gettext strings that have original id NULL with the correct original ids', 'translatepress-multilingual' ); ?></label></input><br>
                                 <p class="description">
-                                    <?php echo wp_kses ( __( 'Some gettext strings might have the original is set to NULL which causes the translation editor to freeze.<br>Replace the original ids of these strings with the correct value.', 'translatepress-multilingual' ), array( 'br' => array() )  ); ?>
+                                    <?php echo wp_kses ( __( 'Fixes an edge case issue where some gettext strings have the original id incorrectly set to NULL, causing problems in the Translation Editor.<br>This operation corrects the original ids in the trp_gettext_* tables.<br>Only check this option if you encountered an issue in the Translation Editor where clicking the green pencil did not bring up the gettext string for translation in the left sidebar.<br>Otherwise, please leave this option unchecked because it\'s an intensive operation.', 'translatepress-multilingual' ), array( 'br' => array() )  ); ?>
                                 </p>
                             </td>
                         </tr>

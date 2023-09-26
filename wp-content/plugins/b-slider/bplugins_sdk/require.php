@@ -13,5 +13,8 @@
 	// Configuration should be loaded first.
 	require_once dirname( __FILE__ ) . '/config.php';
 	require_once WP_B__DIR . '/inc/Base/BSDK.php';
-	require_once WP_B__DIR . '/inc/Base/License.php';
+	if(file_exists(WP_B__DIR . '/inc/Base/License.php')){
+		require_once WP_B__DIR . '/inc/Base/License.php';
+	}
 	require_once WP_B__DIR . '/inc/Base/Activate.php';
+

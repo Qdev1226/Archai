@@ -1668,7 +1668,7 @@ msgid "Replace gettext strings that have original id NULL with the correct origi
 msgstr ""
 
 #: partials/trp-remove-duplicate-rows.php:49
-msgid "Some gettext strings might have the original is set to NULL which causes the translation editor to freeze.<br>Replace the original ids of these strings with the correct value."
+msgid "Fixes an edge case issue where some gettext strings have the original id incorrectly set to NULL, causing problems in the Translation Editor.<br>This operation corrects the original ids in the trp_gettext_* tables.<br>Only check this option if you encountered an issue in the Translation Editor where clicking the green pencil did not bring up the gettext string for translation in the left sidebar.<br>Otherwise, please leave this option unchecked because it's an intensive operation."
 msgstr ""
 
 #: partials/trp-remove-duplicate-rows.php:55
@@ -1948,7 +1948,11 @@ msgid "Adds an additional tab on the String Translation interface that allows ed
 msgstr ""
 
 #: includes/advanced-settings/remove-duplicates-from-db.php:8
-msgid "Click <a href=\"%s\">here</a> to remove duplicate rows from the database."
+msgid "<a href=\"%s\">Click here</a> to access the database optimization tool."
+msgstr ""
+
+#: includes/advanced-settings/remove-duplicates-from-db.php:8
+msgid "It helps remove possible duplicate translations, clear unnecessary data and repair possible metadata issues."
 msgstr ""
 
 #: includes/advanced-settings/separators.php:8

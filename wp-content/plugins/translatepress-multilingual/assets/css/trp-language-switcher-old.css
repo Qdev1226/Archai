@@ -27,6 +27,8 @@
 .trp-language-switcher > div {
     box-sizing: border-box;
 
+    padding:3px 20px 3px 5px;
+    border: 1px solid #c1c1c1;
     border-radius: 3px;
 
     background-image:
@@ -43,7 +45,7 @@
 
     background-repeat: no-repeat;
 
-    /* background-color: #fff; */
+    background-color: #fff;
 }
 
 .trp-language-switcher > div > a {

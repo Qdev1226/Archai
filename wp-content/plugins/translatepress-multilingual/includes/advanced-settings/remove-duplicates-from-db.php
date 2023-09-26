@@ -5,7 +5,7 @@ function trp_register_remove_duplicate_entries_from_db( $settings_array ){
         'name'          => 'remove_duplicate_entries_from_db',
         'type'          => 'text',
         'label'         => esc_html__( 'Optimize TranslatePress database tables', 'translatepress-multilingual' ),
-        'description'   => wp_kses_post( sprintf( __( 'Click <a href="%s">here</a> to remove duplicate rows from the database.', 'translatepress-multilingual' ), admin_url('admin.php?page=trp_remove_duplicate_rows') ) ),
+        'description'   => wp_kses_post( sprintf( __( '<a href="%s">Click here</a> to access the database optimization tool.', 'translatepress-multilingual' ), admin_url('admin.php?page=trp_remove_duplicate_rows') ) ) . '<br>' . esc_html__('It helps remove possible duplicate translations, clear unnecessary data and repair possible metadata issues.','translatepress-multilingual'),
         'id'            =>'debug',
     );
     return $settings_array;

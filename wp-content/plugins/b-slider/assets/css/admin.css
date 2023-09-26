@@ -1,0 +1,49 @@
+.bsbFrontShortcode {
+	position: relative;
+	display: inline-block;
+	margin: 0 auto;
+}
+
+.bsbFrontShortcode input {
+	cursor: pointer;
+	text-align: center;
+	border: none;
+	outline: none;
+	background-color: #4527a4;
+	color: #fff;
+	padding: 4px 10px;
+	border-radius: 3px;
+}
+
+.bsbFrontShortcode .tooltip {
+	visibility: hidden;
+	width: 140px;
+	background-color: #555;
+	color: #fff;
+	text-align: center;
+	border-radius: 6px;
+	padding: 5px;
+	position: absolute;
+	z-index: 1;
+	bottom: 150%;
+	left: 50%;
+	margin-left: -75px;
+	opacity: 0;
+	transition: opacity 0.3s;
+}
+
+.bsbFrontShortcode .tooltip::after {
+	content: "";
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	margin-left: -5px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #555 transparent transparent transparent;
+}
+
+.bsbFrontShortcode:hover .tooltip {
+	visibility: visible;
+	opacity: 1;
+}

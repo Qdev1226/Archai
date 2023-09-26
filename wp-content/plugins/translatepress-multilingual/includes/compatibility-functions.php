@@ -1963,3 +1963,30 @@ function trp_rank_math_get_translated_items( $post_id ) {
 
     return $translated_items;
 }
+
+/**
+ *The manually translated slug being overwritten by automatic translation was caused by a conflict with the events calendar. In the function
+ * include_slug_for_machine_translation(add-ons-advanced/seo-pack/includes/class-slug-manager.php, line 431), line 499 we have the line
+ * $translated_base_slug = $this->get_translated_rewrite_base_slug( $post_type_string, $language_code, false );.Because the events calendar
+ * adds a slug called ‘tribe_events’ this was registered as $post_type_string, and this slug does not exist amongst the existing post-type base
+ * slugs saved in DB, so it was returning false and the slug was added to the translatable_information array so it was sent to automatic translation.
+ * The client translated the slug for Portuguese in English so in line 502, $original_base_slug = $this->get_rewrite_base_slug( $post_type_object,
+ * $post_type_string );, the translated slug was returned and passed through automatic translation which returned the slug in portugese and
+ * overwrriten the human translated slug by the client.
+ *
+ * As a solution, if the events calendar is active, we use a filter of post type base slugs that should not be passed through automatic translation.
+ */
+if (class_exists("Tribe__Events__Adjacent_Events")) {
+    add_filter('trp_filter_post_type_base_slugs_from_automatic_translation', 'trp_stop_automatic_translation_for_certain_post_type_base_slugs', 10, 2);
+}
+
+function trp_stop_automatic_translation_for_certain_post_type_base_slugs( $bool, $post_type_base_slug_to_avoid ) {
+
+    $array_of_post_type_base_slugs_that_should_not_be_passed_through_automatic_translation = array("tribe_events");
+
+    if (in_array($post_type_base_slug_to_avoid, $array_of_post_type_base_slugs_that_should_not_be_passed_through_automatic_translation)){
+        $bool = false;
+    }
+    
+    return $bool;
+}

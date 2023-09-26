@@ -140,7 +140,7 @@ function trp_exclude_include_paths_to_run_on(){
     if( !empty( $current_lang ) && $settings['default-language'] != $current_lang )
         return true;
 
-    $paths        = explode("\n", str_replace("\r", "", $advanced_settings['translateable_content']['paths'] ) );
+    $paths        = trp_dntcp_get_paths();
     $current_slug = isset( $_SERVER['REQUEST_URI'] ) ? esc_url_raw( $_SERVER['REQUEST_URI'] ) : '';
 
     $replace = '/';
@@ -195,7 +195,7 @@ function trp_exclude_include_do_not_redirect_on_excluded_pages( $redirect, $lang
 
     $current_slug = str_replace( $replace, '', trailingslashit( $url ) );
 
-    $paths        = explode("\n", str_replace("\r", "", $advanced_settings['translateable_content']['paths'] ) );
+    $paths        = trp_dntcp_get_paths();
 
     // $array_slugs contains each part of $curent_slug split on "/"
     $array_slugs = array();
@@ -265,7 +265,7 @@ function trp_exclude_include_redirect_to_default_language(){
         $absolute_home = trailingslashit( $absolute_home ) . $settings['url-slugs'][$settings['default-language']];
 
     $current_slug = str_replace( $absolute_home, '', untrailingslashit( $current_original_url ) );
-    $paths        = explode("\n", str_replace("\r", "", $advanced_settings['translateable_content']['paths'] ) );
+    $paths        = trp_dntcp_get_paths();
 
     // Remove language from this URL if present
     $current_original_url = str_replace( '/' . $settings['url-slugs'][$settings['default-language']], '', $current_original_url );
@@ -330,7 +330,7 @@ function trp_exclude_include_filter_custom_links( $new_url, $url, $TRP_LANGUAGE,
     $absolute_home        = $url_converter->get_abs_home();
 
     $current_slug = str_replace( $absolute_home, '', untrailingslashit( $current_original_url ) );
-    $paths        = explode("\n", str_replace("\r", "", $advanced_settings['translateable_content']['paths'] ) );
+    $paths        = trp_dntcp_get_paths();
 
     // $array_slugs contains each part of $curent_slug split on "/"
     $array_slugs = array();
@@ -379,7 +379,7 @@ function trp_exclude_include_filter_sitemap_links( $new_output, $output, $settin
     $absolute_home        = $url_converter->get_abs_home();
 
     $current_slug = str_replace( $absolute_home, '', untrailingslashit( $current_original_url ) );
-    $paths        = explode("\n", str_replace("\r", "", $advanced_settings['translateable_content']['paths'] ) );
+    $paths        = trp_dntcp_get_paths();
 
     // $array_slugs contains each part of $curent_slug split on "/"
     $array_slugs = array();
@@ -401,4 +401,33 @@ function trp_exclude_include_filter_sitemap_links( $new_output, $output, $settin
 
     return $new_output;
 
+}
+
+/**
+ * Get excluded/included paths. Transforms all urls from absolute to relative paths
+ * Takes into account if there are links with default language subdirectory, otherwise redirect loop happens
+ *
+ * @return string[]
+ */
+function trp_dntcp_get_paths() {
+    $settings          = get_option( 'trp_settings', false );
+    $advanced_settings = get_option( 'trp_advanced_settings', false );
+    $paths             = explode( "\n", str_replace( "\r", "", $advanced_settings['translateable_content']['paths'] ) );
+
+    $home_url_no_subdir = home_url();
+    $home_urls          = array();
+
+    if ( isset( $settings['add-subdirectory-to-default-language'] ) && $settings['add-subdirectory-to-default-language'] == 'yes' )
+        //order of home_urls[] items is important
+        $home_urls[] = preg_quote( trailingslashit( $home_url_no_subdir ) . $settings['url-slugs'][ $settings['default-language'] ], '/' );
+    $home_urls[] = preg_quote( $home_url_no_subdir, '/' );
+
+    // remove absolute home from them if exists
+    foreach ( $paths as &$path ) {
+        foreach ( $home_urls as $home_url ) {
+            $path = preg_replace( '/^' . $home_url . '/is', '', $path );
+        }
+    }
+
+    return $paths;
 }

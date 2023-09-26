@@ -244,7 +244,7 @@ class TRP_Upgrade {
                     'version'           => '0', // independent of tp version, available only on demand
                     'option_name'       => 'trp_replace_original_id_null',
                     'callback'          => array( $this,'trp_replace_original_id_null'),
-                    'batch_size'        => 100,
+                    'batch_size'        => 50,
                     'message_initial'   => '',
                     'message_processing'=> __('Replacing original id NULL with value for language %s...', 'translatepress-multilingual' )
                 ),

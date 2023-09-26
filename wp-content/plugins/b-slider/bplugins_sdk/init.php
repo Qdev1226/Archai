@@ -40,7 +40,7 @@
             
             $this->prefix = $this->config->prefix ?? '';
 
-            if($this->config->features->license){
+            if($this->config->features->license && class_exists('BSDKLicense')){
                 $this->lc = new BSDKLicense($this->config, $__FILE__);
             }
             if(\is_admin()){
@@ -99,11 +99,15 @@
         }
 
         public function can_use_premium_feature(){
+            return $this->lc->isPipe ?? false;
+        }
+
+        public function habijabi(){
             return $this->lc->isPipe;
         }
 
-        public function uninstall_plugin( $__FILE__ ){
-            deactivate_plugins( plugin_basename( $__FILE__ ) );
+        public function uninstall_plugin(  ){
+            deactivate_plugins( plugin_basename( $this->__FILE__ ) );
         }
     }
  }

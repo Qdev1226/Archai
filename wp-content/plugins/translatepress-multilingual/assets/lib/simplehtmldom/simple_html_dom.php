@@ -39,6 +39,9 @@ namespace TranslatePress;
  * In function makeup() the default $quote was changed from '' to double quotes, ' " ', because it was causing a JS security issue when onclick()
  * function was used as translation for a link where title was set without double quotes.
  *
+ * In function load(), added edge case where it considered this group of symbols <!---> as an opening comment but not a closed one.
+ * Browsers seem to be forgiving about this. For more details: issue #85zrvd20k
+ *
  */
 
 define('TRP_HDOM_TYPE_ELEMENT', 1);
@@ -1547,6 +1550,15 @@ class simple_html_dom
 			// set the length of content since we have changed it.
 			$this->size = strlen($this->doc);
 		}
+
+        /*
+         * TranslatePress modifications
+         * Added edge case where it considered this group of symbols <!---> as an opening comment but not a closed one.
+         * Browsers seem to be forgiving about this. For more details: issue #85zrvd20k
+         */
+        $this->doc = str_replace("<!--->", '<!---->', $this->doc);
+        // set the length of content since we have changed it.
+        $this->size = strlen($this->doc);
 
 		// strip out cdata
 		$this->remove_noise("'<!\[CDATA\[(.*?)\]\]>'is", true);

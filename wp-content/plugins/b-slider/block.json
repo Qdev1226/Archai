@@ -46,6 +46,12 @@
 				}
 			]
 		},
+		"title": {
+			"type": "object",
+			"default": {
+				"tag": "h5"
+			}
+		},
 		"titleAnimation": {
 			"type": "object",
 			"default": {

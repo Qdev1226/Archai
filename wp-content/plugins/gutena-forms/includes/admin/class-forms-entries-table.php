@@ -124,7 +124,7 @@
 									if ( 0 === $index) {
 										$table_data['primary_column'] = $name_attr;
 									}
-									$table_data['table_columns'][$name_attr] = $form_entry['label'];
+									$table_data['table_columns'][$name_attr] = empty( $form_entry['label'] ) ? $form_entry['label'] : substr( $form_entry['label'], 0, 15 );
 									$index++;
 								}
 							}

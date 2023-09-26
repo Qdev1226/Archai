@@ -21,7 +21,7 @@ class Activate extends BSDK{
         $this->marketing_allowed = get_option("$this->prefix-marketing-allowed", false);
         add_filter("plugin_action_links_$this->base_name", [$this, 'opt_in_button'] );
         add_action("wp_ajax_$this->prefix-opt-in-update", [$this, 'opt_in_update']);
-        add_action('admin_init', [$this, 'admin_init']);
+        add_action('admin_head', [$this, 'admin_head']);
         add_action('admin_enqueue_scripts', [$this, 'enqueue_assets']);
 
         if(!$this->status){
@@ -46,11 +46,14 @@ class Activate extends BSDK{
         <?php
     }
 
-    function admin_init(){
+    public function admin_head(){
         $redirect = get_option("$this->prefix-redirect", false);
-        if(!$redirect && !str_contains($_SERVER['REQUEST_URI'], 'post.php') && !str_contains( $_SERVER['REQUEST_URI'], 'post-new.php' )){
-            wp_redirect("admin.php?page=".dirname($this->base_name));
-            update_option("$this->prefix-redirect", true);
+        if (!$redirect && !strpos($_SERVER['REQUEST_URI'], 'post.php') && !strpos($_SERVER['REQUEST_URI'], 'post-new.php')) {
+            update_option("$this->prefix-redirect", true); ?>
+            <script>
+                window.location.href = '<?php echo "admin.php?page=" . dirname($this->base_name) ?>'
+            </script>
+            <?php
         }
     }
 

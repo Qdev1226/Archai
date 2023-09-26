@@ -318,6 +318,7 @@ class TRP_Plugin_Optin {
                 'license'               => get_option('trp_license_key'),
                 'default_language'      => !empty( $trp_settings['default-language'] ) ? $trp_settings['default-language'] : '',
                 'translation_languages' => !empty( $trp_settings['translation-languages'] ) ? implode( ',', $trp_settings['translation-languages'] ) : '',
+                'active_plugins'        => json_encode( get_option( 'active_plugins', array() ) ),
             ),
         );
 

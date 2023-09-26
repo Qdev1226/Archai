@@ -3,9 +3,9 @@ Contributors: cozmoslabs, razvan.mo, madalin.ungureanu, sareiodata, cristophor
 Donate link: https://www.translatepress.com/
 Tags: translate, translation, multilingual, automatic translation, bilingual, front-end translation, google translate, language
 Requires at least: 3.1.0
-Tested up to: 6.3
+Tested up to: 6.3.1
 Requires PHP: 5.6.20
-Stable tag: 2.6.0
+Stable tag: 2.6.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -140,6 +140,17 @@ For more information please check out our [documentation](https://translatepress
 
 
 == Changelog ==
+= 2.6.2 =
+* Fixed absolute paths not working in the Exclude Paths From Translation option
+* Fixed Pencil icon displayed in wrong positions on WP Forms in the Translation Editor
+* Added missing Sindhi language flag
+* When Marketing opt-in feature is enabled, list of active plugins is now included in the non-sensitive diagnostic tracking data
+* Updated logos for Profile Builder and Paid Member Subscriptions in the recommended plugins section
+
+= 2.6.1 =
+* Improved DOM parser to better handle HTML comments
+* Improved Database optimization tool's default operations
+
 = 2.6.0 =
 * Fixed some cases of 404 on translated pages for WooCommerce permalinks
 * Improved compatibility with RankMath
